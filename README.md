@@ -1,15 +1,18 @@
-# 설문조사 양식 페이지
+# HDHR 워크숍 — 설문조사 양식 페이지
 
 항목(질문)과 답변(보기)을 자유롭게 추가해 설문지를 만들고, 바로 응답까지 해볼 수 있는
 단일 페이지 웹 앱입니다. 빌드 도구나 서버 없이 정적 파일만으로 동작합니다.
 
 ## 실행 방법
 
-`index.html` 을 브라우저로 열면 끝입니다. 로컬 서버로 띄우려면:
+**공개 주소**: https://chaejwan.github.io/HDHR_CJW/survey/
+
+로컬에서 보려면 `survey/index.html` 을 브라우저로 열면 끝입니다. 로컬 서버로 띄우려면:
 
 ```bash
 npx http-server -p 8080 .
-# http://localhost:8080
+# 목록 페이지: http://localhost:8080
+# 설문 페이지: http://localhost:8080/survey/
 ```
 
 ## 기능
@@ -37,10 +40,21 @@ npx http-server -p 8080 .
 ## 파일 구성
 
 ```
-index.html        마크업과 항목/답변 <template>
-assets/styles.css 스타일
-assets/app.js     상태 관리, 편집기·미리보기 렌더링, 응답 검증
+index.html               실습물 목록 페이지 (사이트 첫 화면)
+assets/home.css          목록 페이지 스타일
+
+survey/index.html        설문 양식 마크업과 항목/답변 <template>
+survey/assets/styles.css 설문 양식 스타일
+survey/assets/app.js     상태 관리, 편집기·미리보기 렌더링, 응답 검증
 ```
+
+### 실습물 추가하기
+
+GitHub Pages 는 저장소당 사이트 하나(브랜치 하나)만 게시하므로, 실습물은 폴더로 나눕니다.
+
+1. 저장소 루트에 폴더를 만들고 그 안에 `index.html` 을 둡니다. (예: `timesheet/index.html`)
+2. 루트 `index.html` 의 `<a class="card">` 블록을 복사해 링크와 문구를 바꿉니다.
+3. 푸시하면 `https://chaejwan.github.io/HDHR_CJW/폴더이름/` 으로 열립니다.
 
 ## 데이터 구조
 
@@ -70,6 +84,6 @@ assets/app.js     상태 관리, 편집기·미리보기 렌더링, 응답 검�
 
 ## 응답 저장
 
-현재는 응답을 화면에 보여주기만 합니다. 서버에 저장하려면 `assets/app.js` 의
+현재는 응답을 화면에 보여주기만 합니다. 서버에 저장하려면 `survey/assets/app.js` 의
 `el.form.addEventListener('submit', ...)` 안에서 수집된 `answers` 배열을
 백엔드로 전송하도록 확장하면 됩니다.

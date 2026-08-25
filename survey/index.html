@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>설문조사 양식 만들기</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1 class="topbar__brand">설문조사 양식</h1>
+    <nav class="tabs" role="tablist">
+      <button class="tab is-active" role="tab" data-tab="edit" aria-selected="true">편집</button>
+      <button class="tab" role="tab" data-tab="preview" aria-selected="false">미리보기</button>
+    </nav>
+    <div class="topbar__actions">
+      <button class="btn btn--ghost" data-action="export">JSON 복사</button>
+      <button class="btn btn--ghost" data-action="reset">초기화</button>
+    </div>
+  </header>
+
+  <main class="page">
+    <!-- ── 편집 화면 ───────────────────────────────────────────── -->
+    <section id="panel-edit" class="panel">
+      <div class="card card--head">
+        <input
+          id="survey-title"
+          class="input input--title"
+          type="text"
+          placeholder="설문지 제목"
+          aria-label="설문지 제목"
+        />
+        <textarea
+          id="survey-description"
+          class="input input--desc"
+          rows="2"
+          placeholder="설문에 대한 설명을 입력하세요"
+          aria-label="설문지 설명"
+        ></textarea>
+      </div>
+
+      <div id="question-list" class="question-list"></div>
+
+      <button class="btn btn--add" data-action="add-question">＋ 항목 추가</button>
+    </section>
+
+    <!-- ── 미리보기 / 응답 화면 ─────────────────────────────────── -->
+    <section id="panel-preview" class="panel is-hidden">
+      <form id="survey-form" class="card" novalidate>
+        <h2 id="preview-title" class="preview__title">설문지 제목</h2>
+        <p id="preview-description" class="preview__desc"></p>
+        <div id="preview-questions"></div>
+        <button class="btn btn--primary" type="submit">제출하기</button>
+      </form>
+
+      <div id="answer-sheet" class="card is-hidden">
+        <h2 class="preview__title">응답 결과</h2>
+        <dl id="answer-list" class="answer-list"></dl>
+        <button class="btn btn--ghost" data-action="answer-again">다시 응답하기</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- 항목 편집기 템플릿 -->
+  <template id="tpl-question">
+    <article class="card question" data-question-id="">
+      <div class="question__row">
+        <input
+          class="input input--label"
+          type="text"
+          data-field="label"
+          placeholder="질문을 입력하세요"
+          aria-label="질문"
+        />
+        <select class="input input--type" data-field="type" aria-label="답변 유형">
+          <option value="short">단답형</option>
+          <option value="long">장문형</option>
+          <option value="radio">객관식 (하나 선택)</option>
+          <option value="checkbox">체크박스 (복수 선택)</option>
+          <option value="select">드롭다운</option>
+        </select>
+      </div>
+
+      <div class="option-list" data-role="options"></div>
+      <button class="btn btn--link" data-action="add-option" type="button">＋ 답변 추가</button>
+
+      <footer class="question__foot">
+        <label class="switch">
+          <input type="checkbox" data-field="required" />
+          <span>필수 응답</span>
+        </label>
+        <div class="question__tools">
+          <button class="btn btn--icon" data-action="move-up" type="button" title="위로" aria-label="위로 이동">↑</button>
+          <button class="btn btn--icon" data-action="move-down" type="button" title="아래로" aria-label="아래로 이동">↓</button>
+          <button class="btn btn--icon" data-action="duplicate" type="button" title="복제" aria-label="항목 복제">⧉</button>
+          <button class="btn btn--icon btn--danger" data-action="remove-question" type="button" title="삭제" aria-label="항목 삭제">🗑</button>
+        </div>
+      </footer>
+    </article>
+  </template>
+
+  <!-- 답변(보기) 한 줄 템플릿 -->
+  <template id="tpl-option">
+    <div class="option" data-option-id="">
+      <span class="option__marker" data-role="marker"></span>
+      <input class="input input--option" type="text" data-field="text" placeholder="답변 항목" aria-label="답변 항목" />
+      <button class="btn btn--icon" data-action="remove-option" type="button" title="답변 삭제" aria-label="답변 삭제">✕</button>
+    </div>
+  </template>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
