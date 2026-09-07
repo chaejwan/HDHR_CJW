@@ -422,17 +422,71 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18830",
      "date": "2029.12.31 00:00",
      "first_seen": "2026-09-07T10:39:05+00:00"
+    },
+    "024b03398c8a2bda": {
+     "title": "한화시스템 레이다연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
+     "date": "2026.09.27 23:59",
+     "first_seen": "2026-09-07T22:59:55+00:00"
+    },
+    "58eaebd1c24bc806": {
+     "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
+     "date": "2026.09.27 23:59",
+     "first_seen": "2026-09-07T22:59:55+00:00"
+    },
+    "e0675eba231b9989": {
+     "title": "한화시스템 지상연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
+     "date": "2026.09.27 23:59",
+     "first_seen": "2026-09-07T22:59:55+00:00"
+    },
+    "08ecd8c6f2ac160d": {
+     "title": "한화시스템 통신연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
+     "date": "2026.09.27 23:59",
+     "first_seen": "2026-09-07T22:59:55+00:00"
     }
    },
-   "last_check": "2026-09-07T11:26:23+00:00",
-   "last_success": "2026-09-07T10:51:21+00:00",
-   "last_status": "error",
-   "last_error": "접속 실패: timed out",
+   "last_check": "2026-09-07T22:59:55+00:00",
+   "last_success": "2026-09-07T22:59:55+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 70,
-   "fingerprint": "027cd07750916ffa",
+   "item_count": 73,
+   "fingerprint": "483bae24017d56cb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-07T22:59:55+00:00",
+     "status": "new",
+     "new_count": 4,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 레이다연구소 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
+       "date": "2026.09.27 23:59"
+      },
+      {
+       "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
+       "date": "2026.09.27 23:59"
+      },
+      {
+       "title": "한화시스템 지상연구소 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
+       "date": "2026.09.27 23:59"
+      },
+      {
+       "title": "한화시스템 통신연구소 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
+       "date": "2026.09.27 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-07T11:26:23+00:00",
      "status": "error",
@@ -646,15 +700,24 @@
      "first_seen": "2026-09-07T11:26:43+00:00"
     }
    },
-   "last_check": "2026-09-07T11:26:43+00:00",
-   "last_success": "2026-09-07T11:26:43+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-07T22:59:56+00:00",
+   "last_success": "2026-09-07T22:59:56+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "embedded-json",
    "item_count": 30,
-   "fingerprint": "c7c7ab9e0b94d29b",
+   "fingerprint": "a1d5eb612db5b078",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-07T22:59:56+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-07T11:26:43+00:00",
      "status": "baseline",
@@ -665,7 +728,7 @@
      "new": []
     }
    ],
-   "last_note": "첫 확인이라 현재 30건을 기준으로 저장했습니다(알림 없음)."
+   "last_note": ""
   },
   "sk-sk-careers": {
    "seen": {
@@ -802,15 +865,24 @@
      "first_seen": "2026-09-07T11:26:48+00:00"
     }
    },
-   "last_check": "2026-09-07T11:26:48+00:00",
-   "last_success": "2026-09-07T11:26:48+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-07T23:00:02+00:00",
+   "last_success": "2026-09-07T23:00:02+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 22,
    "fingerprint": "0fd616ed01a4c16f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-07T23:00:02+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-07T11:26:48+00:00",
      "status": "baseline",
@@ -821,7 +893,7 @@
      "new": []
     }
    ],
-   "last_note": "첫 확인이라 현재 22건을 기준으로 저장했습니다(알림 없음)."
+   "last_note": ""
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -1222,15 +1294,24 @@
      "first_seen": "2026-09-07T11:26:49+00:00"
     }
    },
-   "last_check": "2026-09-07T11:26:49+00:00",
-   "last_success": "2026-09-07T11:26:49+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-07T23:00:03+00:00",
+   "last_success": "2026-09-07T23:00:03+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 66,
    "fingerprint": "1170bc2d1037e237",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-07T23:00:03+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-07T11:26:49+00:00",
      "status": "baseline",
@@ -1241,7 +1322,7 @@
      "new": []
     }
    ],
-   "last_note": "첫 확인이라 현재 66건을 기준으로 저장했습니다(알림 없음)."
+   "last_note": ""
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -1558,15 +1639,24 @@
      "first_seen": "2026-09-07T11:26:50+00:00"
     }
    },
-   "last_check": "2026-09-07T11:26:50+00:00",
-   "last_success": "2026-09-07T11:26:50+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-07T23:00:04+00:00",
+   "last_success": "2026-09-07T23:00:04+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 52,
    "fingerprint": "11c749466b096085",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-07T23:00:04+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-07T11:26:50+00:00",
      "status": "baseline",
@@ -1577,7 +1667,7 @@
      "new": []
     }
    ],
-   "last_note": "첫 확인이라 현재 52건을 기준으로 저장했습니다(알림 없음)."
+   "last_note": ""
   }
  }
 }

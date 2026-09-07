@@ -1,33 +1,54 @@
 {
- "at": "2026-09-07T11:26:51+00:00",
+ "at": "2026-09-07T23:00:05+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
   "skipped": ""
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34116616181",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34168527443",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화 채용 (hanwhain)",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 73,
+   "method": "json",
    "note": "",
-   "error": "접속 실패: timed out",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "한화시스템 레이다연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
+     "date": "2026.09.27 23:59"
+    },
+    {
+     "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
+     "date": "2026.09.27 23:59"
+    },
+    {
+     "title": "한화시스템 지상연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
+     "date": "2026.09.27 23:59"
+    },
+    {
+     "title": "한화시스템 통신연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
+     "date": "2026.09.27 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션 채용",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "baseline",
+   "status": "ok",
    "item_count": 30,
    "method": "embedded-json",
-   "note": "첫 확인이라 현재 30건을 기준으로 저장했습니다(알림 없음).",
+   "note": "",
    "error": "",
    "new_items": []
   },
@@ -35,10 +56,10 @@
    "site_id": "sk-sk-careers",
    "site_name": "SK 채용 (SK Careers)",
    "site_url": "https://www.skcareers.com/Recruit",
-   "status": "baseline",
+   "status": "ok",
    "item_count": 22,
    "method": "links",
-   "note": "첫 확인이라 현재 22건을 기준으로 저장했습니다(알림 없음).",
+   "note": "",
    "error": "",
    "new_items": []
   },
@@ -46,10 +67,10 @@
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차 채용",
    "site_url": "https://talent.hyundai.com/apply/applyList.hc?nfGubnC=ac85892205b92e8cecdc87185a3fbf039f04b2a7751ccf0e8a1f547d53b9945a&tagArray=&sortDataTagArray=&areaDataTagArray=&fieldDataTagArray=&occupDataTagArray=&intnsvYn=",
-   "status": "baseline",
+   "status": "ok",
    "item_count": 66,
    "method": "links",
-   "note": "첫 확인이라 현재 66건을 기준으로 저장했습니다(알림 없음).",
+   "note": "",
    "error": "",
    "new_items": []
   },
@@ -57,10 +78,10 @@
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성 채용",
    "site_url": "https://www.samsungcareers.com/hr/",
-   "status": "baseline",
+   "status": "ok",
    "item_count": 52,
    "method": "links",
-   "note": "첫 확인이라 현재 52건을 기준으로 저장했습니다(알림 없음).",
+   "note": "",
    "error": "",
    "new_items": []
   }
