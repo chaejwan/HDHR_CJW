@@ -424,15 +424,24 @@
      "first_seen": "2026-09-07T10:39:05+00:00"
     }
    },
-   "last_check": "2026-09-07T10:51:21+00:00",
+   "last_check": "2026-09-07T11:26:23+00:00",
    "last_success": "2026-09-07T10:51:21+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "접속 실패: timed out",
    "last_method": "json",
    "item_count": 70,
    "fingerprint": "027cd07750916ffa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-07T11:26:23+00:00",
+     "status": "error",
+     "new_count": 0,
+     "item_count": 0,
+     "error": "접속 실패: timed out",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-07T10:51:21+00:00",
      "status": "ok",
@@ -453,6 +462,1122 @@
     }
    ],
    "last_note": ""
+  },
+  "recruit-hanwhaocean-com-ko-intro-5089e10": {
+   "seen": {
+    "f9cfd25258160860": {
+     "title": "회사 소개",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "ee940464a612ffea": {
+     "title": "About Ocean",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "c327434033c5fd19": {
+     "title": "사업부 별 직무스토리",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "9dce3ad0128d71eb": {
+     "title": "Ep1. 설계편",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "ef3d3fdbf86884fb": {
+     "title": "Ep2. 사업관리편",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "927b377b8d6f6e52": {
+     "title": "Ep3. 생산관리편",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "8b32d0d6be78db76": {
+     "title": "복리후생",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "f9ef7f561c84c673": {
+     "title": "인재상",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "9486d23bffddb3c7": {
+     "title": "FAQ",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "d497e2077e56e89c": {
+     "title": "채용 프로세스",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "5de8c5a69722d85e": {
+     "title": "Ocean now",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "52a1883f7c6116ff": {
+     "title": "오션 인(人)터뷰",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "0c104aa2a1f6f47e": {
+     "title": "detail interview-김상규",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "7ea357c3971344df": {
+     "title": "detail interview-이동민",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "bf0a2dfc467232b0": {
+     "title": "detail interview-이유승",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "bc05e5a7417028ea": {
+     "title": "detail interview-정다원",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "6d15ca8c24aa4e63": {
+     "title": "detail interview-권민성",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "e987425fcf429a80": {
+     "title": "detail interview-최재호",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "10e37d4c8e5edef6": {
+     "title": "detail interview-최진혁",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "794e479f26124b46": {
+     "title": "detail interview-김보이",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "b48c48499f8ea36f": {
+     "title": "detail interview-신석주",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "19fbe1a2e5e25fa5": {
+     "title": "detail interview-정준호",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "c8b16e3217c6efc4": {
+     "title": "detail interview-김단아",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "cbdeb8ac13c09eaa": {
+     "title": "detail interview-최기훈",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "8ab7408d6b4059fd": {
+     "title": "detail interview-전혁",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "5efd77c5766bd97f": {
+     "title": "detail interview-구홍진",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "f6c6e088d6785db2": {
+     "title": "회사 소개_상단배너추가",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "184b66d0d9cad503": {
+     "title": "2026 하반기 신입 채용",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "d29c109e0215212b": {
+     "title": "2026 하반기 신입 채용 (히어로 백업)",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "600b288c5f5c1a33": {
+     "title": "2026 하반기 신입 채용 (히어로 영상 백업)",
+     "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:43+00:00"
+    }
+   },
+   "last_check": "2026-09-07T11:26:43+00:00",
+   "last_success": "2026-09-07T11:26:43+00:00",
+   "last_status": "baseline",
+   "last_error": "",
+   "last_method": "embedded-json",
+   "item_count": 30,
+   "fingerprint": "c7c7ab9e0b94d29b",
+   "baseline_done": true,
+   "history": [
+    {
+     "at": "2026-09-07T11:26:43+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "첫 확인이라 현재 30건을 기준으로 저장했습니다(알림 없음).",
+     "new": []
+    }
+   ],
+   "last_note": "첫 확인이라 현재 30건을 기준으로 저장했습니다(알림 없음)."
+  },
+  "sk-sk-careers": {
+   "seen": {
+    "83c95b1494c59a4c": {
+     "title": "SK Careers",
+     "url": "https://www.skcareers.com/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "27e86fa747c9f3df": {
+     "title": "Jobs",
+     "url": "https://www.skcareers.com/Recruit",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "c79aa3315f5553cd": {
+     "title": "Advanced Materials 첨단 소재",
+     "url": "https://www.skcareers.com/AreasWork/AdvancedMaterials",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "43218cd1bc8cb12e": {
+     "title": "Green 그린",
+     "url": "https://www.skcareers.com/AreasWork/Green",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "d04c48ca8686f0e9": {
+     "title": "Digital 디지털",
+     "url": "https://www.skcareers.com/AreasWork/Digital",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "ab4b09559b84e3bd": {
+     "title": "Bio 바이오",
+     "url": "https://www.skcareers.com/AreasWork/Bio",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "3e2baf60a551876d": {
+     "title": "Culture",
+     "url": "https://www.skcareers.com/Culture",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "4d2278a1e1fd21c4": {
+     "title": "Log In",
+     "url": "https://www.skcareers.com/User/Login",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "9fe0d90859330843": {
+     "title": "인재 DB에 등록",
+     "url": "https://www.skcareers.com/User/Login",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "e77fa049246f421f": {
+     "title": "SK역사",
+     "url": "https://www.sk.co.kr/ko/about/history.jsp",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "b7bfadbfe84050b7": {
+     "title": "경영철학",
+     "url": "https://www.sk.co.kr/ko/about/skms.jsp",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "7c62f762edeea394": {
+     "title": "인재상",
+     "url": "https://www.skcareers.com/Hero",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "a312c54cad541562": {
+     "title": "공지사항",
+     "url": "https://www.skcareers.com/Notice",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "2bdd8d33a0b77667": {
+     "title": "자주하는 질문",
+     "url": "https://www.skcareers.com/FAQ",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "70d0463f9f2fd9d2": {
+     "title": "1:1 문의",
+     "url": "https://www.skcareers.com/QnA",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "b844ac7d0bbaf59a": {
+     "title": "SK Careers Youtube",
+     "url": "https://www.youtube.com/@SKCareersYoutube",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "dbf3ccf5aa5e9c84": {
+     "title": "SK Careers Blog",
+     "url": "https://www.skcareersjournal.com/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "6c0a143a702f85c8": {
+     "title": "SK Careers Facebook",
+     "url": "https://www.facebook.com/SKStoryGround",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "b249d52865cb7982": {
+     "title": "SK그룹 Youtube",
+     "url": "https://www.youtube.com/@SKstory",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "ddd227c80f41c32c": {
+     "title": "SK그룹 Facebook",
+     "url": "https://www.facebook.com/mediask",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "cbec54ee48155693": {
+     "title": "이용약관",
+     "url": "https://www.skcareers.com/Terms",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "e25b153968c65cda": {
+     "title": "개인정보 처리방침",
+     "url": "https://www.skcareers.com/Privacy",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:48+00:00"
+    }
+   },
+   "last_check": "2026-09-07T11:26:48+00:00",
+   "last_success": "2026-09-07T11:26:48+00:00",
+   "last_status": "baseline",
+   "last_error": "",
+   "last_method": "links",
+   "item_count": 22,
+   "fingerprint": "0fd616ed01a4c16f",
+   "baseline_done": true,
+   "history": [
+    {
+     "at": "2026-09-07T11:26:48+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "첫 확인이라 현재 22건을 기준으로 저장했습니다(알림 없음).",
+     "new": []
+    }
+   ],
+   "last_note": "첫 확인이라 현재 22건을 기준으로 저장했습니다(알림 없음)."
+  },
+  "talent-hyundai-com-apply-applylist-hc-nf": {
+   "seen": {
+    "5afb71e39215248d": {
+     "title": "HYUNDAI",
+     "url": "https://talent.hyundai.com/main/main.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "010f2f84d4152830": {
+     "title": "9월 신입 채용",
+     "url": "https://talent-hyundai-now.com/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "698bba2d657fa962": {
+     "title": "Tech Forum",
+     "url": "https://www.hyundaimotorgroup-talent.com/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "927fdbc817196472": {
+     "title": "Jobs",
+     "url": "https://talent.hyundai.com/apply/applyList.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "0a3d38abdb51c01c": {
+     "title": "공정 채용 안내",
+     "url": "https://talent.hyundai.com/fairness/fairness.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "9a5cd374a3ae0bef": {
+     "title": "모집공고",
+     "url": "https://talent.hyundai.com/apply/applyList.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "90efc68dd6c2d7b7": {
+     "title": "채용 프로세스",
+     "url": "https://talent.hyundai.com/apply/applyProcess.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "8dee4397607b8823": {
+     "title": "Team Hyundai",
+     "url": "https://talent.hyundai.com/team/list.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "00b08b8360eb0900": {
+     "title": "직무소개",
+     "url": "https://talent.hyundai.com/team/introduction.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "edd24762ecea475c": {
+     "title": "직무 인터뷰",
+     "url": "https://talent.hyundai.com/team/list.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "a4e5ee62c795124d": {
+     "title": "Culture",
+     "url": "https://talent.hyundai.com/culture/way.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "e412bdec93c9f69a": {
+     "title": "Hyundai Way",
+     "url": "https://talent.hyundai.com/culture/way.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "b65a5868e6a24d95": {
+     "title": "Benefit",
+     "url": "https://talent.hyundai.com/culture/benefit.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "0c8d53303537e552": {
+     "title": "Article",
+     "url": "https://talent.hyundai.com/culture/article.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "bf5c222e7e7ebd41": {
+     "title": "Location",
+     "url": "https://talent.hyundai.com/location/global.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "58fd342902ff09d5": {
+     "title": "국내",
+     "url": "https://talent.hyundai.com/location/domestic.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "cf863f76df9a028c": {
+     "title": "국외",
+     "url": "https://talent.hyundai.com/location/global.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "066e1dcf5137d912": {
+     "title": "FAQs",
+     "url": "https://talent.hyundai.com/notic/noticList.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "0d3ec579982416e7": {
+     "title": "FAQ",
+     "url": "https://talent.hyundai.com/faq/faqList.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "a01bc9df470b9fba": {
+     "title": "공지사항",
+     "url": "https://talent.hyundai.com/notic/noticList.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "c4c01fa4bc23935f": {
+     "title": "Event",
+     "url": "https://talent.hyundai.com/event/list.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "e64ce2188d9679df": {
+     "title": "America",
+     "url": "https://talent.hyundai.com/location/global.hc?continent=ncsa",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "c84f7fd67587216c": {
+     "title": "Europe",
+     "url": "https://talent.hyundai.com/location/global.hc?continent=europe",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "5e9bc8fb4aa4f36e": {
+     "title": "Asia & Pacific",
+     "url": "https://talent.hyundai.com/location/global.hc?continent=asia",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "12d0472187b2e397": {
+     "title": "Middle East & Africa",
+     "url": "https://talent.hyundai.com/location/global.hc?continent=mea",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "547500d18934daa5": {
+     "title": "개인정보 처리방침",
+     "url": "https://talent.hyundai.com/supprt/privacy.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "fd4b7e8d596233b2": {
+     "title": "이용약관",
+     "url": "https://talent.hyundai.com/supprt/terms.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "de593e10ffde6141": {
+     "title": "윤리경영 사이버감사실",
+     "url": "https://audit.hyundai.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "3704d01cba750230": {
+     "title": "웹접근성",
+     "url": "https://talent.hyundai.com/supprt/webAccss.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "3de80fea14e71e9c": {
+     "title": "가족친화인증",
+     "url": "https://talent.hyundai.com/supprt/family.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "68858d0c511d6f96": {
+     "title": "사이트맵",
+     "url": "https://talent.hyundai.com/supprt/siteMap.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "e99828fbad08d273": {
+     "title": "PRIVACY POLICY",
+     "url": "https://talent.hyundai.com/eng/supprt/privacy.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "b1967223bfdda30e": {
+     "title": "TERMS OF USE",
+     "url": "https://talent.hyundai.com/eng/supprt/terms.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "f95b3851c75ed6a4": {
+     "title": "ETHICS MANAGEMENT CYBER OFFICE",
+     "url": "https://audit.hyundai.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "85ff2f2f1cc2de35": {
+     "title": "SITE MAP",
+     "url": "https://talent.hyundai.com/eng/supprt/siteMap.hc",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "5c11eb2f90862294": {
+     "title": "현대자동차",
+     "url": "http://www.hyundai.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "6a8434d44474f839": {
+     "title": "기아",
+     "url": "http://www.kia.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "b5f5a2e5844f709e": {
+     "title": "현대제철",
+     "url": "http://www.hyundai-steel.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "5cf0b38fa1fb549e": {
+     "title": "현대비엔지스틸",
+     "url": "http://www.hyundai-bngsteel.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "372b932f26deeab0": {
+     "title": "현대종합특수강",
+     "url": "http://www.hyundai-specialsteel.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "9514353f4f28a120": {
+     "title": "현대건설",
+     "url": "http://www.hdec.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "922b4b57dd2c6cc9": {
+     "title": "현대엔지니어링",
+     "url": "http://www.hec.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "6e25355c93fbb0b2": {
+     "title": "현대스틸산업",
+     "url": "http://www.hesi.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "4bf434fdfeaa536c": {
+     "title": "현대도시개발",
+     "url": "http://www.hdcity.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "608006bda72e77ab": {
+     "title": "현대캐피탈",
+     "url": "http://www.hyundaicapital.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "2673194316e33eed": {
+     "title": "현대카드",
+     "url": "http://www.hyundaicard.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "c0ae0944ab061e0d": {
+     "title": "현대커머셜",
+     "url": "http://www.hyundaicommercial.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "1fbe4d1a13920786": {
+     "title": "현대모비스",
+     "url": "http://www.mobis.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "660b5c688856e396": {
+     "title": "현대위아",
+     "url": "http://www.hyundai-wia.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "51407fde7156116f": {
+     "title": "현대엠시트",
+     "url": "http://www.hyundai-mseat.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "6f5d694d2bb2e577": {
+     "title": "현대케피코",
+     "url": "http://www.hyundai-kefico.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "85c33ff4c84a6fec": {
+     "title": "현대파워텍",
+     "url": "http://www.powertech.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "6f9dd285a793c6d6": {
+     "title": "현대트랜시스",
+     "url": "http://www.hyundai-dymos.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "fdc33f526d194c9c": {
+     "title": "현대아이에이치엘",
+     "url": "http://www.ihl.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "1f26bd3abc87f3ca": {
+     "title": "현대글로비스",
+     "url": "http://www.glovis.net",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "22533ef3ff1d8052": {
+     "title": "현대오토에버",
+     "url": "http://www.hyundai-autoever.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "82c883ed80522697": {
+     "title": "현대로템",
+     "url": "http://www.hyundai-rotem.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "fc134d57e50de368": {
+     "title": "현대엔지비",
+     "url": "http://www.hyundai-ngv.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "da69b2860ddf1b6a": {
+     "title": "이노션",
+     "url": "http://www.innocean.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "e04016f74faa245c": {
+     "title": "해비치호텔&리조트",
+     "url": "http://www.haevichi.com",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "25517b56d5cc7683": {
+     "title": "현대서산농장",
+     "url": "http://www.hdfnd.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "8d0f497c9a26e0cb": {
+     "title": "FACEBOOK",
+     "url": "https://www.facebook.com/AboutHyundai",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "e9a408a560a7b63f": {
+     "title": "YOUTUBE",
+     "url": "https://www.youtube.com/user/AboutHyundai",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "c866228a3a89527f": {
+     "title": "LINKEDIN",
+     "url": "https://www.linkedin.com/company/hyundai-motor-company/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "9a08825ded11bbf4": {
+     "title": "X",
+     "url": "https://twitter.com/about_hyundai",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "a1afe55a757be1f9": {
+     "title": "INSTAGRAM",
+     "url": "https://www.instagram.com/about_hyundai/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:49+00:00"
+    }
+   },
+   "last_check": "2026-09-07T11:26:49+00:00",
+   "last_success": "2026-09-07T11:26:49+00:00",
+   "last_status": "baseline",
+   "last_error": "",
+   "last_method": "links",
+   "item_count": 66,
+   "fingerprint": "1170bc2d1037e237",
+   "baseline_done": true,
+   "history": [
+    {
+     "at": "2026-09-07T11:26:49+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "첫 확인이라 현재 66건을 기준으로 저장했습니다(알림 없음).",
+     "new": []
+    }
+   ],
+   "last_note": "첫 확인이라 현재 66건을 기준으로 저장했습니다(알림 없음)."
+  },
+  "samsungcareers-com-hr": {
+   "seen": {
+    "0c9ca3eb9a4345d6": {
+     "title": "업데이트 하러 가기",
+     "url": "https://www.microsoft.com/ko-kr/edge?form=MA13FJ",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "3adf8bc11de68d1b": {
+     "title": "삼성",
+     "url": "https://www.samsungcareers.com/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "478d72035ec1f47c": {
+     "title": "채용공고",
+     "url": "https://www.samsungcareers.com/hr/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "80b23aff4656ee34": {
+     "title": "관계사 소개",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "4983902e1cfb74bd": {
+     "title": "지원 가이드",
+     "url": "https://www.samsungcareers.com/guide/process",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "820f472ccf9ab783": {
+     "title": "전자",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "d631eed599f83e19": {
+     "title": "삼성전자 DX부문",
+     "url": "https://www.samsungcareers.com/subsid/detail/C10CAA",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "495bef568b29a471": {
+     "title": "삼성전자 DS부문",
+     "url": "https://www.samsungcareers.com/subsid/detail/C10CAH",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "9f60259256b42eb8": {
+     "title": "전자계열",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "e4604074d27a626e": {
+     "title": "삼성디스플레이",
+     "url": "https://www.samsungcareers.com/subsid/detail/C90",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "ffb757c9edfb2667": {
+     "title": "삼성SDI",
+     "url": "https://www.samsungcareers.com/subsid/detail/C31",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "3ce006bf2d8b3668": {
+     "title": "삼성전기",
+     "url": "https://www.samsungcareers.com/subsid/detail/C40",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "45e0edaf33f81760": {
+     "title": "삼성SDS",
+     "url": "https://www.samsungcareers.com/subsid/detail/C60",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "763f63af98dd1f21": {
+     "title": "바이오",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "1957e951167fe44f": {
+     "title": "삼성바이오로직스",
+     "url": "https://www.samsungcareers.com/subsid/detail/DA0",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "c6289fff78e9184b": {
+     "title": "삼성바이오에피스",
+     "url": "https://www.samsungcareers.com/subsid/detail/DB0",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "c15fd982547aed60": {
+     "title": "금융",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "81d3a4a3cd915de7": {
+     "title": "삼성생명",
+     "url": "https://www.samsungcareers.com/subsid/detail/E11",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "c878c064bb6ad3e9": {
+     "title": "삼성화재",
+     "url": "https://www.samsungcareers.com/subsid/detail/E21",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "beb4a41f108a8a43": {
+     "title": "삼성카드",
+     "url": "https://www.samsungcareers.com/subsid/detail/E31",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "1499b28a8d820edb": {
+     "title": "삼성증권",
+     "url": "https://www.samsungcareers.com/subsid/detail/E40",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "1a9efbb5146194a2": {
+     "title": "삼성자산운용",
+     "url": "https://www.samsungcareers.com/subsid/detail/EF0",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "ed2faa9c415655d3": {
+     "title": "건설/중공업",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "16f65768a8789bc4": {
+     "title": "삼성중공업",
+     "url": "https://www.samsungcareers.com/subsid/detail/D60",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "94ead30af03091e7": {
+     "title": "삼성E&A",
+     "url": "https://www.samsungcareers.com/subsid/detail/D80",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "9b50e0bb4f5c304a": {
+     "title": "삼성물산 건설부문",
+     "url": "https://www.samsungcareers.com/subsid/detail/B12",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "42159b09bd36e86f": {
+     "title": "서비스",
+     "url": "https://www.samsungcareers.com/subsid/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "9e3013da7c495d1c": {
+     "title": "삼성물산 상사부문",
+     "url": "https://www.samsungcareers.com/subsid/detail/B11",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "c648e168e113f8db": {
+     "title": "삼성물산 리조트부문",
+     "url": "https://www.samsungcareers.com/subsid/detail/E71",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "84971d3adf33981f": {
+     "title": "삼성물산 패션부문",
+     "url": "https://www.samsungcareers.com/subsid/detail/E7A",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "b2dc17ad2f7805bb": {
+     "title": "호텔신라",
+     "url": "https://www.samsungcareers.com/subsid/detail/E50",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "8ef81919133d80f9": {
+     "title": "제일기획",
+     "url": "https://www.samsungcareers.com/subsid/detail/E60",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "ad9309c3808ccf52": {
+     "title": "에스원",
+     "url": "https://www.samsungcareers.com/subsid/detail/E80",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "d1df92370215c40d": {
+     "title": "삼성서울병원",
+     "url": "https://www.samsungcareers.com/subsid/detail/EA0",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "b4ff56e089416465": {
+     "title": "삼성웰스토리",
+     "url": "https://www.samsungcareers.com/subsid/detail/WCW",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "105212dd275b572c": {
+     "title": "삼성전자판매",
+     "url": "https://www.samsungcareers.com/subsid/detail/WBG",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "415fa5d36c1a6686": {
+     "title": "삼성글로벌리서치",
+     "url": "https://www.samsungcareers.com/subsid/detail/M20",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "e073956ed0119fba": {
+     "title": "채용 프로세스",
+     "url": "https://www.samsungcareers.com/guide/process",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "7960dd83bfe0ec0c": {
+     "title": "채용 공정성안내",
+     "url": "https://www.samsungcareers.com/guide/fairness",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "e1cb59a0074362f3": {
+     "title": "자주 하는 질문",
+     "url": "https://www.samsungcareers.com/guide/faq",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "459835878da3b44a": {
+     "title": "1:1 문의하기",
+     "url": "https://www.samsungcareers.com/guide/ask",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "b3d903aaff27ee32": {
+     "title": "채용서류반환신청",
+     "url": "https://www.samsungcareers.com/guide/return",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "edbc42a16935fad1": {
+     "title": "나의 지원서 바로가기",
+     "url": "https://www.samsungcareers.com/myform/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "5d46b85ba1428f1c": {
+     "title": "공고 목록",
+     "url": "https://www.samsungcareers.com/hr/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "0a673d0a4e6569a1": {
+     "title": "아이디(이메일) 찾기",
+     "url": "https://www.samsungcareers.com/user/id",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "c96225d13998e235": {
+     "title": "비밀번호 찾기",
+     "url": "https://www.samsungcareers.com/user/pwd",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "113c15f25a515683": {
+     "title": "회원가입",
+     "url": "https://www.samsungcareers.com/user/signup",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "c52cac9fd8d18f21": {
+     "title": "url",
+     "url": "https://www.samsungwelstory.com/",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "4e9628b94d6d5c90": {
+     "title": "이용약관",
+     "url": "https://www.samsungcareers.com/policy/tos",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "ff0ad9c53a928a84": {
+     "title": "개인정보처리방침",
+     "url": "https://www.samsungcareers.com/policy/privacy",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "8f5022af90411565": {
+     "title": "이메일무단수집거부",
+     "url": "https://www.samsungcareers.com/policy/email",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "0d42db1fa23a3d74": {
+     "title": "채용 문의처",
+     "url": "https://www.samsungcareers.com/policy/phoneBook",
+     "date": "",
+     "first_seen": "2026-09-07T11:26:50+00:00"
+    }
+   },
+   "last_check": "2026-09-07T11:26:50+00:00",
+   "last_success": "2026-09-07T11:26:50+00:00",
+   "last_status": "baseline",
+   "last_error": "",
+   "last_method": "links",
+   "item_count": 52,
+   "fingerprint": "11c749466b096085",
+   "baseline_done": true,
+   "history": [
+    {
+     "at": "2026-09-07T11:26:50+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "첫 확인이라 현재 52건을 기준으로 저장했습니다(알림 없음).",
+     "new": []
+    }
+   ],
+   "last_note": "첫 확인이라 현재 52건을 기준으로 저장했습니다(알림 없음)."
   }
  }
 }
