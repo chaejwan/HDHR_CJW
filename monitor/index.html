@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>채용공고 모니터</title>
-  <link rel="stylesheet" href="/styles.css" />
+  <title>채용공고 모니터 설정</title>
+  <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
   <header class="topbar">
@@ -13,12 +13,21 @@
       <p id="statusLine" class="topbar__status">불러오는 중…</p>
     </div>
     <div class="topbar__actions">
-      <button id="checkAllBtn" class="btn btn--ghost" type="button">지금 전체 확인</button>
+      <button id="runBtn" class="btn btn--ghost" type="button">지금 확인 실행</button>
       <button id="saveBtn" class="btn btn--primary" type="button" disabled>설정 저장</button>
     </div>
   </header>
 
   <main class="wrap">
+    <div id="notice"></div>
+
+    <section class="card">
+      <div class="card__head"><h2>마지막 확인 결과</h2>
+        <button id="refreshBtn" class="btn btn--small" type="button">새로고침</button>
+      </div>
+      <div id="runBox" class="runbox"><p class="empty">불러오는 중…</p></div>
+    </section>
+
     <section class="card">
       <div class="card__head">
         <h2>확인할 사이트</h2>
@@ -26,8 +35,9 @@
       </div>
       <div id="siteList" class="sites"></div>
       <p class="hint">
-        새 공고가 있으면 아래 이메일로 알려 줍니다. 사이트를 처음 등록하면 첫 확인 때의 목록을
-        <b>기준</b>으로 저장하고(알림 없음), 그다음 확인부터 새로 올라온 글만 알려 줍니다.
+        사이트를 처음 등록하면 첫 확인 때의 목록을 <b>기준</b>으로 저장하고(알림 없음),
+        그 다음 확인부터 새로 올라온 글만 메일로 알려 줍니다.
+        목록이 잡히지 않으면 확인 방식을 <b>브라우저 렌더링</b>으로 바꿔 보세요.
       </p>
     </section>
 
@@ -36,7 +46,7 @@
       <div class="row">
         <label class="field">
           <span>기본 주기 (시간)</span>
-          <input id="intervalInput" type="number" min="0.1" step="0.5" />
+          <input id="intervalInput" type="number" min="1" step="1" />
         </label>
         <div class="field field--wide">
           <span>자주 쓰는 값</span>
@@ -53,6 +63,10 @@
         <input id="firstRunInput" type="checkbox" />
         <span>처음 확인할 때 발견한 공고도 메일로 받기 (기본은 받지 않음)</span>
       </label>
+      <p class="hint">
+        확인은 GitHub Actions 가 <b>매시간</b> 깨어나 담당합니다. 여기서 정한 주기가 지난 사이트만 실제로 확인하므로,
+        1시간보다 짧게 잡을 수는 없습니다.
+      </p>
     </section>
 
     <section class="card">
@@ -65,8 +79,12 @@
         <span>수신 이메일 (여러 개는 쉼표로 구분)</span>
         <input id="recipientsInput" type="text" placeholder="hong@example.com, kim@example.com" />
       </label>
+      <p class="hint" id="recipientsHint">
+        이 저장소가 공개(public)라면 여기 적은 주소도 공개됩니다. 주소를 감추고 싶으면 이 칸을 비우고
+        저장소 <b>Secrets</b> 에 <code>JOBMON_RECIPIENTS</code> 로 넣으세요 (설정보다 우선합니다).
+      </p>
 
-      <details class="more" id="smtpBox">
+      <details class="more">
         <summary>보내는 메일 계정 (SMTP) 설정</summary>
         <div class="row">
           <label class="field"><span>SMTP 서버</span><input id="smtpHost" type="text" placeholder="smtp.gmail.com" /></label>
@@ -82,43 +100,59 @@
         </div>
         <div class="row">
           <label class="field"><span>아이디</span><input id="smtpUser" type="text" placeholder="hong@gmail.com" /></label>
-          <label class="field">
-            <span>비밀번호 <small id="pwState"></small></span>
-            <input id="smtpPass" type="password" placeholder="저장된 값을 유지하려면 비워 두세요" />
-          </label>
           <label class="field"><span>보내는 사람 주소</span><input id="smtpFrom" type="text" placeholder="hong@gmail.com" /></label>
-        </div>
-        <div class="row">
           <label class="field"><span>제목 앞머리</span><input id="subjectPrefix" type="text" /></label>
-          <label class="field"><span>비밀번호 환경변수 이름</span><input id="passwordEnv" type="text" /></label>
         </div>
-        <div class="btnrow">
-          <button id="testMailBtn" class="btn btn--small" type="button">테스트 메일 보내기</button>
-          <button id="clearPassBtn" class="btn btn--small btn--danger" type="button">저장된 비밀번호 지우기</button>
+        <div class="banner banner--warn">
+          <b>비밀번호는 이 화면에 넣지 않습니다.</b>
+          저장소 <b>Settings → Secrets and variables → Actions</b> 에서
+          <code>JOBMON_SMTP_PASSWORD</code> 로 저장하세요. (Gmail 은 <b>앱 비밀번호</b>)
+          서버·아이디·보내는 주소도 감추고 싶다면 <code>JOBMON_SMTP_HOST</code>,
+          <code>JOBMON_SMTP_USER</code>, <code>JOBMON_SMTP_FROM</code> 시크릿을 쓰면 이 설정보다 우선합니다.
         </div>
+      </details>
+    </section>
+
+    <section class="card">
+      <div class="card__head"><h2>저장 권한 (GitHub 토큰)</h2></div>
+      <p class="hint" style="margin-top:0">
+        설정을 저장하거나 ‘지금 확인 실행’ 을 누르려면 본인 GitHub 토큰이 필요합니다.
+        토큰은 <b>이 브라우저에만</b> 저장되고 어디로도 전송되지 않습니다 (GitHub API 호출에만 사용).
+      </p>
+      <div class="token">
+        <label class="field">
+          <span>Personal access token</span>
+          <input id="tokenInput" type="password" placeholder="github_pat_… 또는 ghp_…" autocomplete="off" />
+        </label>
+        <button id="tokenSaveBtn" class="btn btn--small btn--primary" type="button">토큰 저장</button>
+        <button id="tokenClearBtn" class="btn btn--small btn--danger" type="button">토큰 지우기</button>
+        <span id="tokenState" class="token__state"></span>
+      </div>
+      <details class="more">
+        <summary>토큰 만드는 방법</summary>
+        <ol class="steps">
+          <li>GitHub → Settings → Developer settings → <b>Personal access tokens</b> → <b>Fine-grained tokens</b> → Generate new token</li>
+          <li>Repository access 에서 <b>이 저장소만</b> 선택</li>
+          <li>Permissions → Repository permissions 에서 <code>Contents: Read and write</code>, <code>Actions: Read and write</code> 허용</li>
+          <li>만들어진 토큰을 위 칸에 붙여 넣고 <b>토큰 저장</b></li>
+        </ol>
         <p class="hint">
-          Gmail 은 2단계 인증을 켠 뒤 <b>앱 비밀번호</b>를 만들어 사용하세요.
-          <b>주의:</b> 여기에 비밀번호를 저장하면 <code>job-monitor/config.json</code> 에 그대로 들어갑니다.
-          이 파일은 저장소에 함께 올라가므로, 비밀번호는 환경변수
-          (<code id="envHint">JOBMON_SMTP_PASSWORD</code>)나 GitHub Actions 시크릿으로 넣는 것을 권합니다.
+          토큰 없이 쓰려면 아래 <b>설정 JSON 복사</b> 를 눌러 저장소의
+          <code>job-monitor/config.json</code> 을 GitHub 화면에서 직접 수정해도 됩니다.
         </p>
       </details>
-    </section>
-
-    <section class="card">
-      <div class="card__head">
-        <h2>최근 발견한 공고</h2>
-        <button id="refreshBtn" class="btn btn--small" type="button">새로고침</button>
+      <div class="btnrow">
+        <button id="copyJsonBtn" class="btn btn--small" type="button">설정 JSON 복사</button>
+        <a id="editOnGithub" class="btn btn--small" href="#" target="_blank" rel="noopener">GitHub 에서 직접 편집</a>
+        <a id="actionsLink" class="btn btn--small" href="#" target="_blank" rel="noopener">실행 기록 보기</a>
+        <a id="secretsLink" class="btn btn--small" href="#" target="_blank" rel="noopener">시크릿 설정 열기</a>
       </div>
-      <div id="feed" class="feed"></div>
     </section>
 
     <section class="card">
-      <details class="more">
-        <summary>실행 기록</summary>
-        <pre id="logBox" class="log"></pre>
-      </details>
-      <p class="hint" id="configPath"></p>
+      <div class="card__head"><h2>최근 발견한 공고</h2></div>
+      <div id="feed" class="feed"></div>
+      <p class="hint" id="sourceLine"></p>
     </section>
   </main>
 
@@ -144,8 +178,7 @@
           <p class="site__meta" data-role="meta"></p>
         </div>
         <div class="site__buttons">
-          <button class="btn btn--small" type="button" data-role="check">지금 확인</button>
-          <button class="btn btn--small" type="button" data-role="preview">미리보기</button>
+          <a class="btn btn--small" data-role="open" href="#" target="_blank" rel="noopener">사이트 열기</a>
           <button class="btn btn--small btn--danger" type="button" data-role="remove">삭제</button>
         </div>
       </div>
@@ -161,7 +194,7 @@
               <option value="browser">브라우저 렌더링</option>
             </select>
           </label>
-          <label class="field field--narrow"><span>개별 주기 (시간, 비우면 기본값)</span><input type="number" min="0.1" step="0.5" data-role="interval_hours" /></label>
+          <label class="field field--narrow"><span>개별 주기 (시간, 비우면 기본값)</span><input type="number" min="1" step="1" data-role="interval_hours" /></label>
           <label class="field field--narrow"><span>최대 항목 수</span><input type="number" min="1" data-role="max_items" /></label>
         </div>
         <div class="row">
@@ -176,14 +209,11 @@
           <label class="field"><span>상세 주소 형식</span><input type="text" data-role="json.url_template" placeholder="https://example.com/jobs/{id}" /></label>
         </div>
         <label class="field"><span>메모</span><input type="text" data-role="note" /></label>
-        <div class="btnrow">
-          <button class="btn btn--small" type="button" data-role="reset">이 사이트 기록 초기화</button>
-          <span class="site__stat" data-role="stat"></span>
-        </div>
+        <p class="site__stat" data-role="stat"></p>
       </details>
     </article>
   </template>
 
-  <script src="/app.js"></script>
+  <script src="assets/app.js"></script>
 </body>
 </html>

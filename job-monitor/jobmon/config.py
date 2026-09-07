@@ -247,6 +247,43 @@ def save(path: str, config: dict) -> dict:
     return cfg
 
 
+# ---------------------------------------------------------------- 환경변수 우선 적용
+# GitHub Actions 등에서 비밀 정보를 저장소 파일 대신 시크릿(환경변수)으로 넘길 때 쓴다.
+# 여기서 덮어쓴 값은 설정 파일에 다시 저장되지 않는다.
+ENV_OVERRIDES = {
+    "JOBMON_SMTP_HOST": ("email", "smtp_host"),
+    "JOBMON_SMTP_PORT": ("email", "smtp_port"),
+    "JOBMON_SMTP_SECURITY": ("email", "security"),
+    "JOBMON_SMTP_USER": ("email", "username"),
+    "JOBMON_SMTP_FROM": ("email", "from_addr"),
+}
+
+
+def effective(config: dict) -> dict:
+    """환경변수로 넘어온 값을 얹은 사본을 돌려준다 (메일 발송 직전에 사용)."""
+    cfg = copy.deepcopy(config)
+    for env_name, (section, key) in ENV_OVERRIDES.items():
+        value = os.environ.get(env_name)
+        if value not in (None, ""):
+            cfg.setdefault(section, {})[key] = value
+    recipients = os.environ.get("JOBMON_RECIPIENTS")
+    if recipients:
+        cfg["recipients"] = [a.strip() for a in re.split(r"[,\s;]+", recipients) if a.strip()]
+    enabled = os.environ.get("JOBMON_EMAIL_ENABLED")
+    if enabled not in (None, ""):
+        cfg.setdefault("email", {})["enabled"] = enabled.strip().lower() in ("1", "true", "yes", "on")
+    elif os.environ.get("JOBMON_SMTP_HOST"):
+        # 보내는 서버를 시크릿으로 지정했다면 별도 설정 없이도 메일을 보낸다.
+        cfg.setdefault("email", {})["enabled"] = True
+    return normalize(cfg)
+
+
+def env_summary() -> dict:
+    """어떤 값이 환경변수로 채워져 있는지 (값은 노출하지 않는다)."""
+    names = list(ENV_OVERRIDES) + ["JOBMON_RECIPIENTS", "JOBMON_EMAIL_ENABLED", "JOBMON_SMTP_PASSWORD"]
+    return {name: bool(os.environ.get(name)) for name in names}
+
+
 def interval_hours(config: dict, site: dict) -> float:
     return float(site.get("interval_hours") or config.get("check_interval_hours") or 24)
 

@@ -69,8 +69,8 @@ def _state_view(monitor, cfg: dict, state: dict) -> dict:
             "last_method": entry.get("last_method", ""),
             "item_count": entry.get("item_count", 0),
             "seen_count": len(entry.get("seen") or {}),
-            "next_due": due.isoformat(timespec="seconds"),
-            "overdue": due <= now,
+            "next_due": due.isoformat(timespec="seconds") if due else "",
+            "overdue": due is None or due <= now,
             "recent_new": recent_new[:20],
             "history": [
                 {k: v for k, v in record.items() if k != "new"} for record in history[:10]
@@ -208,7 +208,7 @@ class Handler(BaseHTTPRequestHandler):
                 site = payload.get("site") or {}
                 self._json({"ok": True, "preview": monitor.preview(site)})
             elif path == "/api/test-email":
-                cfg = monitor.load_config()
+                cfg = config_mod.effective(monitor.load_config())
                 email_cfg = dict(cfg.get("email") or {})
                 recipients = payload.get("recipients") or cfg.get("recipients") or []
                 try:

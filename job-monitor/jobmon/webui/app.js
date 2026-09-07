@@ -179,7 +179,7 @@ function siteStatusHtml(info) {
   const meta = map[info.last_status] || ['badge--wait', '아직 확인 전'];
   const parts = [`<span class="badge ${meta[0]}">${meta[1]}</span>`];
   parts.push(`마지막 확인 ${fmtTime(info.last_check)}`);
-  parts.push(`다음 확인 ${fmtTime(info.next_due)}`);
+  parts.push(info.next_due ? `다음 확인 ${fmtTime(info.next_due)}` : '다음 확인 예정: 곧');
   if (info.item_count) parts.push(`항목 ${info.item_count}개`);
   if (info.last_error) parts.push(`<span style="color:#c4361c">${escapeHtml(info.last_error)}</span>`);
   else if (info.last_note) parts.push(escapeHtml(info.last_note));
@@ -388,7 +388,7 @@ function updateStatusLine() {
   const enabled = cfg.sites.filter((s) => s.enabled).length;
   const errors = (view.sites || []).filter((s) => s.last_status === 'error').length;
   const next = (view.sites || [])
-    .filter((s) => s.enabled)
+    .filter((s) => s.enabled && s.next_due)
     .map((s) => s.next_due)
     .sort()[0];
   const bits = [`사이트 ${enabled}/${cfg.sites.length}곳 감시 중`, `기본 주기 ${fmtInterval(cfg.check_interval_hours)}`];

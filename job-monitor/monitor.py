@@ -12,6 +12,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import sys
 
@@ -48,6 +49,7 @@ def build_parser() -> argparse.ArgumentParser:
     check.add_argument("--site", action="append", dest="sites", help="사이트 id (여러 번 지정 가능)")
     check.add_argument("--due-only", action="store_true", help="확인할 때가 된 사이트만 (cron 으로 자주 돌릴 때)")
     check.add_argument("--no-email", action="store_true", help="메일을 보내지 않고 화면에만 출력")
+    check.add_argument("--summary-json", help="확인 결과 요약을 이 경로에 JSON 으로 저장 (설정 페이지 표시용)")
 
     run = sub.add_parser("run", help="웹 UI 없이 주기 확인만 계속 실행")
     run.add_argument("--tick", type=int, default=30, help="예정 시각 확인 간격(초)")
@@ -61,12 +63,78 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
+def _run_url() -> str:
+    """GitHub Actions 안에서 실행 중이면 그 실행 기록 주소를 만든다."""
+    server = os.environ.get("GITHUB_SERVER_URL")
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    run_id = os.environ.get("GITHUB_RUN_ID")
+    return f"{server}/{repo}/actions/runs/{run_id}" if server and repo and run_id else ""
+
+
+def _write_summary_json(path: str, summary: dict) -> None:
+    """설정 페이지에서 읽을 수 있도록 마지막 실행 결과를 남긴다."""
+    payload = {
+        "at": summary["at"],
+        "checked": summary["checked"],
+        "new_total": summary["new_total"],
+        "email": summary["email"],
+        "run_url": _run_url(),
+        "results": [
+            {
+                "site_id": r["site_id"], "site_name": r["site_name"], "site_url": r["site_url"],
+                "status": r["status"], "item_count": r["item_count"], "method": r["method"],
+                "note": r["note"], "error": r["error"],
+                "new_items": [
+                    {"title": i.get("title", ""), "url": i.get("url", ""), "date": i.get("date", "")}
+                    for i in r["new_items"]
+                ],
+            }
+            for r in summary["results"]
+        ],
+    }
+    os.makedirs(os.path.dirname(os.path.abspath(path)) or ".", exist_ok=True)
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=1)
+        fh.write("\n")
+
+
+def _write_step_summary(summary: dict) -> None:
+    """GitHub Actions 실행 화면에 결과를 표로 남긴다."""
+    path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not path:
+        return
+    lines = [f"## 채용공고 확인 결과 — 새 공고 {summary['new_total']}건", "",
+             "| 사이트 | 상태 | 항목 수 | 새 공고 | 비고 |", "| --- | --- | ---: | ---: | --- |"]
+    for r in summary["results"]:
+        note = r["error"] or r["note"] or ""
+        lines.append(
+            f"| [{r['site_name']}]({r['site_url']}) | {r['status']} | {r['item_count']} | "
+            f"{len(r['new_items'])} | {note.replace('|', '/')} |"
+        )
+    for r in summary["results"]:
+        if not r["new_items"]:
+            continue
+        lines += ["", f"### {r['site_name']}"]
+        lines += [f"- [{i['title']}]({i['url']}){(' — ' + i['date']) if i.get('date') else ''}"
+                  for i in r["new_items"]]
+    mail = summary["email"]
+    lines += ["", "메일: " + ("발송함" if mail["sent"] else (mail["error"] or mail["skipped"] or "보낼 새 공고 없음"))]
+    try:
+        with open(path, "a", encoding="utf-8") as fh:
+            fh.write("\n".join(lines) + "\n")
+    except OSError:
+        pass
+
+
 def cmd_check(monitor: Monitor, args) -> int:
     summary = monitor.run_check(
         site_ids=args.sites,
         notify=not args.no_email,
         only_due=args.due_only,
     )
+    if getattr(args, "summary_json", None):
+        _write_summary_json(args.summary_json, summary)
+    _write_step_summary(summary)
     print()
     for result in summary["results"]:
         print(f"■ {result['site_name']} — {result['status']} (항목 {result['item_count']}개)")
@@ -110,7 +178,7 @@ def cmd_list(monitor: Monitor) -> int:
 
 
 def cmd_test_email(monitor: Monitor) -> int:
-    cfg = monitor.load_config()
+    cfg = config_mod.effective(monitor.load_config())
     recipients = cfg.get("recipients") or []
     if not recipients:
         print("수신 이메일이 설정돼 있지 않습니다.")

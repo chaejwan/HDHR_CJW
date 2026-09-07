@@ -1,6 +1,8 @@
-# 채용공고 모니터: 개인 설정(SMTP 비밀번호 포함)과 실행 기록은 올리지 않습니다.
-job-monitor/config.json
-job-monitor/data/
+# 채용공고 모니터
+# config.json 과 data/ 는 GitHub Actions 가 읽고 쓰므로 저장소에 함께 둡니다.
+# (비밀번호는 저장소에 두지 말고 Actions Secrets 로 넣으세요.)
+job-monitor/data/monitor.log
+job-monitor/data/monitor.log.1
 
 # 파이썬
 __pycache__/

@@ -155,17 +155,22 @@ class Monitor:
         return result
 
     def next_due(self, cfg: dict, state: dict, site: dict):
+        """다음 확인 예정 시각. 한 번도 확인한 적 없으면 None (= 지금 바로 확인 대상)."""
         entry = (state.get("sites") or {}).get(site["id"]) or {}
         last = _parse_iso(entry.get("last_check") or "")
         if not last:
-            return datetime.now().astimezone()
+            return None
         return last + timedelta(hours=config_mod.interval_hours(cfg, site))
+
+    def is_due(self, cfg: dict, state: dict, site: dict, now=None) -> bool:
+        due = self.next_due(cfg, state, site)
+        return due is None or due <= (now or datetime.now().astimezone())
 
     def due_sites(self, cfg: dict, state: dict, now=None) -> list:
         now = now or datetime.now().astimezone()
         return [
             site for site in cfg.get("sites") or []
-            if site.get("enabled") and self.next_due(cfg, state, site) <= now
+            if site.get("enabled") and self.is_due(cfg, state, site, now)
         ]
 
     def run_check(self, site_ids=None, force: bool = False, notify: bool = True,
@@ -200,8 +205,9 @@ class Monitor:
                 summary["email"]["skipped"] = "메일 발송을 건너뛰도록 지정했습니다."
             return summary
 
-        email_cfg = cfg.get("email") or {}
-        recipients = cfg.get("recipients") or []
+        live = config_mod.effective(cfg)   # 시크릿(환경변수)을 얹은 설정
+        email_cfg = live.get("email") or {}
+        recipients = live.get("recipients") or []
         if not email_cfg.get("enabled"):
             summary["email"]["skipped"] = "메일 발송이 꺼져 있습니다."
         elif not recipients:

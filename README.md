@@ -37,24 +37,27 @@ npx http-server -p 8080 .
 - `JSON 복사` 로 설문 구조를 JSON 으로 클립보드에 복사 (서버 연동 시 그대로 사용 가능)
 - `초기화` 로 처음부터 다시 시작
 
-## 채용공고 모니터 (`job-monitor/`)
+## 채용공고 모니터
 
-지정한 채용 사이트를 정해진 주기로 확인해 새 공고를 이메일로 알려 주는 프로그램입니다.
-정적 페이지가 아니라 내 컴퓨터에서 실행하는 파이썬 프로그램이며, 설정(사이트 주소 · 확인 주기 ·
-수신 이메일)은 브라우저 화면에서 바꿉니다. 설치할 패키지는 없습니다.
+지정한 채용 사이트를 **GitHub Actions 가 주기적으로 확인**해서, 새 공고가 올라오면 이메일로
+알려 줍니다. 내 컴퓨터를 켜 둘 필요가 없고, 설정은 공개 주소에서 브라우저로 합니다.
 
-```bash
-cd job-monitor
-python3 monitor.py serve --open   # http://localhost:8765
-```
+- 설정 화면: <https://chaejwan.github.io/HDHR_CJW/monitor/>
+- 확인 주체: `.github/workflows/job-monitor.yml` (매시간 실행, 사이트별 주기는 설정값을 따름)
+- 설정 파일: `job-monitor/config.json` · 확인 기록: `job-monitor/data/state.json`
 
-자세한 사용법은 [`job-monitor/README.md`](job-monitor/README.md) 를 보세요.
+처음 한 번은 ①기본 브랜치 반영 ②Actions 쓰기 권한 ③메일 시크릿(`JOBMON_SMTP_*`) 등록
+④설정 화면용 토큰 발급이 필요합니다. 자세한 절차와 문제 해결은
+[`job-monitor/README.md`](job-monitor/README.md) 에 있습니다.
 
 ## 파일 구성
 
 ```
 index.html               실습물 목록 페이지 (사이트 첫 화면)
 assets/home.css          목록 페이지 스타일
+
+monitor/                 채용공고 모니터 설정 화면 (GitHub Pages)
+job-monitor/             채용공고 모니터 프로그램 (GitHub Actions 가 실행)
 
 survey/index.html        설문 양식 마크업과 항목/답변 <template>
 survey/assets/styles.css 설문 양식 스타일

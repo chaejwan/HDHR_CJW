@@ -364,3 +364,219 @@ class WebApiTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+# ---------------------------------------------------------------- GitHub Actions 경로
+
+class EnvSecretsTest(unittest.TestCase):
+    """시크릿(환경변수)이 설정 파일보다 우선하는지."""
+
+    def setUp(self):
+        self.saved = {k: os.environ.get(k) for k in list(config_mod.ENV_OVERRIDES) +
+                      ["JOBMON_RECIPIENTS", "JOBMON_EMAIL_ENABLED", "JOBMON_SMTP_PASSWORD"]}
+        for key in self.saved:
+            os.environ.pop(key, None)
+
+    def tearDown(self):
+        for key, value in self.saved.items():
+            if value is None:
+                os.environ.pop(key, None)
+            else:
+                os.environ[key] = value
+
+    def test_env_overrides_config(self):
+        cfg = config_mod.normalize({"email": {"smtp_host": "old.example", "enabled": False},
+                                    "recipients": ["old@example.com"]})
+        os.environ["JOBMON_SMTP_HOST"] = "new.example"
+        os.environ["JOBMON_RECIPIENTS"] = "a@example.com, b@example.com"
+        os.environ["JOBMON_SMTP_PASSWORD"] = "비밀"
+        live = config_mod.effective(cfg)
+        self.assertEqual(live["email"]["smtp_host"], "new.example")
+        self.assertEqual(live["recipients"], ["a@example.com", "b@example.com"])
+        # 시크릿이 갖춰지면 별도 설정 없이도 메일 발송이 켜진다
+        self.assertTrue(live["email"]["enabled"])
+        # 원본 설정은 그대로 (파일에 비밀 정보가 다시 저장되지 않도록)
+        self.assertEqual(cfg["email"]["smtp_host"], "old.example")
+
+    def test_env_summary_hides_values(self):
+        os.environ["JOBMON_SMTP_PASSWORD"] = "비밀"
+        summary = config_mod.env_summary()
+        self.assertTrue(summary["JOBMON_SMTP_PASSWORD"])
+        self.assertFalse(summary["JOBMON_SMTP_USER"])
+        self.assertNotIn("비밀", json.dumps(summary, ensure_ascii=False))
+
+
+class _FakeSMTPServer(threading.Thread):
+    """테스트용 최소 SMTP 서버. 받은 메일 원문을 보관한다."""
+
+    def __init__(self):
+        super().__init__(daemon=True)
+        import socket
+        self.sock = socket.socket()
+        self.sock.setsockopt(1, 2, 1)  # SOL_SOCKET, SO_REUSEADDR
+        self.sock.bind(("127.0.0.1", 0))
+        self.sock.listen(1)
+        self.port = self.sock.getsockname()[1]
+        self.messages = []
+
+    def run(self):
+        try:
+            conn, _addr = self.sock.accept()
+        except OSError:
+            return
+        with conn:
+            conn.sendall(b"220 test ESMTP\r\n")
+            buf, in_data, message = b"", False, []
+            while True:
+                chunk = conn.recv(4096)
+                if not chunk:
+                    break
+                buf += chunk
+                while b"\r\n" in buf:
+                    line, buf = buf.split(b"\r\n", 1)
+                    if in_data:
+                        if line == b".":
+                            in_data = False
+                            self.messages.append(b"\r\n".join(message).decode("utf-8", "replace"))
+                            message = []
+                            conn.sendall(b"250 OK\r\n")
+                        else:
+                            message.append(line)
+                        continue
+                    upper = line.upper()
+                    if upper.startswith(b"EHLO") or upper.startswith(b"HELO"):
+                        conn.sendall(b"250-test\r\n250 SIZE 10240000\r\n")
+                    elif upper.startswith(b"DATA"):
+                        in_data = True
+                        conn.sendall(b"354 End data with <CR><LF>.<CR><LF>\r\n")
+                    elif upper.startswith(b"QUIT"):
+                        conn.sendall(b"221 Bye\r\n")
+                        return
+                    else:
+                        conn.sendall(b"250 OK\r\n")
+
+    def close(self):
+        try:
+            self.sock.close()
+        except OSError:
+            pass
+
+
+class EmailDeliveryTest(unittest.TestCase):
+    """새 공고가 생기면 실제로 SMTP 로 메일이 나가는지 (시크릿 경로 포함)."""
+
+    def setUp(self):
+        self.smtp = _FakeSMTPServer()
+        self.smtp.start()
+        self.addCleanup(self.smtp.close)
+
+        self.httpd = ThreadingHTTPServer(("127.0.0.1", 0), _SiteHandler)
+        _SiteHandler.items = ['<li><a href="/jobs/1">첫 공고</a></li>']
+        threading.Thread(target=self.httpd.serve_forever, daemon=True).start()
+        self.addCleanup(self.httpd.server_close)
+        self.addCleanup(self.httpd.shutdown)
+
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        path = os.path.join(self.tmp.name, "config.json")
+        config_mod.save(path, {
+            "notify_on_first_run": True,
+            "sites": [{"id": "local", "name": "테스트", "url": f"http://127.0.0.1:{self.httpd.server_address[1]}/"}],
+        })
+        self.monitor = Monitor(path)
+
+        self.saved = {k: os.environ.get(k) for k in
+                      ("JOBMON_SMTP_HOST", "JOBMON_SMTP_PORT", "JOBMON_SMTP_SECURITY",
+                       "JOBMON_SMTP_FROM", "JOBMON_RECIPIENTS", "JOBMON_SMTP_PASSWORD")}
+        os.environ.update({
+            "JOBMON_SMTP_HOST": "127.0.0.1",
+            "JOBMON_SMTP_PORT": str(self.smtp.port),
+            "JOBMON_SMTP_SECURITY": "none",
+            "JOBMON_SMTP_FROM": "bot@example.com",
+            "JOBMON_RECIPIENTS": "to@example.com",
+        })
+        os.environ.pop("JOBMON_SMTP_PASSWORD", None)
+
+        def restore():
+            for key, value in self.saved.items():
+                if value is None:
+                    os.environ.pop(key, None)
+                else:
+                    os.environ[key] = value
+        self.addCleanup(restore)
+
+    def test_new_posting_sends_mail(self):
+        summary = self.monitor.run_check(notify=True)
+        self.assertEqual(summary["new_total"], 1)
+        self.assertTrue(summary["email"]["sent"], summary["email"]["error"])
+        self.smtp.join(timeout=5)
+        self.assertEqual(len(self.smtp.messages), 1)
+        raw = self.smtp.messages[0]
+        self.assertIn("Subject:", raw)
+        self.assertIn("to@example.com", raw)
+        self.assertIn("=?utf-8?", raw.lower())   # 한글 제목은 인코딩되어 나간다
+
+
+class WorkflowHelpersTest(unittest.TestCase):
+    """워크플로에서 쓰는 도우미들."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        sys.path.insert(0, BASE_DIR)
+
+    def test_summary_json_written(self):
+        import monitor as monitor_cli
+        summary = {
+            "at": "2026-09-07T10:00:00+09:00", "checked": 1, "new_total": 1,
+            "email": {"sent": True, "error": "", "skipped": ""},
+            "results": [{
+                "site_id": "a", "site_name": "A", "site_url": "https://a.example", "status": "new",
+                "item_count": 3, "method": "links", "note": "", "error": "",
+                "new_items": [{"title": "새 공고", "url": "https://a.example/1", "date": "", "id": "x"}],
+            }],
+        }
+        path = os.path.join(self.tmp.name, "data", "last-run.json")
+        monitor_cli._write_summary_json(path, summary)
+        with open(path, encoding="utf-8") as fh:
+            written = json.load(fh)
+        self.assertEqual(written["new_total"], 1)
+        self.assertEqual(written["results"][0]["new_items"][0]["title"], "새 공고")
+        self.assertNotIn("id", written["results"][0]["new_items"][0])
+
+    def test_verify_config_blocks_password_in_repo(self):
+        sys.path.insert(0, os.path.join(BASE_DIR, "tools"))
+        import verify_config
+
+        clean = os.path.join(self.tmp.name, "clean.json")
+        config_mod.save(clean, {"sites": [{"url": "https://a.example", "name": "A", "mode": "browser"}]})
+        output = os.path.join(self.tmp.name, "gh-output.txt")
+        os.environ["GITHUB_OUTPUT"] = output
+        self.addCleanup(lambda: os.environ.pop("GITHUB_OUTPUT", None))
+        self.assertEqual(verify_config.main(["verify_config.py", clean]), 0)
+        with open(output, encoding="utf-8") as fh:
+            self.assertIn("needs_browser=true", fh.read())
+
+        leaked = os.path.join(self.tmp.name, "leaked.json")
+        config_mod.save(leaked, {"email": {"password": "비밀"},
+                                 "sites": [{"url": "https://a.example", "name": "A"}]})
+        self.assertEqual(verify_config.main(["verify_config.py", leaked]), 1)
+
+    def test_missing_config_is_reported(self):
+        sys.path.insert(0, os.path.join(BASE_DIR, "tools"))
+        import verify_config
+        self.assertEqual(verify_config.main(["verify_config.py", os.path.join(self.tmp.name, "없음.json")]), 1)
+
+
+class DueSchedulingTest(unittest.TestCase):
+    """한 번도 확인하지 않은 사이트는 즉시 확인 대상이어야 한다."""
+
+    def test_never_checked_is_due(self):
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        path = os.path.join(tmp.name, "config.json")
+        config_mod.save(path, {"sites": [{"id": "a", "name": "A", "url": "https://a.example"}]})
+        monitor = Monitor(path)
+        cfg, state = monitor.load_config(), monitor.load_state()
+        self.assertIsNone(monitor.next_due(cfg, state, cfg["sites"][0]))
+        self.assertEqual([s["id"] for s in monitor.due_sites(cfg, state)], ["a"])
