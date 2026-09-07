@@ -1,1 +1,131 @@
-{"version": 1, "sites": {}}
+{
+ "version": 1,
+ "sites": {
+  "hanwhain": {
+   "seen": {
+    "c62c52551288b57c": {
+     "title": "걸어온 길",
+     "url": "https://www.hanwhain.com/portal/hanwha/history",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "6b53194909a32f2e": {
+     "title": "핵심가치",
+     "url": "https://www.hanwhain.com/portal/hanwha/key-value",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "aed6d7d5f5f7e2ef": {
+     "title": "브랜드비전",
+     "url": "https://www.hanwhain.com/portal/hanwha/brand",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "23d0933e88028d52": {
+     "title": "계열사 소개",
+     "url": "https://www.hanwhain.com/portal/subsidiary",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "c48d5e53804cab48": {
+     "title": "채용공고",
+     "url": "https://www.hanwhain.com/portal/apply/recruit",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "dd2b843409593f87": {
+     "title": "인재 POOL",
+     "url": "https://www.hanwhain.com/portal/apply/pool",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "185a856dc4cfd9c6": {
+     "title": "자주하는 질문",
+     "url": "https://www.hanwhain.com/portal/inquiry/faq",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "62dae0c88593ebfc": {
+     "title": "1:1문의",
+     "url": "https://www.hanwhain.com/portal/mypage/?rtn=qna",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "123365b4a16c3e46": {
+     "title": "로그인",
+     "url": "https://www.hanwhain.com/portal/login/login",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "9c5fe6c217062ad0": {
+     "title": "개인정보처리방침",
+     "url": "https://www.hanwhain.com/portal/policies/PrivacyPolicy",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "ebbab43dd4fc62d9": {
+     "title": "이용약관",
+     "url": "https://www.hanwhain.com/portal/policies/TermsOfService",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "1ef0f6c4114c3a1f": {
+     "title": "한화 그룹",
+     "url": "https://www.hanwha.co.kr",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "f82b1828ff7e8f6a": {
+     "title": "YouTube",
+     "url": "https://www.youtube.com/user/hanwhadays",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "706b48ad2f54f1cd": {
+     "title": "Instagram",
+     "url": "https://www.instagram.com/hanwhadays/",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "5854910cea0f7461": {
+     "title": "facebook",
+     "url": "https://www.facebook.com/hanwhadays",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "f450cd0d14e05f74": {
+     "title": "x",
+     "url": "https://x.com/hanwha_official",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    },
+    "30fdac0bb75734c7": {
+     "title": "blog",
+     "url": "https://blog.naver.com/hanwhadays",
+     "date": "",
+     "first_seen": "2026-09-07T10:22:35+00:00"
+    }
+   },
+   "last_check": "2026-09-07T10:22:35+00:00",
+   "last_success": "2026-09-07T10:22:35+00:00",
+   "last_status": "baseline",
+   "last_error": "",
+   "last_method": "links",
+   "item_count": 17,
+   "fingerprint": "e53d32e75be80903",
+   "baseline_done": true,
+   "history": [
+    {
+     "at": "2026-09-07T10:22:35+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "첫 확인이라 현재 17건을 기준으로 저장했습니다(알림 없음).",
+     "new": []
+    }
+   ],
+   "last_note": "첫 확인이라 현재 17건을 기준으로 저장했습니다(알림 없음)."
+  }
+ }
+}
