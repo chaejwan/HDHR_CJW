@@ -5,6 +5,10 @@ name: 사이트 진단
 # 실행 화면 요약에 결과(추출 방식, 찾은 항목, 목록 API 후보)가 표시됩니다.
 
 on:
+  # (임시) 진단 요청 파일을 고쳐 밀어 넣으면 실행됩니다. 확인용으로만 씁니다.
+  push:
+    paths:
+      - "job-monitor/data/diagnose-request.txt"
   workflow_dispatch:
     inputs:
       url:
@@ -35,13 +39,12 @@ jobs:
           python-version: "3.12"
 
       - name: 브라우저 설치
-        if: inputs.browser
         run: |
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
 
       - name: 진단
         run: |
-          python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
-            ${{ inputs.browser && '--browser' || ' ' }} \
-            ${{ (inputs.browser && inputs.network) && '--network' || ' ' }}
+          URL="${{ inputs.url }}"
+          if [ -z "$URL" ]; then URL="$(head -n 1 job-monitor/data/diagnose-request.txt)"; fi
+          python3 job-monitor/monitor.py diagnose "$URL" --browser --network
