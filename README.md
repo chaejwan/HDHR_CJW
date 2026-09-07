@@ -46,7 +46,7 @@ npx http-server -p 8080 .
 - 확인 주체: `.github/workflows/job-monitor.yml` (매시간 실행, 사이트별 주기는 설정값을 따름)
 - 설정 파일: `job-monitor/config.json` · 확인 기록: `job-monitor/data/state.json`
 
-처음 한 번은 ①기본 브랜치 반영 ②Actions 쓰기 권한 ③메일 시크릿(`JOBMON_SMTP_*`) 등록
+처음 한 번은 ①기본 브랜치(`260825`) 반영 ②Actions 쓰기 권한 ③메일 시크릿(`JOBMON_SMTP_*`) 등록
 ④설정 화면용 토큰 발급이 필요합니다. 자세한 절차와 문제 해결은
 [`job-monitor/README.md`](job-monitor/README.md) 에 있습니다.
 
