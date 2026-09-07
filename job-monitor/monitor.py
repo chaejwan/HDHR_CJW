@@ -285,6 +285,17 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         return 1
 
     result = extract_mod.extract(site, fetched)
+    raw_sample = ""
+    if fetched.looks_json:
+        try:
+            data = json.loads(fetched.text)
+            arrays = extract_mod.find_item_arrays(data)
+            if arrays:
+                _path, rows = max(arrays, key=lambda pair: len(pair[1]))
+                if rows:
+                    raw_sample = json.dumps(rows[0], ensure_ascii=False)[:800]
+        except (ValueError, TypeError):
+            pass
     lines = [
         f"주소       : {fetched.url}",
         f"응답       : HTTP {fetched.status} · {fetched.content_type or '-'}"
@@ -294,6 +305,8 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
     ]
     if result.note:
         lines.append(f"메모       : {result.note}")
+    if raw_sample:
+        lines.append(f"항목 원본  : {raw_sample}")
     for item in result.items[:20]:
         lines.append(f"  - {item['title']}")
         lines.append(f"    {item['url']}")
