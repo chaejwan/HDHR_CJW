@@ -1,0 +1,12 @@
+# 채용공고 모니터
+# config.json 과 data/ 는 GitHub Actions 가 읽고 쓰므로 저장소에 함께 둡니다.
+# (비밀번호는 저장소에 두지 말고 Actions Secrets 로 넣으세요.)
+job-monitor/data/monitor.log
+job-monitor/data/monitor.log.1
+
+# 파이썬
+__pycache__/
+*.py[cod]
+
+# 그 외
+.DS_Store

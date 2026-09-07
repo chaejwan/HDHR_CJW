@@ -1,0 +1,107 @@
+name: 채용공고 확인
+
+# 사이트를 주기적으로 확인해 새 공고가 있으면 메일을 보내고, 확인 기록을 저장소에 남깁니다.
+# - 실제 확인 주기는 job-monitor/config.json 의 check_interval_hours 가 결정합니다.
+#   (이 워크플로는 매시간 깨어나 '확인할 때가 된' 사이트만 확인합니다.)
+# - 스케줄 실행은 기본 브랜치에서만 동작합니다.
+
+on:
+  schedule:
+    - cron: "5 * * * *"       # 매시 5분 (UTC). GitHub 사정으로 몇 분 늦어질 수 있습니다.
+  workflow_dispatch:
+    inputs:
+      check_all:
+        description: "주기와 상관없이 모든 사이트를 확인"
+        type: boolean
+        default: false
+      no_email:
+        description: "메일을 보내지 않고 결과만 기록"
+        type: boolean
+        default: false
+      test_email:
+        description: "테스트 메일만 보내기 (메일 설정이 맞는지 확인용, 공고 확인은 건너뜀)"
+        type: boolean
+        default: false
+  push:
+    paths:
+      - "job-monitor/config.json"   # 설정을 바꾸면 바로 한 번 확인
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 내려받기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 설정 점검
+        id: verify
+        run: python3 job-monitor/tools/verify_config.py job-monitor/config.json
+
+      - name: 브라우저 렌더링 설치 (필요한 사이트가 있을 때만)
+        if: steps.verify.outputs.needs_browser == 'true'
+        run: |
+          pip install --quiet playwright
+          python -m playwright install --with-deps chromium
+
+      - name: 테스트 메일 보내기
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.test_email }}
+        env:
+          JOBMON_SMTP_HOST: ${{ secrets.JOBMON_SMTP_HOST }}
+          JOBMON_SMTP_PORT: ${{ secrets.JOBMON_SMTP_PORT }}
+          JOBMON_SMTP_SECURITY: ${{ secrets.JOBMON_SMTP_SECURITY }}
+          JOBMON_SMTP_USER: ${{ secrets.JOBMON_SMTP_USER }}
+          JOBMON_SMTP_PASSWORD: ${{ secrets.JOBMON_SMTP_PASSWORD }}
+          JOBMON_SMTP_FROM: ${{ secrets.JOBMON_SMTP_FROM }}
+          JOBMON_RECIPIENTS: ${{ secrets.JOBMON_RECIPIENTS }}
+        run: python3 job-monitor/monitor.py --config job-monitor/config.json test-email
+
+      - name: 공고 확인
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.test_email) }}
+        id: check
+        continue-on-error: true   # 사이트 한 곳이 응답하지 않아도 나머지는 계속 진행
+        env:
+          JOBMON_SMTP_HOST: ${{ secrets.JOBMON_SMTP_HOST }}
+          JOBMON_SMTP_PORT: ${{ secrets.JOBMON_SMTP_PORT }}
+          JOBMON_SMTP_SECURITY: ${{ secrets.JOBMON_SMTP_SECURITY }}
+          JOBMON_SMTP_USER: ${{ secrets.JOBMON_SMTP_USER }}
+          JOBMON_SMTP_PASSWORD: ${{ secrets.JOBMON_SMTP_PASSWORD }}
+          JOBMON_SMTP_FROM: ${{ secrets.JOBMON_SMTP_FROM }}
+          JOBMON_RECIPIENTS: ${{ secrets.JOBMON_RECIPIENTS }}
+        run: |
+          python3 job-monitor/monitor.py \
+            --config job-monitor/config.json \
+            check \
+            ${{ (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && !inputs.check_all)) && '--due-only' || ' ' }} \
+            ${{ (github.event_name == 'workflow_dispatch' && inputs.no_email) && '--no-email' || ' ' }} \
+            --summary-json job-monitor/data/last-run.json
+
+      - name: 확인 기록 저장 (저장소에 커밋)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add job-monitor/data/state.json job-monitor/data/last-run.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "바뀐 내용이 없어 커밋하지 않습니다."
+            exit 0
+          fi
+          git commit -m "채용공고 확인 기록 갱신 [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "푸시 재시도 ${attempt}"
+            sleep $((attempt * 5))
+          done
+          echo "확인 기록을 저장하지 못했습니다." >&2
+          exit 1

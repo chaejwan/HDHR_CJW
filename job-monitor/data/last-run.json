@@ -1,0 +1,24 @@
+{
+ "at": "2026-09-07T10:39:06+00:00",
+ "checked": 1,
+ "new_total": 0,
+ "email": {
+  "sent": false,
+  "error": "",
+  "skipped": ""
+ },
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34112544982",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화 채용 (hanwhain)",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "status": "baseline",
+   "item_count": 70,
+   "method": "json",
+   "note": "첫 확인이라 현재 70건을 기준으로 저장했습니다(알림 없음).",
+   "error": "",
+   "new_items": []
+  }
+ ]
+}

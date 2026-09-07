@@ -1,0 +1,46 @@
+{
+  "check_interval_hours": 24,
+  "notify_on_first_run": false,
+  "recipients": [],
+  "email": {
+    "enabled": true,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "security": "starttls",
+    "username": "",
+    "password": "",
+    "password_env": "JOBMON_SMTP_PASSWORD",
+    "from_addr": "",
+    "subject_prefix": "[채용 알림]"
+  },
+  "request": {
+    "timeout_sec": 20,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+  },
+  "sites": [
+    {
+      "id": "hanwhain",
+      "name": "한화 채용 (hanwhain)",
+      "url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+      "enabled": true,
+      "mode": "json",
+      "method": "POST",
+      "body": "{\"langCd\": \"ko\", \"searchText\": \"\", \"sdSeqList\": null, \"rtNrcrtYn\": \"\", \"rtCarrYn\": \"\", \"rtIntnYn\": \"\", \"rtPermanentWorkYn\": \"\", \"rtTempWorkYn\": \"\", \"djSeqList\": null, \"rjSeqList\": null, \"page\": 0, \"size\": 100}",
+      "headers": {},
+      "interval_hours": null,
+      "url_pattern": "",
+      "title_pattern": "",
+      "exclude_pattern": "",
+      "max_items": 300,
+      "json": {
+        "items_path": "data.list",
+        "id_field": "rtSeq",
+        "title_field": "rtNm",
+        "url_field": "",
+        "url_template": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq={rtSeq}",
+        "date_field": "rtAcptEndDttm"
+      },
+      "note": "한화인 채용공고 목록 API. 화면(www.hanwhain.com/portal/apply/recruit)이 실제로 호출하는 주소이며, 공고 상세는 rtSeq 로 연결됩니다."
+    }
+  ]
+}
