@@ -15,24 +15,24 @@ with sync_playwright() as pw:
         pass
     page.wait_for_timeout(3000)
 
-    # 목록에 보이는 공고 제목 후보를 찾는다
     texts = page.eval_on_selector_all(
         "*",
         """els => els.filter(e => e.children.length === 0 && e.textContent
-             && e.textContent.trim().length > 12 && e.textContent.includes('채용'))
-             .slice(0, 5).map(e => e.textContent.trim())"""
+             && e.textContent.trim().length > 12
+             && e.textContent.includes('채용')
+             && !e.textContent.includes('JavaScript'))
+             .slice(0, 6).map(e => e.textContent.trim())"""
     )
-    print("클릭 후보:", texts[:5])
-    if not texts:
-        print("공고 제목을 찾지 못했습니다.")
-    else:
-        target = texts[0]
+    print("클릭 후보:", texts[:4])
+    for target in texts[:2]:
         try:
-            page.get_by_text(target, exact=False).first.click(timeout=15000)
+            page.goto(LIST_URL, wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_timeout(3500)
+            page.get_by_text(target, exact=True).first.click(timeout=15000)
             page.wait_for_timeout(4000)
-            print("클릭한 제목 :", target)
-            print("이동한 주소 :", page.url)
-            print("제목 태그   :", page.title())
+            print("클릭:", target[:40])
+            print("  이동한 주소:", page.url)
+            print("  페이지 제목:", page.title())
         except Exception as exc:
-            print("클릭 실패:", exc)
+            print("클릭 실패:", target[:30], "·", str(exc)[:120])
     browser.close()
