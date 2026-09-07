@@ -12,6 +12,7 @@ const PATHS = {
   config: 'job-monitor/config.json',
   state: 'job-monitor/data/state.json',
   lastRun: 'job-monitor/data/last-run.json',
+  emailStatus: 'job-monitor/data/email-status.json',
 };
 const WORKFLOW_FILE = 'job-monitor.yml';
 const LS_TOKEN = 'jobmon.token';
@@ -46,6 +47,7 @@ let cfg = null;          // 편집 중인 설정
 let configSha = '';      // 저장할 때 필요한 파일 버전
 let state = null;        // data/state.json
 let lastRun = null;      // data/last-run.json
+let emailStatus = null;  // data/email-status.json (마지막 메일 발송 결과)
 let dirty = false;
 let busy = false;
 
@@ -446,14 +448,32 @@ function renderNotices() {
     notes.push(`<div class="banner"><b>지금은 보기 전용입니다.</b>
       설정을 저장하거나 확인을 실행하려면 아래 <b>저장 권한 (GitHub 토큰)</b> 에 토큰을 넣어 주세요.</div>`);
   }
-  if (cfg.email.enabled && !cfg.recipients.length) {
-    notes.push(`<div class="banner banner--warn"><b>수신 이메일이 비어 있습니다.</b>
-      이 화면에 주소를 넣거나, 저장소 시크릿 <code>JOBMON_RECIPIENTS</code> 를 설정하세요.</div>`);
+
+  // 저장소 시크릿은 어떤 화면에서도 읽을 수 없으므로, 실제 발송 결과로 판단한다.
+  const mailOk = !!(emailStatus && emailStatus.ok);
+  if (cfg.email.enabled && mailOk) {
+    const kind = emailStatus.kind === 'test' ? '테스트 메일' : '알림 메일';
+    notes.push(`<div class="banner"><b>메일 설정 확인됨</b>
+      ${fmtTime(emailStatus.at)} 에 ${kind}을(를) ${emailStatus.recipient_count}명에게 정상 발송했습니다.
+      수신 주소를 시크릿(<code>JOBMON_RECIPIENTS</code>)으로 넣었다면 아래 ‘수신 이메일’ 칸은 비어 있는 것이 정상입니다.</div>`);
+  } else if (cfg.email.enabled && emailStatus && emailStatus.error) {
+    notes.push(`<div class="banner banner--err"><b>마지막 메일 발송이 실패했습니다.</b>
+      ${escapeHtml(emailStatus.error)}<br />
+      시크릿(<code>JOBMON_SMTP_USER</code>, <code>JOBMON_SMTP_PASSWORD</code>)을 확인한 뒤
+      Actions 탭에서 <b>테스트 메일만 보내기</b> 로 다시 확인해 보세요.</div>`);
+  } else if (cfg.email.enabled) {
+    notes.push(`<div class="banner banner--warn"><b>메일이 나가는지 아직 확인되지 않았습니다.</b>
+      보내는 계정은 저장소 시크릿(<code>JOBMON_SMTP_HOST</code>, <code>JOBMON_SMTP_USER</code>,
+      <code>JOBMON_SMTP_PASSWORD</code>)으로 등록하고, Actions 탭 → 채용공고 확인 → Run workflow 에서
+      <b>테스트 메일만 보내기</b> 로 한 번 확인하세요. 확인되면 이 안내는 사라집니다.</div>`);
+  } else {
+    notes.push(`<div class="banner banner--warn"><b>메일 알림이 꺼져 있습니다.</b>
+      아래 ‘새 공고를 이메일로 받기’ 를 켜고 저장하세요.</div>`);
   }
-  if (cfg.email.enabled) {
-    notes.push(`<div class="banner"><b>메일 발송에는 시크릿이 필요합니다.</b>
-      저장소 Settings → Secrets and variables → Actions 에 <code>JOBMON_SMTP_PASSWORD</code>
-      (Gmail 은 앱 비밀번호)를 등록해야 실제로 메일이 나갑니다.</div>`);
+  if (cfg.email.enabled && !cfg.recipients.length && !mailOk) {
+    notes.push(`<div class="banner banner--warn"><b>수신 이메일이 비어 있습니다.</b>
+      이 화면에 주소를 넣거나, 저장소 시크릿 <code>JOBMON_RECIPIENTS</code> 를 설정하세요.
+      (시크릿을 이미 넣었다면 테스트 메일이 성공한 뒤 이 안내가 사라집니다.)</div>`);
   }
   if (!cfg.sites.some((s) => s.enabled)) {
     notes.push('<div class="banner banner--warn"><b>확인할 사이트가 없습니다.</b> 사이트를 추가하고 저장하세요.</div>');
@@ -487,6 +507,10 @@ async function loadAll(showToast) {
     const runFile = await readJsonFile(PATHS.lastRun);
     lastRun = runFile.data;
   } catch (err) { lastRun = null; }
+  try {
+    const statusFile = await readJsonFile(PATHS.emailStatus);
+    emailStatus = statusFile.data;
+  } catch (err) { emailStatus = null; }
   markClean();
   renderAll();
   el.sourceLine.textContent = `설정: ${repo.owner}/${repo.repo}/${PATHS.config} (${branch} 브랜치) · `
