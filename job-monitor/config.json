@@ -1,5 +1,5 @@
 {
-  "check_interval_hours": 24,
+  "check_interval_hours": 1,
   "notify_on_first_run": false,
   "recipients": [],
   "email": {
@@ -24,14 +24,15 @@
       "url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
       "enabled": true,
       "mode": "json",
-      "method": "POST",
-      "body": "{\"langCd\": \"ko\", \"searchText\": \"\", \"sdSeqList\": null, \"rtNrcrtYn\": \"\", \"rtCarrYn\": \"\", \"rtIntnYn\": \"\", \"rtPermanentWorkYn\": \"\", \"rtTempWorkYn\": \"\", \"djSeqList\": null, \"rjSeqList\": null, \"page\": 0, \"size\": 100}",
-      "headers": {},
       "interval_hours": null,
       "url_pattern": "",
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
+      "note": "한화인 채용공고 목록 API. 화면(www.hanwhain.com/portal/apply/recruit)이 실제로 호출하는 주소이며, 공고 상세는 rtSeq 로 연결됩니다.",
+      "method": "POST",
+      "body": "{\"langCd\": \"ko\", \"searchText\": \"\", \"sdSeqList\": null, \"rtNrcrtYn\": \"\", \"rtCarrYn\": \"\", \"rtIntnYn\": \"\", \"rtPermanentWorkYn\": \"\", \"rtTempWorkYn\": \"\", \"djSeqList\": null, \"rjSeqList\": null, \"page\": 0, \"size\": 100}",
+      "headers": {},
       "json": {
         "items_path": "data.list",
         "id_field": "rtSeq",
@@ -39,8 +40,103 @@
         "url_field": "",
         "url_template": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq={rtSeq}",
         "date_field": "rtAcptEndDttm"
+      }
+    },
+    {
+      "id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+      "name": "한화오션 채용",
+      "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+      "enabled": true,
+      "mode": "auto",
+      "interval_hours": null,
+      "url_pattern": "",
+      "title_pattern": "",
+      "exclude_pattern": "",
+      "max_items": 300,
+      "method": "GET",
+      "body": "",
+      "headers": {},
+      "json": {
+        "items_path": "",
+        "id_field": "",
+        "title_field": "",
+        "url_field": "",
+        "url_template": "",
+        "date_field": ""
       },
-      "note": "한화인 채용공고 목록 API. 화면(www.hanwhain.com/portal/apply/recruit)이 실제로 호출하는 주소이며, 공고 상세는 rtSeq 로 연결됩니다."
+      "note": ""
+    },
+    {
+      "id": "sk-sk-careers",
+      "name": "SK 채용 (SK Careers)",
+      "url": "https://www.skcareers.com/Recruit",
+      "enabled": true,
+      "mode": "auto",
+      "interval_hours": null,
+      "url_pattern": "",
+      "title_pattern": "",
+      "exclude_pattern": "",
+      "max_items": 300,
+      "method": "GET",
+      "body": "",
+      "headers": {},
+      "json": {
+        "items_path": "",
+        "id_field": "",
+        "title_field": "",
+        "url_field": "",
+        "url_template": "",
+        "date_field": ""
+      },
+      "note": ""
+    },
+    {
+      "id": "talent-hyundai-com-apply-applylist-hc-nf",
+      "name": "현대자동차 채용",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?nfGubnC=ac85892205b92e8cecdc87185a3fbf039f04b2a7751ccf0e8a1f547d53b9945a&tagArray=&sortDataTagArray=&areaDataTagArray=&fieldDataTagArray=&occupDataTagArray=&intnsvYn=",
+      "enabled": true,
+      "mode": "auto",
+      "interval_hours": null,
+      "url_pattern": "",
+      "title_pattern": "",
+      "exclude_pattern": "",
+      "max_items": 300,
+      "method": "GET",
+      "body": "",
+      "headers": {},
+      "json": {
+        "items_path": "",
+        "id_field": "",
+        "title_field": "",
+        "url_field": "",
+        "url_template": "",
+        "date_field": ""
+      },
+      "note": ""
+    },
+    {
+      "id": "samsungcareers-com-hr",
+      "name": "삼성 채용",
+      "url": "https://www.samsungcareers.com/hr/",
+      "enabled": true,
+      "mode": "auto",
+      "interval_hours": null,
+      "url_pattern": "",
+      "title_pattern": "",
+      "exclude_pattern": "",
+      "max_items": 300,
+      "method": "GET",
+      "body": "",
+      "headers": {},
+      "json": {
+        "items_path": "",
+        "id_field": "",
+        "title_field": "",
+        "url_field": "",
+        "url_template": "",
+        "date_field": ""
+      },
+      "note": ""
     }
   ]
 }
