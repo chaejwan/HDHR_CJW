@@ -37,6 +37,19 @@ npx http-server -p 8080 .
 - `JSON 복사` 로 설문 구조를 JSON 으로 클립보드에 복사 (서버 연동 시 그대로 사용 가능)
 - `초기화` 로 처음부터 다시 시작
 
+## 채용공고 모니터 (`job-monitor/`)
+
+지정한 채용 사이트를 정해진 주기로 확인해 새 공고를 이메일로 알려 주는 프로그램입니다.
+정적 페이지가 아니라 내 컴퓨터에서 실행하는 파이썬 프로그램이며, 설정(사이트 주소 · 확인 주기 ·
+수신 이메일)은 브라우저 화면에서 바꿉니다. 설치할 패키지는 없습니다.
+
+```bash
+cd job-monitor
+python3 monitor.py serve --open   # http://localhost:8765
+```
+
+자세한 사용법은 [`job-monitor/README.md`](job-monitor/README.md) 를 보세요.
+
 ## 파일 구성
 
 ```

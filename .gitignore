@@ -1,0 +1,10 @@
+# 채용공고 모니터: 개인 설정(SMTP 비밀번호 포함)과 실행 기록은 올리지 않습니다.
+job-monitor/config.json
+job-monitor/data/
+
+# 파이썬
+__pycache__/
+*.py[cod]
+
+# 그 외
+.DS_Store
