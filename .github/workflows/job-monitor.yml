@@ -18,6 +18,10 @@ on:
         description: "메일을 보내지 않고 결과만 기록"
         type: boolean
         default: false
+      test_email:
+        description: "테스트 메일만 보내기 (메일 설정이 맞는지 확인용, 공고 확인은 건너뜀)"
+        type: boolean
+        default: false
   push:
     paths:
       - "job-monitor/config.json"   # 설정을 바꾸면 바로 한 번 확인
@@ -51,7 +55,20 @@ jobs:
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
 
+      - name: 테스트 메일 보내기
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.test_email }}
+        env:
+          JOBMON_SMTP_HOST: ${{ secrets.JOBMON_SMTP_HOST }}
+          JOBMON_SMTP_PORT: ${{ secrets.JOBMON_SMTP_PORT }}
+          JOBMON_SMTP_SECURITY: ${{ secrets.JOBMON_SMTP_SECURITY }}
+          JOBMON_SMTP_USER: ${{ secrets.JOBMON_SMTP_USER }}
+          JOBMON_SMTP_PASSWORD: ${{ secrets.JOBMON_SMTP_PASSWORD }}
+          JOBMON_SMTP_FROM: ${{ secrets.JOBMON_SMTP_FROM }}
+          JOBMON_RECIPIENTS: ${{ secrets.JOBMON_RECIPIENTS }}
+        run: python3 job-monitor/monitor.py --config job-monitor/config.json test-email
+
       - name: 공고 확인
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.test_email) }}
         id: check
         continue-on-error: true   # 사이트 한 곳이 응답하지 않아도 나머지는 계속 진행
         env:
