@@ -37,6 +37,13 @@ DATE_KEYS = (
 
 SKIP_SCHEMES = ("javascript:", "mailto:", "tel:", "data:", "#")
 
+# 국내 채용 사이트 API 는 rtNm, rcrtTtl, sbjt 처럼 줄인 이름을 쓰는 경우가 많다.
+# 정확히 아는 이름으로 못 찾으면 아래 패턴으로 한 번 더 찾는다.
+FUZZY_TITLE_RE = re.compile(r"(nm|name|title|ttl|subject|subj)$", re.I)
+FUZZY_ID_RE = re.compile(r"(seq|sn|no|id|idx|cd|code|key)$", re.I)
+TITLE_MIN_LEN = 2
+TITLE_MAX_LEN = 200
+
 
 def _norm_key(key: str) -> str:
     return re.sub(r"[^a-z0-9]", "", str(key).lower())
@@ -50,6 +57,40 @@ def _pick(obj: dict, keys):
         if real is not None and obj[real] not in (None, "", [], {}):
             return real, obj[real]
     return None, None
+
+
+def _fuzzy_pick(obj: dict, pattern, want_text: bool):
+    """이름 규칙(rtNm, rcrtTtl …)으로 제목/식별자처럼 보이는 값을 찾는다."""
+    best = None
+    for key, value in obj.items():
+        if not pattern.search(_norm_key(key)):
+            continue
+        if want_text:
+            if not isinstance(value, str):
+                continue
+            text = value.strip()
+            if not (TITLE_MIN_LEN <= len(text) <= TITLE_MAX_LEN):
+                continue
+            if best is None or len(text) > len(best[1]):
+                best = (key, text)
+        else:
+            if isinstance(value, (str, int)) and str(value).strip():
+                return key, value
+    return best if best else (None, None)
+
+
+def pick_title(obj: dict):
+    key, value = _pick(obj, TITLE_KEYS)
+    if key is not None:
+        return key, value
+    return _fuzzy_pick(obj, FUZZY_TITLE_RE, want_text=True)
+
+
+def pick_id(obj: dict):
+    key, value = _pick(obj, ID_KEYS)
+    if key is not None:
+        return key, value
+    return _fuzzy_pick(obj, FUZZY_ID_RE, want_text=False)
 
 
 def _as_text(value) -> str:
@@ -192,7 +233,7 @@ def dig(data, path: str):
 def _looks_like_item(obj) -> bool:
     if not isinstance(obj, dict):
         return False
-    key, _ = _pick(obj, TITLE_KEYS)
+    key, _ = pick_title(obj)
     return key is not None
 
 
@@ -217,18 +258,21 @@ def item_from_object(obj: dict, base_url: str, mapping: dict | None = None):
     """딕셔너리 하나를 공고 항목으로 바꾼다. 제목이 없으면 None."""
     mapping = mapping or {}
 
-    def mapped(field_name, fallback_keys):
+    def mapped(field_name, fallback_keys, picker=None):
         configured = mapping.get(field_name)
         if configured:
             value = dig(obj, configured)
             return _as_text(value) if value not in (None, "") else ""
-        _, value = _pick(obj, fallback_keys)
+        if picker is not None:
+            _, value = picker(obj)
+        else:
+            _, value = _pick(obj, fallback_keys)
         return _as_text(value)
 
-    title = mapped("title_field", TITLE_KEYS)
+    title = mapped("title_field", TITLE_KEYS, pick_title)
     if not title:
         return None
-    raw_id = mapped("id_field", ID_KEYS)
+    raw_id = mapped("id_field", ID_KEYS, pick_id)
     url = mapped("url_field", URL_KEYS)
     template = mapping.get("url_template") or ""
     if template:

@@ -58,7 +58,8 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("test-email", help="테스트 메일 보내기")
 
     diagnose = sub.add_parser("diagnose", help="주소에서 무엇이 추출되는지 점검")
-    diagnose.add_argument("url")
+    diagnose.add_argument("url", nargs="?", default="")
+    diagnose.add_argument("--site-json", help="사이트 설정 JSON 파일로 점검 (url/mode/method/body/json 매핑)")
     diagnose.add_argument("--browser", action="store_true", help="Playwright 로 렌더링해서 확인")
     diagnose.add_argument("--network", action="store_true",
                           help="렌더링 중 오간 JSON 응답까지 살펴 목록 API 를 찾는다 (--browser 필요)")
@@ -194,6 +195,27 @@ def cmd_test_email(monitor: Monitor) -> int:
     return 0
 
 
+def _outline(data, path: str = "", depth: int = 0, out=None) -> list:
+    """JSON 안의 배열 위치와 첫 항목의 필드 이름을 훑어 준다."""
+    out = out if out is not None else []
+    if depth > 6 or len(out) > 40:
+        return out
+    if isinstance(data, list):
+        first = data[0] if data else None
+        if isinstance(first, dict):
+            out.append(f"      {path or '(최상위)'} : 배열 {len(data)}건 · 필드 {', '.join(list(first)[:14])}")
+            sample = {k: v for k, v in list(first.items())[:6] if not isinstance(v, (dict, list))}
+            out.append(f"        예시 : {json.dumps(sample, ensure_ascii=False)[:300]}")
+            _outline(first, f"{path}[0]", depth + 1, out)
+        elif data:
+            out.append(f"      {path or '(최상위)'} : 배열 {len(data)}건 (값 목록)")
+    elif isinstance(data, dict):
+        for key, value in data.items():
+            if isinstance(value, (dict, list)):
+                _outline(value, f"{path}.{key}" if path else key, depth + 1, out)
+    return out
+
+
 def _describe_json_capture(capture: dict) -> list:
     """렌더링 중 오간 JSON 응답 하나를 설명한다 (목록처럼 보이는 배열을 모두 표시)."""
     method = capture.get("method", "GET")
@@ -209,7 +231,8 @@ def _describe_json_capture(capture: dict) -> list:
         lines.append(f"    최상위 키 : {', '.join(list(data)[:12])}")
     candidates = sorted(extract_mod.find_item_arrays(data), key=lambda pair: -len(pair[1]))[:3]
     if not candidates:
-        lines.append("    목록처럼 보이는 배열 없음")
+        lines.append("    목록처럼 보이는 배열 없음 — 구조 개요:")
+        lines.extend(_outline(data))
         return lines
     for path, rows in candidates:
         items = [it for it in (extract_mod.item_from_object(r, capture["url"]) for r in rows) if it]
@@ -227,9 +250,20 @@ def _describe_json_capture(capture: dict) -> list:
 
 def cmd_diagnose(monitor: Monitor, args) -> int:
     cfg = monitor.load_config()
-    site = config_mod.normalize({"sites": [{
-        "name": "diagnose", "url": args.url, "mode": "browser" if args.browser else "auto",
-    }]})["sites"][0]
+    if getattr(args, "site_json", None):
+        with open(args.site_json, encoding="utf-8") as fh:
+            raw_site = json.load(fh)
+        raw_site.setdefault("name", "diagnose")
+        site = config_mod.normalize({"sites": [raw_site]})["sites"][0]
+        args.url = site["url"]
+        args.browser = site["mode"] == "browser"
+    else:
+        if not args.url:
+            print("주소나 --site-json 중 하나는 지정해야 합니다.")
+            return 1
+        site = config_mod.normalize({"sites": [{
+            "name": "diagnose", "url": args.url, "mode": "browser" if args.browser else "auto",
+        }]})["sites"][0]
     request_cfg = cfg.get("request") or {}
     timeout = float(request_cfg.get("timeout_sec") or 20)
     user_agent = request_cfg.get("user_agent") or fetch_mod.DEFAULT_UA
@@ -242,7 +276,10 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
             if args.network:
                 fetched, captured = fetched
         else:
-            fetched = fetch_mod.fetch(site["url"], timeout=timeout, user_agent=user_agent)
+            fetched = fetch_mod.fetch(
+                site["url"], timeout=timeout, user_agent=user_agent,
+                headers=site.get("headers") or None,
+                method=site.get("method") or "GET", body=site.get("body") or "")
     except fetch_mod.FetchError as exc:
         print(f"접속 실패: {exc}")
         return 1
@@ -269,8 +306,15 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
             lines.append("")
     elif not result.items:
         lines.append("")
-        lines.append("항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 "
-                     "--browser --network 로 다시 시도해 보세요.")
+        if fetched.looks_json:
+            try:
+                lines.append("응답 구조 개요:")
+                lines.extend(_outline(json.loads(fetched.text)))
+            except (ValueError, TypeError):
+                pass
+        else:
+            lines.append("항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 "
+                         "--browser --network 로 다시 시도해 보세요.")
 
     text = "\n".join(lines)
     print(text)

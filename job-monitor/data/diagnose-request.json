@@ -1,0 +1,7 @@
+{
+  "name": "한화 채용 API",
+  "url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+  "mode": "json",
+  "method": "POST",
+  "body": "{\"langCd\":\"ko\",\"searchText\":\"\",\"sdSeqList\":null,\"rtNrcrtYn\":\"\",\"rtCarrYn\":\"\",\"rtIntnYn\":\"\",\"rtPermanentWorkYn\":\"\",\"rtTempWorkYn\":\"\",\"djSeqList\":null,\"rjSeqList\":null,\"page\":0,\"size\":50}"
+}

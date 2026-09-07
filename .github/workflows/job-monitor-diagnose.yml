@@ -9,6 +9,7 @@ on:
   push:
     paths:
       - "job-monitor/data/diagnose-request.txt"
+      - "job-monitor/data/diagnose-request.json"
   workflow_dispatch:
     inputs:
       url:
@@ -46,5 +47,10 @@ jobs:
       - name: 진단
         run: |
           URL="${{ inputs.url }}"
-          if [ -z "$URL" ]; then URL="$(head -n 1 job-monitor/data/diagnose-request.txt)"; fi
-          python3 job-monitor/monitor.py diagnose "$URL" --browser --network
+          if [ -n "$URL" ]; then
+            python3 job-monitor/monitor.py diagnose "$URL" --browser --network
+          elif [ -f job-monitor/data/diagnose-request.json ]; then
+            python3 job-monitor/monitor.py diagnose --site-json job-monitor/data/diagnose-request.json
+          else
+            python3 job-monitor/monitor.py diagnose "$(head -n 1 job-monitor/data/diagnose-request.txt)" --browser --network
+          fi
