@@ -79,7 +79,12 @@ class Monitor:
         user_agent = request_cfg.get("user_agent") or fetch_mod.DEFAULT_UA
         if (site.get("mode") or "auto") == "browser":
             return fetch_mod.fetch_rendered(site["url"], timeout=max(timeout, 30), user_agent=user_agent)
-        return fetch_mod.fetch(site["url"], timeout=timeout, user_agent=user_agent)
+        return fetch_mod.fetch(
+            site["url"], timeout=timeout, user_agent=user_agent,
+            headers=site.get("headers") or None,
+            method=site.get("method") or "GET",
+            body=site.get("body") or "",
+        )
 
     def check_site(self, cfg: dict, site: dict, state: dict, force: bool = False) -> dict:
         """사이트 한 곳을 확인하고 결과 딕셔너리를 돌려준다. 상태도 갱신한다."""

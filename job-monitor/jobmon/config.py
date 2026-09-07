@@ -58,6 +58,9 @@ DEFAULT_SITE = {
     "title_pattern": "",          # 제목 필터 (정규식)
     "exclude_pattern": "",        # 제외 필터 (정규식, 주소·제목 모두에 적용)
     "max_items": 300,             # 한 번에 인정할 최대 항목 수 (노이즈 방지)
+    "method": "GET",              # 검색형 API 는 POST 인 경우가 있다
+    "body": "",                   # POST 로 보낼 본문 (보통 JSON 문자열)
+    "headers": {},                # 추가로 보낼 요청 헤더
     "json": {                     # mode == "json" 일 때만 사용
         "items_path": "",
         "id_field": "",
@@ -165,6 +168,10 @@ def normalize(config: dict) -> dict:
         site["enabled"] = bool(site.get("enabled", True))
         if site.get("mode") not in ("auto", "html", "json", "browser"):
             site["mode"] = "auto"
+        site["method"] = "POST" if str(site.get("method", "")).upper() == "POST" else "GET"
+        site["body"] = site.get("body") or ""
+        if not isinstance(site.get("headers"), dict):
+            site["headers"] = {}
         if site.get("interval_hours") in (None, "", 0):
             site["interval_hours"] = None
         else:

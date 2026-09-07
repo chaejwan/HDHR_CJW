@@ -195,29 +195,33 @@ def cmd_test_email(monitor: Monitor) -> int:
 
 
 def _describe_json_capture(capture: dict) -> list:
-    """렌더링 중 오간 JSON 응답에서 '공고 목록처럼 보이는 배열'을 찾아 설명한다."""
-    lines = []
+    """렌더링 중 오간 JSON 응답 하나를 설명한다 (목록처럼 보이는 배열을 모두 표시)."""
+    method = capture.get("method", "GET")
+    lines = [f"· [{method}] {capture['url']} ({len(capture['text'])}자)"]
+    if capture.get("post_data"):
+        lines.append(f"    보낸 본문 : {capture['post_data'][:300]}")
     try:
         data = json.loads(capture["text"])
     except (ValueError, TypeError):
+        lines.append("    (JSON 으로 읽지 못함)")
         return lines
-    candidates = extract_mod.find_item_arrays(data)
+    if isinstance(data, dict):
+        lines.append(f"    최상위 키 : {', '.join(list(data)[:12])}")
+    candidates = sorted(extract_mod.find_item_arrays(data), key=lambda pair: -len(pair[1]))[:3]
     if not candidates:
+        lines.append("    목록처럼 보이는 배열 없음")
         return lines
-    path, rows = max(candidates, key=lambda pair: len(pair[1]))
-    items = [it for it in (extract_mod.item_from_object(r, capture["url"]) for r in rows) if it]
-    if not items:
-        return lines
-    lines.append(f"  주소      : {capture['url']}")
-    lines.append(f"  목록 경로 : {path or '(응답 최상위 배열)'} · {len(items)}건")
-    for item in items[:5]:
-        lines.append(f"    - {item['title']}")
-    sample = rows[0] if rows else {}
-    if isinstance(sample, dict):
-        lines.append(f"  필드 이름 : {', '.join(list(sample)[:12])}")
-    lines.append("  설정 예시 : mode=json, url=위 주소, "
-                 f"items_path={path or ''}")
-    lines.append("")
+    for path, rows in candidates:
+        items = [it for it in (extract_mod.item_from_object(r, capture["url"]) for r in rows) if it]
+        if not items:
+            continue
+        sample = rows[0] if isinstance(rows[0], dict) else {}
+        lines.append(f"    목록 후보 : {path or '(최상위 배열)'} · {len(items)}건 "
+                     f"· 필드 {', '.join(list(sample)[:10])}")
+        for item in items[:5]:
+            lines.append(f"        - {item['title']}")
+        lines.append(f"      설정 예시 : mode=json · url={capture['url']} · "
+                     f"method={method} · items_path={path or ''}")
     return lines
 
 
@@ -259,17 +263,10 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
 
     if args.network:
         lines.append("")
-        lines.append(f"주고받은 JSON 응답 {len(captured)}건 가운데 목록처럼 보이는 것:")
-        found = False
+        lines.append(f"주고받은 JSON 응답 {len(captured)}건:")
         for capture in captured:
-            described = _describe_json_capture(capture)
-            if described:
-                found = True
-                lines.extend(described)
-        if not found:
-            lines.append("  (목록처럼 보이는 JSON 응답을 찾지 못했습니다)")
-            for capture in captured[:15]:
-                lines.append(f"  · {capture['url']} ({len(capture['text'])}자)")
+            lines.extend(_describe_json_capture(capture))
+            lines.append("")
     elif not result.items:
         lines.append("")
         lines.append("항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 "

@@ -63,7 +63,9 @@ def _charset(content_type: str, raw: bytes) -> str:
     return "utf-8"
 
 
-def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: dict | None = None) -> FetchResult:
+def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: dict | None = None,
+          method: str = "GET", body: str = "") -> FetchResult:
+    """주소 하나를 받아 온다. body 를 주면 POST 로 보낸다 (검색형 API 용)."""
     req_headers = {
         "User-Agent": user_agent or DEFAULT_UA,
         "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
@@ -71,8 +73,15 @@ def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: 
         "Accept-Encoding": "gzip, deflate",
         "Connection": "close",
     }
+    method = (method or "GET").upper()
+    data = None
+    if body:
+        data = body.encode("utf-8")
+        req_headers.setdefault("Content-Type", "application/json;charset=UTF-8")
+        if method == "GET":
+            method = "POST"
     req_headers.update(headers or {})
-    req = urlrequest.Request(url, headers=req_headers)
+    req = urlrequest.Request(url, data=data, headers=req_headers, method=method)
     try:
         with urlrequest.urlopen(req, timeout=timeout) as resp:
             raw = resp.read()
@@ -135,6 +144,13 @@ def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA,
                 except Exception:
                     pass
                 page.wait_for_timeout(wait_ms)
+                try:
+                    # 스크롤해야 목록을 더 불러오는 사이트 대응
+                    for _ in range(3):
+                        page.mouse.wheel(0, 4000)
+                        page.wait_for_timeout(800)
+                except Exception:
+                    pass
                 html = page.content()
                 final_url = page.url
                 if capture:
@@ -161,6 +177,12 @@ def _read_json_responses(responses) -> list:
         except Exception:
             content_type = ""
         url = getattr(resp, "url", "")
+        try:
+            request = resp.request
+            method = request.method
+            post_data = request.post_data or ""
+        except Exception:
+            method, post_data = "GET", ""
         if "json" not in content_type and not any(
             hint in url.lower() for hint in ("/api/", "/rest/", ".json", "recruit", "notice", "list")
         ):
@@ -177,7 +199,8 @@ def _read_json_responses(responses) -> list:
         if head not in ("{", "["):
             continue
         out.append({"url": url, "status": getattr(resp, "status", 0),
-                    "content_type": content_type, "text": body})
+                    "content_type": content_type, "text": body,
+                    "method": method, "post_data": post_data[:2000]})
         if len(out) >= MAX_CAPTURED:
             break
     return out
