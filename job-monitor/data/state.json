@@ -1,1 +1,28 @@
-{"version": 1, "sites": {}}
+{
+ "version": 1,
+ "sites": {
+  "hanwhain": {
+   "seen": {},
+   "last_check": "2026-09-07T10:21:13+00:00",
+   "last_success": "2026-09-07T10:21:13+00:00",
+   "last_status": "baseline",
+   "last_error": "",
+   "last_method": "fingerprint",
+   "item_count": 0,
+   "fingerprint": "da39a3ee5e6b4b0d",
+   "baseline_done": true,
+   "history": [
+    {
+     "at": "2026-09-07T10:21:13+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 0,
+     "error": "",
+     "note": "목록을 찾지 못해 페이지 내용 변경만 감시합니다.",
+     "new": []
+    }
+   ],
+   "last_note": "목록을 찾지 못해 페이지 내용 변경만 감시합니다."
+  }
+ }
+}
