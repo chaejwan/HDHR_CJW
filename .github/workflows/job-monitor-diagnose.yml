@@ -1,0 +1,47 @@
+name: 사이트 진단
+
+# 새 사이트를 등록하기 전에, 그 주소에서 공고 목록이 어떻게 잡히는지 확인합니다.
+# Actions 탭 → 사이트 진단 → Run workflow 에서 주소를 넣고 실행하면,
+# 실행 화면 요약에 결과(추출 방식, 찾은 항목, 목록 API 후보)가 표시됩니다.
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "진단할 주소 (예: https://www.example.com/careers)"
+        required: true
+      browser:
+        description: "브라우저로 렌더링해서 확인 (자바스크립트로 목록을 그리는 사이트)"
+        type: boolean
+        default: true
+      network:
+        description: "렌더링 중 오간 JSON 응답까지 살펴 목록 API 후보를 찾기"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 내려받기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 브라우저 설치
+        if: inputs.browser
+        run: |
+          pip install --quiet playwright
+          python -m playwright install --with-deps chromium
+
+      - name: 진단
+        run: |
+          python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
+            ${{ inputs.browser && '--browser' || ' ' }} \
+            ${{ (inputs.browser && inputs.network) && '--network' || ' ' }}

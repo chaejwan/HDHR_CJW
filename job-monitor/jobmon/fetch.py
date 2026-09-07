@@ -105,8 +105,13 @@ def browser_available() -> bool:
     return True
 
 
-def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA, wait_ms: int = 2500) -> FetchResult:
-    """자바스크립트로 목록을 그리는 사이트용. Playwright 가 설치돼 있어야 한다."""
+def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA,
+                   wait_ms: int = 2500, capture: bool = False):
+    """자바스크립트로 목록을 그리는 사이트용. Playwright 가 설치돼 있어야 한다.
+
+    capture=True 면 (FetchResult, 페이지가 주고받은 JSON 응답 목록) 을 함께 돌려준다.
+    사이트가 어떤 API 로 공고 목록을 가져오는지 찾을 때 쓴다.
+    """
     try:
         from playwright.sync_api import sync_playwright
     except ImportError as exc:  # pragma: no cover - 설치 환경에 따라 다름
@@ -115,11 +120,15 @@ def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA, 
             "pip install playwright && playwright install chromium 을 실행하세요."
         ) from exc
 
+    captured = []
     try:
         with sync_playwright() as pw:
             browser = pw.chromium.launch(args=["--no-sandbox"])
             try:
                 page = browser.new_context(user_agent=user_agent or DEFAULT_UA).new_page()
+                responses = []
+                if capture:
+                    page.on("response", lambda resp: responses.append(resp))
                 page.goto(url, timeout=timeout * 1000, wait_until="domcontentloaded")
                 try:
                     page.wait_for_load_state("networkidle", timeout=timeout * 1000)
@@ -128,9 +137,47 @@ def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA, 
                 page.wait_for_timeout(wait_ms)
                 html = page.content()
                 final_url = page.url
+                if capture:
+                    captured = _read_json_responses(responses)
             finally:
                 browser.close()
     except Exception as exc:  # pragma: no cover - 브라우저 실행 실패
         raise FetchError(f"브라우저 렌더링 실패: {exc}") from exc
 
-    return FetchResult(url=final_url, status=200, text=html, content_type="text/html", rendered=True)
+    result = FetchResult(url=final_url, status=200, text=html, content_type="text/html", rendered=True)
+    return (result, captured) if capture else result
+
+
+MAX_CAPTURED = 60
+MAX_CAPTURED_BYTES = 3_000_000
+
+
+def _read_json_responses(responses) -> list:
+    """렌더링 중 오간 응답 가운데 JSON 으로 보이는 것만 본문까지 읽어 둔다."""
+    out = []
+    for resp in responses[:200]:
+        try:
+            content_type = (resp.header_value("content-type") or "").lower()
+        except Exception:
+            content_type = ""
+        url = getattr(resp, "url", "")
+        if "json" not in content_type and not any(
+            hint in url.lower() for hint in ("/api/", "/rest/", ".json", "recruit", "notice", "list")
+        ):
+            continue
+        if url.endswith((".js", ".css", ".png", ".jpg", ".svg", ".woff", ".woff2", ".ico")):
+            continue
+        try:
+            body = resp.text()
+        except Exception:
+            continue
+        if not body or len(body) > MAX_CAPTURED_BYTES:
+            continue
+        head = body.lstrip()[:1]
+        if head not in ("{", "["):
+            continue
+        out.append({"url": url, "status": getattr(resp, "status", 0),
+                    "content_type": content_type, "text": body})
+        if len(out) >= MAX_CAPTURED:
+            break
+    return out

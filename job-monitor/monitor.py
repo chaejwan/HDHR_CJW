@@ -60,6 +60,8 @@ def build_parser() -> argparse.ArgumentParser:
     diagnose = sub.add_parser("diagnose", help="주소에서 무엇이 추출되는지 점검")
     diagnose.add_argument("url")
     diagnose.add_argument("--browser", action="store_true", help="Playwright 로 렌더링해서 확인")
+    diagnose.add_argument("--network", action="store_true",
+                          help="렌더링 중 오간 JSON 응답까지 살펴 목록 API 를 찾는다 (--browser 필요)")
     return parser
 
 
@@ -192,28 +194,96 @@ def cmd_test_email(monitor: Monitor) -> int:
     return 0
 
 
+def _describe_json_capture(capture: dict) -> list:
+    """렌더링 중 오간 JSON 응답에서 '공고 목록처럼 보이는 배열'을 찾아 설명한다."""
+    lines = []
+    try:
+        data = json.loads(capture["text"])
+    except (ValueError, TypeError):
+        return lines
+    candidates = extract_mod.find_item_arrays(data)
+    if not candidates:
+        return lines
+    path, rows = max(candidates, key=lambda pair: len(pair[1]))
+    items = [it for it in (extract_mod.item_from_object(r, capture["url"]) for r in rows) if it]
+    if not items:
+        return lines
+    lines.append(f"  주소      : {capture['url']}")
+    lines.append(f"  목록 경로 : {path or '(응답 최상위 배열)'} · {len(items)}건")
+    for item in items[:5]:
+        lines.append(f"    - {item['title']}")
+    sample = rows[0] if rows else {}
+    if isinstance(sample, dict):
+        lines.append(f"  필드 이름 : {', '.join(list(sample)[:12])}")
+    lines.append("  설정 예시 : mode=json, url=위 주소, "
+                 f"items_path={path or ''}")
+    lines.append("")
+    return lines
+
+
 def cmd_diagnose(monitor: Monitor, args) -> int:
     cfg = monitor.load_config()
     site = config_mod.normalize({"sites": [{
         "name": "diagnose", "url": args.url, "mode": "browser" if args.browser else "auto",
     }]})["sites"][0]
+    request_cfg = cfg.get("request") or {}
+    timeout = float(request_cfg.get("timeout_sec") or 20)
+    user_agent = request_cfg.get("user_agent") or fetch_mod.DEFAULT_UA
+
+    captured = []
     try:
-        fetched = monitor.fetch_site(cfg, site)
+        if args.browser:
+            fetched = fetch_mod.fetch_rendered(
+                site["url"], timeout=max(timeout, 30), user_agent=user_agent, capture=args.network)
+            if args.network:
+                fetched, captured = fetched
+        else:
+            fetched = fetch_mod.fetch(site["url"], timeout=timeout, user_agent=user_agent)
     except fetch_mod.FetchError as exc:
         print(f"접속 실패: {exc}")
         return 1
+
     result = extract_mod.extract(site, fetched)
-    print(f"주소       : {fetched.url}")
-    print(f"응답       : HTTP {fetched.status} · {fetched.content_type or '-'}"
-          f"{' · 렌더링됨' if fetched.rendered else ''} · {len(fetched.text)}자")
-    print(f"추출 방식  : {result.method}")
-    print(f"찾은 항목  : {len(result.items)}개")
+    lines = [
+        f"주소       : {fetched.url}",
+        f"응답       : HTTP {fetched.status} · {fetched.content_type or '-'}"
+        f"{' · 렌더링됨' if fetched.rendered else ''} · {len(fetched.text)}자",
+        f"추출 방식  : {result.method}",
+        f"찾은 항목  : {len(result.items)}개",
+    ]
     if result.note:
-        print(f"메모       : {result.note}")
+        lines.append(f"메모       : {result.note}")
     for item in result.items[:20]:
-        print(f"  - {item['title']}\n    {item['url']}")
-    if not result.items:
-        print("\n항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 --browser 로 다시 시도해 보세요.")
+        lines.append(f"  - {item['title']}")
+        lines.append(f"    {item['url']}")
+
+    if args.network:
+        lines.append("")
+        lines.append(f"주고받은 JSON 응답 {len(captured)}건 가운데 목록처럼 보이는 것:")
+        found = False
+        for capture in captured:
+            described = _describe_json_capture(capture)
+            if described:
+                found = True
+                lines.extend(described)
+        if not found:
+            lines.append("  (목록처럼 보이는 JSON 응답을 찾지 못했습니다)")
+            for capture in captured[:15]:
+                lines.append(f"  · {capture['url']} ({len(capture['text'])}자)")
+    elif not result.items:
+        lines.append("")
+        lines.append("항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 "
+                     "--browser --network 로 다시 시도해 보세요.")
+
+    text = "\n".join(lines)
+    print(text)
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        try:
+            with open(summary_path, "a", encoding="utf-8") as fh:
+                fh.write(f"## 사이트 진단 — {args.url}\n\n```\n{text}\n```\n")
+        except OSError:
+            pass
     return 0
 
 
