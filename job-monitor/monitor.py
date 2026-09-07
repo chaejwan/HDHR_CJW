@@ -182,12 +182,32 @@ def cmd_list(monitor: Monitor) -> int:
 
 def cmd_test_email(monitor: Monitor) -> int:
     cfg = config_mod.effective(monitor.load_config())
+    email_cfg = cfg["email"]
     recipients = cfg.get("recipients") or []
+    password = notify_mod.resolve_password(email_cfg)
+    username = email_cfg.get("username") or ""
+
+    # 값 자체는 찍지 않고(시크릿), 흔한 실수를 짚어낼 수 있는 특징만 보여 준다.
+    print("[메일 설정 점검]")
+    print(f"  보내는 서버 : {email_cfg.get('smtp_host')}:{email_cfg.get('smtp_port')}"
+          f" ({email_cfg.get('security')})")
+    print(f"  아이디      : {len(username)}자"
+          f"{' · @ 포함' if '@' in username else ' · @ 없음 (전체 메일 주소여야 합니다)'}")
+    print(f"  비밀번호    : {len(password)}자"
+          f"{f' · 공백 {password.count(chr(32))}개 포함 (지워야 합니다)' if ' ' in password else ' · 공백 없음'}")
+    if email_cfg.get("smtp_host", "").endswith("gmail.com") and len(password) != 16:
+        print("    → Gmail 앱 비밀번호는 공백 없이 16자입니다. 길이가 다르면 값이 잘못된 것입니다.")
+    print(f"  수신 이메일 : {len(recipients)}명")
+
     if not recipients:
-        print("수신 이메일이 설정돼 있지 않습니다.")
+        print("실패: 수신 이메일이 설정돼 있지 않습니다. "
+              "시크릿 JOBMON_RECIPIENTS 를 등록하거나 설정 화면에서 주소를 넣으세요.")
+        return 1
+    if not password:
+        print("실패: 비밀번호가 비어 있습니다. 시크릿 JOBMON_SMTP_PASSWORD 를 등록하세요.")
         return 1
     try:
-        notify_mod.send_test(cfg["email"], recipients)
+        notify_mod.send_test(email_cfg, recipients)
     except notify_mod.NotifyError as exc:
         print(f"실패: {exc}")
         return 1
