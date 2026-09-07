@@ -20,6 +20,7 @@ from jobmon import extract as extract_mod     # noqa: E402
 from jobmon import notify as notify_mod       # noqa: E402
 from jobmon import server as server_mod       # noqa: E402
 from jobmon import store as store_mod         # noqa: E402
+from jobmon import fetch as fetch_mod         # noqa: E402
 from jobmon.fetch import FetchResult          # noqa: E402
 from jobmon.runner import Monitor             # noqa: E402
 
@@ -279,6 +280,10 @@ class EndToEndTest(unittest.TestCase):
         self.assertEqual(summary["new_total"], 1)
 
     def test_error_is_recorded(self):
+        # 재시도 대기 때문에 테스트가 느려지지 않도록 잠깐 줄인다
+        original = fetch_mod.RETRY_WAIT_SEC
+        fetch_mod.RETRY_WAIT_SEC = (0, 0)
+        self.addCleanup(lambda: setattr(fetch_mod, "RETRY_WAIT_SEC", original))
         cfg = self.monitor.load_config()
         cfg["sites"][0]["url"] = "http://127.0.0.1:9/none"
         self.monitor.save_config(cfg)
@@ -580,3 +585,47 @@ class DueSchedulingTest(unittest.TestCase):
         cfg, state = monitor.load_config(), monitor.load_state()
         self.assertIsNone(monitor.next_due(cfg, state, cfg["sites"][0]))
         self.assertEqual([s["id"] for s in monitor.due_sites(cfg, state)], ["a"])
+
+
+class RetryTest(unittest.TestCase):
+    """일시적인 접속 실패는 몇 번 더 시도한다."""
+
+    def setUp(self):
+        self.original = fetch_mod.RETRY_WAIT_SEC
+        fetch_mod.RETRY_WAIT_SEC = (0, 0)
+        self.addCleanup(lambda: setattr(fetch_mod, "RETRY_WAIT_SEC", self.original))
+
+    def test_connection_error_is_retried(self):
+        with self.assertRaises(fetch_mod.FetchError) as ctx:
+            fetch_mod.fetch("http://127.0.0.1:9/none", timeout=1)
+        self.assertIn(f"{fetch_mod.RETRY_ATTEMPTS}회 시도", str(ctx.exception))
+
+    def test_succeeds_after_transient_failure(self):
+        calls = {"n": 0}
+        real = fetch_mod._fetch_once
+
+        def flaky(url, **kwargs):
+            calls["n"] += 1
+            if calls["n"] < 2:
+                raise fetch_mod.FetchError("응답 시간 초과 (20초)", retryable=True)
+            return FetchResult(url=url, status=200, text="<html></html>", content_type="text/html")
+
+        fetch_mod._fetch_once = flaky
+        self.addCleanup(lambda: setattr(fetch_mod, "_fetch_once", real))
+        result = fetch_mod.fetch("https://example.com")
+        self.assertEqual(result.status, 200)
+        self.assertEqual(calls["n"], 2)
+
+    def test_client_error_is_not_retried(self):
+        calls = {"n": 0}
+        real = fetch_mod._fetch_once
+
+        def not_found(url, **kwargs):
+            calls["n"] += 1
+            raise fetch_mod.FetchError("HTTP 404 Not Found", retryable=False)
+
+        fetch_mod._fetch_once = not_found
+        self.addCleanup(lambda: setattr(fetch_mod, "_fetch_once", real))
+        with self.assertRaises(fetch_mod.FetchError):
+            fetch_mod.fetch("https://example.com")
+        self.assertEqual(calls["n"], 1)

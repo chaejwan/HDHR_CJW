@@ -5,6 +5,7 @@ from __future__ import annotations
 import gzip
 import io
 import re
+import time
 import zlib
 from dataclasses import dataclass, field
 from urllib import request as urlrequest
@@ -18,6 +19,15 @@ DEFAULT_UA = (
 
 class FetchError(Exception):
     """접속 실패. 메시지는 사용자에게 그대로 보여 준다."""
+
+    def __init__(self, message: str, retryable: bool = False):
+        super().__init__(message)
+        self.retryable = retryable
+
+
+# 상대 서버가 일시적으로 느리거나 막을 때를 대비한 재시도 (사이트 한 곳당)
+RETRY_ATTEMPTS = 3
+RETRY_WAIT_SEC = (3, 8)
 
 
 @dataclass
@@ -65,7 +75,26 @@ def _charset(content_type: str, raw: bytes) -> str:
 
 def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: dict | None = None,
           method: str = "GET", body: str = "") -> FetchResult:
-    """주소 하나를 받아 온다. body 를 주면 POST 로 보낸다 (검색형 API 용)."""
+    """주소 하나를 받아 온다. 응답이 없거나 일시적 오류면 몇 번 더 시도한다."""
+    last_error = None
+    for attempt in range(1, RETRY_ATTEMPTS + 1):
+        try:
+            return _fetch_once(url, timeout=timeout, user_agent=user_agent, headers=headers,
+                               method=method, body=body)
+        except FetchError as exc:
+            last_error = exc
+            if not exc.retryable or attempt == RETRY_ATTEMPTS:
+                break
+            time.sleep(RETRY_WAIT_SEC[min(attempt - 1, len(RETRY_WAIT_SEC) - 1)])
+    message = str(last_error)
+    if last_error is not None and last_error.retryable and RETRY_ATTEMPTS > 1:
+        message = f"{message} ({RETRY_ATTEMPTS}회 시도)"
+    raise FetchError(message, retryable=bool(last_error and last_error.retryable))
+
+
+def _fetch_once(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: dict | None = None,
+                method: str = "GET", body: str = "") -> FetchResult:
+    """실제로 한 번 요청한다. body 를 주면 POST 로 보낸다 (검색형 API 용)."""
     req_headers = {
         "User-Agent": user_agent or DEFAULT_UA,
         "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
@@ -97,13 +126,19 @@ def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: 
                 headers={k.lower(): v for k, v in info.items()},
             )
     except HTTPError as exc:
-        raise FetchError(f"HTTP {exc.code} {exc.reason}") from exc
+        # 429(요청 과다)와 5xx 는 잠시 뒤 다시 해 볼 만하다
+        retryable = exc.code == 429 or 500 <= exc.code < 600
+        raise FetchError(f"HTTP {exc.code} {exc.reason}", retryable=retryable) from exc
     except URLError as exc:
-        raise FetchError(f"접속 실패: {exc.reason}") from exc
+        reason = exc.reason
+        text = str(reason)
+        if isinstance(reason, TimeoutError) or "timed out" in text:
+            raise FetchError(f"응답 시간 초과 ({timeout:g}초)", retryable=True) from exc
+        raise FetchError(f"접속 실패: {text}", retryable=True) from exc
     except TimeoutError as exc:
-        raise FetchError(f"응답 시간 초과 ({timeout}초)") from exc
+        raise FetchError(f"응답 시간 초과 ({timeout:g}초)", retryable=True) from exc
     except OSError as exc:
-        raise FetchError(f"접속 실패: {exc}") from exc
+        raise FetchError(f"접속 실패: {exc}", retryable=True) from exc
 
 
 def browser_available() -> bool:
