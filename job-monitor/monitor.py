@@ -24,6 +24,7 @@ from jobmon import extract as extract_mod  # noqa: E402
 from jobmon import fetch as fetch_mod      # noqa: E402
 from jobmon import notify as notify_mod    # noqa: E402
 from jobmon.runner import Monitor          # noqa: E402
+from jobmon import store as store_mod       # noqa: E402
 from jobmon import server as server_mod    # noqa: E402
 
 DEFAULT_CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
@@ -101,6 +102,31 @@ def _write_summary_json(path: str, summary: dict) -> None:
         fh.write("\n")
 
 
+def _write_email_status(monitor: Monitor, *, ok: bool, kind: str,
+                        recipient_count: int, error: str = "") -> None:
+    """메일 발송을 시도한 결과를 남긴다.
+
+    설정 화면은 저장소 시크릿을 읽을 수 없으므로, '메일이 실제로 나갔는지'는
+    이 기록으로만 알 수 있다. 이메일 주소 자체는 (공개 저장소이므로) 남기지 않는다.
+    """
+    path = os.path.join(os.path.dirname(monitor.state_path), "email-status.json")
+    payload = {
+        "at": store_mod.now_iso(),
+        "ok": bool(ok),
+        "kind": kind,                    # test = 테스트 메일, run = 새 공고 알림
+        "recipient_count": int(recipient_count),
+        "error": error,
+        "run_url": _run_url(),
+    }
+    try:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(payload, fh, ensure_ascii=False, indent=1)
+            fh.write("\n")
+    except OSError:
+        pass
+
+
 def _write_step_summary(summary: dict) -> None:
     """GitHub Actions 실행 화면에 결과를 표로 남긴다."""
     path = os.environ.get("GITHUB_STEP_SUMMARY")
@@ -138,6 +164,13 @@ def cmd_check(monitor: Monitor, args) -> int:
     if getattr(args, "summary_json", None):
         _write_summary_json(args.summary_json, summary)
     _write_step_summary(summary)
+    mail = summary["email"]
+    if mail["sent"] or mail["error"]:
+        _write_email_status(
+            monitor, ok=mail["sent"], kind="run",
+            recipient_count=len(config_mod.effective(monitor.load_config()).get("recipients") or []),
+            error=mail["error"],
+        )
     print()
     for result in summary["results"]:
         print(f"■ {result['site_name']} — {result['status']} (항목 {result['item_count']}개)")
@@ -209,8 +242,11 @@ def cmd_test_email(monitor: Monitor) -> int:
     try:
         notify_mod.send_test(email_cfg, recipients)
     except notify_mod.NotifyError as exc:
+        _write_email_status(monitor, ok=False, kind="test",
+                            recipient_count=len(recipients), error=str(exc))
         print(f"실패: {exc}")
         return 1
+    _write_email_status(monitor, ok=True, kind="test", recipient_count=len(recipients))
     print(f"{', '.join(recipients)} 로 테스트 메일을 보냈습니다.")
     return 0
 
