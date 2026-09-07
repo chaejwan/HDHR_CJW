@@ -208,6 +208,17 @@
           <label class="field field--narrow"><span>식별자 필드</span><input type="text" data-role="json.id_field" placeholder="id" /></label>
           <label class="field"><span>상세 주소 형식</span><input type="text" data-role="json.url_template" placeholder="https://example.com/jobs/{id}" /></label>
         </div>
+        <div class="row" data-role="jsonBox2">
+          <label class="field field--narrow">
+            <span>요청 방식</span>
+            <select data-role="method">
+              <option value="GET">GET</option>
+              <option value="POST">POST</option>
+            </select>
+          </label>
+          <label class="field field--wide"><span>요청 본문 (POST 일 때, JSON)</span><input type="text" data-role="body" placeholder='{"page":0,"size":50}' /></label>
+          <label class="field"><span>마감/등록일 필드</span><input type="text" data-role="json.date_field" placeholder="regDt" /></label>
+        </div>
         <label class="field"><span>메모</span><input type="text" data-role="note" /></label>
         <p class="site__stat" data-role="stat"></p>
       </details>

@@ -113,19 +113,41 @@ GitHub 의 예약 실행(schedule)은 **기본 브랜치에 있는 워크플로�
 원본 HTML 에 공고가 없습니다. 확인 방식을 **브라우저 렌더링** 으로 바꾸면 워크플로가 그 사이트에
 한해 Chromium 을 설치해 실제로 화면을 그린 뒤 목록을 읽습니다(실행 시간이 1~2분 늘어납니다).
 
-**방법 3 — JSON API 직접 지정 (가장 안정적).** 브라우저 개발자도구(F12) → **Network** 탭에서
-페이지를 새로고침하면 목록을 가져오는 요청이 보입니다. 그 주소를 사이트 주소로 넣고
+**방법 3 — JSON API 직접 지정 (가장 안정적).** 목록을 가져오는 API 주소를 사이트 주소로 넣고
 확인 방식을 **JSON API** 로 바꾼 뒤 필드를 지정합니다.
 
 | 칸 | 예시 | 설명 |
 | --- | --- | --- |
 | JSON 목록 경로 | `data.list` | 공고 배열이 있는 위치 |
-| 제목 필드 | `title` | 공고 제목 |
-| 식별자 필드 | `id` | 같은 공고인지 구분할 값 |
-| 상세 주소 형식 | `https://www.example.com/jobs/{id}` | `{필드명}` 자리에 값이 들어갑니다 |
+| 제목 필드 | `rtNm` | 공고 제목 |
+| 식별자 필드 | `rtSeq` | 같은 공고인지 구분할 값 |
+| 상세 주소 형식 | `https://www.example.com/jobs/detail?seq={rtSeq}` | `{필드명}` 자리에 값이 들어갑니다 |
+| 요청 방식 / 본문 | `POST` / `{"page":0,"size":50}` | 검색형 API 는 POST 로 조건을 보냅니다 |
 
-비워 두면 흔한 이름(`title`, `name`, `subject`, `id`, `seq` …)을 자동으로 찾습니다.
-어떤 방식이 맞는지 미리 보고 싶으면 아래 로컬 실행의 `diagnose` 를 쓰면 됩니다.
+비워 두면 흔한 이름(`title`, `name`, `subject`, `id`, `seq`)과 국내 사이트에서 흔한 축약형
+(`…Nm`, `…Ttl`, `…Seq`)을 자동으로 찾습니다.
+
+**API 주소는 어떻게 찾나요 — 사이트 진단 워크플로**
+
+Actions 탭 → **사이트 진단** → Run workflow 에 주소를 넣고 실행하면, GitHub 이 그 페이지를
+브라우저로 열어 **어떤 API 를 호출하는지, 그 응답에 어떤 목록이 들어 있는지** 정리해 줍니다.
+직접 개발자도구를 열어 볼 필요가 없습니다. (로컬에서는
+`python3 monitor.py diagnose <주소> --browser --network`)
+
+### 예시: 이 저장소에 기본 등록된 한화 채용
+
+한화 채용 페이지는 화면을 자바스크립트로 그리고, 공고가 링크(`<a>`)로 되어 있지 않아
+브라우저로 렌더링해도 메뉴 링크만 잡힙니다. 진단으로 찾은 실제 목록 API 를 쓰도록 설정했습니다.
+
+| 항목 | 값 |
+| --- | --- |
+| 주소 | `https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt` |
+| 확인 방식 / 요청 | JSON API / `POST` (본문에 `page`, `size` 등 검색 조건) |
+| 목록 경로 | `data.list` |
+| 제목 / 식별자 / 마감일 | `rtNm` / `rtSeq` / `rtAcptEndDttm` |
+| 상세 주소 | `https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq={rtSeq}` |
+
+이 설정으로 공고 50건이 정상 수집되는 것을 GitHub Actions 에서 확인했습니다.
 
 ---
 
@@ -137,8 +159,9 @@ GitHub 없이도 같은 프로그램을 로컬에서 쓸 수 있습니다. 설�
 cd job-monitor
 python3 monitor.py serve --open              # 로컬 설정 화면 + 주기 확인 (http://localhost:8765)
 python3 monitor.py check --no-email          # 지금 한 번 확인해서 결과만 출력
-python3 monitor.py diagnose <주소>           # 그 주소에서 무엇이 추출되는지 점검
-python3 monitor.py diagnose <주소> --browser # 렌더링해서 점검 (pip install playwright 필요)
+python3 monitor.py diagnose <주소>                     # 그 주소에서 무엇이 추출되는지 점검
+python3 monitor.py diagnose <주소> --browser --network # 렌더링하고 목록 API 까지 추적
+python3 monitor.py diagnose --site-json <파일>         # 설정 그대로(POST 본문 포함) 점검
 python3 monitor.py list                      # 사이트와 마지막 확인 상태
 python3 monitor.py test-email                # 테스트 메일 발송
 ```
@@ -159,7 +182,8 @@ python3 monitor.py check
 ## 5. 파일 구성
 
 ```
-.github/workflows/job-monitor.yml   매시간 실행되는 워크플로 (확인 → 메일 → 기록 커밋)
+.github/workflows/job-monitor.yml            매시간 실행 (확인 → 메일 → 기록 커밋)
+.github/workflows/job-monitor-diagnose.yml   사이트 진단 (주소를 넣고 수동 실행)
 monitor/                            공개 설정 화면 (GitHub Pages)
   ├─ index.html
   └─ assets/{app.js,styles.css}     GitHub API 로 config.json 을 읽고 쓰는 화면

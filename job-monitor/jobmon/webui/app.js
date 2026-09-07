@@ -220,6 +220,7 @@ function renderSites() {
     ['enabled', 'name', 'url', 'mode', 'interval_hours', 'max_items',
       'url_pattern', 'title_pattern', 'exclude_pattern', 'note',
       'json.items_path', 'json.title_field', 'json.id_field', 'json.url_template',
+      'json.date_field', 'method', 'body',
     ].forEach((role) => bind(role, getPath(site, role)));
 
     node.classList.toggle('site--off', !site.enabled);
@@ -241,8 +242,10 @@ function renderSites() {
 }
 
 function toggleJsonBox(node, mode) {
-  const box = node.querySelector('[data-role="jsonBox"]');
-  if (box) box.style.display = mode === 'json' ? '' : 'none';
+  ['jsonBox', 'jsonBox2'].forEach((role) => {
+    const box = node.querySelector(`[data-role="${role}"]`);
+    if (box) box.style.display = mode === 'json' ? '' : 'none';
+  });
 }
 
 function updateSiteMeta(node, site) {
@@ -476,6 +479,7 @@ el.addSiteBtn.addEventListener('click', () => {
   cfg.sites.push({
     id: '', name: '', url: '', enabled: true, mode: 'auto', interval_hours: null,
     url_pattern: '', title_pattern: '', exclude_pattern: '', max_items: 300,
+    method: 'GET', body: '', headers: {},
     json: { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '', date_field: '' },
     note: '',
   });

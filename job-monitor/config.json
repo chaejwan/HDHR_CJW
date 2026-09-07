@@ -21,23 +21,26 @@
     {
       "id": "hanwhain",
       "name": "한화 채용 (hanwhain)",
-      "url": "https://www.hanwhain.com/portal/apply/recruit",
+      "url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
       "enabled": true,
-      "mode": "browser",
+      "mode": "json",
+      "method": "POST",
+      "body": "{\"langCd\": \"ko\", \"searchText\": \"\", \"sdSeqList\": null, \"rtNrcrtYn\": \"\", \"rtCarrYn\": \"\", \"rtIntnYn\": \"\", \"rtPermanentWorkYn\": \"\", \"rtTempWorkYn\": \"\", \"djSeqList\": null, \"rjSeqList\": null, \"page\": 0, \"size\": 100}",
+      "headers": {},
       "interval_hours": null,
       "url_pattern": "",
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
       "json": {
-        "items_path": "",
-        "id_field": "",
-        "title_field": "",
+        "items_path": "data.list",
+        "id_field": "rtSeq",
+        "title_field": "rtNm",
         "url_field": "",
-        "url_template": "",
-        "date_field": ""
+        "url_template": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq={rtSeq}",
+        "date_field": "rtAcptEndDttm"
       },
-      "note": "자바스크립트로 목록을 그리는 사이트라 브라우저 렌더링으로 확인합니다."
+      "note": "한화인 채용공고 목록 API. 화면(www.hanwhain.com/portal/apply/recruit)이 실제로 호출하는 주소이며, 공고 상세는 rtSeq 로 연결됩니다."
     }
   ]
 }
