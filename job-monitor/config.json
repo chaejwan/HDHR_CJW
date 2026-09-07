@@ -23,7 +23,7 @@
       "name": "한화 채용 (hanwhain)",
       "url": "https://www.hanwhain.com/portal/apply/recruit",
       "enabled": true,
-      "mode": "auto",
+      "mode": "browser",
       "interval_hours": null,
       "url_pattern": "",
       "title_pattern": "",
@@ -37,7 +37,7 @@
         "url_template": "",
         "date_field": ""
       },
-      "note": "목록이 잡히지 않으면 확인 방식을 브라우저 렌더링(browser)으로 바꾸세요."
+      "note": "자바스크립트로 목록을 그리는 사이트라 브라우저 렌더링으로 확인합니다."
     }
   ]
 }
