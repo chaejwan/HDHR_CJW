@@ -502,8 +502,8 @@
      "first_seen": "2026-09-08T06:59:59+00:00"
     }
    },
-   "last_check": "2026-09-08T12:00:45+00:00",
-   "last_success": "2026-09-08T12:00:45+00:00",
+   "last_check": "2026-09-08T12:30:30+00:00",
+   "last_success": "2026-09-08T12:30:30+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -511,6 +511,16 @@
    "fingerprint": "a5c53ed0c031a06f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T12:30:30+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T12:00:45+00:00",
      "status": "ok",
@@ -1034,8 +1044,8 @@
      "first_seen": "2026-09-08T04:08:29+00:00"
     }
    },
-   "last_check": "2026-09-08T12:00:47+00:00",
-   "last_success": "2026-09-08T12:00:47+00:00",
+   "last_check": "2026-09-08T12:30:31+00:00",
+   "last_success": "2026-09-08T12:30:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1043,6 +1053,16 @@
    "fingerprint": "e639239f6ae2bb0b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T12:30:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-08T12:00:47+00:00",
      "status": "ok",
@@ -1918,8 +1938,8 @@
      "first_seen": "2026-09-08T11:00:51+00:00"
     }
    },
-   "last_check": "2026-09-08T12:00:52+00:00",
-   "last_success": "2026-09-08T12:00:52+00:00",
+   "last_check": "2026-09-08T12:30:33+00:00",
+   "last_success": "2026-09-08T12:30:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1927,6 +1947,16 @@
    "fingerprint": "5190ebd7f0d5b544",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T12:30:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T12:00:52+00:00",
      "status": "ok",
@@ -3431,15 +3461,25 @@
      "first_seen": "2026-09-08T07:00:06+00:00"
     }
    },
-   "last_check": "2026-09-08T12:00:53+00:00",
-   "last_success": "2026-09-08T12:00:53+00:00",
+   "last_check": "2026-09-08T12:30:34+00:00",
+   "last_success": "2026-09-08T12:30:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 151,
-   "fingerprint": "f98b73226c429e9d",
+   "fingerprint": "36efd3af562c8c88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T12:30:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T12:00:53+00:00",
      "status": "ok",
@@ -4112,8 +4152,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T12:00:57+00:00",
-   "last_success": "2026-09-08T12:00:57+00:00",
+   "last_check": "2026-09-08T12:30:38+00:00",
+   "last_success": "2026-09-08T12:30:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4121,6 +4161,16 @@
    "fingerprint": "66e40e355234c62b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T12:30:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T12:00:57+00:00",
      "status": "ok",
