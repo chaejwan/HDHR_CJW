@@ -39,6 +39,13 @@ DEFAULT_CONFIG = {
             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         ),
     },
+    "alerts": {
+        # 사이트가 조용히 망가지는 것을 잡아내는 안전장치
+        "enabled": True,
+        "drop_ratio": 0.5,        # 평소 항목 수의 이 비율 밑으로 떨어지면 알림
+        "consecutive_errors": 3,  # 연속 실패가 이만큼 쌓이면 알림
+        "stale_days": 30,         # 이 기간 동안 새 공고가 하나도 없으면 점검 권유 (0 이면 끔)
+    },
     "sites": [],
 }
 
@@ -46,6 +53,7 @@ DEFAULT_SITE = {
     "id": "",
     "name": "",
     "url": "",
+    "home_url": "",               # 사람이 열어 볼 주소 (url 이 API 일 때 메일·화면 링크에 사용)
     "enabled": True,
     # auto | html | json | browser
     #  auto    : JSON-LD → 내장 JSON → <a> 링크 → 본문 해시 순서로 자동 탐지
@@ -147,6 +155,21 @@ def normalize(config: dict) -> dict:
     if email.get("security") not in ("starttls", "ssl", "none"):
         email["security"] = "starttls"
 
+    alerts = cfg["alerts"]
+    alerts["enabled"] = bool(alerts.get("enabled"))
+    try:
+        alerts["drop_ratio"] = min(0.95, max(0.05, float(alerts.get("drop_ratio") or 0.5)))
+    except (TypeError, ValueError):
+        alerts["drop_ratio"] = 0.5
+    try:
+        alerts["consecutive_errors"] = max(1, min(20, int(alerts.get("consecutive_errors") or 3)))
+    except (TypeError, ValueError):
+        alerts["consecutive_errors"] = 3
+    try:
+        alerts["stale_days"] = max(0, min(365, int(alerts.get("stale_days") or 0)))
+    except (TypeError, ValueError):
+        alerts["stale_days"] = 30
+
     req = cfg["request"]
     try:
         req["timeout_sec"] = max(3, min(120, int(req.get("timeout_sec") or 20)))
@@ -165,6 +188,10 @@ def normalize(config: dict) -> dict:
         if not re.match(r"^https?://", site["url"]):
             site["url"] = "https://" + site["url"]
         site["name"] = (site.get("name") or site["url"]).strip()
+        home = (site.get("home_url") or "").strip()
+        if home and not re.match(r"^https?://", home):
+            home = "https://" + home
+        site["home_url"] = home
         site["enabled"] = bool(site.get("enabled", True))
         if site.get("mode") not in ("auto", "html", "json", "browser"):
             site["mode"] = "auto"
@@ -300,3 +327,8 @@ def find_site(config: dict, site_id: str) -> dict | None:
         if site["id"] == site_id:
             return site
     return None
+
+
+def site_link(site: dict) -> str:
+    """메일·화면에서 보여 줄 주소. url 이 API 주소면 home_url 을 쓴다."""
+    return (site.get("home_url") or "").strip() or (site.get("url") or "").strip()

@@ -82,10 +82,12 @@ def _write_summary_json(path: str, summary: dict) -> None:
         "checked": summary["checked"],
         "new_total": summary["new_total"],
         "email": summary["email"],
+        "alerts": summary.get("alerts") or [],
         "run_url": _run_url(),
         "results": [
             {
                 "site_id": r["site_id"], "site_name": r["site_name"], "site_url": r["site_url"],
+                "site_link": r.get("site_link") or r["site_url"],
                 "status": r["status"], "item_count": r["item_count"], "method": r["method"],
                 "note": r["note"], "error": r["error"],
                 "new_items": [
@@ -146,6 +148,9 @@ def _write_step_summary(summary: dict) -> None:
         lines += ["", f"### {r['site_name']}"]
         lines += [f"- [{i['title']}]({i['url']}){(' — ' + i['date']) if i.get('date') else ''}"
                   for i in r["new_items"]]
+    for alert in summary.get("alerts") or []:
+        mark = "정상 복구" if alert.get("recovered") else "점검 필요"
+        lines += ["", f"### [{mark}] {alert['site_name']} — {alert['label']}", alert["detail"]]
     mail = summary["email"]
     lines += ["", "메일: " + ("발송함" if mail["sent"] else (mail["error"] or mail["skipped"] or "보낼 새 공고 없음"))]
     try:
@@ -181,7 +186,11 @@ def cmd_check(monitor: Monitor, args) -> int:
         for item in result["new_items"]:
             print(f"   + {item['title']}")
             print(f"     {item['url']}")
-    print(f"\n확인 {summary['checked']}곳 · 새 공고 {summary['new_total']}건")
+    for alert in summary.get("alerts") or []:
+        mark = "정상 복구" if alert.get("recovered") else "점검 필요"
+        print(f"[{mark}] {alert['site_name']}: {alert['label']} — {alert['detail']}")
+    print(f"\n확인 {summary['checked']}곳 · 새 공고 {summary['new_total']}건 · "
+          f"점검 알림 {len(summary.get('alerts') or [])}건")
     mail = summary["email"]
     if mail["sent"]:
         print("알림 메일을 보냈습니다.")

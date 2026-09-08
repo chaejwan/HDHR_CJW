@@ -218,11 +218,13 @@ def _read_json_responses(responses) -> list:
             post_data = request.post_data or ""
         except Exception:
             method, post_data = "GET", ""
-        if "json" not in content_type and not any(
-            hint in url.lower() for hint in ("/api/", "/rest/", ".json", "recruit", "notice", "list")
+        # 확장자만 보고 확실한 정적 파일은 건너뛰고, 나머지는 본문이 JSON 인지로 판단한다.
+        if url.split("?")[0].endswith(
+            (".js", ".css", ".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp",
+             ".woff", ".woff2", ".ttf", ".ico", ".mp4", ".webm")
         ):
             continue
-        if url.endswith((".js", ".css", ".png", ".jpg", ".svg", ".woff", ".woff2", ".ico")):
+        if "text/html" in content_type:
             continue
         try:
             body = resp.text()
