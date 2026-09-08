@@ -448,15 +448,24 @@
      "first_seen": "2026-09-07T16:24:42+00:00"
     }
    },
-   "last_check": "2026-09-07T23:27:13+00:00",
-   "last_success": "2026-09-07T23:27:13+00:00",
+   "last_check": "2026-09-08T04:08:28+00:00",
+   "last_success": "2026-09-08T04:08:28+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
-   "fingerprint": "483bae24017d56cb",
+   "fingerprint": "755bf076bdcb790c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T04:08:28+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-07T23:27:13+00:00",
      "status": "ok",
@@ -533,7 +542,20 @@
      "new": []
     }
    ],
-   "last_note": ""
+   "last_note": "",
+   "consecutive_errors": 0,
+   "sample_titles": [
+    "[한화생명]법무팀 '미국변호사' 경력 채용(대리~부장급)",
+    "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
+    "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
+    "[한화생명]PLUS WM전략팀 '클라우드•DevOps 엔지니어' 경력채용",
+    "[한화생명]PLUS WM전략팀 '백엔드 개발' 경력채용(주니어)"
+   ],
+   "health": {
+    "issue": "",
+    "detail": "",
+    "since": ""
+   }
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -716,17 +738,110 @@
      "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
      "date": "",
      "first_seen": "2026-09-07T11:26:43+00:00"
+    },
+    "27aee32c58a7a8cd": {
+     "title": "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-20",
+     "url": "https://recruit-hanwhaocean.com/ko/o/234988",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "97e888c13f1bdb1b": {
+     "title": "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "912aad26a08b1f16": {
+     "title": "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200596",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "726a3d1a6f5f904f": {
+     "title": "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200604",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "01b125a4a893f0ba": {
+     "title": "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/207059",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "cdd19ada84b1d7e3": {
+     "title": "[제품전략기술원] 플랜트설계(공정개발) 경력사원 채용경력제품전략기술원설계배관설계외경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/214146",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "ae483b1e13d1dae8": {
+     "title": "[경영지원] 국내법무팀장 채용경력경영지원경영지원국내법무경력 10년 이상정규직서울2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/217485",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "207b3a1a064e5889": {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용경력특수선사업부경영지원외구매외경력 5년 이상외정규직거제외2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/219887",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "fa91b9164a166c4d": {
+     "title": "[경영지원] 노사관리/운영 경력사원 채용경력경영지원경영지원노사관리/개별 근로관계법 운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/220500",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "7d1cdbdb32f7f5a1": {
+     "title": "[제조총괄] 안전팀 경력사원(계약직) 채용경력제조총괄생산/품질/HSE/공무안전/환경/보건경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/227363",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "8a317da47fa39f11": {
+     "title": "[재무실] 자금집행/관리 경력사원 채용 (육아휴직 대체, 계약직)경력경영지원경영지원재무/회계경력 1년 이상계약직서울2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/228068",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "ad7aa2073109013a": {
+     "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용경력경영지원경영지원해외인력지원경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/231099",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "1687f0afb0962c57": {
+     "title": "[경영지원] 총무구매지원(계약직) 채용경력경영지원경영지원구매경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232450",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "234d183946419368": {
+     "title": "[제조총괄] 사내 간호사(계약직) 채용경력제조총괄생산/품질/HSE/공무HSE경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-114",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232453",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:29+00:00"
     }
    },
-   "last_check": "2026-09-07T23:27:15+00:00",
-   "last_success": "2026-09-07T23:27:15+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T04:08:29+00:00",
+   "last_success": "2026-09-08T04:08:29+00:00",
+   "last_status": "baseline",
    "last_error": "",
-   "last_method": "embedded-json",
-   "item_count": 30,
-   "fingerprint": "a1d5eb612db5b078",
+   "last_method": "links",
+   "item_count": 14,
+   "fingerprint": "e639239f6ae2bb0b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T04:08:29+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 30건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-07T23:27:15+00:00",
      "status": "ok",
@@ -764,7 +879,20 @@
      "new": []
     }
    ],
-   "last_note": ""
+   "last_note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 30건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
+   "consecutive_errors": 0,
+   "sample_titles": [
+    "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-20",
+    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-114",
+    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-114",
+    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-114",
+    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-114"
+   ],
+   "health": {
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-08T04:08:29+00:00"
+   }
   },
   "sk-sk-careers": {
    "seen": {
@@ -899,17 +1027,566 @@
      "url": "https://www.skcareers.com/Privacy",
      "date": "",
      "first_seen": "2026-09-07T11:26:48+00:00"
+    },
+    "e12a1aaab5d83e51": {
+     "title": "SK플라즈마 안동공장 혈액제제 충전 및 공정관리 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261881",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "cb6f8ae96a5d1cb3": {
+     "title": "GEO & 브랜드 검색광고 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261901",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "bf83ec722e6d38f1": {
+     "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261876",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "cef2166c58e2d594": {
+     "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261877",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7876bc23782f018c": {
+     "title": "SK플라즈마 KOICA IBS 사업 담당자 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261878",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "eca4d3ab050ecc4f": {
+     "title": "윤리경영 담당(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261539",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "fd51d580acac6337": {
+     "title": "해외법무 담당(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261540",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6bfd98f55704862b": {
+     "title": "IT보안 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261671",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7d672df8bc3e8b0b": {
+     "title": "IT 네트워크 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261707",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "f74bad77a5dd7bf4": {
+     "title": "Facility Engineering 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261870",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "d8162f3990927f25": {
+     "title": "2026년 9월 SK핀크스 식음서비스팀 채용공고",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261882",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "2406790b9d95f848": {
+     "title": "2026년 9월 SK핀크스 기획 채용공고",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261883",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6be02f703f972395": {
+     "title": "SK임업 토목현장 안전관리자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261833",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "cfb8601c6e8ad45c": {
+     "title": "2026년 SK임업 토목현장 품질관리 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261834",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "0fd3c707a50e1bab": {
+     "title": "[SK케미칼] 의약품 생산·포장 공정관리 담당자 경력 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261863",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "14d550caa5538b85": {
+     "title": "[SK오션플랜트] 기술영업/견적/설계분야 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261788",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "2edaaa18da2944c3": {
+     "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261812",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "bf9affe7b5200e3d": {
+     "title": "[SK에어플러스] 프로젝트 자재관리 담당(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261813",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "dd2a0585bb00c0e5": {
+     "title": "[SK에어플러스] 전기/계장 엔지니어(Junior)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261814",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "8f8f42dc7c974338": {
+     "title": "[SK에어플러스] 기계설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261815",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "914ddfc175a9a3a6": {
+     "title": "[SK에어플러스] 배관 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261819",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "4710573923458e01": {
+     "title": "[SK에어플러스] 전기/계장 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261821",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "2b37a84e5a07ea90": {
+     "title": "[SK오션플랜트/삼강에스앤씨] 장애인 구성원 모집(재택근무)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261851",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "60aeb7484fc71fff": {
+     "title": "SK키파운드리 정보보안 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261867",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6026e82209f4202f": {
+     "title": "2026년 SK가스 HR 평가/제도 운영 경력직 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261872",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "c7ddb58340df9a7a": {
+     "title": "SK온 원소재구매 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261873",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "91bc9ea23990dc9f": {
+     "title": "SK플라즈마 안동공장 인사(HR) 담당자 신입(전환형 인턴) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261874",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "9855241aab1a7133": {
+     "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261875",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a1fa31b2d41d2f49": {
+     "title": "[SK오션플랜트] 경영기획 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261879",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "4ff376a455bb2b3d": {
+     "title": "전사 물리보안 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261889",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "ad19dfa16595817e": {
+     "title": "[SK인텔릭스] Data Scientist(데이터 분석/AI 모델링) 경력 인재 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261892",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "0828a8bf4d97a6c0": {
+     "title": "SK플라즈마 품질관리(QC) 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261899",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "96a408601e099dc3": {
+     "title": "청주공장 의약품 포장공정 계약직 채용 (신입/경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261904",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7b57e95c9f666996": {
+     "title": "SK플라즈마 임상개발 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261906",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7afbf13dac8c32c0": {
+     "title": "SK플라즈마 개발전략 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261907",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "5ad11d4cdf1212bc": {
+     "title": "[아이지이] SHE 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261909",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7e443e85638982d8": {
+     "title": "청주공장 회계 계약직 채용 (신입/경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261914",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "b96dee2c8cb97eba": {
+     "title": "[엔솔브] ESS EPC 프로젝트 담당 구성원 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261915",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "d87979f33e498f99": {
+     "title": "디앤디프라퍼티솔루션 정보보호담당자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261918",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "027e918f837c0b28": {
+     "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261675",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "fe19b40560232c87": {
+     "title": "보안 아키텍트 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261706",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a2ea2b0631d32bfd": {
+     "title": "SK에코엔지니어링 품질관리자 경력 채용(촉탁직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261887",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7c3f981beec4e942": {
+     "title": "AI 기반 제조 에너지 최적화 솔루션 PM/PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261674",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "decf0af476d088cf": {
+     "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261676",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "2afa16ce9e5b7ba0": {
+     "title": "반도체 R&D 시스템 어플리케이션 설계 및 리딩 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261677",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "9c532659867167ec": {
+     "title": "설비(Utility) 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261678",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6b57f06f1395cbfa": {
+     "title": "HRIS 구축 PM/PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261682",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6f0b9d062c330382": {
+     "title": "SAP 모듈 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261692",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "dde93b6926983163": {
+     "title": "SAP 관련 Portal 시스템 구축 리딩 및 개발 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261693",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a4275d7735db4c4b": {
+     "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261708",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "8417e2266c22e870": {
+     "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261722",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "b52d6026ac9f8235": {
+     "title": "Commercial Mgmt 인턴 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261884",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "0fac6e18e25ac2fe": {
+     "title": "2026년 하반기 SK가스 울산기지 신입 운영원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261903",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "e09c12b787590d75": {
+     "title": "회계 및 서무 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261923",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "b4c70d34f79a95fb": {
+     "title": "AI/DC사업 공사(전기/설비) 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261895",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "fefbe32e319ad177": {
+     "title": "SK플라즈마 전략기획팀장 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261905",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "2dabfc25b16aa1c6": {
+     "title": "[SK케미칼(GC)] 울산공장 전기/계장 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261902",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "cc4469fa95a7dc17": {
+     "title": "SK실트론 Generative AI Engineer 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261913",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "1604013a5dc52a1b": {
+     "title": "SK리비오 HR 경력사원 채용 (육아휴직 대체)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261805",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "13c5be3d9d8d0d93": {
+     "title": "[SK인텔릭스] H/W개발 (회로 및 전장 설계) 경력 인재 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261894",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "ab41d1eaecbf30a6": {
+     "title": "SK온 New Application소재개발팀 기술감독직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261910",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "55213622bf4e25af": {
+     "title": "Cyber Security 컨설턴트 (인턴)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261916",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "8890c93da423beb0": {
+     "title": "Corporate Legal 해외변호사 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261920",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "66c9fc9181772afd": {
+     "title": "전기차 충전기 회로 설계 담당 (5~10년차)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261619",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "d7dc9751a081aebf": {
+     "title": "IT 인프라 운영 (5~10년차)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261634",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "8804759c6502e0a4": {
+     "title": "'26년 9월 건축사업 공사(건축) 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261908",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6c0bd39dbb22dccf": {
+     "title": "[SK케미칼] QA 담당자 경력 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261922",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a86dd702d5d19cd7": {
+     "title": "[SK에어코어] 토목건축 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261924",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "1e709bf17a82dd8b": {
+     "title": "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R260015",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "341e336d5203d8bf": {
+     "title": "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R260017",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "4118895d8f8d422e": {
+     "title": "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R260356",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "dfaa7028c641dfb4": {
+     "title": "2026년 SK에코플랜트 보건관리자 경력직(계약직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R260357",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "f9d0e52c9b71b1a9": {
+     "title": "2026 SK오앤에스 Access 현장운용지원 구성원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R260562",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "f7eaf8c3348aa660": {
+     "title": "전기차 충전기 소프트웨어(SW) 개발 및 보안 담당",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261474",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a548ba763bf7d7ab": {
+     "title": "보안침해위협 분석/대응 및 AI 기반 탐지 고도화 전문가",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261898",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "b5d36fb7fb92955a": {
+     "title": "통합 구매 담당 (8~13년차)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261726",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7c01f557ceb9c116": {
+     "title": "유지보수 Part (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261769",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "15128037571edb08": {
+     "title": "제조 AI · Data 분야 (생성형 AI & Data Lake DevOps) 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261847",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "65e2f0ce1a667a29": {
+     "title": "[천안/호남·제주] 전기공사 현장대리인",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261866",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "582be6450b99c193": {
+     "title": "충방전기 기술영업 및 사업개발 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261911",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a17833e1fbde665f": {
+     "title": "QA Automation Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R260339",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "ef60f37b9f88a13e": {
+     "title": "개발 Project Manager - TMAP AUTO 개발 프로젝트 리딩",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261097",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "b3de40c653879248": {
+     "title": "Site Reliability Engineer (SRE)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261272",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "7cab18953d4c160b": {
+     "title": "API/SDK 상품운영 및 기술지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261531",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "3c1b62c09ca0c1dd": {
+     "title": "Automotive Cybersecurity Manager",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261577",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "6f1cf7158c442f9b": {
+     "title": "Android SDK Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261714",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "f0989400c3a54209": {
+     "title": "Client Engineer (Android)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261738",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "ec013835cc1db793": {
+     "title": "AI Agent TPM (Technical Project Manager)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261800",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "daadb734416dc5d4": {
+     "title": "AUTO QE (리더)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261822",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
+    },
+    "a0afcefe2828c574": {
+     "title": "Automotive Test Manager",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261864",
+     "date": "",
+     "first_seen": "2026-09-08T04:08:33+00:00"
     }
    },
-   "last_check": "2026-09-07T23:27:17+00:00",
-   "last_success": "2026-09-07T23:27:17+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T04:08:33+00:00",
+   "last_success": "2026-09-08T04:08:33+00:00",
+   "last_status": "baseline",
    "last_error": "",
-   "last_method": "links",
-   "item_count": 22,
-   "fingerprint": "0fd616ed01a4c16f",
+   "last_method": "json",
+   "item_count": 90,
+   "fingerprint": "ee33d84c448b0e2a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T04:08:33+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "이전에 기억하던 22건과 겹치는 공고가 없어, 지금 90건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-07T23:27:17+00:00",
      "status": "ok",
@@ -947,7 +1624,20 @@
      "new": []
     }
    ],
-   "last_note": ""
+   "last_note": "이전에 기억하던 22건과 겹치는 공고가 없어, 지금 90건을 기준으로 다시 저장했습니다(알림 없음).",
+   "consecutive_errors": 0,
+   "sample_titles": [
+    "SK플라즈마 안동공장 혈액제제 충전 및 공정관리 신입(전환형 인턴) 모집",
+    "GEO & 브랜드 검색광고 담당자",
+    "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
+    "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
+    "SK플라즈마 KOICA IBS 사업 담당자 모집"
+   ],
+   "health": {
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-08T04:08:33+00:00"
+   }
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -1346,17 +2036,926 @@
      "url": "https://www.instagram.com/about_hyundai/",
      "date": "",
      "first_seen": "2026-09-07T11:26:49+00:00"
+    },
+    "8356b89b8bd681fc": {
+     "title": "[계약직] 중고차 상품안내 (군산인증중고차센터)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=184",
+     "date": "20260909",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "4214dc841088701c": {
+     "title": "에너지 산업/시장 전략 수립 및 신사업 기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=301",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "98165fd66017c988": {
+     "title": "보안 기획/운영",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=310",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "99b89bd28cda52e6": {
+     "title": "노무관리 (울산)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=313",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f68402d411ad477e": {
+     "title": "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=306",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f48a900ddbcf0c9c": {
+     "title": "[제조물류지능화] 사내/사외 물류 통합운영 시스템 기획/개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=309",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "45ac5a59ff57ec41": {
+     "title": "[제조물류지능화] AMR 자율제어 미들웨어 개발 및 시스템 통합",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=308",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c34cbf9305e37004": {
+     "title": "[제조물류지능화] AMR 자율제어 Perception 시스템 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=307",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "214292fa15f949cf": {
+     "title": "[제조로보틱스] 휴머노이드 제조 애플리케이션 시스템 인터페이스 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=312",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "2b93fb065512cb76": {
+     "title": "[제조로보틱스] 로봇 작업 정책 학습 데이터 생성 파이프라인 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "ff7f864c980ac1e2": {
+     "title": "[계약직] 울산공장 영상 크리에이터",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=201",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "ea8d35f9c683de48": {
+     "title": "[SDF] SDF Transformation Officer",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=311",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "57a011064841dd1a": {
+     "title": "[ICT] 채용 및 조직·인력운영",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=304",
+     "date": "20260913",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a0ba1b26fae4f67e": {
+     "title": "현대/제네시스 디자인 전략/CQM (Color Quality Management)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=176",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d4477e6f9d20e992": {
+     "title": "항공파워트레인 기획/개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=132",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "03a5342069ff4533": {
+     "title": "필드 안전품질",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=103",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "114e93e8513f09b1": {
+     "title": "플랜트 운영 (전주공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=135",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "32f78562a1cf66fb": {
+     "title": "플랜트 운영 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=139",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "05350461add1da0d": {
+     "title": "플랜트 운영 (아산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=130",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "bfe4b4c51f324027": {
+     "title": "품질보증 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=94",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "3bc86e7eddaa1a23": {
+     "title": "품질보증 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=99",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "bc82a6cda17b1cf8": {
+     "title": "차량제어 SW 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=179",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d51b509d066007f4": {
+     "title": "차량 시스템 설계/시험",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=166",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "952c2512f9cdb35d": {
+     "title": "중국사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=141",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "17805b800f5ccc48": {
+     "title": "제네시스사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=146",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "b724e9e09f937966": {
+     "title": "정보보안",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=108",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "86f5316f1290404a": {
+     "title": "전동화 에너지 개발 (연료전지/배터리)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=167",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "59eb76d0389e5fd0": {
+     "title": "전동화 PT/PE 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=169",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "debf24f7aaa869b1": {
+     "title": "재경 (전주공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=125",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "10af90f55ace8718": {
+     "title": "재경 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=120",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "b4e41b9da37bb964": {
+     "title": "재경 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=122",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "aeff088cdaf1b9d7": {
+     "title": "재경",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=118",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d640bb3876488212": {
+     "title": "자율주행/자율주차 설계 및 시스템 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=156",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "1d0ee50d55723f7c": {
+     "title": "자율주행 검증",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=175",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "222a0fc912876010": {
+     "title": "인포테인먼트 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=180",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f6223ca11d5afc04": {
+     "title": "에너지 & 수소연료전지 사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=91",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "0cb56058e3c4b5ab": {
+     "title": "안전품질 전략",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=124",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "4329d3bb1f3e7b97": {
+     "title": "안전관리 (전주공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=133",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "891214f48ae535d9": {
+     "title": "안전/환경 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=164",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "af8cb2ee112a3346": {
+     "title": "안전/환경",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=165",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c61e87a1c77f008c": {
+     "title": "소재 및 공정기술 연구개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=172",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "1271eb4e0c625c1b": {
+     "title": "선행품질 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=115",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "2accedd87e91c1c0": {
+     "title": "선행품질 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=117",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "ac62ee18dd04726b": {
+     "title": "생산기술 (전주공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=152",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d751db5add829c63": {
+     "title": "생산기술 (의왕연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=154",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f8ec8ee14151b1bc": {
+     "title": "생산기술 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=145",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a0b82bcf8c64ed46": {
+     "title": "생산기술 (아산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=148",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "5c88ce3a9cc7198d": {
+     "title": "생산기술 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=153",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "6e58126fd6f12b5c": {
+     "title": "상품전략/MI (Market Intelligence)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=134",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f9b03e7e5a204bbf": {
+     "title": "상품기획/운영",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=140",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "92ec9739cac7223f": {
+     "title": "상용차 시작/파이롯트 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=178",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a442d22cca660049": {
+     "title": "상용차 부품 구매/개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=177",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "e344a42bea7a0229": {
+     "title": "상용 특장 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=150",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "0c2f070ba0c28fba": {
+     "title": "비즈니스 지원 (일반/건축)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=107",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a9243fc663f14c17": {
+     "title": "브랜드마케팅/디자인 및 아트기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=106",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "fcce0a9bfb028471": {
+     "title": "미래사업전략 기획/개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=113",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c2f6380c6a30ad87": {
+     "title": "모빌리티 플랫폼 개발/UX/사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=161",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "de17e07afce13399": {
+     "title": "로보틱스 기술 및 사업 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=158",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "884f0683ac423f15": {
+     "title": "대외협력",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=90",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "af7e47c7041eceaa": {
+     "title": "기아 컨텍스트 디자인/엔지니어링 솔루션",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=181",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "58d1ddd6b7898549": {
+     "title": "글로벌사업 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=128",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "5479b9a58bd9b850": {
+     "title": "글로벌사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=123",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a79a0b7a4c2e8bbf": {
+     "title": "글로벌 상용 & LCV 사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=111",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "97397bf76d231c53": {
+     "title": "글로벌 SDV 전략",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=131",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "4aff72766db415e0": {
+     "title": "국내생산 경영지원 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=138",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "31abccc0cfa78a0a": {
+     "title": "국내생산 경영지원 (아산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=127",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "285bf118c24bc861": {
+     "title": "국내사업 (지역 비즈니스)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=151",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "703112b932f64b54": {
+     "title": "국내사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=149",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "e4f72788215e9891": {
+     "title": "구매 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=147",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "de3d573cf5893f65": {
+     "title": "구매",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=144",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "52a1fb4b37b7dd70": {
+     "title": "경영전략",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=96",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "76c5f16679e8bd6b": {
+     "title": "경영연구",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=95",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "32d59aa27c642731": {
+     "title": "[채용전환형 인턴] 현대/제네시스 CGI/VR 디자인",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=74",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "e7d63f52a270bddd": {
+     "title": "[장애인 신입 특별채용] 필드 안전품질",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=110",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "1f7d6704e89efd24": {
+     "title": "[장애인 신입 특별채용] 품질보증 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=105",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "02a1ae4f36fd897e": {
+     "title": "[장애인 신입 특별채용] 재경 (전주공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=142",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "16c2cb4173aa8980": {
+     "title": "[장애인 신입 특별채용] 안전품질 전략",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=129",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f1c7bc03bcef00c8": {
+     "title": "[장애인 신입 특별채용] 선행품질 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=116",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "eb1baa21148a1e6c": {
+     "title": "[장애인 신입 특별채용] 선행품질 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=121",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "1f7c874e9c25c2b3": {
+     "title": "[장애인 신입 특별채용] 상품전략/MI (Market Intelligence)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=137",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "9439a7eca831ce2a": {
+     "title": "[장애인 신입 특별채용] 비즈니스 지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=109",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "08728324e32963e8": {
+     "title": "[장애인 신입 특별채용] 미래사업전략 기획/개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=112",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "ca5cf5ad44a121df": {
+     "title": "[장애인 신입 특별채용] 노사기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=92",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "57124b5b802cc185": {
+     "title": "[장애인 신입 특별채용] 글로벌 상용 & LCV 사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=114",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "35655509ad58b308": {
+     "title": "[장애인 신입 특별채용] 국내사업",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=155",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "733f29f0b06b5b84": {
+     "title": "[장애인 신입 특별채용] 구매",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=143",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "2aa37ee77eec1222": {
+     "title": "[장애인 신입 특별채용] 경영전략",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=100",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "fd51b2f7ea2bb7af": {
+     "title": "[장애인 신입 특별채용] PR",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=102",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f1960fea0ba7f465": {
+     "title": "[계약직] 행정지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=196",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "988d2f0a2573b8a2": {
+     "title": "[계약직] 연료교환",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=200",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "1982f8d3fc1ccf62": {
+     "title": "Security Engineering",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=104",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "6a62495b64afc780": {
+     "title": "SW/디지털 엔지니어링",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=157",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "ec2db51a96333738": {
+     "title": "SW Development",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=101",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "767d3b48ce2db8d5": {
+     "title": "SDV 플랫폼 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=163",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "2f50aba751b77f3c": {
+     "title": "SDV 통합검증",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=174",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c79723493de5ce21": {
+     "title": "R&D 노무관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=168",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "4fdc7c94452df783": {
+     "title": "R&D 기술경영",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=170",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "ad039a3c81c6f09f": {
+     "title": "R&D 경영지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=171",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c7d8fd9deb478868": {
+     "title": "Infra Engineering",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=97",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "3442232742631abf": {
+     "title": "IR",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=98",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "355046d461f138e7": {
+     "title": "HRD 기획/운영",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=126",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "3446df03015269d3": {
+     "title": "HR",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=136",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "e8f651a8708a9928": {
+     "title": "Feature & SW 서비스 사업 기획/개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=160",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "651775d782e3c3e1": {
+     "title": "AVP 차량 프로젝트 관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=173",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "1584a52cee12f46e": {
+     "title": "AVP 전략 기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=159",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d095c3ff906b0117": {
+     "title": "AI 반도체 (NPU) 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=162",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a99b269d37f6945c": {
+     "title": "노사기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=93",
+     "date": "20260914",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "b0d85c64960293ca": {
+     "title": "[계약직] CS강사",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=195",
+     "date": "20260915",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a957fad6118352c7": {
+     "title": "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=199",
+     "date": "20260916",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c70c5a24e6b262bd": {
+     "title": "제네시스 비스포크 컨설턴트",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=303",
+     "date": "20260920",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "136f0cee9f0cf981": {
+     "title": "[계약직] 시험정비(경쟁차 운영)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=197",
+     "date": "20260921",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "3eca25a12016e141": {
+     "title": "[계약직] 수소충전소 안전관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=198",
+     "date": "20260921",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "84c2cda5a3976793": {
+     "title": "현대자동차 글로벌 채용전환형 인턴십 (제조솔루션)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=71",
+     "date": "20260928",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "02f3eddce18ce781": {
+     "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
+     "date": "20260928",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "c8a11a88d474151d": {
+     "title": "차량 사이버보안 기술",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=231",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d711f083a6e4a839": {
+     "title": "신사업 기회 발굴 및 전략 리서치",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=27",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "3c40f71b5f61e5bf": {
+     "title": "달 탐사 (우주) 모빌리티 전력 시스템 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=279",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d78e582bd3af2c58": {
+     "title": "달 탐사 (우주) 모빌리티 소프트웨어 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=280",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "adaeb32eadede23a": {
+     "title": "기아 외장 디자이너",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=398",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "b89b2b279ccade9e": {
+     "title": "[통합보안] 보안점검(분석)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=266",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "50febcc9b312e7a2": {
+     "title": "[로보틱스랩] 모바일로봇 전장 시스템 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=323",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "71a83c15691fff25": {
+     "title": "[로보틱스랩] 모바일로봇 위치 추정 및 주행 제어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=328",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d4515814f1e11223": {
+     "title": "[로보틱스랩] 로봇 SW 품질 관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d5358f4eac15db1a": {
+     "title": "[로보틱스랩] 관절로봇 회로 설계",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=325",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "8c62e482ad3523d6": {
+     "title": "[로보틱스랩] 관절로봇 양산개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=331",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "bd280739ccabfce7": {
+     "title": "[로보틱스랩] 관절로봇 시스템 SW 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=326",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "119325bb8792e001": {
+     "title": "[로보틱스랩] 관절로봇 기구설계 및 메커니즘 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=329",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "11175835fcf72cb0": {
+     "title": "[로보틱스랩] 관절로봇 SW 검증/평가",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=324",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "e0a22d9f9c286ee8": {
+     "title": "[로보틱스랩] Perceptive AI 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=322",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f5412f8b643362fc": {
+     "title": "[로보틱스랩] Bi-manipulator 제어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=327",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "bc864eebde98ca5f": {
+     "title": "[계약직] 현대/제네시스 인증 중고차 컨택센터 고객상담",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=54",
+     "date": "20261129",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "437c437935e814f1": {
+     "title": "[계약직] 울산공장 보안요원(상시채용)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=4",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "3aec7de6840657db": {
+     "title": "[SDF] 제조 DX 솔루션/시스템 아키텍트",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=155",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "6804e7b9f3a45340": {
+     "title": "[SDF] 데이터 아키텍트",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=156",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "bc5db86b50dbd0f9": {
+     "title": "[AVP] 모빌리티 플랫폼 서비스 운영 기획 및 관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=298",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "6f44bc221ac01170": {
+     "title": "[AVP] 모빌리티 플랫폼 사업 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=297",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a3fb13387441d6b3": {
+     "title": "[AVP] 모빌리티 플랫폼 UX 기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=105",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "0cbd57150d714d66": {
+     "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=99",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "f19f2ad452178572": {
+     "title": "[AVP] 모빌리티 서비스 UX 기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=294",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "414c80575fdd733f": {
+     "title": "[AVP] 모빌리티 서비스 UI 디자이너",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=103",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "e5c4e8e36abca52f": {
+     "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=224",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "a57d1cdeaa9eea27": {
+     "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=104",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "bdf78b5c6761cf10": {
+     "title": "[AVP] 모빌리티 서비스 Data Engineer",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=98",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "2ca12985a51397d3": {
+     "title": "NPU 아키텍처 설계",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=208",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "49175039e1eb1e5a": {
+     "title": "NPU 딥러닝 컴파일러 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=209",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "eb5c3435aeb4c431": {
+     "title": "2026년 현대자동차 전주공장 촉탁계약직(기간제) 상시 채용",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=7",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "244d30169d858b07": {
+     "title": "2026년 현대자동차 울산공장 촉탁계약직(기간제) 상시 채용",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=1",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "b00501b537d141b7": {
+     "title": "2026년 현대자동차 아산공장 촉탁계약직(기간제) 상시 채용",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2022&recuType=N4&recuCls=54",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "b0f5531b6794a658": {
+     "title": "[로보틱스랩] 학습 기반 Bi-manipulation 모델 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=321",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "d8f03c414f630a3a": {
+     "title": "[로보틱스랩] 관절로봇 HW 검증/평가",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=330",
+     "date": "20261231",
+     "first_seen": "2026-09-08T04:08:34+00:00"
     }
    },
-   "last_check": "2026-09-07T23:27:19+00:00",
-   "last_success": "2026-09-07T23:27:19+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T04:08:34+00:00",
+   "last_success": "2026-09-08T04:08:34+00:00",
+   "last_status": "baseline",
    "last_error": "",
-   "last_method": "links",
-   "item_count": 66,
-   "fingerprint": "1170bc2d1037e237",
+   "last_method": "json",
+   "item_count": 150,
+   "fingerprint": "0cd4fdb59510b6f4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T04:08:34+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 150,
+     "error": "",
+     "note": "이전에 기억하던 66건과 겹치는 공고가 없어, 지금 150건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-07T23:27:19+00:00",
      "status": "ok",
@@ -1394,7 +2993,20 @@
      "new": []
     }
    ],
-   "last_note": ""
+   "last_note": "이전에 기억하던 66건과 겹치는 공고가 없어, 지금 150건을 기준으로 다시 저장했습니다(알림 없음).",
+   "consecutive_errors": 0,
+   "sample_titles": [
+    "[계약직] 중고차 상품안내 (군산인증중고차센터)",
+    "에너지 산업/시장 전략 수립 및 신사업 기획",
+    "보안 기획/운영",
+    "노무관리 (울산)",
+    "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어"
+   ],
+   "health": {
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-08T04:08:34+00:00"
+   }
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -1709,17 +3321,206 @@
      "url": "https://www.samsungcareers.com/policy/phoneBook",
      "date": "",
      "first_seen": "2026-09-07T11:26:50+00:00"
+    },
+    "d58e5ad841fdc808": {
+     "title": "삼성전자 DX부문 2026년 하반기 3급 신입사원 채용 공고 (DX부문)",
+     "url": "https://www.samsungcareers.com/hr/?no=23055",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "a0ceacfc68d705dd": {
+     "title": "삼성전자 DS부문 2026년 하반기 3급 신입사원 채용 공고 (DS부문)",
+     "url": "https://www.samsungcareers.com/hr/?no=23075",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "eb7649ba583a7d84": {
+     "title": "삼성전자 DX부문 Samsung Convergence SW Academy 모집 공고 (DX부문)",
+     "url": "https://www.samsungcareers.com/hr/?no=23071",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "8c367c64a0a76eb7": {
+     "title": "삼성전자 DS부문 Samsung Convergence SW Academy 모집 공고 (DS부문)",
+     "url": "https://www.samsungcareers.com/hr/?no=23063",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "ecd72ac12ba1f2ee": {
+     "title": "Samsung Electronics DX Division [Samsung Electronics] Full-time opportunity for international students (DX)",
+     "url": "https://www.samsungcareers.com/hr/?no=23056",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "cb65b89a9da5fb1c": {
+     "title": "Samsung Electronics DS Division [Samsung Electronics] Full-time opportunity for international students (DS)",
+     "url": "https://www.samsungcareers.com/hr/?no=23074",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "c70d60cd07eaf529": {
+     "title": "삼성디스플레이 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22985",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "34a236d3937aa19e": {
+     "title": "삼성SDI 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23015",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "d915341e20aaa43c": {
+     "title": "삼성전기 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22976",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "46d902fdeab42e4d": {
+     "title": "삼성SDS 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22987",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "dc7d0e7686137809": {
+     "title": "삼성SDS Samsung Convergence SW Academy 모집 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22975",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "ca11bba0b3562fb6": {
+     "title": "삼성바이오로직스 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23046",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "b7da7f1bf4da1947": {
+     "title": "삼성바이오에피스 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22999",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "d0560d34817dd45b": {
+     "title": "삼성생명 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23041",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "ce6399745758a4f4": {
+     "title": "삼성화재 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23126",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "4a489ab6ebf3d3a1": {
+     "title": "삼성카드 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23085",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "1fcc01b1d7288398": {
+     "title": "삼성증권 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23009",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "ee8932a30d511fac": {
+     "title": "삼성중공업 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23039",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "3b7a06bff5897dbf": {
+     "title": "삼성E&A 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23067",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "d7c9777d3751e306": {
+     "title": "삼성물산 건설부문 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22965",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "246cdae1271968b6": {
+     "title": "삼성물산 상사부문 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23001",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "3a17094984832c5b": {
+     "title": "삼성물산 패션부문 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23090",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "61039db716f66ecb": {
+     "title": "삼성물산 패션부문 2026년 패션전문직 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23091",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "2f247738ff5e075d": {
+     "title": "호텔신라 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23045",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "ad21bd1ff459215c": {
+     "title": "제일기획 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=22981",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "a27bc4f351015476": {
+     "title": "에스원 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23089",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "d559a09c7aaddb8d": {
+     "title": "삼성서울병원 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23022",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "d65499e3d526e009": {
+     "title": "삼성웰스토리 2026년 하반기 3급 신입사원 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23088",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "a6c85454715f019b": {
+     "title": "에스원 2026년 하반기 신입 노무사 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23106",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
+    },
+    "0d89ea5fd71cedb8": {
+     "title": "삼성서울병원 2026년 하반기 신입 노무사 채용 공고",
+     "url": "https://www.samsungcareers.com/hr/?no=23014",
+     "date": "2026.09.08 ~ 2026.09.15",
+     "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-07T23:27:20+00:00",
-   "last_success": "2026-09-07T23:27:20+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T04:08:39+00:00",
+   "last_success": "2026-09-08T04:08:39+00:00",
+   "last_status": "baseline",
    "last_error": "",
-   "last_method": "links",
-   "item_count": 52,
-   "fingerprint": "11c749466b096085",
+   "last_method": "pattern",
+   "item_count": 30,
+   "fingerprint": "66e40e355234c62b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T04:08:39+00:00",
+     "status": "baseline",
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "이전에 기억하던 52건과 겹치는 공고가 없어, 지금 30건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-07T23:27:20+00:00",
      "status": "ok",
@@ -1757,7 +3558,20 @@
      "new": []
     }
    ],
-   "last_note": ""
+   "last_note": "이전에 기억하던 52건과 겹치는 공고가 없어, 지금 30건을 기준으로 다시 저장했습니다(알림 없음).",
+   "consecutive_errors": 0,
+   "sample_titles": [
+    "삼성전자 DX부문 2026년 하반기 3급 신입사원 채용 공고 (DX부문)",
+    "삼성전자 DS부문 2026년 하반기 3급 신입사원 채용 공고 (DS부문)",
+    "삼성전자 DX부문 Samsung Convergence SW Academy 모집 공고 (DX부문)",
+    "삼성전자 DS부문 Samsung Convergence SW Academy 모집 공고 (DS부문)",
+    "Samsung Electronics DX Division [Samsung Electronics] Full-time opportunity for international students (DX)"
+   ],
+   "health": {
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-08T04:08:39+00:00"
+   }
   }
  }
 }
