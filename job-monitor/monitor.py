@@ -282,6 +282,28 @@ def _outline(data, path: str = "", depth: int = 0, out=None) -> list:
     return out
 
 
+def _duplicate_report(site: dict, data) -> list:
+    """응답에 같은 공고가 여러 번 들어 있는지 (받은 건수와 알림 건수의 차이 설명)."""
+    mapping = site.get("json") or {}
+    rows = extract_mod.dig(data, mapping.get("items_path", "")) if mapping.get("items_path") else None
+    if not isinstance(rows, list):
+        arrays = extract_mod.find_item_arrays(data)
+        rows = max((r for _p, r in arrays), key=len, default=[])
+    if not rows:
+        return []
+    built = [it for it in (extract_mod.item_from_object(r, site["url"], mapping) for r in rows) if it]
+    groups = {}
+    for item in built:
+        groups.setdefault(item["id"], []).append(item["title"])
+    repeated = {k: v for k, v in groups.items() if len(v) > 1}
+    lines = [f"받은 줄 {len(rows)}개 → 제목을 읽어 낸 것 {len(built)}개 → 서로 다른 공고 {len(groups)}개"]
+    if repeated:
+        lines.append(f"같은 공고가 여러 번 들어 있음 {len(repeated)}건 (그만큼 빠집니다):")
+        for titles in list(repeated.values())[:10]:
+            lines.append(f"  · {len(titles)}번 — {titles[0][:70]}")
+    return [""] + lines
+
+
 def _count_fields(data, path: str = "", out=None) -> list:
     """응답 안에서 '몇 건' 을 뜻하는 것처럼 보이는 숫자 값을 모은다.
 
@@ -411,6 +433,7 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         except (ValueError, TypeError):
             data = None
         if data is not None:
+            lines.extend(_duplicate_report(site, data))
             counts = _count_fields(data)
             if counts:
                 lines.append("")
