@@ -446,17 +446,146 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
      "date": "2026.09.27 23:59",
      "first_seen": "2026-09-07T16:24:42+00:00"
+    },
+    "ac0117ee89a07d0a": {
+     "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19722",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "8a5dca62f64f4de4": {
+     "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19721",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "27ef15632e0e9043": {
+     "title": "AX 전략기획 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19720",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "f4e14f737211de93": {
+     "title": "VLM Project Manager 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19719",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "0b926e767154bbe1": {
+     "title": "금융프로젝트 PM(프로젝트매니저) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19718",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "ff496c9e277c97a9": {
+     "title": "SWA 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19717",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "27c274f22089e7cf": {
+     "title": "ERP 컨설턴트 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19716",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "432e020544155fcc": {
+     "title": "금융프로젝트 시스템 개발 경력사원 채용 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19715",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "706bead2bddb49f0": {
+     "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-08T06:59:59+00:00"
     }
    },
-   "last_check": "2026-09-08T04:08:28+00:00",
-   "last_success": "2026-09-08T04:08:28+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T06:59:59+00:00",
+   "last_success": "2026-09-08T06:59:59+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 73,
-   "fingerprint": "755bf076bdcb790c",
+   "item_count": 81,
+   "fingerprint": "a5c53ed0c031a06f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T06:59:59+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 9,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19722",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19721",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "AX 전략기획 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19720",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "VLM Project Manager 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19719",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "금융프로젝트 PM(프로젝트매니저) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19718",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "SWA 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19717",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "ERP 컨설턴트 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19716",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "금융프로젝트 시스템 개발 경력사원 채용 (계약직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19715",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714",
+       "date": "2026.09.20 23:59"
+      }
+     ]
+    },
+    {
+     "at": "2026-09-08T05:28:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:17:15+00:00",
+     "status": "error",
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (30초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T04:08:28+00:00",
      "status": "ok",
@@ -545,17 +674,18 @@
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명]법무팀 '미국변호사' 경력 채용(대리~부장급)",
     "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
     "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
     "[한화생명]PLUS WM전략팀 '클라우드•DevOps 엔지니어' 경력채용",
-    "[한화생명]PLUS WM전략팀 '백엔드 개발' 경력채용(주니어)"
+    "[한화생명]PLUS WM전략팀 '백엔드 개발' 경력채용(주니어)",
+    "[한화생명]PLUS WM전략팀 'UX•UI 디자이너' 경력채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
-   }
+   },
+   "last_new_at": "2026-09-08T06:59:59+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -824,15 +954,44 @@
      "first_seen": "2026-09-08T04:08:29+00:00"
     }
    },
-   "last_check": "2026-09-08T04:08:29+00:00",
-   "last_success": "2026-09-08T04:08:29+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-08T07:00:01+00:00",
+   "last_success": "2026-09-08T07:00:01+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 14,
    "fingerprint": "e639239f6ae2bb0b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T07:00:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:28:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:18:57+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-08T04:08:29+00:00",
      "status": "baseline",
@@ -879,7 +1038,7 @@
      "new": []
     }
    ],
-   "last_note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 30건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "22개 중 필터를 통과한 14개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-20",
@@ -889,9 +1048,9 @@
     "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-114"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-08T04:08:29+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    }
   },
   "sk-sk-careers": {
@@ -1569,15 +1728,44 @@
      "first_seen": "2026-09-08T04:08:33+00:00"
     }
    },
-   "last_check": "2026-09-08T04:08:33+00:00",
-   "last_success": "2026-09-08T04:08:33+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-08T07:00:05+00:00",
+   "last_success": "2026-09-08T07:00:05+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 90,
-   "fingerprint": "ee33d84c448b0e2a",
+   "fingerprint": "dae4d12e19c2dd2e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T07:00:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:29:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:18:59+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T04:08:33+00:00",
      "status": "baseline",
@@ -1624,7 +1812,7 @@
      "new": []
     }
    ],
-   "last_note": "이전에 기억하던 22건과 겹치는 공고가 없어, 지금 90건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "SK플라즈마 안동공장 혈액제제 충전 및 공정관리 신입(전환형 인턴) 모집",
@@ -1634,9 +1822,9 @@
     "SK플라즈마 KOICA IBS 사업 담당자 모집"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-08T04:08:33+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    }
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
@@ -2936,17 +3124,58 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=330",
      "date": "20261231",
      "first_seen": "2026-09-08T04:08:34+00:00"
+    },
+    "6afbe6ccabc1ec5a": {
+     "title": "[아르바이트] 채용 지원 (양재/강남)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2023&recuType=N4&recuCls=23",
+     "date": "20260918",
+     "first_seen": "2026-09-08T07:00:06+00:00"
     }
    },
-   "last_check": "2026-09-08T04:08:34+00:00",
-   "last_success": "2026-09-08T04:08:34+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-08T07:00:06+00:00",
+   "last_success": "2026-09-08T07:00:06+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 150,
-   "fingerprint": "0cd4fdb59510b6f4",
+   "item_count": 151,
+   "fingerprint": "bac6fd2acedaa20c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T07:00:06+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아르바이트] 채용 지원 (양재/강남)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2023&recuType=N4&recuCls=23",
+       "date": "20260918"
+      }
+     ]
+    },
+    {
+     "at": "2026-09-08T05:29:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 150,
+     "error": "",
+     "note": "",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:19:00+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 150,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T04:08:34+00:00",
      "status": "baseline",
@@ -2993,7 +3222,7 @@
      "new": []
     }
    ],
-   "last_note": "이전에 기억하던 66건과 겹치는 공고가 없어, 지금 150건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "[계약직] 중고차 상품안내 (군산인증중고차센터)",
@@ -3003,10 +3232,11 @@
     "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-08T04:08:34+00:00"
-   }
+    "issue": "",
+    "detail": "",
+    "since": ""
+   },
+   "last_new_at": "2026-09-08T07:00:06+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -3503,15 +3733,44 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T04:08:39+00:00",
-   "last_success": "2026-09-08T04:08:39+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-08T07:00:10+00:00",
+   "last_success": "2026-09-08T07:00:10+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 30,
    "fingerprint": "66e40e355234c62b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T07:00:10+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:29:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
+    {
+     "at": "2026-09-08T05:19:05+00:00",
+     "status": "ok",
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T04:08:39+00:00",
      "status": "baseline",
@@ -3558,7 +3817,7 @@
      "new": []
     }
    ],
-   "last_note": "이전에 기억하던 52건과 겹치는 공고가 없어, 지금 30건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "삼성전자 DX부문 2026년 하반기 3급 신입사원 채용 공고 (DX부문)",
@@ -3568,9 +3827,9 @@
     "Samsung Electronics DX Division [Samsung Electronics] Full-time opportunity for international students (DX)"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-08T04:08:39+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    }
   }
  }

@@ -1,7 +1,14 @@
 {
-  "check_interval_hours": 1,
+  "check_interval_hours": 0.5,
   "notify_on_first_run": false,
-  "recipients": [],
+  "recipients": [
+    "rayeon.kong@hd.com",
+    "kimwonje@hd.com",
+    "juhui.park@hd.com",
+    "slee193@hd.com",
+    "junhojoa@hd.com",
+    "sechoi@hd.com"
+  ],
   "email": {
     "enabled": true,
     "smtp_host": "smtp.gmail.com",
@@ -22,6 +29,7 @@
       "id": "hanwhain",
       "name": "한화 채용 (hanwhain)",
       "url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+      "home_url": "https://www.hanwhain.com/portal/apply/recruit",
       "enabled": true,
       "mode": "json",
       "interval_hours": null,
@@ -33,20 +41,24 @@
       "method": "POST",
       "body": "{\"langCd\": \"ko\", \"searchText\": \"\", \"sdSeqList\": null, \"rtNrcrtYn\": \"\", \"rtCarrYn\": \"\", \"rtIntnYn\": \"\", \"rtPermanentWorkYn\": \"\", \"rtTempWorkYn\": \"\", \"djSeqList\": null, \"rjSeqList\": null, \"page\": 0, \"size\": 100}",
       "headers": {},
+      "selector": "",
+      "pages": 1,
+      "item_pattern": "",
       "json": {
         "items_path": "data.list",
         "id_field": "rtSeq",
         "title_field": "rtNm",
         "url_field": "",
         "url_template": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq={rtSeq}",
+        "title_template": "",
         "date_field": "rtAcptEndDttm"
-      },
-      "home_url": "https://www.hanwhain.com/portal/apply/recruit"
+      }
     },
     {
       "id": "recruit-hanwhaocean-com-ko-intro-5089e10",
       "name": "한화오션 채용",
       "url": "https://recruit-hanwhaocean.com/ko/intro",
+      "home_url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
       "enabled": true,
       "mode": "auto",
       "interval_hours": null,
@@ -54,25 +66,28 @@
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
+      "note": "공고 상세는 /ko/o/번호 형식입니다. 그 링크만 공고로 인정하도록 주소 필터를 걸었습니다.",
       "method": "GET",
       "body": "",
       "headers": {},
+      "selector": "",
+      "pages": 1,
+      "item_pattern": "",
       "json": {
         "items_path": "",
         "id_field": "",
         "title_field": "",
         "url_field": "",
         "url_template": "",
+        "title_template": "",
         "date_field": ""
-      },
-      "note": "공고 상세는 /ko/o/번호 형식입니다. 그 링크만 공고로 인정하도록 주소 필터를 걸었습니다.",
-      "home_url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-      "selector": ""
+      }
     },
     {
       "id": "sk-sk-careers",
       "name": "SK 채용 (SK Careers)",
       "url": "https://www.skcareers.com/Recruit/GetRecruitList",
+      "home_url": "https://www.skcareers.com/Recruit",
       "enabled": true,
       "mode": "json",
       "interval_hours": null,
@@ -80,6 +95,7 @@
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
+      "note": "화면이 호출하는 공고 목록 API. 상세는 noticeID 로 연결됩니다.",
       "method": "POST",
       "body": "sort=2&searchText=&corpCode=&jobRole=0&recruitType=&workingType=&workingRegion=",
       "headers": {
@@ -87,21 +103,24 @@
         "X-Requested-With": "XMLHttpRequest",
         "Referer": "https://www.skcareers.com/Recruit"
       },
+      "selector": "",
+      "pages": 1,
+      "item_pattern": "",
       "json": {
         "items_path": "list",
         "id_field": "noticeID",
         "title_field": "title",
         "url_field": "",
         "url_template": "https://www.skcareers.com/Recruit/Detail/{noticeID}",
+        "title_template": "",
         "date_field": ""
-      },
-      "note": "화면이 호출하는 공고 목록 API. 상세는 noticeID 로 연결됩니다.",
-      "home_url": "https://www.skcareers.com/Recruit"
+      }
     },
     {
       "id": "talent-hyundai-com-apply-applylist-hc-nf",
       "name": "현대자동차 채용",
       "url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+      "home_url": "https://talent.hyundai.com/apply/applyList.hc",
       "enabled": true,
       "mode": "json",
       "interval_hours": null,
@@ -109,27 +128,30 @@
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
+      "note": "공고 목록 API. 상세는 recuYy/recuType/recuCls 로 연결됩니다. 한 번에 100건씩 최대 3쪽.",
       "method": "GET",
       "body": "",
       "headers": {
         "Referer": "https://talent.hyundai.com/apply/applyList.hc"
       },
+      "selector": "",
+      "pages": 3,
+      "item_pattern": "",
       "json": {
         "items_path": "data.list",
         "id_field": "",
         "title_field": "recuNoticeNm",
         "url_field": "",
         "url_template": "https://talent.hyundai.com/apply/applyView.hc?recuYy={recuYy}&recuType={recuType}&recuCls={recuCls}",
+        "title_template": "",
         "date_field": "applyEndDt"
-      },
-      "note": "공고 목록 API. 상세는 recuYy/recuType/recuCls 로 연결됩니다. 한 번에 100건씩 최대 3쪽.",
-      "home_url": "https://talent.hyundai.com/apply/applyList.hc",
-      "pages": 3
+      }
     },
     {
       "id": "samsungcareers-com-hr",
       "name": "삼성 채용",
       "url": "https://www.samsungcareers.com/hr/list.data",
+      "home_url": "https://www.samsungcareers.com/hr/",
       "enabled": true,
       "mode": "html",
       "interval_hours": null,
@@ -137,6 +159,7 @@
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
+      "note": "화면이 호출하는 공고 목록 요청. 한 쪽에 9건씩이라 여러 쪽을 이어서 읽습니다.",
       "method": "POST",
       "body": "currentPageNo={page}&intNo=0&strVal=&strTxt=&strKey=&strCompany=&strType=&strOrderBy=&strEntity=",
       "headers": {
@@ -144,6 +167,9 @@
         "X-Requested-With": "XMLHttpRequest",
         "Referer": "https://www.samsungcareers.com/hr/"
       },
+      "selector": "",
+      "pages": 6,
+      "item_pattern": "<a[^>]*data-value=\"(?P<no>[\\d,]+)\"[^>]*>[\\s\\S]{0,400}?<p class=\"company\">(?P<company>[^<]*)</p>[\\s\\S]{0,400}?<h3 class=\"title\">(?P<title>[^<]*)</h3>[\\s\\S]{0,400}?<span class=\"period\">(?P<period>[^<]*)</span>",
       "json": {
         "items_path": "",
         "id_field": "no",
@@ -152,12 +178,7 @@
         "url_template": "https://www.samsungcareers.com/hr/?no={no|digits}",
         "title_template": "{company} {title}",
         "date_field": "period"
-      },
-      "note": "화면이 호출하는 공고 목록 요청. 한 쪽에 9건씩이라 여러 쪽을 이어서 읽습니다.",
-      "home_url": "https://www.samsungcareers.com/hr/",
-      "selector": "",
-      "pages": 6,
-      "item_pattern": "<a[^>]*data-value=\"(?P<no>[\\d,]+)\"[^>]*>[\\s\\S]{0,400}?<p class=\"company\">(?P<company>[^<]*)</p>[\\s\\S]{0,400}?<h3 class=\"title\">(?P<title>[^<]*)</h3>[\\s\\S]{0,400}?<span class=\"period\">(?P<period>[^<]*)</span>"
+      }
     }
   ]
 }
