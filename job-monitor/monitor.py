@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -392,8 +393,12 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         for capture in captured:
             lines.extend(_describe_json_capture(capture))
             lines.append("")
-    elif not result.items:
+    elif not result.items or (result.note and "필터를 통과한 0개" in result.note):
         lines.append("")
+        if not fetched.looks_json:
+            preview = re.sub(r"\s+", " ", fetched.text)[:1200]
+            lines.append("응답 앞부분 미리보기 (무엇이 오는지 확인용):")
+            lines.append(f"  {preview}")
         if fetched.looks_json:
             try:
                 lines.append("응답 구조 개요:")

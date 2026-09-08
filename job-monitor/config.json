@@ -132,7 +132,7 @@
       "enabled": true,
       "mode": "html",
       "interval_hours": null,
-      "url_pattern": "no=\\d+",
+      "url_pattern": "",
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
