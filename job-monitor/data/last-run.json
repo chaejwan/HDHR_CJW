@@ -1,5 +1,5 @@
 {
- "at": "2026-09-08T08:36:00+00:00",
+ "at": "2026-09-08T09:01:11+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
@@ -8,7 +8,7 @@
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34205335972",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34207633766",
  "results": [
   {
    "site_id": "hanwhain",
@@ -40,19 +40,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 92,
+   "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "디앤디프라퍼티솔루션 EP 유지보수 개발자 모집의 건",
+     "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
      "url": "https://www.skcareers.com/Recruit/Detail/R261929",
      "date": ""
     },
     {
-     "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261931",
+     "title": "컨설턴트 (전환형 인턴)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261932",
      "date": ""
     }
    ]
