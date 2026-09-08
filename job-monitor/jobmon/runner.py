@@ -403,22 +403,36 @@ class Monitor:
 
         live = config_mod.effective(cfg)   # 시크릿(환경변수)을 얹은 설정
         email_cfg = live.get("email") or {}
-        recipients = live.get("recipients") or []
+        prefix = email_cfg.get("subject_prefix") or "[채용 알림]"
+        # 새 공고는 설정 화면 수신처 + 관리자에게, 점검 안내는 관리자에게만 간다.
+        posting_to = live.get("recipients") or []
+        admin_to = live.get("admin_recipients") or posting_to
+
+        mails = []
+        if summary["new_total"]:
+            subject, text, html = notify_mod.render(results, prefix)
+            mails.append(("새 공고", posting_to, subject, text, html))
+        if alerts:
+            subject, text, html = notify_mod.render_alerts(alerts, results, prefix)
+            mails.append(("점검 안내", admin_to, subject, text, html))
+
         if not email_cfg.get("enabled"):
             summary["email"]["skipped"] = "메일 발송이 꺼져 있습니다."
-        elif not recipients:
-            summary["email"]["skipped"] = "수신 이메일이 없습니다."
         else:
-            subject, text, html = notify_mod.render(
-                results, email_cfg.get("subject_prefix") or "[채용 알림]", alerts=alerts)
-            try:
-                notify_mod.send(email_cfg, recipients, subject, text, html)
-                summary["email"]["sent"] = True
-                self.log(f"메일 발송 완료 → {', '.join(recipients)} "
-                         f"(새 공고 {summary['new_total']}건 · 점검 알림 {len(alerts)}건)")
-            except notify_mod.NotifyError as exc:
-                summary["email"]["error"] = str(exc)
-                self.log(f"메일 발송 실패: {exc}")
+            skipped, errors = [], []
+            for kind, recipients, subject, text, html in mails:
+                if not recipients:
+                    skipped.append(f"{kind}: 수신 이메일이 없습니다.")
+                    continue
+                try:
+                    notify_mod.send(email_cfg, recipients, subject, text, html)
+                    summary["email"]["sent"] = True
+                    self.log(f"{kind} 메일 발송 완료 → {', '.join(recipients)}")
+                except notify_mod.NotifyError as exc:
+                    errors.append(f"{kind}: {exc}")
+                    self.log(f"{kind} 메일 발송 실패: {exc}")
+            summary["email"]["error"] = " / ".join(errors)
+            summary["email"]["skipped"] = " / ".join(skipped)
         if summary["email"]["skipped"]:
             self.log(f"메일 발송 생략: {summary['email']['skipped']} (새 공고 {summary['new_total']}건)")
         return summary

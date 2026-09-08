@@ -23,30 +23,29 @@ def resolve_password(email_cfg: dict) -> str:
     return os.environ.get(env_name, "") if env_name else ""
 
 
-def render(results: list, subject_prefix: str = "[채용 알림]", alerts: list = None):
-    """확인 결과(사이트별)를 제목/텍스트/HTML 로 만든다."""
-    alerts = alerts or []
-    problems = [a for a in alerts if not a.get("recovered")]
+BODY_STYLE = ("<div style=\"font-family:'Malgun Gothic',AppleSDGothicNeo-Regular,sans-serif;"
+              "font-size:14px;color:#1f2328;line-height:1.6\">")
+FOOTER = ("<p style='margin-top:24px;color:#656d76;font-size:12px'>"
+          "채용공고 모니터가 자동으로 보낸 메일입니다.</p></div>")
+
+
+def render(results: list, subject_prefix: str = "[채용 알림]"):
+    """새 공고 알림 메일 (공고를 받아 볼 사람들에게 가는 메일).
+
+    사이트 점검 안내나 접속 실패 같은 운영 이야기는 여기 넣지 않는다.
+    그건 render_alerts() 로 따로 만들어 관리자에게만 보낸다.
+    """
     with_new = [r for r in results if r.get("new_items")]
     total = sum(len(r["new_items"]) for r in with_new)
-    if total == 0 and problems:
-        subject = f"{subject_prefix} 사이트 점검 필요 {len(problems)}건"
-    elif len(with_new) == 1:
+    if len(with_new) == 1:
         subject = f"{subject_prefix} {with_new[0]['site_name']} 새 공고 {total}건"
     else:
         subject = f"{subject_prefix} 새 공고 {total}건 ({len(with_new)}개 사이트)"
-    if total and problems:
-        subject += f" · 점검 필요 {len(problems)}건"
 
     text_lines = []
-    html_parts = [
-        "<div style=\"font-family:'Malgun Gothic',AppleSDGothicNeo-Regular,sans-serif;"
-        "font-size:14px;color:#1f2328;line-height:1.6\">",
-    ]
+    html_parts = [BODY_STYLE]
     if total:
         html_parts.append(f"<h2 style='margin:0 0 16px'>새로 올라온 공고 {total}건</h2>")
-    elif problems:
-        html_parts.append("<h2 style='margin:0 0 16px'>사이트 점검이 필요합니다</h2>")
     for result in with_new:
         link = result.get("site_link") or result["site_url"]
         text_lines.append(f"[{result['site_name']}] {link}")
@@ -69,30 +68,47 @@ def render(results: list, subject_prefix: str = "[채용 알림]", alerts: list 
         html_parts.append("</ul>")
         text_lines.append("")
 
-    if alerts:
-        text_lines.append("")
-        text_lines.append("[점검 필요]" if problems else "[정상 복구]")
-        html_parts.append("<h3 style='margin:24px 0 8px;color:#bc4c00'>사이트 점검 안내</h3>"
-                          "<ul style='padding-left:18px'>")
-        for alert in alerts:
-            mark = "정상 복구" if alert.get("recovered") else "점검 필요"
-            line = f"  - [{mark}] {alert['site_name']}: {alert['label']} — {alert['detail']}"
-            text_lines.append(line)
-            text_lines.append(f"    {alert.get('site_link') or alert.get('site_url', '')}")
-            color = "#1a7f37" if alert.get("recovered") else "#bc4c00"
-            html_parts.append(
-                f"<li style='margin-bottom:6px'><b style='color:{color}'>[{mark}]</b> "
-                f"<a href='{html_mod.escape(alert.get('site_link') or alert.get('site_url', ''))}' "
-                f"style='color:#0969da;text-decoration:none'>{html_mod.escape(alert['site_name'])}</a> — "
-                f"{html_mod.escape(alert['label'])}<br />"
-                f"<span style='color:#656d76'>{html_mod.escape(alert['detail'])}</span></li>"
-            )
-        html_parts.append("</ul>")
+    html_parts.append(FOOTER)
+    return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
+
+
+def render_alerts(alerts: list, results: list = None, subject_prefix: str = "[채용 알림]"):
+    """사이트 점검 안내 메일 (관리자에게만 가는 메일).
+
+    감시가 조용히 망가진 정황과, 이번에 접속하지 못한 사이트를 담는다.
+    """
+    alerts = alerts or []
+    results = results or []
+    problems = [a for a in alerts if not a.get("recovered")]
+    if problems:
+        subject = f"{subject_prefix} 사이트 점검 필요 {len(problems)}건"
+    else:
+        subject = f"{subject_prefix} 사이트 점검 안내 (정상 복구 {len(alerts)}건)"
+
+    text_lines = []
+    html_parts = [BODY_STYLE]
+    html_parts.append("<h2 style='margin:0 0 16px'>사이트 점검 안내</h2>")
+    html_parts.append("<ul style='padding-left:18px'>")
+    for alert in alerts:
+        mark = "정상 복구" if alert.get("recovered") else "점검 필요"
+        text_lines.append(f"  - [{mark}] {alert['site_name']}: {alert['label']} — {alert['detail']}")
+        text_lines.append(f"    {alert.get('site_link') or alert.get('site_url', '')}")
+        color = "#1a7f37" if alert.get("recovered") else "#bc4c00"
+        html_parts.append(
+            f"<li style='margin-bottom:6px'><b style='color:{color}'>[{mark}]</b> "
+            f"<a href='{html_mod.escape(alert.get('site_link') or alert.get('site_url', ''))}' "
+            f"style='color:#0969da;text-decoration:none'>{html_mod.escape(alert['site_name'])}</a> — "
+            f"{html_mod.escape(alert['label'])}<br />"
+            f"<span style='color:#656d76'>{html_mod.escape(alert['detail'])}</span></li>"
+        )
+    html_parts.append("</ul>")
 
     errors = [r for r in results if r.get("status") == "error"]
     if errors:
+        text_lines.append("")
         text_lines.append("확인하지 못한 사이트:")
-        html_parts.append("<h3 style='margin:20px 0 8px;color:#bc4c00'>확인하지 못한 사이트</h3><ul style='padding-left:18px'>")
+        html_parts.append("<h3 style='margin:20px 0 8px;color:#bc4c00'>확인하지 못한 사이트</h3>"
+                          "<ul style='padding-left:18px'>")
         for result in errors:
             text_lines.append(f"  - {result['site_name']}: {result.get('error', '')}")
             html_parts.append(
@@ -101,10 +117,7 @@ def render(results: list, subject_prefix: str = "[채용 알림]", alerts: list 
             )
         html_parts.append("</ul>")
 
-    html_parts.append(
-        "<p style='margin-top:24px;color:#656d76;font-size:12px'>"
-        "채용공고 모니터가 자동으로 보낸 메일입니다.</p></div>"
-    )
+    html_parts.append(FOOTER)
     return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
 
 
