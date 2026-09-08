@@ -21,6 +21,7 @@ ISSUE_LABELS = {
     "no_items": "목록을 하나도 읽지 못했습니다",
     "drop": "항목 수가 갑자기 크게 줄었습니다",
     "method_changed": "공고를 읽어 오는 방식이 바뀌었습니다",
+    "relisted": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
     "fingerprint": "공고 목록을 인식하지 못해 페이지 변경만 감시하고 있습니다",
     "errors": "여러 번 연속으로 접속에 실패했습니다",
     "stale": "오랫동안 새 공고가 하나도 없습니다",
@@ -149,6 +150,19 @@ class Monitor:
         return first_fetched, extract_mod.ExtractResult(
             items=merged, method=method, fingerprint=fingerprint, note=note)
 
+    @staticmethod
+    def _relisted(entry: dict, items: list) -> bool:
+        """기억하던 공고와 이번에 읽은 공고가 하나도 겹치지 않는지.
+
+        설정을 고쳐 목록을 더 정확히 읽게 되면 공고 식별자가 통째로 달라진다.
+        이때 전부 새 공고로 취급하면 메일이 쏟아지므로, 그런 경우를 가려낸다.
+        (원래 기억하던 것이 몇 건뿐이면 우연일 수 있어 5건 이상일 때만 본다)
+        """
+        seen = entry.get("seen") or {}
+        if len(seen) < 5 or not items:
+            return False
+        return not any(item.get("id") in seen for item in items)
+
     def check_site(self, cfg: dict, site: dict, state: dict, force: bool = False) -> dict:
         """사이트 한 곳을 확인하고 결과 딕셔너리를 돌려준다. 상태도 갱신한다."""
         entry = store_mod.site_state(state, site["id"])
@@ -170,6 +184,7 @@ class Monitor:
             "note": "",
             "error": "",
             "alert": None,
+            "relisted": False,
         }
         try:
             fetched, extracted = self.collect(cfg, site)
@@ -217,6 +232,16 @@ class Monitor:
                 result["note"] = (result["note"] + " " if result["note"] else "") + \
                     f"첫 확인이라 현재 {len(extracted.items)}건을 기준으로 저장했습니다(알림 없음)."
                 new_items = []
+            elif self._relisted(entry, extracted.items):
+                # 기억하던 공고와 이번 목록이 하나도 겹치지 않는다. 사이트가 하루아침에
+                # 전부 바뀌었을 리는 없으니, 읽는 방법이 달라진 것으로 보고 기준을 다시 잡는다.
+                # (그대로 알렸다가는 이미 있던 공고 수십·수백 건이 한꺼번에 메일로 나간다)
+                result["status"] = "baseline"
+                result["relisted"] = True
+                result["note"] = (result["note"] + " " if result["note"] else "") + \
+                    (f"이전에 기억하던 {len(entry.get('seen') or {})}건과 겹치는 공고가 없어, "
+                     f"지금 {len(extracted.items)}건을 기준으로 다시 저장했습니다(알림 없음).")
+                new_items = []
             elif new_items:
                 result["status"] = "new"
             result["new_items"] = new_items
@@ -258,6 +283,10 @@ class Monitor:
                 return "errors", f"{count}번 연속 실패 · 마지막 오류: {result['error']}"
             return None, ""
 
+        if result.get("relisted"):
+            return "relisted", ("읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. "
+                                "설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 "
+                                "변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.")
         baseline = _median(before.get("counts") or [])
         method = result["method"]
         previous_method = before.get("method") or ""

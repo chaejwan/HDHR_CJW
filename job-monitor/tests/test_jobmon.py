@@ -415,6 +415,58 @@ class PatternExtractionTest(unittest.TestCase):
         self.assertEqual(len(result.items), 2)
 
 
+
+class RelistedTest(unittest.TestCase):
+    """설정을 고쳐 목록을 다르게 읽게 되면, 전부 새 공고로 알리지 않고 기준을 다시 잡는다."""
+
+    def setUp(self):
+        self.dir = tempfile.mkdtemp()
+        self.path = os.path.join(self.dir, "config.json")
+        config_mod.save(self.path, {"sites": [
+            {"id": "s1", "name": "테스트", "url": "https://example.com/jobs"}]})
+        self.monitor = Monitor(self.path)
+
+    def _check(self, items, state):
+        cfg = self.monitor.load_config()
+        site = cfg["sites"][0]
+        result = extract_mod.ExtractResult(items=items, method="links", fingerprint="fp")
+        self.monitor.collect = lambda _cfg, _site: (
+            FetchResult(url=site["url"], status=200, text="<html></html>",
+                        content_type="text/html"), result)
+        return self.monitor.check_site(cfg, site, state)
+
+    def test_full_replacement_rebaselines_instead_of_mailing(self):
+        state = {"sites": {}}
+        old = [{"id": f"old{i}", "title": f"공고 {i}", "url": f"https://example.com/{i}", "date": ""}
+               for i in range(8)]
+        self.assertEqual(self._check(old, state)["status"], "baseline")   # 첫 확인
+
+        # 설정을 고쳐 식별자가 통째로 달라진 상황
+        renewed = [{"id": f"new{i}", "title": f"공고 {i}", "url": f"https://example.com/x/{i}", "date": ""}
+                   for i in range(8)]
+        result = self._check(renewed, state)
+        self.assertEqual(result["status"], "baseline")
+        self.assertEqual(result["new_items"], [])
+        self.assertTrue(result["relisted"])
+        self.assertEqual(result["alert"]["kind"], "relisted")
+
+        # 그 다음 확인부터는 진짜 새 공고만 알린다
+        plus_one = renewed + [{"id": "new99", "title": "진짜 새 공고",
+                               "url": "https://example.com/x/99", "date": ""}]
+        after = self._check(plus_one, state)
+        self.assertEqual(after["status"], "new")
+        self.assertEqual([i["id"] for i in after["new_items"]], ["new99"])
+
+    def test_normal_new_posting_is_not_treated_as_relisted(self):
+        state = {"sites": {}}
+        items = [{"id": f"a{i}", "title": f"공고 {i}", "url": f"https://example.com/{i}", "date": ""}
+                 for i in range(8)]
+        self._check(items, state)
+        added = items + [{"id": "a99", "title": "새 공고", "url": "https://example.com/99", "date": ""}]
+        result = self._check(added, state)
+        self.assertEqual(result["status"], "new")
+        self.assertFalse(result["relisted"])
+
 if __name__ == "__main__":
     unittest.main()
 
