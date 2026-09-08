@@ -1,72 +1,26 @@
 {
- "at": "2026-09-08T07:00:16+00:00",
+ "at": "2026-09-08T08:36:00+00:00",
  "checked": 5,
- "new_total": 10,
+ "new_total": 2,
  "email": {
   "sent": true,
   "error": "",
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34197171679",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34205335972",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화 채용 (hanwhain)",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 81,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19722",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19721",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "AX 전략기획 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19720",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "VLM Project Manager 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19719",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "금융프로젝트 PM(프로젝트매니저) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19718",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "SWA 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19717",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "ERP 컨설턴트 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19716",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "금융프로젝트 시스템 개발 경력사원 채용 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19715",
-     "date": "2026.09.20 23:59"
-    },
-    {
-     "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714",
-     "date": "2026.09.20 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -85,30 +39,35 @@
    "site_name": "SK 채용 (SK Careers)",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 90,
+   "status": "new",
+   "item_count": 92,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "디앤디프라퍼티솔루션 EP 유지보수 개발자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261929",
+     "date": ""
+    },
+    {
+     "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261931",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차 채용",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 151,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[아르바이트] 채용 지원 (양재/강남)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2023&recuType=N4&recuCls=23",
-     "date": "20260918"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
