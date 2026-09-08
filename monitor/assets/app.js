@@ -487,9 +487,10 @@ function renderNotices() {
       아래 ‘새 공고를 이메일로 받기’ 를 켜고 저장하세요.</div>`);
   }
   if (cfg.email.enabled && !cfg.recipients.length && !mailOk) {
-    notes.push(`<div class="banner banner--warn"><b>수신 이메일이 비어 있습니다.</b>
-      이 화면에 주소를 넣거나, 저장소 시크릿 <code>JOBMON_RECIPIENTS</code> 를 설정하세요.
-      (시크릿을 이미 넣었다면 테스트 메일이 성공한 뒤 이 안내가 사라집니다.)</div>`);
+    notes.push(`<div class="banner banner--warn"><b>이 화면에 적힌 수신 이메일이 없습니다.</b>
+      새 공고를 받아 볼 주소를 여기에 넣거나, 저장소 시크릿
+      <code>JOBMON_POSTING_RECIPIENTS</code>(공고용) · <code>JOBMON_RECIPIENTS</code>(관리자용) 에 넣으세요.
+      시크릿에 이미 넣으셨다면 이 화면은 그 값을 볼 수 없으니, 메일이 한 번 정상 발송되면 이 안내는 사라집니다.</div>`);
   }
   if (!cfg.sites.some((s) => s.enabled)) {
     notes.push('<div class="banner banner--warn"><b>확인할 사이트가 없습니다.</b> 사이트를 추가하고 저장하세요.</div>');
