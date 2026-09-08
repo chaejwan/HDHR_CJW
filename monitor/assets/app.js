@@ -3,8 +3,7 @@
 /* 채용공고 모니터 — GitHub Pages 설정 화면
  *
  * 저장소의 job-monitor/config.json 을 읽고 쓰는 화면입니다.
- * - 읽기: 토큰이 있으면 GitHub API 로 읽습니다. 토큰이 없으면 raw.githubusercontent.com
- *   에서 읽는데, 이 방법은 공개 저장소에서만 통합니다(비공개면 토큰이 필요).
+ * - 읽기: 토큰이 없으면 raw.githubusercontent.com 에서 그냥 읽습니다(공개 저장소).
  * - 쓰기: GitHub API 로 config.json 을 커밋합니다. 본인 토큰이 필요합니다.
  * - 실제 확인은 GitHub Actions 워크플로(.github/workflows/job-monitor.yml)가 합니다.
  */
@@ -49,7 +48,6 @@ let configSha = '';      // 저장할 때 필요한 파일 버전
 let state = null;        // data/state.json
 let lastRun = null;      // data/last-run.json
 let emailStatus = null;  // data/email-status.json (마지막 메일 발송 결과)
-let cannotRead = false;  // 비공개 저장소인데 토큰이 없어 설정을 못 읽은 상태
 let dirty = false;
 let busy = false;
 
@@ -196,17 +194,14 @@ async function readRepoFile(path) {
   }
   const url = `https://raw.githubusercontent.com/${repo.owner}/${repo.repo}/${branch}/${path}?t=${Date.now()}`;
   const res = await fetch(url, { cache: 'no-store' });
-  // 비공개 저장소는 토큰 없이 읽을 수 없어 404 로 돌아온다 (파일이 없는 경우와 구분이 안 된다).
-  if (res.status === 404) return { text: '', sha: '', missing: true, needsToken: true };
+  if (res.status === 404) return { text: '', sha: '', missing: true };
   if (!res.ok) throw new Error(`파일을 읽지 못했습니다 (${path}): HTTP ${res.status}`);
   return { text: await res.text(), sha: '' };
 }
 
 async function readJsonFile(path) {
   const file = await readRepoFile(path);
-  if (file.missing || !file.text.trim()) {
-    return { data: null, sha: file.sha, missing: true, needsToken: !!file.needsToken };
-  }
+  if (file.missing || !file.text.trim()) return { data: null, sha: file.sha, missing: true };
   try {
     return { data: JSON.parse(file.text), sha: file.sha };
   } catch (err) {
@@ -465,14 +460,6 @@ function renderStatusLine() {
 
 function renderNotices() {
   const notes = [];
-  if (cannotRead) {
-    notes.push(`<div class="banner banner--warn"><b>설정을 읽지 못했습니다.</b>
-      저장소가 <b>비공개</b> 이면 토큰 없이는 설정을 읽을 수 없습니다.
-      아래 <b>저장 권한 (GitHub 토큰)</b> 에 토큰을 넣으면 지금 설정이 그대로 나타납니다.
-      (토큰을 넣기 전에 저장하면 지금 화면의 기본값으로 덮어쓰게 되니 주의하세요.)</div>`);
-    el.notice.innerHTML = notes.join('');
-    return;
-  }
   if (!getToken()) {
     notes.push(`<div class="banner"><b>지금은 보기 전용입니다.</b>
       설정을 저장하거나 확인을 실행하려면 아래 <b>저장 권한 (GitHub 토큰)</b> 에 토큰을 넣어 주세요.</div>`);
@@ -484,7 +471,7 @@ function renderNotices() {
     const kind = emailStatus.kind === 'test' ? '테스트 메일' : '알림 메일';
     notes.push(`<div class="banner"><b>메일 설정 확인됨</b>
       ${fmtTime(emailStatus.at)} 에 ${kind}을(를) ${emailStatus.recipient_count}명에게 정상 발송했습니다.
-      </div>`);
+      수신 주소를 시크릿(<code>JOBMON_RECIPIENTS</code>)으로 넣었다면 아래 ‘수신 이메일’ 칸은 비어 있는 것이 정상입니다.</div>`);
   } else if (cfg.email.enabled && emailStatus && emailStatus.error) {
     notes.push(`<div class="banner banner--err"><b>마지막 메일 발송이 실패했습니다.</b>
       ${escapeHtml(emailStatus.error)}<br />
@@ -499,9 +486,10 @@ function renderNotices() {
     notes.push(`<div class="banner banner--warn"><b>메일 알림이 꺼져 있습니다.</b>
       아래 ‘새 공고를 이메일로 받기’ 를 켜고 저장하세요.</div>`);
   }
-  if (cfg.email.enabled && !cfg.recipients.length) {
+  if (cfg.email.enabled && !cfg.recipients.length && !mailOk) {
     notes.push(`<div class="banner banner--warn"><b>수신 이메일이 비어 있습니다.</b>
-      아래 ‘수신 이메일’ 칸에 받을 주소를 넣고 <b>설정 저장</b> 을 눌러 주세요.</div>`);
+      이 화면에 주소를 넣거나, 저장소 시크릿 <code>JOBMON_RECIPIENTS</code> 를 설정하세요.
+      (시크릿을 이미 넣었다면 테스트 메일이 성공한 뒤 이 안내가 사라집니다.)</div>`);
   }
   if (!cfg.sites.some((s) => s.enabled)) {
     notes.push('<div class="banner banner--warn"><b>확인할 사이트가 없습니다.</b> 사이트를 추가하고 저장하세요.</div>');
@@ -524,8 +512,7 @@ async function loadAll(showToast) {
   const configFile = await readJsonFile(PATHS.config);
   configSha = configFile.sha;
   cfg = normalizeConfig(configFile.data);
-  cannotRead = !!configFile.needsToken;
-  if (configFile.missing && !cannotRead) {
+  if (configFile.missing) {
     toast('저장소에 config.json 이 없어 기본값으로 시작합니다.', true);
   }
   try {
@@ -549,10 +536,6 @@ async function loadAll(showToast) {
 
 async function save() {
   if (!getToken()) { toast('먼저 GitHub 토큰을 저장하세요.', true); return; }
-  if (cannotRead) {
-    toast('설정을 아직 읽지 못했습니다. 토큰을 저장한 뒤 새로고침하고 저장하세요.', true);
-    return;
-  }
   const payload = collectConfig();
   const text = JSON.stringify(payload, null, 2) + '\n';
   setBusy(true, '저장 중…');

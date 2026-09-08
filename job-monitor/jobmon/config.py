@@ -310,12 +310,9 @@ def effective(config: dict) -> dict:
         value = os.environ.get(env_name)
         if value not in (None, ""):
             cfg.setdefault(section, {})[key] = value
-    # 수신 주소는 설정 화면(config.json)이 기준이다. 시크릿은 설정이 비어 있을 때만
-    # 쓰는 예전 방식용 보조 수단 — 저장소를 비공개로 두면 굳이 필요하지 않다.
-    if not cfg.get("recipients"):
-        recipients = os.environ.get("JOBMON_RECIPIENTS")
-        if recipients:
-            cfg["recipients"] = [a.strip() for a in re.split(r"[,\s;]+", recipients) if a.strip()]
+    recipients = os.environ.get("JOBMON_RECIPIENTS")
+    if recipients:
+        cfg["recipients"] = [a.strip() for a in re.split(r"[,\s;]+", recipients) if a.strip()]
     enabled = os.environ.get("JOBMON_EMAIL_ENABLED")
     if enabled not in (None, ""):
         cfg.setdefault("email", {})["enabled"] = enabled.strip().lower() in ("1", "true", "yes", "on")
