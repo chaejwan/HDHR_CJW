@@ -56,18 +56,7 @@ jobs:
           PROBE_BODY: ${{ inputs.body }}
         run: |
           if [ -n "${{ inputs.body }}" ] || [ "${{ inputs.method }}" = "POST" ]; then
-            python3 - <<'PYEOF' > /tmp/site.json
-import json, os
-json.dump({
-    "name": "probe",
-    "url": os.environ["PROBE_URL"],
-    "mode": "auto",
-    "method": os.environ.get("PROBE_METHOD") or "POST",
-    "body": os.environ.get("PROBE_BODY", ""),
-    "headers": {"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-                "X-Requested-With": "XMLHttpRequest"},
-}, __import__("sys").stdout, ensure_ascii=False)
-PYEOF
+            python3 job-monitor/tools/make_probe_site.py /tmp/site.json
             python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
           elif [ -n "${{ inputs.site_id }}" ]; then
             python3 job-monitor/tools/pick_site.py job-monitor/config.json "${{ inputs.site_id }}" /tmp/site.json
