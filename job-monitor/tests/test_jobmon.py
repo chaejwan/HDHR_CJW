@@ -457,6 +457,23 @@ class RelistedTest(unittest.TestCase):
         self.assertEqual(after["status"], "new")
         self.assertEqual([i["id"] for i in after["new_items"]], ["new99"])
 
+    def test_rebaseline_forgets_old_item_counts(self):
+        """예전 방식으로 세던 항목 수 때문에 '급감' 오탐이 나지 않는다."""
+        state = {"sites": {}}
+        many = [{"id": f"old{i}", "title": f"메뉴 {i}", "url": f"https://example.com/{i}", "date": ""}
+                for i in range(30)]
+        for _ in range(3):
+            self._check(many, state)                       # 평소 30건으로 기록됨
+
+        few = [{"id": f"new{i}", "title": f"공고 {i}", "url": f"https://example.com/o/{i}", "date": ""}
+               for i in range(14)]
+        first = self._check(few, state)                    # 설정을 고쳐 진짜 공고 14건
+        self.assertTrue(first["relisted"])
+
+        after = self._check(few, state)                    # 그 다음 확인
+        self.assertNotEqual((after["alert"] or {}).get("kind"), "drop")
+        self.assertEqual(after["status"], "ok")
+
     def test_normal_new_posting_is_not_treated_as_relisted(self):
         state = {"sites": {}}
         items = [{"id": f"a{i}", "title": f"공고 {i}", "url": f"https://example.com/{i}", "date": ""}

@@ -252,6 +252,8 @@ class Monitor:
                 method=extracted.method, item_count=len(extracted.items),
                 fingerprint=extracted.fingerprint, note=result["note"],
                 sample_titles=[i.get("title", "") for i in extracted.items[:5]],
+                # 기준을 다시 잡았다면 여기부터 새로 센다 (예전 숫자와 비교하지 않도록)
+                reset=result["relisted"],
             )
 
         result["alert"] = self.update_health(cfg, site, entry, result, at, before)

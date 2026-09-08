@@ -21,7 +21,7 @@
     "subject_prefix": "[채용 알림]"
   },
   "request": {
-    "timeout_sec": 30,
+    "timeout_sec": 45,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
   },
   "sites": [
