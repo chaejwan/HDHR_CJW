@@ -501,9 +501,11 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
             if not fresh:
                 break
         lines.append(f"  모두 {len(merged)}개 (한 쪽 {len(result.items)}개)")
-        for item in merged[:40]:
+        for item in merged[:10]:
             lines.append(f"  - {item['title']}")
             lines.append(f"    {item['url']}")
+        if len(merged) > 10:
+            lines.append(f"  … 그 밖 {len(merged) - 10}건")
 
     text = "\n".join(lines)
     print(text)
