@@ -21,6 +21,12 @@ on:
         description: "렌더링 중 오간 JSON 응답까지 살펴 목록 API 후보를 찾기"
         type: boolean
         default: true
+      method:
+        description: "요청 방식 (POST 로 보내려면 POST)"
+        required: false
+      body:
+        description: "POST 로 보낼 본문 (예: page=1&size=50). 지정하면 브라우저 없이 그 요청만 보냅니다"
+        required: false
 
 permissions:
   contents: read
@@ -44,8 +50,26 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: 진단
+        env:
+          PROBE_URL: ${{ inputs.url }}
+          PROBE_METHOD: ${{ inputs.method }}
+          PROBE_BODY: ${{ inputs.body }}
         run: |
-          if [ -n "${{ inputs.site_id }}" ]; then
+          if [ -n "${{ inputs.body }}" ] || [ "${{ inputs.method }}" = "POST" ]; then
+            python3 - <<'PYEOF' > /tmp/site.json
+import json, os
+json.dump({
+    "name": "probe",
+    "url": os.environ["PROBE_URL"],
+    "mode": "auto",
+    "method": os.environ.get("PROBE_METHOD") or "POST",
+    "body": os.environ.get("PROBE_BODY", ""),
+    "headers": {"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                "X-Requested-With": "XMLHttpRequest"},
+}, __import__("sys").stdout, ensure_ascii=False)
+PYEOF
+            python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
+          elif [ -n "${{ inputs.site_id }}" ]; then
             python3 job-monitor/tools/pick_site.py job-monitor/config.json "${{ inputs.site_id }}" /tmp/site.json
             python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
           else
