@@ -282,6 +282,29 @@ def _outline(data, path: str = "", depth: int = 0, out=None) -> list:
     return out
 
 
+def _count_fields(data, path: str = "", out=None) -> list:
+    """응답 안에서 '몇 건' 을 뜻하는 것처럼 보이는 숫자 값을 모은다.
+
+    사이트 화면에 적힌 건수와 실제로 받아 온 건수를 맞춰 볼 때 쓴다.
+    """
+    out = out if out is not None else []
+    if len(out) > 20:
+        return out
+    if isinstance(data, dict):
+        for key, value in data.items():
+            here = f"{path}.{key}" if path else key
+            if isinstance(value, bool):
+                continue
+            if isinstance(value, (int, float)) and re.search(
+                    r"total|count|cnt|tot|size|page|rows|num", key, re.I):
+                out.append(f"      {here} = {value}")
+            elif isinstance(value, (dict, list)):
+                _count_fields(value, here, out)
+    elif isinstance(data, list) and data and isinstance(data[0], dict):
+        _count_fields(data[0], f"{path}[0]", out)
+    return out
+
+
 def _describe_json_capture(capture: dict) -> list:
     """렌더링 중 오간 JSON 응답 하나를 설명한다 (목록처럼 보이는 배열을 모두 표시)."""
     method = capture.get("method", "GET")
@@ -382,6 +405,21 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         lines.append(f"  - {item['title']}")
         lines.append(f"    {item['url']}")
 
+    if fetched.looks_json:
+        try:
+            data = json.loads(fetched.text)
+        except (ValueError, TypeError):
+            data = None
+        if data is not None:
+            counts = _count_fields(data)
+            if counts:
+                lines.append("")
+                lines.append("응답이 알려 주는 개수 (사이트 화면의 건수와 맞춰 보세요):")
+                lines.extend(counts)
+            lines.append("")
+            lines.append("응답 구조 개요:")
+            lines.extend(_outline(data))
+
     structure = getattr(fetched, "structure", None) or []
     if structure:
         lines.append("")
@@ -419,16 +457,30 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
     if pages > 1 and ("{page}" in paged_site["url"] or "{page}" in (paged_site.get("body") or "")):
         lines.append("")
         lines.append(f"여러 쪽 이어 읽기 ({pages}쪽까지):")
-        try:
-            _first, all_result = monitor.collect(cfg, paged_site)
-            lines.append(f"  모두 {len(all_result.items)}개 (한 쪽 {len(result.items)}개)")
-            if all_result.note:
-                lines.append(f"  메모: {all_result.note}")
-            for item in all_result.items[:40]:
-                lines.append(f"  - {item['title']}")
-                lines.append(f"    {item['url']}")
-        except fetch_mod.FetchError as exc:
-            lines.append(f"  실패: {exc}")
+        seen, merged = set(), []
+        for page in range(1, pages + 1):
+            page_site = dict(paged_site,
+                             url=paged_site["url"].replace("{page}", str(page)),
+                             body=(paged_site.get("body") or "").replace("{page}", str(page)))
+            try:
+                page_fetched = monitor.fetch_site(cfg, page_site)
+            except fetch_mod.FetchError as exc:
+                lines.append(f"  {page}쪽: 실패 ({exc})")
+                break
+            page_items = extract_mod.extract(page_site, page_fetched).items
+            fresh = [i for i in page_items if i["id"] not in seen]
+            seen.update(i["id"] for i in page_items)
+            merged.extend(fresh)
+            dup = len(page_items) - len(fresh)
+            lines.append(f"  {page}쪽: {len(page_items)}건 받음"
+                         + (f" · 앞쪽과 겹치는 {dup}건 제외" if dup else "")
+                         + f" · 누적 {len(merged)}건")
+            if not fresh:
+                break
+        lines.append(f"  모두 {len(merged)}개 (한 쪽 {len(result.items)}개)")
+        for item in merged[:40]:
+            lines.append(f"  - {item['title']}")
+            lines.append(f"    {item['url']}")
 
     text = "\n".join(lines)
     print(text)
