@@ -321,6 +321,9 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
             raw_site = json.load(fh)
         raw_site.setdefault("name", "diagnose")
         site = config_mod.normalize({"sites": [raw_site]})["sites"][0]
+        paged_site = site
+        site = dict(site, url=site["url"].replace("{page}", "1"),
+                    body=(site.get("body") or "").replace("{page}", "1"))
         args.url = site["url"]
         args.browser = site["mode"] == "browser"
     else:
@@ -330,6 +333,7 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         site = config_mod.normalize({"sites": [{
             "name": "diagnose", "url": args.url, "mode": "browser" if args.browser else "auto",
         }]})["sites"][0]
+        paged_site = site
     request_cfg = cfg.get("request") or {}
     timeout = float(request_cfg.get("timeout_sec") or 20)
     user_agent = request_cfg.get("user_agent") or fetch_mod.DEFAULT_UA
@@ -410,6 +414,21 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         else:
             lines.append("항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 "
                          "--browser --network 로 다시 시도해 보세요.")
+
+    pages = int(paged_site.get("pages") or 1)
+    if pages > 1 and ("{page}" in paged_site["url"] or "{page}" in (paged_site.get("body") or "")):
+        lines.append("")
+        lines.append(f"여러 쪽 이어 읽기 ({pages}쪽까지):")
+        try:
+            _first, all_result = monitor.collect(cfg, paged_site)
+            lines.append(f"  모두 {len(all_result.items)}개 (한 쪽 {len(result.items)}개)")
+            if all_result.note:
+                lines.append(f"  메모: {all_result.note}")
+            for item in all_result.items[:40]:
+                lines.append(f"  - {item['title']}")
+                lines.append(f"    {item['url']}")
+        except fetch_mod.FetchError as exc:
+            lines.append(f"  실패: {exc}")
 
     text = "\n".join(lines)
     print(text)
