@@ -141,6 +141,7 @@
         <div class="site__info">
           <input class="site__name" type="text" data-role="name" placeholder="사이트 이름" />
           <input class="site__url" type="url" data-role="url" placeholder="https://example.com/careers" />
+          <input class="site__url" type="url" data-role="home_url" placeholder="사람이 열어 볼 주소 (위가 API 주소일 때만 입력)" />
           <p class="site__meta" data-role="meta"></p>
         </div>
         <div class="site__buttons">
@@ -163,6 +164,7 @@
           </label>
           <label class="field field--narrow"><span>개별 주기 (시간, 비우면 기본값)</span><input type="number" min="0.1" step="0.5" data-role="interval_hours" /></label>
           <label class="field field--narrow"><span>최대 항목 수</span><input type="number" min="1" data-role="max_items" /></label>
+          <label class="field"><span>CSS 선택자 (브라우저 렌더링일 때, 공고 카드를 가리킴)</span><input type="text" data-role="selector" placeholder="li.job-card" /></label>
         </div>
         <div class="row">
           <label class="field"><span>주소 필터 (정규식)</span><input type="text" data-role="url_pattern" placeholder="recruit|notice" /></label>

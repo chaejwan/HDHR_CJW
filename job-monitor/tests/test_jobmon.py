@@ -20,6 +20,7 @@ from jobmon import extract as extract_mod     # noqa: E402
 from jobmon import notify as notify_mod       # noqa: E402
 from jobmon import server as server_mod       # noqa: E402
 from jobmon import store as store_mod         # noqa: E402
+from jobmon import fetch as fetch_mod         # noqa: E402
 from jobmon.fetch import FetchResult          # noqa: E402
 from jobmon.runner import Monitor             # noqa: E402
 
@@ -279,6 +280,10 @@ class EndToEndTest(unittest.TestCase):
         self.assertEqual(summary["new_total"], 1)
 
     def test_error_is_recorded(self):
+        # 재시도 대기 때문에 테스트가 느려지지 않도록 잠깐 줄인다
+        original = fetch_mod.RETRY_WAIT_SEC
+        fetch_mod.RETRY_WAIT_SEC = (0, 0)
+        self.addCleanup(lambda: setattr(fetch_mod, "RETRY_WAIT_SEC", original))
         cfg = self.monitor.load_config()
         cfg["sites"][0]["url"] = "http://127.0.0.1:9/none"
         self.monitor.save_config(cfg)
@@ -361,6 +366,106 @@ class WebApiTest(unittest.TestCase):
         with self.assertRaises(Exception):
             self.call("/api/nope")
 
+
+
+class PatternExtractionTest(unittest.TestCase):
+    """목록 조각만 돌려주는 사이트를 정규식으로 읽는다."""
+
+    HTML = """
+    <li><a href="/#none" data-value="23,055">
+      <p class="company"> 삼성전자 DX부문</p>
+      <h3 class="title">2026년 하반기 신입 채용 </h3>
+      <p class="info"><span class="period"> 2026.09.08 ~ 2026.09.15 </span></p>
+    </a></li>
+    <li><a href="/#none" data-value="989">
+      <p class="company"> 삼성전기</p>
+      <h3 class="title">경력 채용 </h3>
+      <p class="info"><span class="period"> 2026.09.01 ~ 2026.09.30 </span></p>
+    </a></li>
+    """
+    PATTERN = (r'<a[^>]*data-value="(?P<no>[\d,]+)"[^>]*>'
+               r'[\s\S]{0,400}?<p class="company">(?P<company>[^<]*)</p>'
+               r'[\s\S]{0,400}?<h3 class="title">(?P<title>[^<]*)</h3>'
+               r'[\s\S]{0,400}?<span class="period">(?P<period>[^<]*)</span>')
+    MAPPING = {
+        "title_template": "{company} {title}",
+        "id_field": "no",
+        "date_field": "period",
+        "url_template": "https://example.com/hr/?no={no|digits}",
+    }
+
+    def test_items_and_links(self):
+        items = extract_mod.items_from_pattern(
+            self.PATTERN, self.HTML, "https://example.com/hr/", self.MAPPING)
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0]["title"], "삼성전자 DX부문 2026년 하반기 신입 채용")
+        self.assertEqual(items[0]["url"], "https://example.com/hr/?no=23055")
+        self.assertEqual(items[0]["date"], "2026.09.08 ~ 2026.09.15")
+        self.assertEqual(items[1]["url"], "https://example.com/hr/?no=989")
+
+    def test_used_by_extract(self):
+        site = config_mod.normalize({"sites": [{
+            "name": "조각", "url": "https://example.com/hr/list.data", "mode": "html",
+            "item_pattern": self.PATTERN, "json": self.MAPPING,
+        }]})["sites"][0]
+        fetched = FetchResult(url=site["url"], status=200, text=self.HTML,
+                              content_type="text/html")
+        result = extract_mod.extract(site, fetched)
+        self.assertEqual(result.method, "pattern")
+        self.assertEqual(len(result.items), 2)
+
+
+
+class RelistedTest(unittest.TestCase):
+    """설정을 고쳐 목록을 다르게 읽게 되면, 전부 새 공고로 알리지 않고 기준을 다시 잡는다."""
+
+    def setUp(self):
+        self.dir = tempfile.mkdtemp()
+        self.path = os.path.join(self.dir, "config.json")
+        config_mod.save(self.path, {"sites": [
+            {"id": "s1", "name": "테스트", "url": "https://example.com/jobs"}]})
+        self.monitor = Monitor(self.path)
+
+    def _check(self, items, state):
+        cfg = self.monitor.load_config()
+        site = cfg["sites"][0]
+        result = extract_mod.ExtractResult(items=items, method="links", fingerprint="fp")
+        self.monitor.collect = lambda _cfg, _site: (
+            FetchResult(url=site["url"], status=200, text="<html></html>",
+                        content_type="text/html"), result)
+        return self.monitor.check_site(cfg, site, state)
+
+    def test_full_replacement_rebaselines_instead_of_mailing(self):
+        state = {"sites": {}}
+        old = [{"id": f"old{i}", "title": f"공고 {i}", "url": f"https://example.com/{i}", "date": ""}
+               for i in range(8)]
+        self.assertEqual(self._check(old, state)["status"], "baseline")   # 첫 확인
+
+        # 설정을 고쳐 식별자가 통째로 달라진 상황
+        renewed = [{"id": f"new{i}", "title": f"공고 {i}", "url": f"https://example.com/x/{i}", "date": ""}
+                   for i in range(8)]
+        result = self._check(renewed, state)
+        self.assertEqual(result["status"], "baseline")
+        self.assertEqual(result["new_items"], [])
+        self.assertTrue(result["relisted"])
+        self.assertEqual(result["alert"]["kind"], "relisted")
+
+        # 그 다음 확인부터는 진짜 새 공고만 알린다
+        plus_one = renewed + [{"id": "new99", "title": "진짜 새 공고",
+                               "url": "https://example.com/x/99", "date": ""}]
+        after = self._check(plus_one, state)
+        self.assertEqual(after["status"], "new")
+        self.assertEqual([i["id"] for i in after["new_items"]], ["new99"])
+
+    def test_normal_new_posting_is_not_treated_as_relisted(self):
+        state = {"sites": {}}
+        items = [{"id": f"a{i}", "title": f"공고 {i}", "url": f"https://example.com/{i}", "date": ""}
+                 for i in range(8)]
+        self._check(items, state)
+        added = items + [{"id": "a99", "title": "새 공고", "url": "https://example.com/99", "date": ""}]
+        result = self._check(added, state)
+        self.assertEqual(result["status"], "new")
+        self.assertFalse(result["relisted"])
 
 if __name__ == "__main__":
     unittest.main()
@@ -580,3 +685,174 @@ class DueSchedulingTest(unittest.TestCase):
         cfg, state = monitor.load_config(), monitor.load_state()
         self.assertIsNone(monitor.next_due(cfg, state, cfg["sites"][0]))
         self.assertEqual([s["id"] for s in monitor.due_sites(cfg, state)], ["a"])
+
+
+class RetryTest(unittest.TestCase):
+    """일시적인 접속 실패는 몇 번 더 시도한다."""
+
+    def setUp(self):
+        self.original = fetch_mod.RETRY_WAIT_SEC
+        fetch_mod.RETRY_WAIT_SEC = (0, 0)
+        self.addCleanup(lambda: setattr(fetch_mod, "RETRY_WAIT_SEC", self.original))
+
+    def test_connection_error_is_retried(self):
+        with self.assertRaises(fetch_mod.FetchError) as ctx:
+            fetch_mod.fetch("http://127.0.0.1:9/none", timeout=1)
+        self.assertIn(f"{fetch_mod.RETRY_ATTEMPTS}회 시도", str(ctx.exception))
+
+    def test_succeeds_after_transient_failure(self):
+        calls = {"n": 0}
+        real = fetch_mod._fetch_once
+
+        def flaky(url, **kwargs):
+            calls["n"] += 1
+            if calls["n"] < 2:
+                raise fetch_mod.FetchError("응답 시간 초과 (20초)", retryable=True)
+            return FetchResult(url=url, status=200, text="<html></html>", content_type="text/html")
+
+        fetch_mod._fetch_once = flaky
+        self.addCleanup(lambda: setattr(fetch_mod, "_fetch_once", real))
+        result = fetch_mod.fetch("https://example.com")
+        self.assertEqual(result.status, 200)
+        self.assertEqual(calls["n"], 2)
+
+    def test_client_error_is_not_retried(self):
+        calls = {"n": 0}
+        real = fetch_mod._fetch_once
+
+        def not_found(url, **kwargs):
+            calls["n"] += 1
+            raise fetch_mod.FetchError("HTTP 404 Not Found", retryable=False)
+
+        fetch_mod._fetch_once = not_found
+        self.addCleanup(lambda: setattr(fetch_mod, "_fetch_once", real))
+        with self.assertRaises(fetch_mod.FetchError):
+            fetch_mod.fetch("https://example.com")
+        self.assertEqual(calls["n"], 1)
+
+
+class HealthAlertTest(unittest.TestCase):
+    """사이트가 조용히 망가졌을 때 점검 알림이 나가는지."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.path = os.path.join(self.tmp.name, "config.json")
+        config_mod.save(self.path, {"sites": [{"id": "a", "name": "A", "url": "https://a.example"}]})
+        self.monitor = Monitor(self.path)
+        self.cfg = self.monitor.load_config()
+        self.site = self.cfg["sites"][0]
+        self.state = store_mod.empty_state()
+        self.entry = store_mod.site_state(self.state, "a")
+
+    def _record(self, count, method="links", status="ok"):
+        """확인 한 번을 흉내 내고 (알림, ) 을 돌려준다."""
+        at = store_mod.now_iso()
+        before = {"method": self.entry.get("last_method") or "",
+                  "counts": store_mod.recent_item_counts(self.entry)}
+        result = {"site_id": "a", "site_name": "A", "site_url": "https://a.example",
+                  "site_link": "https://a.example", "status": status, "new_items": [],
+                  "item_count": count, "method": method, "note": "", "error": "실패" if status == "error" else ""}
+        store_mod.record_check(self.entry, at=at, status=status, method=method,
+                               item_count=count, error=result["error"])
+        self.entry["baseline_done"] = True
+        return self.monitor.update_health(self.cfg, self.site, self.entry, result, at, before)
+
+    def test_item_count_collapse_alerts_once_and_recovers(self):
+        for _ in range(4):
+            self.assertIsNone(self._record(40))
+        alert = self._record(0)                      # 갑자기 하나도 못 읽음
+        self.assertIsNotNone(alert)
+        self.assertEqual(alert["kind"], "no_items")
+        self.assertFalse(alert["recovered"])
+        self.assertIsNone(self._record(0))           # 같은 문제로 또 보내지 않는다
+        recovered = self._record(40)                 # 정상으로 돌아오면 복구 알림
+        self.assertIsNotNone(recovered)
+        self.assertTrue(recovered["recovered"])
+
+    def test_big_drop_alerts(self):
+        for _ in range(4):
+            self._record(40)
+        alert = self._record(10)
+        self.assertEqual(alert["kind"], "drop")
+        self.assertIn("40", alert["detail"])
+
+    def test_method_change_alerts(self):
+        for _ in range(3):
+            self._record(30, method="json")
+        alert = self._record(30, method="links")
+        self.assertEqual(alert["kind"], "method_changed")
+
+    def test_consecutive_errors_alert(self):
+        self._record(30)
+        self.assertIsNone(self._record(0, status="error"))
+        self.assertIsNone(self._record(0, status="error"))
+        alert = self._record(0, status="error")      # 기본값 3회째
+        self.assertEqual(alert["kind"], "errors")
+
+    def test_fingerprint_alerts_immediately(self):
+        alert = self._record(0, method="fingerprint")
+        self.assertEqual(alert["kind"], "fingerprint")
+
+    def test_alerts_can_be_turned_off(self):
+        self.cfg["alerts"]["enabled"] = False
+        for _ in range(4):
+            self._record(40)
+        self.assertIsNone(self._record(0))
+
+    def test_alert_is_mailed_even_without_new_postings(self):
+        results = [{"site_name": "A", "site_url": "https://a.example", "site_link": "https://a.example",
+                    "status": "ok", "new_items": []}]
+        alerts = [{"site_id": "a", "site_name": "A", "site_url": "https://a.example",
+                   "site_link": "https://a.example", "kind": "no_items",
+                   "label": "목록을 하나도 읽지 못했습니다", "detail": "평소 40건", "recovered": False}]
+        subject, text, html = notify_mod.render(results, alerts=alerts)
+        self.assertIn("점검 필요", subject)
+        self.assertIn("목록을 하나도 읽지 못했습니다", text)
+        self.assertIn("평소 40건", html)
+
+
+class SiteLinkTest(unittest.TestCase):
+    """API 주소를 감시할 때 메일 링크는 사람이 볼 주소로 나가야 한다."""
+
+    def test_site_link_prefers_home_url(self):
+        cfg = config_mod.normalize({"sites": [{
+            "name": "A", "url": "https://api.example.com/list", "home_url": "www.example.com/jobs",
+        }]})
+        site = cfg["sites"][0]
+        self.assertEqual(config_mod.site_link(site), "https://www.example.com/jobs")
+
+    def test_mail_uses_site_link(self):
+        results = [{"site_name": "A", "site_url": "https://api.example.com/list",
+                    "site_link": "https://www.example.com/jobs", "status": "new",
+                    "new_items": [{"title": "공고", "url": "", "date": ""}]}]
+        _subject, text, html = notify_mod.render(results)
+        self.assertIn("https://www.example.com/jobs", text)
+        self.assertNotIn("api.example.com", html)
+
+
+class StableIdentityTest(unittest.TestCase):
+    """제목에 매일 바뀌는 값이 섞여도 같은 공고로 인식해야 한다."""
+
+    def _items(self, html, site=None):
+        site = site or config_mod.normalize({"sites": [{"name": "A", "url": "https://a.example/list"}]})["sites"][0]
+        return extract_mod.extract(site, fake(html, url="https://a.example/list")).items
+
+    def test_same_posting_with_changing_dday(self):
+        today = self._items('<a href="/o/1">간호사 채용 · 마감 D-114</a><a href="/o/2">설계 엔지니어 · D-3</a>')
+        tomorrow = self._items('<a href="/o/1">간호사 채용 · 마감 D-113</a><a href="/o/2">설계 엔지니어 · D-2</a>')
+        self.assertEqual([i["id"] for i in today], [i["id"] for i in tomorrow])
+
+    def test_title_still_counts_when_urls_repeat(self):
+        # 상세 주소가 없어 모두 같은 주소를 가리키면 제목으로 구분해야 한다
+        items = self._items('<a href="/list">공고 A</a><a href="/list">공고 B</a>')
+        self.assertEqual(len({i["id"] for i in items}), 2)
+
+    def test_new_posting_is_still_detected(self):
+        today = self._items('<a href="/o/1">간호사 채용 D-114</a>')
+        tomorrow = self._items('<a href="/o/1">간호사 채용 D-113</a><a href="/o/9">신규 공고 D-30</a>')
+        self.assertEqual(len(set(i["id"] for i in tomorrow) - set(i["id"] for i in today)), 1)
+
+    def test_long_card_text_is_trimmed(self):
+        items = self._items('<a href="/o/1">' + ("가" * 400) + "</a>")
+        self.assertLessEqual(len(items[0]["title"]), 160)

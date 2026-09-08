@@ -97,6 +97,7 @@ function fmtInterval(hours) {
   const value = Number(hours);
   if (!value) return '';
   if (value >= 24 && value % 24 === 0) return `${value / 24}일마다`;
+  if (value < 1) return `${Math.round(value * 60)}분마다`;
   return `${value}시간마다`;
 }
 
@@ -250,12 +251,13 @@ function normalizeConfig(raw) {
   const taken = new Set();
   out.sites = (out.sites || []).map((site) => {
     const merged = Object.assign({
-      id: '', name: '', url: '', enabled: true, mode: 'auto', interval_hours: null,
+      id: '', name: '', url: '', home_url: '', enabled: true, mode: 'auto', interval_hours: null,
       url_pattern: '', title_pattern: '', exclude_pattern: '', max_items: 300, note: '',
-      method: 'GET', body: '', headers: {},
+      method: 'GET', body: '', headers: {}, selector: '', pages: 1, item_pattern: '',
     }, site);
     merged.json = Object.assign(
-      { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '', date_field: '' },
+      { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '',
+        title_template: '', date_field: '' },
       site.json || {}
     );
     if (!merged.id || taken.has(merged.id)) merged.id = makeSiteId(merged, taken);
@@ -283,7 +285,7 @@ function fillForm() {
 
 function collectConfig() {
   const out = JSON.parse(JSON.stringify(cfg));
-  out.check_interval_hours = Math.max(1, Number(el.intervalInput.value) || 24);
+  out.check_interval_hours = Math.max(0.5, Number(el.intervalInput.value) || 24);
   out.notify_on_first_run = el.firstRunInput.checked;
   out.recipients = el.recipientsInput.value.split(/[,;\s]+/).map((s) => s.trim()).filter(Boolean);
   out.email.enabled = el.emailEnabled.checked;
@@ -328,6 +330,10 @@ function siteStatusHtml(site) {
   if (interval) parts.push(interval);
   if (entry.last_error) parts.push(`<span style="color:#c4361c">${escapeHtml(entry.last_error)}</span>`);
   else if (entry.last_note) parts.push(escapeHtml(entry.last_note));
+  const health = entry.health || {};
+  if (health.issue) {
+    parts.push(`<span class="badge badge--warn">점검 필요</span>${escapeHtml(health.detail || health.issue)}`);
+  }
   return parts.join(' · ');
 }
 
@@ -353,23 +359,33 @@ function renderSites() {
         setPath(cfg.sites[index], role, next);
         if (role === 'enabled') node.classList.toggle('site--off', !next);
         if (role === 'mode') toggleJsonBox(node, next);
-        if (role === 'url') node.querySelector('[data-role="open"]').href = next || '#';
+        if (role === 'url' || role === 'home_url') {
+          node.querySelector('[data-role="open"]').href =
+            cfg.sites[index].home_url || cfg.sites[index].url || '#';
+        }
         markDirty();
       });
     };
-    ['enabled', 'name', 'url', 'mode', 'interval_hours', 'max_items', 'url_pattern',
+    ['enabled', 'name', 'url', 'home_url', 'mode', 'interval_hours', 'max_items', 'url_pattern',
       'title_pattern', 'exclude_pattern', 'note', 'json.items_path', 'json.title_field',
       'json.id_field', 'json.url_template', 'json.date_field',
-      'method', 'body'].forEach(bind);
+      'method', 'body', 'selector', 'pages', 'item_pattern',
+      'json.title_template'].forEach(bind);
 
     node.classList.toggle('site--off', !site.enabled);
     toggleJsonBox(node, site.mode);
-    node.querySelector('[data-role="open"]').href = site.url || '#';
+    node.querySelector('[data-role="open"]').href = site.home_url || site.url || '#';
     node.querySelector('[data-role="meta"]').innerHTML = siteStatusHtml(site);
     const entry = siteInfo(site.id);
-    node.querySelector('[data-role="stat"]').textContent = entry
-      ? `기억 중인 공고 ${Object.keys(entry.seen || {}).length}건 · 추출 방식 ${entry.last_method || '-'} · id ${site.id}`
-      : `아직 확인 기록이 없습니다 · id ${site.id}`;
+    const stat = node.querySelector('[data-role="stat"]');
+    if (entry) {
+      const samples = (entry.sample_titles || []).slice(0, 3).map((t) => escapeHtml(t)).join(' · ');
+      stat.innerHTML = `기억 중인 공고 ${Object.keys(entry.seen || {}).length}건 · `
+        + `추출 방식 ${escapeHtml(entry.last_method || '-')} · id ${escapeHtml(site.id)}`
+        + (samples ? `<br />수집 예시: ${samples}` : '');
+    } else {
+      stat.textContent = `아직 확인 기록이 없습니다 · id ${site.id}`;
+    }
     node.querySelector('[data-role="remove"]').addEventListener('click', () => {
       if (!confirm(`'${site.name || site.url}' 을(를) 목록에서 지울까요?`)) return;
       cfg.sites.splice(index, 1);
@@ -646,10 +662,11 @@ document.querySelectorAll('.chip[data-interval]').forEach((chip) => {
 
 el.addSiteBtn.addEventListener('click', () => {
   cfg.sites.push({
-    id: '', name: '', url: '', enabled: true, mode: 'auto', interval_hours: null,
+    id: '', name: '', url: '', home_url: '', enabled: true, mode: 'auto', interval_hours: null,
     url_pattern: '', title_pattern: '', exclude_pattern: '', max_items: 300,
-    method: 'GET', body: '', headers: {},
-    json: { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '', date_field: '' },
+    method: 'GET', body: '', headers: {}, selector: '', pages: 1, item_pattern: '',
+    json: { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '',
+      title_template: '', date_field: '' },
     note: '',
   });
   markDirty();

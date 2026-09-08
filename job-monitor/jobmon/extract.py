@@ -254,6 +254,23 @@ def find_item_arrays(data, depth: int = 0, path: str = ""):
     return found
 
 
+def fill_template(template: str, obj: dict) -> str:
+    """{필드} 자리를 값으로 채운다. {필드|digits} 는 숫자만 남긴다(23,055 → 23055)."""
+    if not template:
+        return ""
+
+    def replace(match):
+        value = _as_text(dig(obj, match.group(1)))
+        if match.group(2) == "digits":
+            value = re.sub(r"\D", "", value)
+        return value
+
+    try:
+        return re.sub(r"\{(\w+)(?:\|(\w+))?\}", replace, template).strip()
+    except Exception:
+        return ""
+
+
 def item_from_object(obj: dict, base_url: str, mapping: dict | None = None):
     """딕셔너리 하나를 공고 항목으로 바꾼다. 제목이 없으면 None."""
     mapping = mapping or {}
@@ -269,17 +286,16 @@ def item_from_object(obj: dict, base_url: str, mapping: dict | None = None):
             _, value = _pick(obj, fallback_keys)
         return _as_text(value)
 
-    title = mapped("title_field", TITLE_KEYS, pick_title)
+    title = fill_template(mapping.get("title_template") or "", obj)
+    if not title:
+        title = mapped("title_field", TITLE_KEYS, pick_title)
     if not title:
         return None
     raw_id = mapped("id_field", ID_KEYS, pick_id)
     url = mapped("url_field", URL_KEYS)
     template = mapping.get("url_template") or ""
     if template:
-        try:
-            url = re.sub(r"\{(\w+)\}", lambda m: _as_text(dig(obj, m.group(1))), template)
-        except Exception:
-            pass
+        url = fill_template(template, obj) or url
     url = urljoin(base_url, url) if url else base_url
     date = mapped("date_field", DATE_KEYS)
     if raw_id:
@@ -356,11 +372,32 @@ def items_from_anchors(doc: ParsedDoc, base_url: str) -> list:
         if key in seen:
             continue
         seen.add(key)
-        items.append({"id": digest(url, title), "title": title, "url": url, "date": "", "raw_id": ""})
+        items.append({"id": digest(url, title), "title": title[:160], "url": url, "date": "", "raw_id": ""})
     return items
 
 
 # ---------------------------------------------------------------- 진입점
+
+def items_from_pattern(pattern: str, text: str, base_url: str, mapping: dict) -> list:
+    """정규식으로 공고 한 건씩 잡아낸다 (목록 조각만 돌려주는 사이트용).
+
+    이름 붙인 그룹(?P<title>...)이 json 매핑에서 쓰는 값이 된다.
+    """
+    try:
+        regex = re.compile(pattern, re.S)
+    except re.error:
+        return []
+    items = []
+    for match in regex.finditer(text):
+        fields = {k: re.sub(r"\s+", " ", (v or "")).strip()
+                  for k, v in (match.groupdict() or {}).items()}
+        if not fields:
+            continue
+        item = item_from_object(fields, base_url, mapping)
+        if item:
+            items.append(item)
+    return items
+
 
 @dataclass
 class ExtractResult:
@@ -397,9 +434,37 @@ def _apply_filters(items: list, site: dict) -> list:
     return kept
 
 
+def items_from_dom(dom_items: list, base_url: str, template: str = "") -> list:
+    """브라우저에서 선택자로 읽은 요소들을 공고 항목으로 바꾼다."""
+    items = []
+    for row in dom_items:
+        title = re.sub(r"\s+", " ", (row.get("title") or "")).strip()
+        if not title:
+            continue
+        raw_id = str(row.get("id") or "").strip()
+        url = (row.get("url") or "").strip()
+        if template and raw_id:
+            url = template.replace("{id}", raw_id)
+        url = urljoin(base_url, url) if url else base_url
+        item_id = digest(raw_id, title) if raw_id else digest(canonical_url(url), title)
+        items.append({"id": item_id, "title": title, "url": url, "date": "", "raw_id": raw_id})
+    return items
+
+
 def extract(site: dict, fetched) -> ExtractResult:
     """사이트 설정과 응답을 받아 공고 목록을 만든다."""
     mode = site.get("mode") or "auto"
+    # 목록만 돌려주는 주소(API·조각)에서는 링크가 상대 주소로 오므로,
+    # 사람이 볼 주소가 지정돼 있으면 그것을 기준으로 푼다.
+    link_base = (site.get("home_url") or "").strip() or fetched.url or site.get("url") or ""
+    dom_items = getattr(fetched, "dom_items", None)
+    if dom_items:
+        found = items_from_dom(dom_items, fetched.url or site.get("url") or "",
+                               (site.get("json") or {}).get("url_template", ""))
+        if found:
+            result = ExtractResult(items=found, method="selector",
+                                   fingerprint=digest(fetched.text[:200000]))
+            return _finish(result, site)
     base_url = fetched.url or site.get("url") or ""
     mapping = site.get("json") or {}
     fingerprint = ""
@@ -427,22 +492,56 @@ def extract(site: dict, fetched) -> ExtractResult:
         doc = parse_html(fetched.text)
         fingerprint = fingerprint or digest(doc.text[:200000])
 
+        # 후보를 순서대로 만들되, 필터를 통과한 항목이 남는 첫 번째 방식을 쓴다.
+        # (메뉴 목록이 먼저 잡혀 진짜 공고 링크를 가리는 일을 막는다)
+        candidates = []
+        if site.get("item_pattern"):
+            candidates.append(("pattern", lambda: items_from_pattern(
+                site["item_pattern"], fetched.text, link_base, mapping)))
         if mode in ("auto", "browser"):
-            found = items_from_jsonld(doc, base_url)
-            if found:
-                items, method = found, "jsonld"
-            if not items:
-                found = items_from_embedded_json(doc, base_url)
-                if found:
-                    items, method = found, "embedded-json"
-        if not items and mode != "json":
-            found = items_from_anchors(doc, base_url)
-            if found:
-                items, method = found, "links"
+            candidates.append(("jsonld", lambda: items_from_jsonld(doc, base_url)))
+            candidates.append(("embedded-json", lambda: items_from_embedded_json(doc, base_url)))
+        if mode != "json":
+            candidates.append(("links", lambda: items_from_anchors(doc, link_base)))
+
+        fallback = None
+        for name, build in candidates:
+            found = build()
+            if not found:
+                continue
+            if _apply_filters(found, site):
+                items, method = found, name
+                break
+            if fallback is None:
+                fallback = (name, found)   # 필터에 다 걸렸지만 뭔가는 읽은 방식
+        if not items and fallback:
+            method, items = fallback[0], fallback[1]
         if not items:
             method = "fingerprint"
             note = "목록을 찾지 못해 페이지 내용 변경만 감시합니다."
 
+    return _finish(ExtractResult(items=items, method=method, fingerprint=fingerprint, note=note), site)
+
+
+def _stabilize_ids(items: list) -> None:
+    """주소가 항목마다 다르면 주소만으로 식별한다.
+
+    링크에서 읽은 제목에는 남은 일수(D-114)나 조회수처럼 매일 바뀌는 값이
+    섞여 들어오는 일이 잦다. 그대로 두면 같은 공고가 매일 새 공고로 보인다.
+    """
+    urls = [canonical_url(item.get("url") or "") for item in items]
+    distinct = {url for url in urls if url and urlparse(url).path not in ("", "/")}
+    if len(distinct) != len([u for u in urls if u]):
+        return                      # 주소가 겹치는 항목이 있으면 제목도 함께 본다
+    for item, url in zip(items, urls):
+        if not item.get("raw_id") and url and urlparse(url).path not in ("", "/"):
+            item["id"] = digest(url)
+
+
+def _finish(result: ExtractResult, site: dict) -> ExtractResult:
+    """식별자 안정화 · 필터 적용 · 중복 제거 · 최대 개수 제한."""
+    _stabilize_ids(result.items)
+    items, note = result.items, result.note
     if items:
         before = len(items)
         items = _apply_filters(items, site)
@@ -459,4 +558,5 @@ def extract(site: dict, fetched) -> ExtractResult:
             items = items[:max_items]
         elif before != len(items):
             note = f"{before}개 중 필터를 통과한 {len(items)}개를 사용합니다."
-    return ExtractResult(items=items, method=method, fingerprint=fingerprint, note=note)
+    result.items, result.note = items, note
+    return result

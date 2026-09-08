@@ -60,6 +60,10 @@ def site_state(state: dict, site_id: str) -> dict:
         "fingerprint": "",
         "baseline_done": False,
         "history": [],
+        "consecutive_errors": 0,
+        "sample_titles": [],
+        "last_new_at": "",
+        "health": {"issue": "", "detail": "", "since": ""},
     })
 
 
@@ -94,10 +98,30 @@ def remember(entry: dict, items: list, at: str) -> None:
     _prune_seen(entry)
 
 
+def recent_item_counts(entry: dict, limit: int = 10) -> list:
+    """최근 성공한 확인들의 항목 수 (지금 것은 아직 기록 전이므로 포함되지 않는다)."""
+    counts = []
+    for record in entry.get("history") or []:
+        if record.get("status") == "error":
+            continue
+        counts.append(int(record.get("item_count") or 0))
+        if len(counts) >= limit:
+            break
+    return counts
+
+
 def record_check(entry: dict, *, at: str, status: str, new_items: list = None,
                  error: str = "", method: str = "", item_count: int = 0,
-                 fingerprint: str = "", note: str = "") -> None:
+                 fingerprint: str = "", note: str = "", sample_titles: list = None) -> None:
     new_items = new_items or []
+    if status == "error":
+        entry["consecutive_errors"] = int(entry.get("consecutive_errors") or 0) + 1
+    else:
+        entry["consecutive_errors"] = 0
+    if new_items:
+        entry["last_new_at"] = at
+    if sample_titles is not None:
+        entry["sample_titles"] = [t for t in sample_titles if t][:5]
     entry["last_check"] = at
     entry["last_status"] = status
     entry["last_error"] = error

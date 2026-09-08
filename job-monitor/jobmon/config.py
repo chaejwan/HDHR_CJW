@@ -39,6 +39,13 @@ DEFAULT_CONFIG = {
             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         ),
     },
+    "alerts": {
+        # 사이트가 조용히 망가지는 것을 잡아내는 안전장치
+        "enabled": True,
+        "drop_ratio": 0.5,        # 평소 항목 수의 이 비율 밑으로 떨어지면 알림
+        "consecutive_errors": 3,  # 연속 실패가 이만큼 쌓이면 알림
+        "stale_days": 30,         # 이 기간 동안 새 공고가 하나도 없으면 점검 권유 (0 이면 끔)
+    },
     "sites": [],
 }
 
@@ -46,6 +53,7 @@ DEFAULT_SITE = {
     "id": "",
     "name": "",
     "url": "",
+    "home_url": "",               # 사람이 열어 볼 주소 (url 이 API 일 때 메일·화면 링크에 사용)
     "enabled": True,
     # auto | html | json | browser
     #  auto    : JSON-LD → 내장 JSON → <a> 링크 → 본문 해시 순서로 자동 탐지
@@ -58,6 +66,9 @@ DEFAULT_SITE = {
     "title_pattern": "",          # 제목 필터 (정규식)
     "exclude_pattern": "",        # 제외 필터 (정규식, 주소·제목 모두에 적용)
     "max_items": 300,             # 한 번에 인정할 최대 항목 수 (노이즈 방지)
+    "pages": 1,                   # 목록이 여러 쪽으로 나뉘면 주소나 본문에 {page} 를 넣고 쪽수를 적는다
+    "selector": "",               # browser 모드에서 공고 카드를 가리키는 CSS 선택자
+    "item_pattern": "",           # 공고 한 건을 잡아내는 정규식 (이름 붙인 그룹이 json 매핑의 값이 된다)
     "method": "GET",              # 검색형 API 는 POST 인 경우가 있다
     "body": "",                   # POST 로 보낼 본문 (보통 JSON 문자열)
     "headers": {},                # 추가로 보낼 요청 헤더
@@ -67,6 +78,7 @@ DEFAULT_SITE = {
         "title_field": "",
         "url_field": "",
         "url_template": "",
+        "title_template": "",     # 여러 값을 합쳐 제목을 만들 때 (예: "{company} {title}")
         "date_field": "",
     },
     "note": "",
@@ -147,6 +159,21 @@ def normalize(config: dict) -> dict:
     if email.get("security") not in ("starttls", "ssl", "none"):
         email["security"] = "starttls"
 
+    alerts = cfg["alerts"]
+    alerts["enabled"] = bool(alerts.get("enabled"))
+    try:
+        alerts["drop_ratio"] = min(0.95, max(0.05, float(alerts.get("drop_ratio") or 0.5)))
+    except (TypeError, ValueError):
+        alerts["drop_ratio"] = 0.5
+    try:
+        alerts["consecutive_errors"] = max(1, min(20, int(alerts.get("consecutive_errors") or 3)))
+    except (TypeError, ValueError):
+        alerts["consecutive_errors"] = 3
+    try:
+        alerts["stale_days"] = max(0, min(365, int(alerts.get("stale_days") or 0)))
+    except (TypeError, ValueError):
+        alerts["stale_days"] = 30
+
     req = cfg["request"]
     try:
         req["timeout_sec"] = max(3, min(120, int(req.get("timeout_sec") or 20)))
@@ -165,9 +192,19 @@ def normalize(config: dict) -> dict:
         if not re.match(r"^https?://", site["url"]):
             site["url"] = "https://" + site["url"]
         site["name"] = (site.get("name") or site["url"]).strip()
+        home = (site.get("home_url") or "").strip()
+        if home and not re.match(r"^https?://", home):
+            home = "https://" + home
+        site["home_url"] = home
         site["enabled"] = bool(site.get("enabled", True))
         if site.get("mode") not in ("auto", "html", "json", "browser"):
             site["mode"] = "auto"
+        site["selector"] = (site.get("selector") or "").strip()
+        site["item_pattern"] = (site.get("item_pattern") or "").strip()
+        try:
+            site["pages"] = max(1, min(20, int(site.get("pages") or 1)))
+        except (TypeError, ValueError):
+            site["pages"] = 1
         site["method"] = "POST" if str(site.get("method", "")).upper() == "POST" else "GET"
         site["body"] = site.get("body") or ""
         if not isinstance(site.get("headers"), dict):
@@ -205,7 +242,7 @@ def validate(config: dict) -> list[str]:
                 f"{email.get('password_env') or 'JOBMON_SMTP_PASSWORD'} 로 지정하세요."
             )
     for site in config.get("sites") or []:
-        for key in ("url_pattern", "title_pattern", "exclude_pattern"):
+        for key in ("url_pattern", "title_pattern", "exclude_pattern", "item_pattern"):
             pattern = site.get(key) or ""
             if pattern:
                 try:
@@ -300,3 +337,8 @@ def find_site(config: dict, site_id: str) -> dict | None:
         if site["id"] == site_id:
             return site
     return None
+
+
+def site_link(site: dict) -> str:
+    """메일·화면에서 보여 줄 주소. url 이 API 주소면 home_url 을 쓴다."""
+    return (site.get("home_url") or "").strip() or (site.get("url") or "").strip()

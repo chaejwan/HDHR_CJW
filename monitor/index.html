@@ -46,12 +46,14 @@
       <div class="row">
         <label class="field">
           <span>기본 주기 (시간)</span>
-          <input id="intervalInput" type="number" min="1" step="1" />
+          <input id="intervalInput" type="number" min="0.5" step="0.5" />
         </label>
         <div class="field field--wide">
           <span>자주 쓰는 값</span>
           <div class="chips">
+            <button class="chip" type="button" data-interval="0.5">30분</button>
             <button class="chip" type="button" data-interval="1">1시간</button>
+            <button class="chip" type="button" data-interval="3">3시간</button>
             <button class="chip" type="button" data-interval="6">6시간</button>
             <button class="chip" type="button" data-interval="12">12시간</button>
             <button class="chip" type="button" data-interval="24">24시간</button>
@@ -64,8 +66,9 @@
         <span>처음 확인할 때 발견한 공고도 메일로 받기 (기본은 받지 않음)</span>
       </label>
       <p class="hint">
-        확인은 GitHub Actions 가 <b>매시간</b> 깨어나 담당합니다. 여기서 정한 주기가 지난 사이트만 실제로 확인하므로,
-        1시간보다 짧게 잡을 수는 없습니다.
+        확인은 GitHub Actions 가 <b>30분마다</b> 깨어나 담당합니다. 여기서 정한 주기가 지난 사이트만 실제로 확인하므로
+        30분보다 짧게 잡는 것은 의미가 없습니다. GitHub 예약 실행은 혼잡하면 건너뛰거나 늦어질 수 있어,
+        실제 확인 간격은 정한 값보다 조금 길어질 수 있습니다.
       </p>
     </section>
 
@@ -175,6 +178,7 @@
         <div class="site__info">
           <input class="site__name" type="text" data-role="name" placeholder="사이트 이름" />
           <input class="site__url" type="url" data-role="url" placeholder="https://example.com/careers" />
+          <input class="site__url" type="url" data-role="home_url" placeholder="사람이 열어 볼 주소 (위가 API 주소일 때만 입력)" />
           <p class="site__meta" data-role="meta"></p>
         </div>
         <div class="site__buttons">
@@ -194,8 +198,9 @@
               <option value="browser">브라우저 렌더링</option>
             </select>
           </label>
-          <label class="field field--narrow"><span>개별 주기 (시간, 비우면 기본값)</span><input type="number" min="1" step="1" data-role="interval_hours" /></label>
+          <label class="field field--narrow"><span>개별 주기 (시간, 비우면 기본값)</span><input type="number" min="0.5" step="0.5" data-role="interval_hours" /></label>
           <label class="field field--narrow"><span>최대 항목 수</span><input type="number" min="1" data-role="max_items" /></label>
+          <label class="field"><span>CSS 선택자 (브라우저 렌더링일 때, 공고 카드를 가리킴)</span><input type="text" data-role="selector" placeholder="li.job-card" /></label>
         </div>
         <div class="row">
           <label class="field"><span>주소 필터 (정규식)</span><input type="text" data-role="url_pattern" placeholder="recruit|notice" /></label>
@@ -218,6 +223,11 @@
           </label>
           <label class="field field--wide"><span>요청 본문 (POST 일 때, JSON)</span><input type="text" data-role="body" placeholder='{"page":0,"size":50}' /></label>
           <label class="field"><span>마감/등록일 필드</span><input type="text" data-role="json.date_field" placeholder="regDt" /></label>
+        </div>
+        <div class="row">
+          <label class="field field--narrow"><span>이어 읽을 쪽 수 (주소·본문에 {page})</span><input type="number" min="1" max="20" data-role="pages" /></label>
+          <label class="field field--wide"><span>공고 한 건 정규식 (목록 조각을 직접 읽을 때)</span><input type="text" data-role="item_pattern" placeholder="&lt;a[^&gt;]*data-value=&quot;(?P&lt;no&gt;[0-9]+)&quot;" /></label>
+          <label class="field"><span>제목 조합</span><input type="text" data-role="json.title_template" placeholder="{company} {title}" /></label>
         </div>
         <label class="field"><span>메모</span><input type="text" data-role="note" /></label>
         <p class="site__stat" data-role="stat"></p>

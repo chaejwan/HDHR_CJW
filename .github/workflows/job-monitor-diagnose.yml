@@ -8,8 +8,11 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "진단할 주소 (예: https://www.example.com/careers)"
-        required: true
+        description: "진단할 주소 (예: https://www.example.com/careers). site_id 를 쓰면 비워 두세요."
+        required: false
+      site_id:
+        description: "설정에 등록된 사이트 id — 그 설정 그대로(POST 본문·필드 매핑 포함) 점검합니다"
+        required: false
       browser:
         description: "브라우저로 렌더링해서 확인 (자바스크립트로 목록을 그리는 사이트)"
         type: boolean
@@ -18,6 +21,12 @@ on:
         description: "렌더링 중 오간 JSON 응답까지 살펴 목록 API 후보를 찾기"
         type: boolean
         default: true
+      method:
+        description: "요청 방식 (POST 로 보내려면 POST)"
+        required: false
+      body:
+        description: "POST 로 보낼 본문 (예: page=1&size=50). 지정하면 브라우저 없이 그 요청만 보냅니다"
+        required: false
 
 permissions:
   contents: read
@@ -35,13 +44,25 @@ jobs:
           python-version: "3.12"
 
       - name: 브라우저 설치
-        if: inputs.browser
+        if: ${{ inputs.browser && !inputs.site_id }}
         run: |
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
 
       - name: 진단
+        env:
+          PROBE_URL: ${{ inputs.url }}
+          PROBE_METHOD: ${{ inputs.method }}
+          PROBE_BODY: ${{ inputs.body }}
         run: |
-          python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
-            ${{ inputs.browser && '--browser' || ' ' }} \
-            ${{ (inputs.browser && inputs.network) && '--network' || ' ' }}
+          if [ -n "${{ inputs.body }}" ] || [ "${{ inputs.method }}" = "POST" ]; then
+            python3 job-monitor/tools/make_probe_site.py /tmp/site.json
+            python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
+          elif [ -n "${{ inputs.site_id }}" ]; then
+            python3 job-monitor/tools/pick_site.py job-monitor/config.json "${{ inputs.site_id }}" /tmp/site.json
+            python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
+          else
+            python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
+              ${{ inputs.browser && '--browser' || ' ' }} \
+              ${{ (inputs.browser && inputs.network) && '--network' || ' ' }}
+          fi

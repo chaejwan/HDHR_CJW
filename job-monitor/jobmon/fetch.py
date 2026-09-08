@@ -5,6 +5,7 @@ from __future__ import annotations
 import gzip
 import io
 import re
+import time
 import zlib
 from dataclasses import dataclass, field
 from urllib import request as urlrequest
@@ -19,6 +20,15 @@ DEFAULT_UA = (
 class FetchError(Exception):
     """접속 실패. 메시지는 사용자에게 그대로 보여 준다."""
 
+    def __init__(self, message: str, retryable: bool = False):
+        super().__init__(message)
+        self.retryable = retryable
+
+
+# 상대 서버가 일시적으로 느리거나 막을 때를 대비한 재시도 (사이트 한 곳당)
+RETRY_ATTEMPTS = 3
+RETRY_WAIT_SEC = (3, 8)
+
 
 @dataclass
 class FetchResult:
@@ -28,6 +38,8 @@ class FetchResult:
     content_type: str = ""
     rendered: bool = False
     headers: dict = field(default_factory=dict)
+    dom_items: list = field(default_factory=list)   # selector 로 뽑은 항목
+    structure: list = field(default_factory=list)   # 반복되는 구조 후보 (선택자 추천용)
 
     @property
     def looks_json(self) -> bool:
@@ -65,7 +77,26 @@ def _charset(content_type: str, raw: bytes) -> str:
 
 def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: dict | None = None,
           method: str = "GET", body: str = "") -> FetchResult:
-    """주소 하나를 받아 온다. body 를 주면 POST 로 보낸다 (검색형 API 용)."""
+    """주소 하나를 받아 온다. 응답이 없거나 일시적 오류면 몇 번 더 시도한다."""
+    last_error = None
+    for attempt in range(1, RETRY_ATTEMPTS + 1):
+        try:
+            return _fetch_once(url, timeout=timeout, user_agent=user_agent, headers=headers,
+                               method=method, body=body)
+        except FetchError as exc:
+            last_error = exc
+            if not exc.retryable or attempt == RETRY_ATTEMPTS:
+                break
+            time.sleep(RETRY_WAIT_SEC[min(attempt - 1, len(RETRY_WAIT_SEC) - 1)])
+    message = str(last_error)
+    if last_error is not None and last_error.retryable and RETRY_ATTEMPTS > 1:
+        message = f"{message} ({RETRY_ATTEMPTS}회 시도)"
+    raise FetchError(message, retryable=bool(last_error and last_error.retryable))
+
+
+def _fetch_once(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: dict | None = None,
+                method: str = "GET", body: str = "") -> FetchResult:
+    """실제로 한 번 요청한다. body 를 주면 POST 로 보낸다 (검색형 API 용)."""
     req_headers = {
         "User-Agent": user_agent or DEFAULT_UA,
         "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
@@ -97,13 +128,19 @@ def fetch(url: str, timeout: float = 20, user_agent: str = DEFAULT_UA, headers: 
                 headers={k.lower(): v for k, v in info.items()},
             )
     except HTTPError as exc:
-        raise FetchError(f"HTTP {exc.code} {exc.reason}") from exc
+        # 429(요청 과다)와 5xx 는 잠시 뒤 다시 해 볼 만하다
+        retryable = exc.code == 429 or 500 <= exc.code < 600
+        raise FetchError(f"HTTP {exc.code} {exc.reason}", retryable=retryable) from exc
     except URLError as exc:
-        raise FetchError(f"접속 실패: {exc.reason}") from exc
+        reason = exc.reason
+        text = str(reason)
+        if isinstance(reason, TimeoutError) or "timed out" in text:
+            raise FetchError(f"응답 시간 초과 ({timeout:g}초)", retryable=True) from exc
+        raise FetchError(f"접속 실패: {text}", retryable=True) from exc
     except TimeoutError as exc:
-        raise FetchError(f"응답 시간 초과 ({timeout}초)") from exc
+        raise FetchError(f"응답 시간 초과 ({timeout:g}초)", retryable=True) from exc
     except OSError as exc:
-        raise FetchError(f"접속 실패: {exc}") from exc
+        raise FetchError(f"접속 실패: {exc}", retryable=True) from exc
 
 
 def browser_available() -> bool:
@@ -114,8 +151,43 @@ def browser_available() -> bool:
     return True
 
 
+# 화면에서 반복되는 구조(=목록 후보)를 찾아 선택자를 추천하기 위한 스크립트
+STRUCTURE_JS = """
+() => {
+  const groups = {};
+  document.querySelectorAll('*').forEach((el) => {
+    const cls = typeof el.className === 'string' ? el.className.trim() : '';
+    if (!cls) return;
+    const text = (el.innerText || '').trim();
+    if (text.length < 8 || text.length > 400) return;
+    const sig = el.tagName.toLowerCase() + '.' + cls.split(/\s+/).slice(0, 3).join('.');
+    (groups[sig] = groups[sig] || []).push(text.split('\n')[0].slice(0, 80));
+  });
+  return Object.entries(groups)
+    .filter(([, texts]) => texts.length >= 4)
+    .sort((a, b) => b[1].length - a[1].length)
+    .slice(0, 10)
+    .map(([selector, texts]) => ({ selector, count: texts.length, samples: texts.slice(0, 4) }));
+}
+"""
+
+# 지정한 선택자로 화면의 목록 항목을 그대로 읽어 오는 스크립트
+SELECTOR_JS = """
+(sel) => Array.from(document.querySelectorAll(sel)).slice(0, 500).map((el) => {
+  const anchor = el.querySelector('a') || el.closest('a');
+  const text = (el.innerText || '').trim();
+  return {
+    title: text.split('\n')[0].slice(0, 200),
+    url: anchor ? anchor.href : '',
+    text: text.slice(0, 300),
+    id: el.getAttribute('data-id') || el.getAttribute('data-no') || el.id || '',
+  };
+})
+"""
+
+
 def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA,
-                   wait_ms: int = 2500, capture: bool = False):
+                   wait_ms: int = 2500, capture: bool = False, selector: str = ""):
     """자바스크립트로 목록을 그리는 사이트용. Playwright 가 설치돼 있어야 한다.
 
     capture=True 면 (FetchResult, 페이지가 주고받은 JSON 응답 목록) 을 함께 돌려준다.
@@ -153,14 +225,25 @@ def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA,
                     pass
                 html = page.content()
                 final_url = page.url
+                dom_items, structure = [], []
+                if selector:
+                    try:
+                        dom_items = page.evaluate(SELECTOR_JS, selector) or []
+                    except Exception:
+                        dom_items = []
                 if capture:
                     captured = _read_json_responses(responses)
+                    try:
+                        structure = page.evaluate(STRUCTURE_JS) or []
+                    except Exception:
+                        structure = []
             finally:
                 browser.close()
     except Exception as exc:  # pragma: no cover - 브라우저 실행 실패
         raise FetchError(f"브라우저 렌더링 실패: {exc}") from exc
 
-    result = FetchResult(url=final_url, status=200, text=html, content_type="text/html", rendered=True)
+    result = FetchResult(url=final_url, status=200, text=html, content_type="text/html", rendered=True,
+                         dom_items=dom_items, structure=structure)
     return (result, captured) if capture else result
 
 
@@ -183,11 +266,18 @@ def _read_json_responses(responses) -> list:
             post_data = request.post_data or ""
         except Exception:
             method, post_data = "GET", ""
-        if "json" not in content_type and not any(
-            hint in url.lower() for hint in ("/api/", "/rest/", ".json", "recruit", "notice", "list")
+        # 확장자만 보고 확실한 정적 파일은 건너뛰고, 나머지는 본문이 JSON 인지로 판단한다.
+        if url.split("?")[0].endswith(
+            (".js", ".css", ".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp",
+             ".woff", ".woff2", ".ttf", ".ico", ".mp4", ".webm")
         ):
             continue
-        if url.endswith((".js", ".css", ".png", ".jpg", ".svg", ".woff", ".woff2", ".ico")):
+        try:
+            resource_type = resp.request.resource_type
+        except Exception:
+            resource_type = ""
+        is_xhr = resource_type in ("xhr", "fetch")
+        if "text/html" in content_type and not is_xhr:
             continue
         try:
             body = resp.text()
@@ -196,7 +286,7 @@ def _read_json_responses(responses) -> list:
         if not body or len(body) > MAX_CAPTURED_BYTES:
             continue
         head = body.lstrip()[:1]
-        if head not in ("{", "["):
+        if head not in ("{", "[") and not is_xhr:
             continue
         out.append({"url": url, "status": getattr(resp, "status", 0),
                     "content_type": content_type, "text": body,

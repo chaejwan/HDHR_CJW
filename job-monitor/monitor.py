@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -82,10 +83,12 @@ def _write_summary_json(path: str, summary: dict) -> None:
         "checked": summary["checked"],
         "new_total": summary["new_total"],
         "email": summary["email"],
+        "alerts": summary.get("alerts") or [],
         "run_url": _run_url(),
         "results": [
             {
                 "site_id": r["site_id"], "site_name": r["site_name"], "site_url": r["site_url"],
+                "site_link": r.get("site_link") or r["site_url"],
                 "status": r["status"], "item_count": r["item_count"], "method": r["method"],
                 "note": r["note"], "error": r["error"],
                 "new_items": [
@@ -146,6 +149,9 @@ def _write_step_summary(summary: dict) -> None:
         lines += ["", f"### {r['site_name']}"]
         lines += [f"- [{i['title']}]({i['url']}){(' — ' + i['date']) if i.get('date') else ''}"
                   for i in r["new_items"]]
+    for alert in summary.get("alerts") or []:
+        mark = "정상 복구" if alert.get("recovered") else "점검 필요"
+        lines += ["", f"### [{mark}] {alert['site_name']} — {alert['label']}", alert["detail"]]
     mail = summary["email"]
     lines += ["", "메일: " + ("발송함" if mail["sent"] else (mail["error"] or mail["skipped"] or "보낼 새 공고 없음"))]
     try:
@@ -181,7 +187,11 @@ def cmd_check(monitor: Monitor, args) -> int:
         for item in result["new_items"]:
             print(f"   + {item['title']}")
             print(f"     {item['url']}")
-    print(f"\n확인 {summary['checked']}곳 · 새 공고 {summary['new_total']}건")
+    for alert in summary.get("alerts") or []:
+        mark = "정상 복구" if alert.get("recovered") else "점검 필요"
+        print(f"[{mark}] {alert['site_name']}: {alert['label']} — {alert['detail']}")
+    print(f"\n확인 {summary['checked']}곳 · 새 공고 {summary['new_total']}건 · "
+          f"점검 알림 {len(summary.get('alerts') or [])}건")
     mail = summary["email"]
     if mail["sent"]:
         print("알림 메일을 보냈습니다.")
@@ -311,6 +321,9 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
             raw_site = json.load(fh)
         raw_site.setdefault("name", "diagnose")
         site = config_mod.normalize({"sites": [raw_site]})["sites"][0]
+        paged_site = site
+        site = dict(site, url=site["url"].replace("{page}", "1"),
+                    body=(site.get("body") or "").replace("{page}", "1"))
         args.url = site["url"]
         args.browser = site["mode"] == "browser"
     else:
@@ -320,6 +333,7 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         site = config_mod.normalize({"sites": [{
             "name": "diagnose", "url": args.url, "mode": "browser" if args.browser else "auto",
         }]})["sites"][0]
+        paged_site = site
     request_cfg = cfg.get("request") or {}
     timeout = float(request_cfg.get("timeout_sec") or 20)
     user_agent = request_cfg.get("user_agent") or fetch_mod.DEFAULT_UA
@@ -328,7 +342,8 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
     try:
         if args.browser:
             fetched = fetch_mod.fetch_rendered(
-                site["url"], timeout=max(timeout, 30), user_agent=user_agent, capture=args.network)
+                site["url"], timeout=max(timeout, 30), user_agent=user_agent,
+                capture=args.network, selector=site.get("selector") or "")
             if args.network:
                 fetched, captured = fetched
         else:
@@ -367,13 +382,28 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         lines.append(f"  - {item['title']}")
         lines.append(f"    {item['url']}")
 
+    structure = getattr(fetched, "structure", None) or []
+    if structure:
+        lines.append("")
+        lines.append("화면에서 반복되는 구조 (공고 카드 후보 — 선택자로 쓸 수 있습니다):")
+        for row in structure[:8]:
+            lines.append(f"  {row['selector']} · {row['count']}개")
+            for sample in row.get("samples", [])[:3]:
+                lines.append(f"      - {sample}")
+
     if args.network:
         lines.append("")
         lines.append(f"주고받은 JSON 응답 {len(captured)}건:")
         for capture in captured:
             lines.extend(_describe_json_capture(capture))
             lines.append("")
-    elif not result.items:
+    if not fetched.looks_json and not fetched.rendered:
+        preview = re.sub(r"\s+", " ", fetched.text)[:1000]
+        lines.append("")
+        lines.append("응답 앞부분 미리보기 (상세 링크 형식 확인용):")
+        lines.append(f"  {preview}")
+
+    if not result.items:
         lines.append("")
         if fetched.looks_json:
             try:
@@ -384,6 +414,21 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         else:
             lines.append("항목을 찾지 못했습니다. 자바스크립트로 목록을 그리는 사이트라면 "
                          "--browser --network 로 다시 시도해 보세요.")
+
+    pages = int(paged_site.get("pages") or 1)
+    if pages > 1 and ("{page}" in paged_site["url"] or "{page}" in (paged_site.get("body") or "")):
+        lines.append("")
+        lines.append(f"여러 쪽 이어 읽기 ({pages}쪽까지):")
+        try:
+            _first, all_result = monitor.collect(cfg, paged_site)
+            lines.append(f"  모두 {len(all_result.items)}개 (한 쪽 {len(result.items)}개)")
+            if all_result.note:
+                lines.append(f"  메모: {all_result.note}")
+            for item in all_result.items[:40]:
+                lines.append(f"  - {item['title']}")
+                lines.append(f"    {item['url']}")
+        except fetch_mod.FetchError as exc:
+            lines.append(f"  실패: {exc}")
 
     text = "\n".join(lines)
     print(text)
