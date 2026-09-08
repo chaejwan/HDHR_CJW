@@ -5,6 +5,7 @@
 
 - **설정 화면(공개 주소)**: <https://chaejwan.github.io/HDHR_CJW/monitor/>
 - **확인 주체**: `.github/workflows/job-monitor.yml` (GitHub Actions, 매시간 실행)
+- **설정 화면 배포**: `.github/workflows/pages.yml` (기본 브랜치에 올라가면 자동으로 다시 배포)
 - **설정 파일**: `job-monitor/config.json` (설정 화면에서 저장하면 이 파일이 커밋됩니다)
 - **확인 기록**: `job-monitor/data/state.json`, 마지막 실행 요약 `job-monitor/data/last-run.json`
 
@@ -314,6 +315,7 @@ cd job-monitor && python3 -m unittest discover -s tests -v
 | 예약 실행이 자주 건너뜀 | GitHub 예약 실행은 보장되지 않습니다. 급하면 `지금 확인 실행` 을 쓰세요. |
 | 가끔 `접속 실패: 응답 시간 초과` | 상대 서버가 느린 것입니다. 3회까지 자동으로 다시 시도하며, 그래도 실패하면 그 사이트만 건너뛰고 다음 주기에 다시 확인합니다. 자주 발생하면 확인 주기를 늘려 보세요. |
 | 예약 실행이 멈춤 | Actions 탭에서 워크플로 **Enable**, 기본 브랜치 여부 |
+| 설정 화면 주소가 404 | Pages 가 꺼진 것입니다. Actions 탭 → **설정 화면 배포 (GitHub Pages)** → Run workflow 로 다시 켜고 올립니다. 저장소를 잠깐이라도 비공개로 바꾸면 Pages 가 해제되고, 다시 공개로 돌려도 저절로 켜지지 않습니다. |
 
 실행 기록과 오류 메시지는 저장소 **Actions 탭 → 채용공고 확인** 에서 볼 수 있습니다.
 
