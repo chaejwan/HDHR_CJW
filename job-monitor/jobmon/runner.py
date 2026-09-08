@@ -98,7 +98,8 @@ class Monitor:
         timeout = float(request_cfg.get("timeout_sec") or 20)
         user_agent = request_cfg.get("user_agent") or fetch_mod.DEFAULT_UA
         if (site.get("mode") or "auto") == "browser":
-            return fetch_mod.fetch_rendered(site["url"], timeout=max(timeout, 30), user_agent=user_agent)
+            return fetch_mod.fetch_rendered(site["url"], timeout=max(timeout, 30), user_agent=user_agent,
+                                            selector=site.get("selector") or "")
         return fetch_mod.fetch(
             site["url"], timeout=timeout, user_agent=user_agent,
             headers=site.get("headers") or None,

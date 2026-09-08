@@ -397,9 +397,34 @@ def _apply_filters(items: list, site: dict) -> list:
     return kept
 
 
+def items_from_dom(dom_items: list, base_url: str, template: str = "") -> list:
+    """브라우저에서 선택자로 읽은 요소들을 공고 항목으로 바꾼다."""
+    items = []
+    for row in dom_items:
+        title = re.sub(r"\s+", " ", (row.get("title") or "")).strip()
+        if not title:
+            continue
+        raw_id = str(row.get("id") or "").strip()
+        url = (row.get("url") or "").strip()
+        if template and raw_id:
+            url = template.replace("{id}", raw_id)
+        url = urljoin(base_url, url) if url else base_url
+        item_id = digest(raw_id, title) if raw_id else digest(canonical_url(url), title)
+        items.append({"id": item_id, "title": title, "url": url, "date": "", "raw_id": raw_id})
+    return items
+
+
 def extract(site: dict, fetched) -> ExtractResult:
     """사이트 설정과 응답을 받아 공고 목록을 만든다."""
     mode = site.get("mode") or "auto"
+    dom_items = getattr(fetched, "dom_items", None)
+    if dom_items:
+        found = items_from_dom(dom_items, fetched.url or site.get("url") or "",
+                               (site.get("json") or {}).get("url_template", ""))
+        if found:
+            result = ExtractResult(items=found, method="selector",
+                                   fingerprint=digest(fetched.text[:200000]))
+            return _finish(result, site)
     base_url = fetched.url or site.get("url") or ""
     mapping = site.get("json") or {}
     fingerprint = ""
@@ -443,6 +468,12 @@ def extract(site: dict, fetched) -> ExtractResult:
             method = "fingerprint"
             note = "목록을 찾지 못해 페이지 내용 변경만 감시합니다."
 
+    return _finish(ExtractResult(items=items, method=method, fingerprint=fingerprint, note=note), site)
+
+
+def _finish(result: ExtractResult, site: dict) -> ExtractResult:
+    """필터 적용 · 중복 제거 · 최대 개수 제한."""
+    items, note = result.items, result.note
     if items:
         before = len(items)
         items = _apply_filters(items, site)
@@ -459,4 +490,5 @@ def extract(site: dict, fetched) -> ExtractResult:
             items = items[:max_items]
         elif before != len(items):
             note = f"{before}개 중 필터를 통과한 {len(items)}개를 사용합니다."
-    return ExtractResult(items=items, method=method, fingerprint=fingerprint, note=note)
+    result.items, result.note = items, note
+    return result

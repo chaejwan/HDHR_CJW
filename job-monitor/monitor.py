@@ -337,7 +337,8 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
     try:
         if args.browser:
             fetched = fetch_mod.fetch_rendered(
-                site["url"], timeout=max(timeout, 30), user_agent=user_agent, capture=args.network)
+                site["url"], timeout=max(timeout, 30), user_agent=user_agent,
+                capture=args.network, selector=site.get("selector") or "")
             if args.network:
                 fetched, captured = fetched
         else:
@@ -375,6 +376,15 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
     for item in result.items[:20]:
         lines.append(f"  - {item['title']}")
         lines.append(f"    {item['url']}")
+
+    structure = getattr(fetched, "structure", None) or []
+    if structure:
+        lines.append("")
+        lines.append("화면에서 반복되는 구조 (공고 카드 후보 — 선택자로 쓸 수 있습니다):")
+        for row in structure[:8]:
+            lines.append(f"  {row['selector']} · {row['count']}개")
+            for sample in row.get("samples", [])[:3]:
+                lines.append(f"      - {sample}")
 
     if args.network:
         lines.append("")

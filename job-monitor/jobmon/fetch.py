@@ -38,6 +38,8 @@ class FetchResult:
     content_type: str = ""
     rendered: bool = False
     headers: dict = field(default_factory=dict)
+    dom_items: list = field(default_factory=list)   # selector 로 뽑은 항목
+    structure: list = field(default_factory=list)   # 반복되는 구조 후보 (선택자 추천용)
 
     @property
     def looks_json(self) -> bool:
@@ -149,8 +151,43 @@ def browser_available() -> bool:
     return True
 
 
+# 화면에서 반복되는 구조(=목록 후보)를 찾아 선택자를 추천하기 위한 스크립트
+STRUCTURE_JS = """
+() => {
+  const groups = {};
+  document.querySelectorAll('*').forEach((el) => {
+    const cls = typeof el.className === 'string' ? el.className.trim() : '';
+    if (!cls) return;
+    const text = (el.innerText || '').trim();
+    if (text.length < 8 || text.length > 400) return;
+    const sig = el.tagName.toLowerCase() + '.' + cls.split(/\s+/).slice(0, 3).join('.');
+    (groups[sig] = groups[sig] || []).push(text.split('\n')[0].slice(0, 80));
+  });
+  return Object.entries(groups)
+    .filter(([, texts]) => texts.length >= 4)
+    .sort((a, b) => b[1].length - a[1].length)
+    .slice(0, 10)
+    .map(([selector, texts]) => ({ selector, count: texts.length, samples: texts.slice(0, 4) }));
+}
+"""
+
+# 지정한 선택자로 화면의 목록 항목을 그대로 읽어 오는 스크립트
+SELECTOR_JS = """
+(sel) => Array.from(document.querySelectorAll(sel)).slice(0, 500).map((el) => {
+  const anchor = el.querySelector('a') || el.closest('a');
+  const text = (el.innerText || '').trim();
+  return {
+    title: text.split('\n')[0].slice(0, 200),
+    url: anchor ? anchor.href : '',
+    text: text.slice(0, 300),
+    id: el.getAttribute('data-id') || el.getAttribute('data-no') || el.id || '',
+  };
+})
+"""
+
+
 def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA,
-                   wait_ms: int = 2500, capture: bool = False):
+                   wait_ms: int = 2500, capture: bool = False, selector: str = ""):
     """자바스크립트로 목록을 그리는 사이트용. Playwright 가 설치돼 있어야 한다.
 
     capture=True 면 (FetchResult, 페이지가 주고받은 JSON 응답 목록) 을 함께 돌려준다.
@@ -188,14 +225,25 @@ def fetch_rendered(url: str, timeout: float = 30, user_agent: str = DEFAULT_UA,
                     pass
                 html = page.content()
                 final_url = page.url
+                dom_items, structure = [], []
+                if selector:
+                    try:
+                        dom_items = page.evaluate(SELECTOR_JS, selector) or []
+                    except Exception:
+                        dom_items = []
                 if capture:
                     captured = _read_json_responses(responses)
+                    try:
+                        structure = page.evaluate(STRUCTURE_JS) or []
+                    except Exception:
+                        structure = []
             finally:
                 browser.close()
     except Exception as exc:  # pragma: no cover - 브라우저 실행 실패
         raise FetchError(f"브라우저 렌더링 실패: {exc}") from exc
 
-    result = FetchResult(url=final_url, status=200, text=html, content_type="text/html", rendered=True)
+    result = FetchResult(url=final_url, status=200, text=html, content_type="text/html", rendered=True,
+                         dom_items=dom_items, structure=structure)
     return (result, captured) if capture else result
 
 
@@ -224,7 +272,12 @@ def _read_json_responses(responses) -> list:
              ".woff", ".woff2", ".ttf", ".ico", ".mp4", ".webm")
         ):
             continue
-        if "text/html" in content_type:
+        try:
+            resource_type = resp.request.resource_type
+        except Exception:
+            resource_type = ""
+        is_xhr = resource_type in ("xhr", "fetch")
+        if "text/html" in content_type and not is_xhr:
             continue
         try:
             body = resp.text()
@@ -233,7 +286,7 @@ def _read_json_responses(responses) -> list:
         if not body or len(body) > MAX_CAPTURED_BYTES:
             continue
         head = body.lstrip()[:1]
-        if head not in ("{", "["):
+        if head not in ("{", "[") and not is_xhr:
             continue
         out.append({"url": url, "status": getattr(resp, "status", 0),
                     "content_type": content_type, "text": body,
