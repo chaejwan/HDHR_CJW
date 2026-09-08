@@ -1,6 +1,6 @@
 {
- "at": "2026-09-08T16:30:53+00:00",
- "checked": 5,
+ "at": "2026-09-08T16:46:43+00:00",
+ "checked": 0,
  "new_total": 0,
  "email": {
   "sent": false,
@@ -8,67 +8,6 @@
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34251460016",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화 채용 (hanwhain)",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 82,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션 채용",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 14,
-   "method": "links",
-   "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK 채용 (SK Careers)",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 94,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차 채용",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 151,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성 채용",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 30,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34253114348",
+ "results": []
 }
