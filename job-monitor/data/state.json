@@ -448,15 +448,25 @@
      "first_seen": "2026-09-07T16:24:42+00:00"
     }
    },
-   "last_check": "2026-09-08T05:17:15+00:00",
-   "last_success": "2026-09-08T04:08:28+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (30초) (3회 시도)",
+   "last_check": "2026-09-08T05:28:51+00:00",
+   "last_success": "2026-09-08T05:28:51+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
    "item_count": 73,
    "fingerprint": "755bf076bdcb790c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T05:28:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T05:17:15+00:00",
      "status": "error",
@@ -552,7 +562,7 @@
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "[한화생명]법무팀 '미국변호사' 경력 채용(대리~부장급)",
     "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
@@ -833,8 +843,8 @@
      "first_seen": "2026-09-08T04:08:29+00:00"
     }
    },
-   "last_check": "2026-09-08T05:18:57+00:00",
-   "last_success": "2026-09-08T05:18:57+00:00",
+   "last_check": "2026-09-08T05:28:52+00:00",
+   "last_success": "2026-09-08T05:28:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -842,6 +852,16 @@
    "fingerprint": "e639239f6ae2bb0b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T05:28:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-08T05:18:57+00:00",
      "status": "ok",
@@ -907,9 +927,9 @@
     "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-114"
    ],
    "health": {
-    "issue": "drop",
-    "detail": "평소 30건에서 14건으로 줄었습니다.",
-    "since": "2026-09-08T05:18:57+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    }
   },
   "sk-sk-careers": {
@@ -1587,8 +1607,8 @@
      "first_seen": "2026-09-08T04:08:33+00:00"
     }
    },
-   "last_check": "2026-09-08T05:18:59+00:00",
-   "last_success": "2026-09-08T05:18:59+00:00",
+   "last_check": "2026-09-08T05:29:04+00:00",
+   "last_success": "2026-09-08T05:29:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1596,6 +1616,16 @@
    "fingerprint": "dae4d12e19c2dd2e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T05:29:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T05:18:59+00:00",
      "status": "ok",
@@ -2965,15 +2995,25 @@
      "first_seen": "2026-09-08T04:08:34+00:00"
     }
    },
-   "last_check": "2026-09-08T05:19:00+00:00",
-   "last_success": "2026-09-08T05:19:00+00:00",
+   "last_check": "2026-09-08T05:29:05+00:00",
+   "last_success": "2026-09-08T05:29:05+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 150,
-   "fingerprint": "331104cefce93a29",
+   "fingerprint": "903bfdcd123e42d3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T05:29:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 150,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T05:19:00+00:00",
      "status": "ok",
@@ -3539,8 +3579,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T05:19:05+00:00",
-   "last_success": "2026-09-08T05:19:05+00:00",
+   "last_check": "2026-09-08T05:29:09+00:00",
+   "last_success": "2026-09-08T05:29:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -3548,6 +3588,16 @@
    "fingerprint": "66e40e355234c62b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T05:29:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T05:19:05+00:00",
      "status": "ok",

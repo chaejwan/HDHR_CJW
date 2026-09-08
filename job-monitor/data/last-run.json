@@ -1,5 +1,5 @@
 {
- "at": "2026-09-08T05:19:08+00:00",
+ "at": "2026-09-08T05:29:13+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -15,52 +15,22 @@
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
    "kind": "drop",
    "label": "항목 수가 갑자기 크게 줄었습니다",
-   "detail": "평소 30건에서 14건으로 줄었습니다.",
-   "recovered": false
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK 채용 (SK Careers)",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차 채용",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성 채용",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
    "detail": "다시 정상으로 확인됐습니다.",
    "recovered": true
   }
  ],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34190031960",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34190771706",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화 채용 (hanwhain)",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "ok",
+   "item_count": 73,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (30초) (3회 시도)",
+   "error": "",
    "new_items": []
   },
   {
