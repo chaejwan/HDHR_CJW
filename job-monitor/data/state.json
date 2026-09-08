@@ -1,539 +1,539 @@
 {
- "version": 1,
- "sites": {
-  "hanwhain": {
-   "seen": {
-    "2372adc404cc566d": {
-     "title": "[한화투자증권] 시너지투자팀 전략적 투자 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19591",
-     "date": "2026.09.07 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "10ede60a5d89c41f": {
-     "title": "[한화생명]법무팀 '미국변호사' 경력 채용(대리~부장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19611",
-     "date": "2026.09.08 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "9584a22ab05acf56": {
-     "title": "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19636",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "8f23c09b7bb595b1": {
-     "title": "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19613",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "9ec67141bbadcbaa": {
-     "title": "[한화생명]PLUS WM전략팀 '클라우드•DevOps 엔지니어' 경력채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19518",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "fd57ecd56036dbad": {
-     "title": "[한화생명]PLUS WM전략팀 '백엔드 개발' 경력채용(주니어)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19517",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "471faef446649a94": {
-     "title": "[한화생명]PLUS WM전략팀 'UX•UI 디자이너' 경력채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19515",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "6681593aa1d321df": {
-     "title": "[한화생명]PLUS WM전략팀 '모바일 앱 프론트 개발' 경력채용(시니어)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19514",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "194539b7d3b9e63e": {
-     "title": "[한화생명]PLUS WM전략팀 '플랫폼 백엔드 개발' 경력채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19513",
-     "date": "2026.09.09 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "42d83e95ca7f8347": {
-     "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(기계,장치/배관,계전)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19668",
-     "date": "2026.09.09 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "5b39547c4fbd6c0f": {
-     "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 신입/경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19625",
-     "date": "2026.09.09 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "94aba02713bd8277": {
-     "title": "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19639",
-     "date": "2026.09.10 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "82a1881a0b8192d6": {
-     "title": "DB영업 기획/교육",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19631",
-     "date": "2026.09.10 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "59f543c13b519b9a": {
-     "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19614",
-     "date": "2026.09.10 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "1863ac265e99778c": {
-     "title": "재무계리·리스크관리 전문인력 (차장~부장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19642",
-     "date": "2026.09.11 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "a63815da378f8c2a": {
-     "title": "2026 한화솔루션 인사이트부문 사업지원실 구매&DT팀 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19629",
-     "date": "2026.09.11 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "37a2ca9b2f684925": {
-     "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19641",
-     "date": "2026.09.13 18:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "6a8bef7f675ccb2a": {
-     "title": "[한화에어로스페이스] 항공사업부 SW 품질보증(SQA) 경력사원 수시채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19672",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "6dbec17a73a51770": {
-     "title": "[한화모멘텀(주)] HR Business Partner 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19666",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "74efda5942caffce": {
-     "title": "[한화라이프랩] 마케팅추진팀 담당자",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19663",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "ae2fd5ec7db6af1c": {
-     "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19644",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "b4796d0987d2e05d": {
-     "title": "[한화솔루션 큐셀] 한국공장(진천) 스마트팩토리팀 IT 인프라 경력사원 모집",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19633",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "301b5f1296474805": {
-     "title": "한화시스템 통역장교 신입채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19627",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "01b9b67fb619f3d6": {
-     "title": "한화시스템 화약류 안전관리자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19610",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "05985b8ec4bc17fa": {
-     "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19608",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "b5947a0c7cfeb538": {
-     "title": "한화시스템 소방안전관리자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19605",
-     "date": "2026.09.13 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "c34a5f6f1777e0ba": {
-     "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19665",
-     "date": "2026.09.14 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "a2c2c3a6e3010d52": {
-     "title": "「인천 검진센터 의무직 (방사선사)」 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19674",
-     "date": "2026.09.16 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "41d17a685650d551": {
-     "title": "퐁피두센터 한화, 마케팅 인력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19683",
-     "date": "2026.09.16 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "f2d9bc5d8dbc1469": {
-     "title": "[판교R&D센터] Perovskite 태양전지 개발 및 신뢰성 평가 연구원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19653",
-     "date": "2026.09.16 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "1abb83a186d48358": {
-     "title": "[판교R&D센터] 우주환경 태양전지 및 모듈 신뢰성 평가 직무 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19650",
-     "date": "2026.09.16 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "d5b24a01bcdd8956": {
-     "title": "투자AI팀 'AI 모델링 엔지니어' 전문인력 채용(대리급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19686",
-     "date": "2026.09.17 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "47151a6d0b3cee94": {
-     "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19693",
-     "date": "2026.09.17 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "c3cff504af37e0f2": {
-     "title": "신입/경력직 채용_재무팀",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19687",
-     "date": "2026.09.18 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "f9cf49aa070ab351": {
-     "title": "경력직 채용_HR팀 (총무담당 시니어)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19685",
-     "date": "2026.09.18 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "c8b846cbe386a777": {
-     "title": "2026 한화금융 신입공채",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19498",
-     "date": "2026.09.18 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "1487a4fcce34056a": {
-     "title": "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19496",
-     "date": "2026.09.20 23:55",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "247c3202edd33770": {
-     "title": "한화시스템 보안업무(CMMC/수출보안) 담당 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19677",
-     "date": "2026.09.20 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "9a76a1a2e19cbe33": {
-     "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19669",
-     "date": "2026.09.20 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "16d92b556ee1d7cf": {
-     "title": "한화시스템 브랜딩 및 SNS 채널 운영 담당 경력사원",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19667",
-     "date": "2026.09.20 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "4c2c5a38a8bbd1c3": {
-     "title": "[채용연계형 인턴] 2026년 하반기 한화에어로스페이스 대규모 신입사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19647",
-     "date": "2026.09.20 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "5ec8dd31b9f855d7": {
-     "title": "[정규직 신입] 2026년 하반기 한화에어로스페이스 대규모 신입사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19646",
-     "date": "2026.09.20 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "b0e063854526e1a2": {
-     "title": "한화시스템 우주사업부 대규모 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19594",
-     "date": "2026.09.20 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "0a833882131ef793": {
-     "title": "2026년 하반기 한화시스템 방산부문 학/석사 신입사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19216",
-     "date": "2026.09.21 13:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "887219892a2131ae": {
-     "title": "경력직 채용_RSP운용팀 (LDI 주식 운용)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19710",
-     "date": "2026.09.21 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "82156c658aa1a130": {
-     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(양산)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19682",
-     "date": "2026.09.21 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "3c2e64b621f8af24": {
-     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19681",
-     "date": "2026.09.21 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "e5467b285115aeba": {
-     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19680",
-     "date": "2026.09.21 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "aa9bef6da8060573": {
-     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(대구, 구미)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19679",
-     "date": "2026.09.21 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "f60d225625ed2e3d": {
-     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19678",
-     "date": "2026.09.21 15:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "3a2e25eebb0c58d3": {
-     "title": "[한화에너지] 2026 하반기 신입사원 공개채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19659",
-     "date": "2026.09.21 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "d8d413b4907a4fd5": {
-     "title": "[한화모멘텀(주)] 해외영업(중국) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19688",
-     "date": "2026.09.22 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "6d186900959e26c5": {
-     "title": "(주)한화 글로벌부문 반도체소재 영업 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19703",
-     "date": "2026.09.27 18:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "0a4e7a7faa22646a": {
-     "title": "26년 하반기 한화솔루션 재무 신입사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19607",
-     "date": "2026.09.27 23:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "93f8976bf74c4054": {
-     "title": "(주)한화 글로벌부문 바이오소재 QA 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19706",
-     "date": "2026.09.27 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "0df139b6ead08fe9": {
-     "title": "[한화솔루션 큐셀] AI 플랫폼 엔지니어 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19691",
-     "date": "2026.09.28 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "33db4184b8b0e76f": {
-     "title": "[한화솔루션 큐셀] 데이터 엔지니어 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19690",
-     "date": "2026.09.28 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "5f316ab0cf448c88": {
-     "title": "[한화솔루션 큐셀] 생성형 AI 애플리케이션 엔지니어 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19689",
-     "date": "2026.09.28 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "43f0f70defeb052a": {
-     "title": "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19656",
-     "date": "2026.09.28 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "7e8a9a7447ece877": {
-     "title": "2026 하반기 한화오션 신입사원 채용 (접수기간 : 9/14~30)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19654",
-     "date": "2026.09.30 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "4dc6769e8a3f3a19": {
-     "title": "[한화세미텍] 재무 담당 채용 (과~차장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18750",
-     "date": "2026.09.30 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "2171708416887828": {
-     "title": "[한화이센셜] 후공정(Laser) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=17886",
-     "date": "2026.12.31 00:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "c7692bb3b48836ad": {
-     "title": "[한화에어로스페이스] AI 인력 상시 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19169",
-     "date": "2026.12.31 00:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "8ea014e89d4178c7": {
-     "title": "[상시] 경력 인재 Pool 등록",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=16460",
-     "date": "2026.12.31 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "46876c190b88792c": {
-     "title": "[제품전략기술원] 공정개발(설계) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19448",
-     "date": "2026.12.31 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "a2baefc4c2ce1339": {
-     "title": "[한화에어로스페이스] HR실 채용 (Global HR / 글로벌 채용 담당자)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19250",
-     "date": "2026.12.31 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "9222515ca552717b": {
-     "title": "[한화시스템/ICT] 인재 Pool 등록_경력",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18500",
-     "date": "2026.12.31 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "e19fa552eb915271": {
-     "title": "[한화시스템/ICT] AI 인재Pool 등록",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=17596",
-     "date": "2026.12.31 23:59",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "c5a11453a1fb227b": {
-     "title": "(주)한화 글로벌부문 화약류운반책임자 상시 인재 Pool",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18997",
-     "date": "2029.12.31 00:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "89a7d3af0e187dbf": {
-     "title": "(주)한화 글로벌부문 상시 인재 Pool",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18830",
-     "date": "2029.12.31 00:00",
-     "first_seen": "2026-09-07T10:39:05+00:00"
-    },
-    "024b03398c8a2bda": {
-     "title": "한화시스템 레이다연구소 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
-     "date": "2026.09.27 23:59",
-     "first_seen": "2026-09-07T16:24:42+00:00"
-    },
-    "58eaebd1c24bc806": {
-     "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
-     "date": "2026.09.27 23:59",
-     "first_seen": "2026-09-07T16:24:42+00:00"
-    },
-    "e0675eba231b9989": {
-     "title": "한화시스템 지상연구소 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
-     "date": "2026.09.27 23:59",
-     "first_seen": "2026-09-07T16:24:42+00:00"
-    },
-    "08ecd8c6f2ac160d": {
-     "title": "한화시스템 통신연구소 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
-     "date": "2026.09.27 23:59",
-     "first_seen": "2026-09-07T16:24:42+00:00"
+  "version": 1,
+  "sites": {
+    "hanwhain": {
+      "seen": {
+        "2372adc404cc566d": {
+          "title": "[한화투자증권] 시너지투자팀 전략적 투자 경력직 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19591",
+          "date": "2026.09.07 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "10ede60a5d89c41f": {
+          "title": "[한화생명]법무팀 '미국변호사' 경력 채용(대리~부장급)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19611",
+          "date": "2026.09.08 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "9584a22ab05acf56": {
+          "title": "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19636",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "8f23c09b7bb595b1": {
+          "title": "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19613",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "9ec67141bbadcbaa": {
+          "title": "[한화생명]PLUS WM전략팀 '클라우드•DevOps 엔지니어' 경력채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19518",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "fd57ecd56036dbad": {
+          "title": "[한화생명]PLUS WM전략팀 '백엔드 개발' 경력채용(주니어)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19517",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "471faef446649a94": {
+          "title": "[한화생명]PLUS WM전략팀 'UX•UI 디자이너' 경력채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19515",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "6681593aa1d321df": {
+          "title": "[한화생명]PLUS WM전략팀 '모바일 앱 프론트 개발' 경력채용(시니어)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19514",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "194539b7d3b9e63e": {
+          "title": "[한화생명]PLUS WM전략팀 '플랫폼 백엔드 개발' 경력채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19513",
+          "date": "2026.09.09 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "42d83e95ca7f8347": {
+          "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(기계,장치/배관,계전)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19668",
+          "date": "2026.09.09 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "5b39547c4fbd6c0f": {
+          "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 신입/경력 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19625",
+          "date": "2026.09.09 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "94aba02713bd8277": {
+          "title": "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19639",
+          "date": "2026.09.10 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "82a1881a0b8192d6": {
+          "title": "DB영업 기획/교육",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19631",
+          "date": "2026.09.10 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "59f543c13b519b9a": {
+          "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19614",
+          "date": "2026.09.10 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "1863ac265e99778c": {
+          "title": "재무계리·리스크관리 전문인력 (차장~부장급)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19642",
+          "date": "2026.09.11 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "a63815da378f8c2a": {
+          "title": "2026 한화솔루션 인사이트부문 사업지원실 구매&DT팀 경력직 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19629",
+          "date": "2026.09.11 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "37a2ca9b2f684925": {
+          "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19641",
+          "date": "2026.09.13 18:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "6a8bef7f675ccb2a": {
+          "title": "[한화에어로스페이스] 항공사업부 SW 품질보증(SQA) 경력사원 수시채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19672",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "6dbec17a73a51770": {
+          "title": "[한화모멘텀(주)] HR Business Partner 경력 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19666",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "74efda5942caffce": {
+          "title": "[한화라이프랩] 마케팅추진팀 담당자",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19663",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "ae2fd5ec7db6af1c": {
+          "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19644",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "b4796d0987d2e05d": {
+          "title": "[한화솔루션 큐셀] 한국공장(진천) 스마트팩토리팀 IT 인프라 경력사원 모집",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19633",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "301b5f1296474805": {
+          "title": "한화시스템 통역장교 신입채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19627",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "01b9b67fb619f3d6": {
+          "title": "한화시스템 화약류 안전관리자 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19610",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "05985b8ec4bc17fa": {
+          "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19608",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "b5947a0c7cfeb538": {
+          "title": "한화시스템 소방안전관리자 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19605",
+          "date": "2026.09.13 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "c34a5f6f1777e0ba": {
+          "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19665",
+          "date": "2026.09.14 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "a2c2c3a6e3010d52": {
+          "title": "「인천 검진센터 의무직 (방사선사)」 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19674",
+          "date": "2026.09.16 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "41d17a685650d551": {
+          "title": "퐁피두센터 한화, 마케팅 인력 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19683",
+          "date": "2026.09.16 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "f2d9bc5d8dbc1469": {
+          "title": "[판교R&D센터] Perovskite 태양전지 개발 및 신뢰성 평가 연구원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19653",
+          "date": "2026.09.16 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "1abb83a186d48358": {
+          "title": "[판교R&D센터] 우주환경 태양전지 및 모듈 신뢰성 평가 직무 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19650",
+          "date": "2026.09.16 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "d5b24a01bcdd8956": {
+          "title": "투자AI팀 'AI 모델링 엔지니어' 전문인력 채용(대리급)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19686",
+          "date": "2026.09.17 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "47151a6d0b3cee94": {
+          "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19693",
+          "date": "2026.09.17 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "c3cff504af37e0f2": {
+          "title": "신입/경력직 채용_재무팀",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19687",
+          "date": "2026.09.18 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "f9cf49aa070ab351": {
+          "title": "경력직 채용_HR팀 (총무담당 시니어)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19685",
+          "date": "2026.09.18 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "c8b846cbe386a777": {
+          "title": "2026 한화금융 신입공채",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19498",
+          "date": "2026.09.18 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "1487a4fcce34056a": {
+          "title": "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19496",
+          "date": "2026.09.20 23:55",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "247c3202edd33770": {
+          "title": "한화시스템 보안업무(CMMC/수출보안) 담당 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19677",
+          "date": "2026.09.20 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "9a76a1a2e19cbe33": {
+          "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19669",
+          "date": "2026.09.20 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "16d92b556ee1d7cf": {
+          "title": "한화시스템 브랜딩 및 SNS 채널 운영 담당 경력사원",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19667",
+          "date": "2026.09.20 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "4c2c5a38a8bbd1c3": {
+          "title": "[채용연계형 인턴] 2026년 하반기 한화에어로스페이스 대규모 신입사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19647",
+          "date": "2026.09.20 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "5ec8dd31b9f855d7": {
+          "title": "[정규직 신입] 2026년 하반기 한화에어로스페이스 대규모 신입사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19646",
+          "date": "2026.09.20 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "b0e063854526e1a2": {
+          "title": "한화시스템 우주사업부 대규모 경력 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19594",
+          "date": "2026.09.20 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "0a833882131ef793": {
+          "title": "2026년 하반기 한화시스템 방산부문 학/석사 신입사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19216",
+          "date": "2026.09.21 13:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "887219892a2131ae": {
+          "title": "경력직 채용_RSP운용팀 (LDI 주식 운용)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19710",
+          "date": "2026.09.21 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "82156c658aa1a130": {
+          "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(양산)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19682",
+          "date": "2026.09.21 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "3c2e64b621f8af24": {
+          "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19681",
+          "date": "2026.09.21 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "e5467b285115aeba": {
+          "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19680",
+          "date": "2026.09.21 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "aa9bef6da8060573": {
+          "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(대구, 구미)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19679",
+          "date": "2026.09.21 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "f60d225625ed2e3d": {
+          "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19678",
+          "date": "2026.09.21 15:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "3a2e25eebb0c58d3": {
+          "title": "[한화에너지] 2026 하반기 신입사원 공개채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19659",
+          "date": "2026.09.21 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "d8d413b4907a4fd5": {
+          "title": "[한화모멘텀(주)] 해외영업(중국) 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19688",
+          "date": "2026.09.22 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "6d186900959e26c5": {
+          "title": "(주)한화 글로벌부문 반도체소재 영업 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19703",
+          "date": "2026.09.27 18:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "0a4e7a7faa22646a": {
+          "title": "26년 하반기 한화솔루션 재무 신입사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19607",
+          "date": "2026.09.27 23:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "93f8976bf74c4054": {
+          "title": "(주)한화 글로벌부문 바이오소재 QA 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19706",
+          "date": "2026.09.27 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "0df139b6ead08fe9": {
+          "title": "[한화솔루션 큐셀] AI 플랫폼 엔지니어 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19691",
+          "date": "2026.09.28 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "33db4184b8b0e76f": {
+          "title": "[한화솔루션 큐셀] 데이터 엔지니어 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19690",
+          "date": "2026.09.28 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "5f316ab0cf448c88": {
+          "title": "[한화솔루션 큐셀] 생성형 AI 애플리케이션 엔지니어 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19689",
+          "date": "2026.09.28 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "43f0f70defeb052a": {
+          "title": "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19656",
+          "date": "2026.09.28 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "7e8a9a7447ece877": {
+          "title": "2026 하반기 한화오션 신입사원 채용 (접수기간 : 9/14~30)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19654",
+          "date": "2026.09.30 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "4dc6769e8a3f3a19": {
+          "title": "[한화세미텍] 재무 담당 채용 (과~차장급)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18750",
+          "date": "2026.09.30 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "2171708416887828": {
+          "title": "[한화이센셜] 후공정(Laser) 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=17886",
+          "date": "2026.12.31 00:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "c7692bb3b48836ad": {
+          "title": "[한화에어로스페이스] AI 인력 상시 경력 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19169",
+          "date": "2026.12.31 00:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "8ea014e89d4178c7": {
+          "title": "[상시] 경력 인재 Pool 등록",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=16460",
+          "date": "2026.12.31 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "46876c190b88792c": {
+          "title": "[제품전략기술원] 공정개발(설계) 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19448",
+          "date": "2026.12.31 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "a2baefc4c2ce1339": {
+          "title": "[한화에어로스페이스] HR실 채용 (Global HR / 글로벌 채용 담당자)",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19250",
+          "date": "2026.12.31 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "9222515ca552717b": {
+          "title": "[한화시스템/ICT] 인재 Pool 등록_경력",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18500",
+          "date": "2026.12.31 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "e19fa552eb915271": {
+          "title": "[한화시스템/ICT] AI 인재Pool 등록",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=17596",
+          "date": "2026.12.31 23:59",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "c5a11453a1fb227b": {
+          "title": "(주)한화 글로벌부문 화약류운반책임자 상시 인재 Pool",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18997",
+          "date": "2029.12.31 00:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "89a7d3af0e187dbf": {
+          "title": "(주)한화 글로벌부문 상시 인재 Pool",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18830",
+          "date": "2029.12.31 00:00",
+          "first_seen": "2026-09-07T10:39:05+00:00"
+        },
+        "024b03398c8a2bda": {
+          "title": "한화시스템 레이다연구소 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
+          "date": "2026.09.27 23:59",
+          "first_seen": "2026-09-07T16:24:42+00:00"
+        },
+        "58eaebd1c24bc806": {
+          "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
+          "date": "2026.09.27 23:59",
+          "first_seen": "2026-09-07T16:24:42+00:00"
+        },
+        "e0675eba231b9989": {
+          "title": "한화시스템 지상연구소 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
+          "date": "2026.09.27 23:59",
+          "first_seen": "2026-09-07T16:24:42+00:00"
+        },
+        "08ecd8c6f2ac160d": {
+          "title": "한화시스템 통신연구소 경력사원 채용",
+          "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
+          "date": "2026.09.27 23:59",
+          "first_seen": "2026-09-07T16:24:42+00:00"
+        }
+      },
+      "last_check": "2026-09-07T23:27:13+00:00",
+      "last_success": "2026-09-07T23:27:13+00:00",
+      "last_status": "ok",
+      "last_error": "",
+      "last_method": "json",
+      "item_count": 73,
+      "fingerprint": "483bae24017d56cb",
+      "baseline_done": true,
+      "history": [
+        {
+          "at": "2026-09-07T23:27:13+00:00",
+          "status": "ok",
+          "new_count": 0,
+          "item_count": 73,
+          "error": "",
+          "note": "",
+          "new": []
+        },
+        {
+          "at": "2026-09-07T20:30:46+00:00",
+          "status": "ok",
+          "new_count": 0,
+          "item_count": 73,
+          "error": "",
+          "note": "",
+          "new": []
+        },
+        {
+          "at": "2026-09-07T16:24:42+00:00",
+          "status": "new",
+          "new_count": 4,
+          "item_count": 73,
+          "error": "",
+          "note": "",
+          "new": [
+            {
+              "title": "한화시스템 레이다연구소 경력사원 채용",
+              "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
+              "date": "2026.09.27 23:59"
+            },
+            {
+              "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
+              "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
+              "date": "2026.09.27 23:59"
+            },
+            {
+              "title": "한화시스템 지상연구소 경력사원 채용",
+              "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
+              "date": "2026.09.27 23:59"
+            },
+            {
+              "title": "한화시스템 통신연구소 경력사원 채용",
+              "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
+              "date": "2026.09.27 23:59"
+            }
+          ]
+        },
+        {
+          "at": "2026-09-07T11:26:23+00:00",
+          "status": "error",
+          "new_count": 0,
+          "item_count": 0,
+          "error": "접속 실패: timed out",
+          "note": "",
+          "new": []
+        },
+        {
+          "at": "2026-09-07T10:51:21+00:00",
+          "status": "ok",
+          "new_count": 0,
+          "item_count": 70,
+          "error": "",
+          "note": "",
+          "new": []
+        },
+        {
+          "at": "2026-09-07T10:39:05+00:00",
+          "status": "baseline",
+          "new_count": 0,
+          "item_count": 70,
+          "error": "",
+          "note": "첫 확인이라 현재 70건을 기준으로 저장했습니다(알림 없음).",
+          "new": []
+        }
+      ],
+      "last_note": ""
     }
-   },
-   "last_check": "2026-09-07T23:27:13+00:00",
-   "last_success": "2026-09-07T23:27:13+00:00",
-   "last_status": "ok",
-   "last_error": "",
-   "last_method": "json",
-   "item_count": 73,
-   "fingerprint": "483bae24017d56cb",
-   "baseline_done": true,
-   "history": [
-    {
-     "at": "2026-09-07T23:27:13+00:00",
-     "status": "ok",
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T20:30:46+00:00",
-     "status": "ok",
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T16:24:42+00:00",
-     "status": "new",
-     "new_count": 4,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 레이다연구소 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
-       "date": "2026.09.27 23:59"
-      },
-      {
-       "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
-       "date": "2026.09.27 23:59"
-      },
-      {
-       "title": "한화시스템 지상연구소 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
-       "date": "2026.09.27 23:59"
-      },
-      {
-       "title": "한화시스템 통신연구소 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
-       "date": "2026.09.27 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-07T11:26:23+00:00",
-     "status": "error",
-     "new_count": 0,
-     "item_count": 0,
-     "error": "접속 실패: timed out",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T10:51:21+00:00",
-     "status": "ok",
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T10:39:05+00:00",
-     "status": "baseline",
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "첫 확인이라 현재 70건을 기준으로 저장했습니다(알림 없음).",
-     "new": []
-    }
-   ],
-   "last_note": ""
   }
- }
 }
