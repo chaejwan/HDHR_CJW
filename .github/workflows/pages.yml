@@ -1,0 +1,49 @@
+name: 설정 화면 배포 (GitHub Pages)
+
+# 설정 화면(monitor/)과 설문 페이지(survey/)를 GitHub Pages 로 올립니다.
+#
+# 저장소 설정 화면에서 브랜치를 골라 올리는 방식은, 저장소를 잠깐 비공개로 바꾸면
+# Pages 가 꺼져 버리고 다시 공개로 돌려도 저절로 켜지지 않습니다(주소가 404).
+# 그래서 배포를 이 워크플로가 맡습니다. configure-pages 의 enablement 옵션이
+# 꺼져 있는 Pages 를 다시 켜 주므로, 저장소 설정을 손대지 않아도 복구됩니다.
+
+on:
+  push:
+    branches: ["260825"]
+    paths-ignore:
+      - "job-monitor/data/**"     # 확인 기록만 바뀐 커밋으로는 다시 올리지 않는다
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 배포는 한 번에 하나만. 진행 중인 배포를 중간에 끊지는 않는다.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 저장소 내려받기
+        uses: actions/checkout@v4
+
+      - name: Pages 준비 (꺼져 있으면 켜기)
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: 올릴 파일 모으기
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
