@@ -417,6 +417,9 @@ def items_from_dom(dom_items: list, base_url: str, template: str = "") -> list:
 def extract(site: dict, fetched) -> ExtractResult:
     """사이트 설정과 응답을 받아 공고 목록을 만든다."""
     mode = site.get("mode") or "auto"
+    # 목록만 돌려주는 주소(API·조각)에서는 링크가 상대 주소로 오므로,
+    # 사람이 볼 주소가 지정돼 있으면 그것을 기준으로 푼다.
+    link_base = (site.get("home_url") or "").strip() or fetched.url or site.get("url") or ""
     dom_items = getattr(fetched, "dom_items", None)
     if dom_items:
         found = items_from_dom(dom_items, fetched.url or site.get("url") or "",
@@ -452,18 +455,27 @@ def extract(site: dict, fetched) -> ExtractResult:
         doc = parse_html(fetched.text)
         fingerprint = fingerprint or digest(doc.text[:200000])
 
+        # 후보를 순서대로 만들되, 필터를 통과한 항목이 남는 첫 번째 방식을 쓴다.
+        # (메뉴 목록이 먼저 잡혀 진짜 공고 링크를 가리는 일을 막는다)
+        candidates = []
         if mode in ("auto", "browser"):
-            found = items_from_jsonld(doc, base_url)
-            if found:
-                items, method = found, "jsonld"
-            if not items:
-                found = items_from_embedded_json(doc, base_url)
-                if found:
-                    items, method = found, "embedded-json"
-        if not items and mode != "json":
-            found = items_from_anchors(doc, base_url)
-            if found:
-                items, method = found, "links"
+            candidates.append(("jsonld", lambda: items_from_jsonld(doc, base_url)))
+            candidates.append(("embedded-json", lambda: items_from_embedded_json(doc, base_url)))
+        if mode != "json":
+            candidates.append(("links", lambda: items_from_anchors(doc, link_base)))
+
+        fallback = None
+        for name, build in candidates:
+            found = build()
+            if not found:
+                continue
+            if _apply_filters(found, site):
+                items, method = found, name
+                break
+            if fallback is None:
+                fallback = (name, found)   # 필터에 다 걸렸지만 뭔가는 읽은 방식
+        if not items and fallback:
+            method, items = fallback[0], fallback[1]
         if not items:
             method = "fingerprint"
             note = "목록을 찾지 못해 페이지 내용 변경만 감시합니다."

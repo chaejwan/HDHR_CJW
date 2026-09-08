@@ -45,12 +45,12 @@
     },
     {
       "id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-      "name": "한화오션 채용 (설정 필요)",
-      "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-      "enabled": false,
+      "name": "한화오션 채용",
+      "url": "https://recruit-hanwhaocean.com/ko/intro",
+      "enabled": true,
       "mode": "auto",
       "interval_hours": null,
-      "url_pattern": "",
+      "url_pattern": "/ko/o/\\d+",
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
@@ -65,8 +65,9 @@
         "url_template": "",
         "date_field": ""
       },
-      "note": "지금 주소는 소개 페이지라 공고가 아니라 메뉴(회사 소개·FAQ 등)만 잡혀서 꺼 두었습니다. 공고 목록이 실제로 보이는 페이지 주소로 바꾸면 됩니다. 이 사이트는 greetinghr(워크스페이스 12062) 채용 플랫폼을 씁니다.",
-      "home_url": "https://recruit-hanwhaocean.com/ko/intro"
+      "note": "공고 상세는 /ko/o/번호 형식입니다. 그 링크만 공고로 인정하도록 주소 필터를 걸었습니다.",
+      "home_url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+      "selector": ""
     },
     {
       "id": "sk-sk-careers",
@@ -126,18 +127,22 @@
     },
     {
       "id": "samsungcareers-com-hr",
-      "name": "삼성 채용 (설정 필요)",
-      "url": "https://www.samsungcareers.com/hr/",
-      "enabled": false,
-      "mode": "auto",
+      "name": "삼성 채용",
+      "url": "https://www.samsungcareers.com/hr/list.data",
+      "enabled": true,
+      "mode": "html",
       "interval_hours": null,
-      "url_pattern": "",
+      "url_pattern": "no=\\d+",
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
-      "method": "GET",
-      "body": "",
-      "headers": {},
+      "method": "POST",
+      "body": "currentPageNo=1&intNo=0&strVal=&strTxt=&strKey=&strCompany=&strType=&strOrderBy=&strEntity=",
+      "headers": {
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://www.samsungcareers.com/hr/"
+      },
       "json": {
         "items_path": "",
         "id_field": "",
@@ -146,8 +151,9 @@
         "url_template": "",
         "date_field": ""
       },
-      "note": "지금 주소에서는 공고가 아니라 메뉴(관계사 소개 등)만 잡혀서 꺼 두었습니다. 공고 목록이 실제로 보이는 페이지 주소로 바꾸면 됩니다.",
-      "home_url": "https://www.samsungcareers.com/hr/"
+      "note": "화면이 호출하는 공고 목록 요청. 응답이 HTML 조각이라 그 안의 ?no= 링크를 공고로 읽습니다.",
+      "home_url": "https://www.samsungcareers.com/hr/",
+      "selector": ""
     }
   ]
 }
