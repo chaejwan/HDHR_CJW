@@ -6,6 +6,7 @@ import os
 import threading
 import time
 from datetime import datetime, timedelta
+from urllib.parse import urlparse
 
 from . import config as config_mod
 from . import extract as extract_mod
@@ -141,8 +142,10 @@ class Monitor:
         extracted = extract_mod.extract(site, fetched)
         link = result.get("site_link") or site["url"]
         for item in extracted.items:
-            # 항목에 상세 주소가 없으면 API 주소 대신 사람이 볼 주소로 연결한다
-            if not item.get("url") or item["url"] == fetched.url:
+            # 항목에 쓸 만한 상세 주소가 없으면(요청 주소이거나 사이트 최상위) 사람이 볼 주소로 연결한다
+            url = item.get("url") or ""
+            path = urlparse(url).path if url else ""
+            if not url or url == fetched.url or path in ("", "/"):
                 item["url"] = link
         result["method"] = extracted.method
         result["note"] = extracted.note
