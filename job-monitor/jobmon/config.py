@@ -66,6 +66,7 @@ DEFAULT_SITE = {
     "title_pattern": "",          # 제목 필터 (정규식)
     "exclude_pattern": "",        # 제외 필터 (정규식, 주소·제목 모두에 적용)
     "max_items": 300,             # 한 번에 인정할 최대 항목 수 (노이즈 방지)
+    "pages": 1,                   # 목록이 여러 쪽으로 나뉘면 주소나 본문에 {page} 를 넣고 쪽수를 적는다
     "selector": "",               # browser 모드에서 공고 카드를 가리키는 CSS 선택자
     "method": "GET",              # 검색형 API 는 POST 인 경우가 있다
     "body": "",                   # POST 로 보낼 본문 (보통 JSON 문자열)
@@ -197,6 +198,10 @@ def normalize(config: dict) -> dict:
         if site.get("mode") not in ("auto", "html", "json", "browser"):
             site["mode"] = "auto"
         site["selector"] = (site.get("selector") or "").strip()
+        try:
+            site["pages"] = max(1, min(20, int(site.get("pages") or 1)))
+        except (TypeError, ValueError):
+            site["pages"] = 1
         site["method"] = "POST" if str(site.get("method", "")).upper() == "POST" else "GET"
         site["body"] = site.get("body") or ""
         if not isinstance(site.get("headers"), dict):

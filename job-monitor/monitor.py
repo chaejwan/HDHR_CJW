@@ -393,12 +393,14 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         for capture in captured:
             lines.extend(_describe_json_capture(capture))
             lines.append("")
-    elif not result.items or (result.note and "필터를 통과한 0개" in result.note):
+    if not fetched.looks_json and not fetched.rendered:
+        preview = re.sub(r"\s+", " ", fetched.text)[:1000]
         lines.append("")
-        if not fetched.looks_json:
-            preview = re.sub(r"\s+", " ", fetched.text)[:1200]
-            lines.append("응답 앞부분 미리보기 (무엇이 오는지 확인용):")
-            lines.append(f"  {preview}")
+        lines.append("응답 앞부분 미리보기 (상세 링크 형식 확인용):")
+        lines.append(f"  {preview}")
+
+    if not result.items:
+        lines.append("")
         if fetched.looks_json:
             try:
                 lines.append("응답 구조 개요:")

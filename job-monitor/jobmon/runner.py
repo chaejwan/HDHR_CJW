@@ -108,6 +108,47 @@ class Monitor:
             body=site.get("body") or "",
         )
 
+    def collect(self, cfg: dict, site: dict):
+        """사이트의 공고 목록을 모은다. 여러 쪽으로 나뉘어 있으면 이어서 읽는다.
+
+        주소나 본문에 {page} 가 있고 pages 가 2 이상이면 1쪽부터 차례로 요청한다.
+        중간 쪽이 실패하거나 빈 목록이면 거기서 멈추고 그때까지 모은 것을 쓴다.
+        """
+        pages = int(site.get("pages") or 1)
+        url_template, body_template = site["url"], site.get("body") or ""
+        paged = pages > 1 and ("{page}" in url_template or "{page}" in body_template)
+        if not paged:
+            fetched = self.fetch_site(cfg, site)
+            return fetched, extract_mod.extract(site, fetched)
+
+        first_fetched, merged, seen_ids = None, [], set()
+        note_parts = []
+        for page in range(1, pages + 1):
+            page_site = dict(site,
+                             url=url_template.replace("{page}", str(page)),
+                             body=body_template.replace("{page}", str(page)))
+            try:
+                fetched = self.fetch_site(cfg, page_site)
+            except fetch_mod.FetchError as exc:
+                if first_fetched is None:
+                    raise
+                note_parts.append(f"{page}쪽부터 읽지 못했습니다({exc}).")
+                break
+            extracted = extract_mod.extract(page_site, fetched)
+            if first_fetched is None:
+                first_fetched, method, fingerprint = fetched, extracted.method, extracted.fingerprint
+            new_on_page = [i for i in extracted.items if i["id"] not in seen_ids]
+            for item in new_on_page:
+                seen_ids.add(item["id"])
+            merged.extend(new_on_page)
+            if not new_on_page:
+                break                      # 더 볼 쪽이 없다
+        note = " ".join(note_parts)
+        if len(merged) > int(site.get("max_items") or 300):
+            merged = merged[: int(site.get("max_items") or 300)]
+        return first_fetched, extract_mod.ExtractResult(
+            items=merged, method=method, fingerprint=fingerprint, note=note)
+
     def check_site(self, cfg: dict, site: dict, state: dict, force: bool = False) -> dict:
         """사이트 한 곳을 확인하고 결과 딕셔너리를 돌려준다. 상태도 갱신한다."""
         entry = store_mod.site_state(state, site["id"])
@@ -131,7 +172,7 @@ class Monitor:
             "alert": None,
         }
         try:
-            fetched = self.fetch_site(cfg, site)
+            fetched, extracted = self.collect(cfg, site)
         except fetch_mod.FetchError as exc:
             result.update(status="error", error=str(exc))
             store_mod.record_check(entry, at=at, status="error", error=str(exc))
@@ -139,7 +180,6 @@ class Monitor:
             self.log(f"[{site['id']}] 확인 실패: {exc}")
             return result
 
-        extracted = extract_mod.extract(site, fetched)
         link = result.get("site_link") or site["url"]
         for item in extracted.items:
             # 항목에 쓸 만한 상세 주소가 없으면(요청 주소이거나 사이트 최상위) 사람이 볼 주소로 연결한다
@@ -352,7 +392,7 @@ class Monitor:
             return {"ok": False, "error": "주소가 비어 있습니다."}
         site = site[0]
         try:
-            fetched = self.fetch_site(cfg, site)
+            fetched, extracted = self.collect(cfg, site)
         except fetch_mod.FetchError as exc:
             return {"ok": False, "error": str(exc)}
         extracted = extract_mod.extract(site, fetched)
