@@ -17,6 +17,9 @@ from . import store as store_mod
 LOG_MAX_BYTES = 2_000_000
 
 
+# 예약 실행이 조금 늦거나 이르게 와도 주기가 밀리지 않도록 두는 여유.
+DUE_GRACE = timedelta(minutes=5)
+
 ISSUE_LABELS = {
     "no_items": "목록을 하나도 읽지 못했습니다",
     "drop": "항목 수가 갑자기 크게 줄었습니다",
@@ -348,8 +351,13 @@ class Monitor:
         return last + timedelta(hours=config_mod.interval_hours(cfg, site))
 
     def is_due(self, cfg: dict, state: dict, site: dict, now=None) -> bool:
+        """확인할 때가 됐는지. 조금 이른 것은 봐 준다(DUE_GRACE).
+
+        GitHub 예약 실행은 정확한 시각에 오지 않는다. 딱 맞춰 자르면
+        '1시간 주기'가 매번 몇 분씩 밀려 결국 1시간 20분, 40분… 으로 늘어난다.
+        """
         due = self.next_due(cfg, state, site)
-        return due is None or due <= (now or datetime.now().astimezone())
+        return due is None or (due - DUE_GRACE) <= (now or datetime.now().astimezone())
 
     def due_sites(self, cfg: dict, state: dict, now=None) -> list:
         now = now or datetime.now().astimezone()
