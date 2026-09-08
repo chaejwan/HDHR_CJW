@@ -146,16 +146,18 @@
       },
       "json": {
         "items_path": "",
-        "id_field": "",
+        "id_field": "no",
         "title_field": "",
         "url_field": "",
-        "url_template": "",
-        "date_field": ""
+        "url_template": "https://www.samsungcareers.com/hr/?no={no|digits}",
+        "title_template": "{company} {title}",
+        "date_field": "period"
       },
       "note": "화면이 호출하는 공고 목록 요청. 한 쪽에 9건씩이라 여러 쪽을 이어서 읽습니다.",
       "home_url": "https://www.samsungcareers.com/hr/",
       "selector": "",
-      "pages": 8
+      "pages": 6,
+      "item_pattern": "<a[^>]*data-value=\"(?P<no>[\\d,]+)\"[^>]*>[\\s\\S]{0,400}?<p class=\"company\">(?P<company>[^<]*)</p>[\\s\\S]{0,400}?<h3 class=\"title\">(?P<title>[^<]*)</h3>[\\s\\S]{0,400}?<span class=\"period\">(?P<period>[^<]*)</span>"
     }
   ]
 }

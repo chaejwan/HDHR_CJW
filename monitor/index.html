@@ -224,6 +224,11 @@
           <label class="field field--wide"><span>요청 본문 (POST 일 때, JSON)</span><input type="text" data-role="body" placeholder='{"page":0,"size":50}' /></label>
           <label class="field"><span>마감/등록일 필드</span><input type="text" data-role="json.date_field" placeholder="regDt" /></label>
         </div>
+        <div class="row">
+          <label class="field field--narrow"><span>이어 읽을 쪽 수 (주소·본문에 {page})</span><input type="number" min="1" max="20" data-role="pages" /></label>
+          <label class="field field--wide"><span>공고 한 건 정규식 (목록 조각을 직접 읽을 때)</span><input type="text" data-role="item_pattern" placeholder="&lt;a[^&gt;]*data-value=&quot;(?P&lt;no&gt;[0-9]+)&quot;" /></label>
+          <label class="field"><span>제목 조합</span><input type="text" data-role="json.title_template" placeholder="{company} {title}" /></label>
+        </div>
         <label class="field"><span>메모</span><input type="text" data-role="note" /></label>
         <p class="site__stat" data-role="stat"></p>
       </details>

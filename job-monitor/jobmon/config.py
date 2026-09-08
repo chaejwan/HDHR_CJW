@@ -68,6 +68,7 @@ DEFAULT_SITE = {
     "max_items": 300,             # 한 번에 인정할 최대 항목 수 (노이즈 방지)
     "pages": 1,                   # 목록이 여러 쪽으로 나뉘면 주소나 본문에 {page} 를 넣고 쪽수를 적는다
     "selector": "",               # browser 모드에서 공고 카드를 가리키는 CSS 선택자
+    "item_pattern": "",           # 공고 한 건을 잡아내는 정규식 (이름 붙인 그룹이 json 매핑의 값이 된다)
     "method": "GET",              # 검색형 API 는 POST 인 경우가 있다
     "body": "",                   # POST 로 보낼 본문 (보통 JSON 문자열)
     "headers": {},                # 추가로 보낼 요청 헤더
@@ -77,6 +78,7 @@ DEFAULT_SITE = {
         "title_field": "",
         "url_field": "",
         "url_template": "",
+        "title_template": "",     # 여러 값을 합쳐 제목을 만들 때 (예: "{company} {title}")
         "date_field": "",
     },
     "note": "",
@@ -198,6 +200,7 @@ def normalize(config: dict) -> dict:
         if site.get("mode") not in ("auto", "html", "json", "browser"):
             site["mode"] = "auto"
         site["selector"] = (site.get("selector") or "").strip()
+        site["item_pattern"] = (site.get("item_pattern") or "").strip()
         try:
             site["pages"] = max(1, min(20, int(site.get("pages") or 1)))
         except (TypeError, ValueError):
@@ -239,7 +242,7 @@ def validate(config: dict) -> list[str]:
                 f"{email.get('password_env') or 'JOBMON_SMTP_PASSWORD'} 로 지정하세요."
             )
     for site in config.get("sites") or []:
-        for key in ("url_pattern", "title_pattern", "exclude_pattern"):
+        for key in ("url_pattern", "title_pattern", "exclude_pattern", "item_pattern"):
             pattern = site.get(key) or ""
             if pattern:
                 try:

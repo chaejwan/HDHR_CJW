@@ -253,10 +253,11 @@ function normalizeConfig(raw) {
     const merged = Object.assign({
       id: '', name: '', url: '', home_url: '', enabled: true, mode: 'auto', interval_hours: null,
       url_pattern: '', title_pattern: '', exclude_pattern: '', max_items: 300, note: '',
-      method: 'GET', body: '', headers: {},
+      method: 'GET', body: '', headers: {}, selector: '', pages: 1, item_pattern: '',
     }, site);
     merged.json = Object.assign(
-      { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '', date_field: '' },
+      { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '',
+        title_template: '', date_field: '' },
       site.json || {}
     );
     if (!merged.id || taken.has(merged.id)) merged.id = makeSiteId(merged, taken);
@@ -368,7 +369,8 @@ function renderSites() {
     ['enabled', 'name', 'url', 'home_url', 'mode', 'interval_hours', 'max_items', 'url_pattern',
       'title_pattern', 'exclude_pattern', 'note', 'json.items_path', 'json.title_field',
       'json.id_field', 'json.url_template', 'json.date_field',
-      'method', 'body', 'selector'].forEach(bind);
+      'method', 'body', 'selector', 'pages', 'item_pattern',
+      'json.title_template'].forEach(bind);
 
     node.classList.toggle('site--off', !site.enabled);
     toggleJsonBox(node, site.mode);
@@ -662,8 +664,9 @@ el.addSiteBtn.addEventListener('click', () => {
   cfg.sites.push({
     id: '', name: '', url: '', home_url: '', enabled: true, mode: 'auto', interval_hours: null,
     url_pattern: '', title_pattern: '', exclude_pattern: '', max_items: 300,
-    method: 'GET', body: '', headers: {}, selector: '',
-    json: { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '', date_field: '' },
+    method: 'GET', body: '', headers: {}, selector: '', pages: 1, item_pattern: '',
+    json: { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '',
+      title_template: '', date_field: '' },
     note: '',
   });
   markDirty();

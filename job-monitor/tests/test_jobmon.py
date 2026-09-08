@@ -367,6 +367,54 @@ class WebApiTest(unittest.TestCase):
             self.call("/api/nope")
 
 
+
+class PatternExtractionTest(unittest.TestCase):
+    """목록 조각만 돌려주는 사이트를 정규식으로 읽는다."""
+
+    HTML = """
+    <li><a href="/#none" data-value="23,055">
+      <p class="company"> 삼성전자 DX부문</p>
+      <h3 class="title">2026년 하반기 신입 채용 </h3>
+      <p class="info"><span class="period"> 2026.09.08 ~ 2026.09.15 </span></p>
+    </a></li>
+    <li><a href="/#none" data-value="989">
+      <p class="company"> 삼성전기</p>
+      <h3 class="title">경력 채용 </h3>
+      <p class="info"><span class="period"> 2026.09.01 ~ 2026.09.30 </span></p>
+    </a></li>
+    """
+    PATTERN = (r'<a[^>]*data-value="(?P<no>[\d,]+)"[^>]*>'
+               r'[\s\S]{0,400}?<p class="company">(?P<company>[^<]*)</p>'
+               r'[\s\S]{0,400}?<h3 class="title">(?P<title>[^<]*)</h3>'
+               r'[\s\S]{0,400}?<span class="period">(?P<period>[^<]*)</span>')
+    MAPPING = {
+        "title_template": "{company} {title}",
+        "id_field": "no",
+        "date_field": "period",
+        "url_template": "https://example.com/hr/?no={no|digits}",
+    }
+
+    def test_items_and_links(self):
+        items = extract_mod.items_from_pattern(
+            self.PATTERN, self.HTML, "https://example.com/hr/", self.MAPPING)
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0]["title"], "삼성전자 DX부문 2026년 하반기 신입 채용")
+        self.assertEqual(items[0]["url"], "https://example.com/hr/?no=23055")
+        self.assertEqual(items[0]["date"], "2026.09.08 ~ 2026.09.15")
+        self.assertEqual(items[1]["url"], "https://example.com/hr/?no=989")
+
+    def test_used_by_extract(self):
+        site = config_mod.normalize({"sites": [{
+            "name": "조각", "url": "https://example.com/hr/list.data", "mode": "html",
+            "item_pattern": self.PATTERN, "json": self.MAPPING,
+        }]})["sites"][0]
+        fetched = FetchResult(url=site["url"], status=200, text=self.HTML,
+                              content_type="text/html")
+        result = extract_mod.extract(site, fetched)
+        self.assertEqual(result.method, "pattern")
+        self.assertEqual(len(result.items), 2)
+
+
 if __name__ == "__main__":
     unittest.main()
 
