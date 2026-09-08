@@ -3,7 +3,9 @@
 지정한 채용 사이트를 **GitHub Actions 가 주기적으로 확인**해서, 새로 올라온 공고가 있으면
 **이메일로 알려 주는** 도구입니다. 내 컴퓨터를 켜 둘 필요가 없습니다.
 
-- **설정 화면(공개 주소)**: <https://chaejwan.github.io/HDHR_CJW/monitor/>
+- **설정 화면**: <https://chaejwan.github.io/HDHR_CJW/monitor/>
+  (저장소가 비공개이면 이 화면도 **토큰을 넣어야** 설정을 읽고 쓸 수 있습니다.
+  GitHub Pages 가 켜지지 않는 요금제라면 `python3 monitor.py serve` 로 같은 화면을 컴퓨터에서 열 수 있습니다.)
 - **확인 주체**: `.github/workflows/job-monitor.yml` (GitHub Actions, 매시간 실행)
 - **설정 파일**: `job-monitor/config.json` (설정 화면에서 저장하면 이 파일이 커밋됩니다)
 - **확인 기록**: `job-monitor/data/state.json`, 마지막 실행 요약 `job-monitor/data/last-run.json`
@@ -44,13 +46,14 @@ GitHub 의 예약 실행(schedule)은 **기본 브랜치에 있는 워크플로�
 | `JOBMON_SMTP_PASSWORD` | Gmail **앱 비밀번호** | ✔ |
 | `JOBMON_SMTP_FROM` | 보내는 사람 주소 (보통 위와 같음) | |
 | `JOBMON_SMTP_PORT` / `JOBMON_SMTP_SECURITY` | `587` / `starttls` (기본값) | |
-| `JOBMON_RECIPIENTS` | 받는 주소들 (`a@x.com, b@y.com`) | |
+| `JOBMON_RECIPIENTS` | 받는 주소들 — **더 이상 쓰지 않습니다** (설정 화면이 비어 있을 때만 사용) | |
 
 - 앱 비밀번호: Google 계정 → 보안 → 2단계 인증을 켠 뒤 **앱 비밀번호** 에서 발급.
 - 네이버는 `smtp.naver.com` / `465` / `ssl`, 다음은 `smtp.daum.net` / `465` / `ssl`.
-- 저장소가 **공개(public)** 라면 `config.json` 에 적은 수신 이메일도 공개됩니다.
-  주소를 감추려면 설정 화면의 수신 이메일 칸을 비우고 `JOBMON_RECIPIENTS` 시크릿을 쓰세요.
-  (시크릿이 설정보다 우선합니다.)
+- **받는 주소는 설정 화면에서 관리합니다.** 설정 화면의 ‘수신 이메일’ 칸에 적으면 그 값이 기준이며,
+  칸이 비어 있을 때에 한해 예전 방식인 `JOBMON_RECIPIENTS` 시크릿을 대신 씁니다.
+  저장소가 비공개라면 시크릿은 지워도 됩니다.
+  (다시 공개로 바꾼다면, 주소가 저장소에 남지 않도록 이 칸을 비우고 시크릿을 쓰는 편이 좋습니다.)
 
 ### ④ 설정 화면용 토큰 만들기
 
@@ -103,7 +106,10 @@ GitHub 의 예약 실행은 **보장되지 않습니다.** 혼잡할 때는 수�
 
 > 저장소에 60일 동안 활동이 없으면 GitHub 가 예약 실행을 자동으로 멈춥니다.
 > 이 워크플로는 실행할 때마다 확인 기록을 커밋하므로 보통 유지되지만, 멈췄다면
-> **Actions 탭 → 워크플로 → Enable** 로 다시 켜면 됩니다. 공개 저장소는 Actions 사용료가 없습니다.
+> **Actions 탭 → 워크플로 → Enable** 로 다시 켜면 됩니다.
+> 비공개 저장소는 Actions 실행 시간이 무료 사용량(개인 Free 기준 월 2,000분) 에서 차감됩니다.
+> 이 워크플로는 한 번 실행에 1분 남짓이라 30분 간격이면 월 1,500분 안팎입니다.
+> 여유를 두려면 `.github/workflows/job-monitor.yml` 의 `cron` 을 `7 * * * *` (1시간 간격)로 바꾸세요.
 
 ---
 

@@ -243,8 +243,8 @@ def cmd_test_email(monitor: Monitor) -> int:
     print(f"  수신 이메일 : {len(recipients)}명")
 
     if not recipients:
-        print("실패: 수신 이메일이 설정돼 있지 않습니다. "
-              "시크릿 JOBMON_RECIPIENTS 를 등록하거나 설정 화면에서 주소를 넣으세요.")
+        print("실패: 수신 이메일이 비어 있습니다. "
+              "설정 화면의 ‘수신 이메일’ 칸에 주소를 넣고 저장하세요.")
         return 1
     if not password:
         print("실패: 비밀번호가 비어 있습니다. 시크릿 JOBMON_SMTP_PASSWORD 를 등록하세요.")

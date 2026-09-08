@@ -445,11 +445,20 @@ class EnvSecretsTest(unittest.TestCase):
         os.environ["JOBMON_SMTP_PASSWORD"] = "비밀"
         live = config_mod.effective(cfg)
         self.assertEqual(live["email"]["smtp_host"], "new.example")
-        self.assertEqual(live["recipients"], ["a@example.com", "b@example.com"])
+        # 수신 주소만은 설정 화면(config.json)이 기준이다
+        self.assertEqual(live["recipients"], ["old@example.com"])
         # 시크릿이 갖춰지면 별도 설정 없이도 메일 발송이 켜진다
         self.assertTrue(live["email"]["enabled"])
         # 원본 설정은 그대로 (파일에 비밀 정보가 다시 저장되지 않도록)
         self.assertEqual(cfg["email"]["smtp_host"], "old.example")
+
+    def test_recipients_env_only_fills_the_gap(self):
+        """설정 화면이 비어 있을 때만 예전 방식(시크릿) 주소를 쓴다."""
+        os.environ["JOBMON_RECIPIENTS"] = "a@example.com, b@example.com"
+        empty = config_mod.effective(config_mod.normalize({"recipients": []}))
+        self.assertEqual(empty["recipients"], ["a@example.com", "b@example.com"])
+        filled = config_mod.effective(config_mod.normalize({"recipients": ["me@example.com"]}))
+        self.assertEqual(filled["recipients"], ["me@example.com"])
 
     def test_env_summary_hides_values(self):
         os.environ["JOBMON_SMTP_PASSWORD"] = "비밀"
