@@ -1,25 +1,14 @@
 {
- "at": "2026-09-08T15:30:54+00:00",
+ "at": "2026-09-08T16:00:52+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
   "skipped": ""
  },
- "alerts": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션 채용",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  }
- ],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34245180158",
+ "alerts": [],
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34248387533",
  "results": [
   {
    "site_id": "hanwhain",
