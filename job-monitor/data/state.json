@@ -508,15 +508,25 @@
      "first_seen": "2026-09-08T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-08T15:00:41+00:00",
-   "last_success": "2026-09-08T15:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-08T15:30:32+00:00",
+   "last_success": "2026-09-08T15:30:32+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 82,
    "fingerprint": "5653203e4abd7a11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:30:32+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T15:00:41+00:00",
      "status": "new",
@@ -1190,15 +1200,25 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-08T15:00:43+00:00",
-   "last_success": "2026-09-08T15:00:43+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-08T15:30:33+00:00",
+   "last_success": "2026-09-08T15:30:33+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 14,
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:30:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-08T15:00:43+00:00",
      "status": "baseline",
@@ -1414,7 +1434,7 @@
      "new": []
     }
    ],
-   "last_note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 44건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "22개 중 필터를 통과한 14개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-19",
@@ -1424,9 +1444,9 @@
     "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-113"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-08T15:00:43+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    }
   },
   "sk-sk-careers": {
@@ -2146,15 +2166,25 @@
      "first_seen": "2026-09-08T15:00:46+00:00"
     }
    },
-   "last_check": "2026-09-08T15:00:46+00:00",
-   "last_success": "2026-09-08T15:00:46+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-08T15:30:45+00:00",
+   "last_success": "2026-09-08T15:30:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 94,
    "fingerprint": "b2ab3fbc093add4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:30:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T15:00:46+00:00",
      "status": "new",
@@ -3730,15 +3760,25 @@
      "first_seen": "2026-09-08T07:00:06+00:00"
     }
    },
-   "last_check": "2026-09-08T15:00:47+00:00",
-   "last_success": "2026-09-08T15:00:47+00:00",
+   "last_check": "2026-09-08T15:30:47+00:00",
+   "last_success": "2026-09-08T15:30:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 151,
-   "fingerprint": "890df6adf305aef6",
+   "fingerprint": "ac85b35249ad4691",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:30:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T15:00:47+00:00",
      "status": "ok",
@@ -4471,8 +4511,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T15:00:52+00:00",
-   "last_success": "2026-09-08T15:00:52+00:00",
+   "last_check": "2026-09-08T15:30:51+00:00",
+   "last_success": "2026-09-08T15:30:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4480,6 +4520,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:30:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T15:00:52+00:00",
      "status": "ok",
