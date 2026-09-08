@@ -508,8 +508,8 @@
      "first_seen": "2026-09-08T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-08T18:30:31+00:00",
-   "last_success": "2026-09-08T18:30:31+00:00",
+   "last_check": "2026-09-08T19:01:26+00:00",
+   "last_success": "2026-09-08T19:01:26+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -517,6 +517,16 @@
    "fingerprint": "5653203e4abd7a11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T19:01:26+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T18:30:31+00:00",
      "status": "ok",
@@ -874,15 +884,6 @@
        "date": "2026.09.27 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-07T11:26:23+00:00",
-     "status": "error",
-     "new_count": 0,
-     "item_count": 0,
-     "error": "접속 실패: timed out",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1252,8 +1253,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-08T18:30:33+00:00",
-   "last_success": "2026-09-08T18:30:33+00:00",
+   "last_check": "2026-09-08T19:01:27+00:00",
+   "last_success": "2026-09-08T19:01:27+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1261,6 +1262,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T19:01:27+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-08T18:30:33+00:00",
      "status": "ok",
@@ -1544,15 +1555,6 @@
      "item_count": 30,
      "error": "",
      "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T11:26:43+00:00",
-     "status": "baseline",
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "첫 확인이라 현재 30건을 기준으로 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -2288,8 +2290,8 @@
      "first_seen": "2026-09-08T15:00:46+00:00"
     }
    },
-   "last_check": "2026-09-08T18:30:38+00:00",
-   "last_success": "2026-09-08T18:30:38+00:00",
+   "last_check": "2026-09-08T19:01:30+00:00",
+   "last_success": "2026-09-08T19:01:30+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2297,6 +2299,16 @@
    "fingerprint": "b2ab3fbc093add4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T19:01:30+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T18:30:38+00:00",
      "status": "ok",
@@ -2619,15 +2631,6 @@
      "item_count": 22,
      "error": "",
      "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T11:26:48+00:00",
-     "status": "baseline",
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "첫 확인이라 현재 22건을 기준으로 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -3952,15 +3955,25 @@
      "first_seen": "2026-09-08T07:00:06+00:00"
     }
    },
-   "last_check": "2026-09-08T18:30:39+00:00",
-   "last_success": "2026-09-08T18:30:39+00:00",
+   "last_check": "2026-09-08T19:01:31+00:00",
+   "last_success": "2026-09-08T19:01:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 151,
-   "fingerprint": "adcb83684c8df0f3",
+   "fingerprint": "b17622a859926572",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T19:01:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T18:30:39+00:00",
      "status": "ok",
@@ -4250,15 +4263,6 @@
      "item_count": 66,
      "error": "",
      "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T11:26:49+00:00",
-     "status": "baseline",
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "첫 확인이라 현재 66건을 기준으로 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -4773,8 +4777,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T18:30:43+00:00",
-   "last_success": "2026-09-08T18:30:43+00:00",
+   "last_check": "2026-09-08T19:01:34+00:00",
+   "last_success": "2026-09-08T19:01:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4782,6 +4786,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T19:01:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T18:30:43+00:00",
      "status": "ok",
@@ -5065,15 +5079,6 @@
      "item_count": 52,
      "error": "",
      "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-07T11:26:50+00:00",
-     "status": "baseline",
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "첫 확인이라 현재 52건을 기준으로 저장했습니다(알림 없음).",
      "new": []
     }
    ],
