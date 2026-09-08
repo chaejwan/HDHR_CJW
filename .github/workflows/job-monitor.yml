@@ -27,6 +27,12 @@ on:
   push:
     paths:
       - "job-monitor/config.json"   # 설정을 바꾸면 바로 한 번 확인
+  repository_dispatch:
+    # 바깥에서 깨워 주기 (cron-job.org 등). GitHub 예약 실행은 자주 건너뛰기 때문에,
+    # 정해진 시각에 이 저장소로 신호를 보내면 그때 확인이 돕니다.
+    #   POST https://api.github.com/repos/<사용자>/<저장소>/dispatches
+    #   Authorization: Bearer <토큰>   본문: {"event_type": "check-now"}
+    types: [check-now]
 
 permissions:
   contents: write

@@ -98,6 +98,40 @@ GitHub 의 예약 실행은 **보장되지 않습니다.** 혼잡할 때는 수�
 (그래서 정각을 피해 7분·37분에 실행합니다). 즉 "30분마다"로 정해도 실제로는 1~2시간에
 한 번이 될 수 있습니다. 급한 확인은 설정 화면의 **지금 확인 실행** 을 쓰세요.
 
+### 제때 확인하게 만들기 — 바깥에서 깨워 주기 (권장)
+
+실제로 이 저장소에서도 예약 실행이 **3~5시간에 한 번**만 도는 일이 있었습니다.
+GitHub 이 깨워 주기를 기다리는 대신, 무료 스케줄러가 정해진 시각에 저장소로 신호를
+보내게 하면 정확한 간격으로 확인이 돕니다. 워크플로에 `repository_dispatch` 를 열어 두었습니다.
+
+**1) 깨우기용 토큰 만들기** — GitHub → Settings → Developer settings →
+Personal access tokens → **Fine-grained tokens** → Generate new token
+
+| 항목 | 값 |
+| --- | --- |
+| Repository access | Only select repositories → 이 저장소 |
+| Permissions | **Contents: Read and write** (이것만 있으면 됩니다) |
+| Expiration | 원하는 기간 (만료되면 다시 만들어 넣어야 합니다) |
+
+**2) 무료 스케줄러에 등록** — <https://cron-job.org> (가입 무료) → Create cronjob
+
+| 칸 | 값 |
+| --- | --- |
+| URL | `https://api.github.com/repos/<사용자>/<저장소>/dispatches` |
+| Schedule | Every 30 minutes (원하는 간격) |
+| Request method | **POST** |
+| Headers | `Authorization: Bearer <1번에서 만든 토큰>`<br />`Accept: application/vnd.github+json`<br />`Content-Type: application/json` |
+| Request body | `{"event_type": "check-now"}` |
+
+저장하고 **TEST RUN** 을 눌러 응답이 **204** 로 나오면 성공입니다(본문 없음이 정상).
+Actions 탭에 `채용공고 확인` 실행이 바로 뜹니다.
+
+- 신호가 자주 와도 상대 사이트에 자주 접속하지는 않습니다. 실제 확인 여부는
+  설정한 **확인 주기**가 결정하고, 주기가 안 된 사이트는 그냥 건너뜁니다.
+- 동시에 두 번 실행되지 않도록 막아 두었으므로(`concurrency`), 신호가 겹쳐도 안전합니다.
+- 토큰이 만료되면 스케줄러가 401 을 받습니다. cron-job.org 의 실행 기록에서 확인할 수 있습니다.
+- GitHub 예약 실행(30분마다)도 그대로 두었으니, 둘 중 하나만 살아 있어도 확인은 계속됩니다.
+
 > **작업 브랜치에서는 실행되지 않습니다.** 확인 기록(state.json)이 브랜치마다 다르기 때문에,
 > 오래된 기록이 든 브랜치에서 돌리면 이미 알린 공고를 새 공고로 착각해 중복 메일을 보냅니다.
 > 그래서 워크플로는 기본 브랜치에서만 동작하도록 막아 두었습니다.
@@ -312,7 +346,7 @@ cd job-monitor && python3 -m unittest discover -s tests -v
 | 매번 같은 공고를 다시 알림 | Actions 의 **Read and write permissions** (기록 커밋 실패 시 발생) |
 | 목록이 0개 / `fingerprint` | 위 4장 — 필터, 브라우저 렌더링, JSON API |
 | 같은 공고가 두 번 메일로 옴 | 확인 기록 커밋이 실패했거나, 오래된 기록을 가진 브랜치에서 워크플로가 돌았을 때 생깁니다. Actions 탭에서 해당 실행의 브랜치와 `확인 기록 저장` 단계를 확인하세요. |
-| 예약 실행이 자주 건너뜀 | GitHub 예약 실행은 보장되지 않습니다. 급하면 `지금 확인 실행` 을 쓰세요. |
+| 예약 실행이 자주 건너뜀 | GitHub 예약 실행은 보장되지 않습니다. 위 2장의 **바깥에서 깨워 주기** 를 설정하거나, 급하면 `지금 확인 실행` 을 쓰세요. |
 | 가끔 `접속 실패: 응답 시간 초과` | 상대 서버가 느린 것입니다. 3회까지 자동으로 다시 시도하며, 그래도 실패하면 그 사이트만 건너뛰고 다음 주기에 다시 확인합니다. 자주 발생하면 확인 주기를 늘려 보세요. |
 | 예약 실행이 멈춤 | Actions 탭에서 워크플로 **Enable**, 기본 브랜치 여부 |
 | 설정 화면 주소가 404 | Pages 가 꺼진 것입니다. Actions 탭 → **설정 화면 배포 (GitHub Pages)** → Run workflow 로 다시 켜고 올립니다. 저장소를 잠깐이라도 비공개로 바꾸면 Pages 가 해제되고, 다시 공개로 돌려도 저절로 켜지지 않습니다. |
