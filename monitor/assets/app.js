@@ -97,6 +97,7 @@ function fmtInterval(hours) {
   const value = Number(hours);
   if (!value) return '';
   if (value >= 24 && value % 24 === 0) return `${value / 24}일마다`;
+  if (value < 1) return `${Math.round(value * 60)}분마다`;
   return `${value}시간마다`;
 }
 
@@ -283,7 +284,7 @@ function fillForm() {
 
 function collectConfig() {
   const out = JSON.parse(JSON.stringify(cfg));
-  out.check_interval_hours = Math.max(1, Number(el.intervalInput.value) || 24);
+  out.check_interval_hours = Math.max(0.5, Number(el.intervalInput.value) || 24);
   out.notify_on_first_run = el.firstRunInput.checked;
   out.recipients = el.recipientsInput.value.split(/[,;\s]+/).map((s) => s.trim()).filter(Boolean);
   out.email.enabled = el.emailEnabled.checked;
