@@ -484,6 +484,28 @@ class RelistedTest(unittest.TestCase):
         self.assertEqual(result["status"], "new")
         self.assertFalse(result["relisted"])
 
+
+class DueGraceTest(unittest.TestCase):
+    """예약 실행이 몇 분 늦게 와도 주기가 뒤로 밀리지 않는다."""
+
+    def setUp(self):
+        self.dir = tempfile.mkdtemp()
+        path = os.path.join(self.dir, "config.json")
+        config_mod.save(path, {"check_interval_hours": 1, "sites": [
+            {"id": "s1", "name": "테스트", "url": "https://example.com/jobs"}]})
+        self.monitor = Monitor(path)
+
+    def _state(self, minutes_ago):
+        from datetime import datetime, timedelta
+        last = datetime.now().astimezone() - timedelta(minutes=minutes_ago)
+        return {"sites": {"s1": {"last_check": last.isoformat(), "baseline_done": True}}}
+
+    def test_a_few_minutes_early_still_counts(self):
+        cfg = self.monitor.load_config()
+        site = cfg["sites"][0]
+        self.assertTrue(self.monitor.is_due(cfg, self._state(57), site))   # 1시간 3분 전
+        self.assertFalse(self.monitor.is_due(cfg, self._state(30), site))  # 아직 멀었다
+
 if __name__ == "__main__":
     unittest.main()
 
