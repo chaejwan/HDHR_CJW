@@ -272,6 +272,8 @@ def load(path: str, create_if_missing: bool = True) -> dict:
 def save(path: str, config: dict) -> dict:
     """원자적으로 저장한다. 비밀번호가 들어갈 수 있으므로 권한은 600 으로."""
     cfg = normalize(config)
+    # 시크릿에서 온 관리자 주소는 파일에 남기지 않는다 (effective() 가 만들어 낸 값).
+    cfg.pop("admin_recipients", None)
     directory = os.path.dirname(os.path.abspath(path)) or "."
     os.makedirs(directory, exist_ok=True)
     fd, tmp = tempfile.mkstemp(dir=directory, prefix=".config-", suffix=".json")
@@ -303,6 +305,23 @@ ENV_OVERRIDES = {
 }
 
 
+def split_addresses(raw: str) -> list:
+    """쉼표·공백·세미콜론으로 나뉜 주소 문자열을 목록으로."""
+    return [a.strip() for a in re.split(r"[,\s;]+", raw or "") if a.strip()]
+
+
+def _dedupe(addresses: list) -> list:
+    """순서를 지키면서 중복 주소를 없앤다 (대소문자 무시)."""
+    out, seen = [], set()
+    for addr in addresses:
+        key = addr.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(addr)
+    return out
+
+
 def effective(config: dict) -> dict:
     """환경변수로 넘어온 값을 얹은 사본을 돌려준다 (메일 발송 직전에 사용)."""
     cfg = copy.deepcopy(config)
@@ -310,9 +329,16 @@ def effective(config: dict) -> dict:
         value = os.environ.get(env_name)
         if value not in (None, ""):
             cfg.setdefault(section, {})[key] = value
-    recipients = os.environ.get("JOBMON_RECIPIENTS")
-    if recipients:
-        cfg["recipients"] = [a.strip() for a in re.split(r"[,\s;]+", recipients) if a.strip()]
+    # 수신처는 두 갈래다.
+    #   - 설정 화면(config.json recipients) : 새 공고를 받아 볼 사람들
+    #   - 시크릿 JOBMON_RECIPIENTS          : 이 도구를 관리하는 사람(들)
+    # 새 공고는 두 곳 모두에게, 사이트 점검 안내는 관리자에게만 보낸다.
+    admin = split_addresses(os.environ.get("JOBMON_RECIPIENTS") or "")
+    page = list(cfg.get("recipients") or [])
+    # 공개 저장소라 공고 수신처도 감추고 싶다면 이 시크릿에 넣을 수 있다 (설정 화면 대신).
+    page += split_addresses(os.environ.get("JOBMON_POSTING_RECIPIENTS") or "")
+    cfg["admin_recipients"] = admin or page      # 시크릿이 없으면 설정 화면 수신처가 관리자 역할
+    cfg["recipients"] = _dedupe(page + admin)
     enabled = os.environ.get("JOBMON_EMAIL_ENABLED")
     if enabled not in (None, ""):
         cfg.setdefault("email", {})["enabled"] = enabled.strip().lower() in ("1", "true", "yes", "on")
@@ -324,7 +350,8 @@ def effective(config: dict) -> dict:
 
 def env_summary() -> dict:
     """어떤 값이 환경변수로 채워져 있는지 (값은 노출하지 않는다)."""
-    names = list(ENV_OVERRIDES) + ["JOBMON_RECIPIENTS", "JOBMON_EMAIL_ENABLED", "JOBMON_SMTP_PASSWORD"]
+    names = list(ENV_OVERRIDES) + ["JOBMON_RECIPIENTS", "JOBMON_POSTING_RECIPIENTS",
+                                   "JOBMON_EMAIL_ENABLED", "JOBMON_SMTP_PASSWORD"]
     return {name: bool(os.environ.get(name)) for name in names}
 
 

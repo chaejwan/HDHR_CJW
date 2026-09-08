@@ -45,13 +45,24 @@ GitHub 의 예약 실행(schedule)은 **기본 브랜치에 있는 워크플로�
 | `JOBMON_SMTP_PASSWORD` | Gmail **앱 비밀번호** | ✔ |
 | `JOBMON_SMTP_FROM` | 보내는 사람 주소 (보통 위와 같음) | |
 | `JOBMON_SMTP_PORT` / `JOBMON_SMTP_SECURITY` | `587` / `starttls` (기본값) | |
-| `JOBMON_RECIPIENTS` | 받는 주소들 (`a@x.com, b@y.com`) | |
+| `JOBMON_RECIPIENTS` | **관리자** 주소들 (`a@x.com, b@y.com`) — 점검 안내는 여기로만 갑니다 | |
+| `JOBMON_POSTING_RECIPIENTS` | 공고를 받아 볼 주소들 — 설정 화면에 적는 대신 감추고 싶을 때 | |
 
 - 앱 비밀번호: Google 계정 → 보안 → 2단계 인증을 켠 뒤 **앱 비밀번호** 에서 발급.
 - 네이버는 `smtp.naver.com` / `465` / `ssl`, 다음은 `smtp.daum.net` / `465` / `ssl`.
-- 저장소가 **공개(public)** 라면 `config.json` 에 적은 수신 이메일도 공개됩니다.
-  주소를 감추려면 설정 화면의 수신 이메일 칸을 비우고 `JOBMON_RECIPIENTS` 시크릿을 쓰세요.
-  (시크릿이 설정보다 우선합니다.)
+
+**수신처는 두 갈래입니다.**
+
+| 무엇을 | 누구에게 |
+| --- | --- |
+| **새 공고** 알림 | 설정 화면의 ‘수신 이메일’ + `JOBMON_RECIPIENTS` (둘 다) |
+| **사이트 점검 안내** (감시가 망가진 정황, 접속 실패) | `JOBMON_RECIPIENTS` 에 적힌 관리자에게만 |
+
+공고를 받아 볼 사람은 설정 화면에서 관리하고, 도구가 고장 난 이야기는 관리자만 받습니다.
+`JOBMON_RECIPIENTS` 가 비어 있으면 설정 화면의 주소가 관리자 역할까지 합니다.
+저장소가 **공개(public)** 라면 설정 화면에 적은 주소는 그대로 공개됩니다.
+공고 수신처까지 감추고 싶다면 설정 화면의 칸을 비우고 `JOBMON_POSTING_RECIPIENTS` 시크릿에 넣으세요
+(그 사람들은 공고만 받고 점검 안내는 받지 않습니다).
 
 ### ④ 설정 화면용 토큰 만들기
 

@@ -201,14 +201,24 @@ class NotifyRenderTest(unittest.TestCase):
         self.assertIn("개발자 모집", text)
         self.assertIn("https://example.com/1", html)
 
-    def test_errors_are_reported(self):
+    def test_errors_go_to_the_admin_mail_only(self):
+        """접속 실패 같은 운영 이야기는 공고 메일이 아니라 점검 안내 메일에 담긴다."""
         results = [
             {"site_name": "A", "site_url": "u", "status": "error", "error": "HTTP 500", "new_items": []},
             {"site_name": "B", "site_url": "u", "status": "new",
-             "new_items": [{"title": "T", "url": "u", "date": ""}]},
+             "new_items": [{"title": "공고 제목", "url": "u", "date": ""}]},
         ]
-        _subject, text, _html = notify_mod.render(results)
-        self.assertIn("HTTP 500", text)
+        _subject, posting_text, _html = notify_mod.render(results)
+        self.assertNotIn("HTTP 500", posting_text)
+        self.assertIn("공고 제목", posting_text)
+
+        alerts = [{"site_name": "A", "site_url": "u", "site_link": "u", "kind": "errors",
+                   "label": "여러 번 연속으로 접속에 실패했습니다", "detail": "3번 연속 실패",
+                   "recovered": False}]
+        _subject, admin_text, _html = notify_mod.render_alerts(alerts, results)
+        self.assertIn("HTTP 500", admin_text)
+        self.assertIn("3번 연속 실패", admin_text)
+        self.assertNotIn("공고 제목", admin_text)
 
 
 # ---------------------------------------------------------------- 통합 테스트
@@ -506,6 +516,69 @@ class DueGraceTest(unittest.TestCase):
         self.assertTrue(self.monitor.is_due(cfg, self._state(57), site))   # 1시간 3분 전
         self.assertFalse(self.monitor.is_due(cfg, self._state(30), site))  # 아직 멀었다
 
+
+class MailRoutingTest(unittest.TestCase):
+    """새 공고는 설정 화면 수신처 + 관리자에게, 점검 안내는 관리자에게만."""
+
+    def setUp(self):
+        path = os.path.join(tempfile.mkdtemp(), "config.json")
+        config_mod.save(path, {
+            "recipients": ["team@example.com"],
+            "email": {"enabled": True, "smtp_host": "smtp.example", "username": "u@example.com"},
+            "sites": [{"id": "s1", "name": "테스트", "url": "https://example.com/jobs"}],
+        })
+        self.monitor = Monitor(path)
+
+        self.saved_env = os.environ.get("JOBMON_RECIPIENTS")
+        os.environ["JOBMON_RECIPIENTS"] = "admin@example.com"
+        self.addCleanup(self._restore_env)
+
+        self.sent = []
+        original_send = notify_mod.send
+        notify_mod.send = lambda _cfg, to, subject, _t, _h="": self.sent.append((subject, list(to)))
+        self.addCleanup(lambda: setattr(notify_mod, "send", original_send))
+
+    def _restore_env(self):
+        if self.saved_env is None:
+            os.environ.pop("JOBMON_RECIPIENTS", None)
+        else:
+            os.environ["JOBMON_RECIPIENTS"] = self.saved_env
+
+    def _serve(self, items):
+        result = extract_mod.ExtractResult(items=items, method="links", fingerprint="fp")
+        self.monitor.collect = lambda _cfg, site: (
+            FetchResult(url=site["url"], status=200, text="<html></html>",
+                        content_type="text/html"), result)
+
+    @staticmethod
+    def _items(prefix, count):
+        return [{"id": f"{prefix}{i}", "title": f"공고 {prefix}{i}",
+                 "url": f"https://example.com/{prefix}/{i}", "date": ""} for i in range(count)]
+
+    def test_postings_and_alerts_go_to_different_people(self):
+        self._serve(self._items("a", 8))
+        self.monitor.run_check(notify=True)                 # 첫 확인: 기준만 저장
+        self.assertEqual(self.sent, [])
+
+        self._serve(self._items("b", 8))                    # 목록이 통째로 바뀜 → 점검 안내
+        self.monitor.run_check(notify=True)
+        self.assertEqual(len(self.sent), 1)
+        subject, recipients = self.sent[0]
+        self.assertIn("점검", subject)
+        self.assertEqual(recipients, ["admin@example.com"])  # 팀에는 가지 않는다
+
+        self.sent.clear()
+        self._serve(self._items("b", 8) + [{"id": "b99", "title": "새 공고",
+                                            "url": "https://example.com/b/99", "date": ""}])
+        self.monitor.run_check(notify=True)
+        # 새 공고 메일은 팀+관리자, 같은 확인에서 나온 '정상 복구' 안내는 관리자에게만
+        posting = [m for m in self.sent if "새 공고" in m[0]]
+        admin_only = [m for m in self.sent if "점검" in m[0]]
+        self.assertEqual(len(posting), 1)
+        self.assertEqual(posting[0][1], ["team@example.com", "admin@example.com"])
+        self.assertEqual(len(admin_only), 1)
+        self.assertEqual(admin_only[0][1], ["admin@example.com"])
+
 if __name__ == "__main__":
     unittest.main()
 
@@ -536,11 +609,32 @@ class EnvSecretsTest(unittest.TestCase):
         os.environ["JOBMON_SMTP_PASSWORD"] = "비밀"
         live = config_mod.effective(cfg)
         self.assertEqual(live["email"]["smtp_host"], "new.example")
-        self.assertEqual(live["recipients"], ["a@example.com", "b@example.com"])
+        # 새 공고는 설정 화면 수신처와 관리자 모두에게 간다
+        self.assertEqual(live["recipients"],
+                         ["old@example.com", "a@example.com", "b@example.com"])
+        # 점검 안내는 시크릿에 적힌 관리자에게만 간다
+        self.assertEqual(live["admin_recipients"], ["a@example.com", "b@example.com"])
         # 시크릿이 갖춰지면 별도 설정 없이도 메일 발송이 켜진다
         self.assertTrue(live["email"]["enabled"])
         # 원본 설정은 그대로 (파일에 비밀 정보가 다시 저장되지 않도록)
         self.assertEqual(cfg["email"]["smtp_host"], "old.example")
+
+    def test_admin_falls_back_to_page_recipients(self):
+        """시크릿이 없으면 설정 화면 수신처가 관리자 역할까지 한다."""
+        live = config_mod.effective(config_mod.normalize({"recipients": ["me@example.com"]}))
+        self.assertEqual(live["recipients"], ["me@example.com"])
+        self.assertEqual(live["admin_recipients"], ["me@example.com"])
+
+    def test_admin_addresses_are_never_saved(self):
+        """시크릿에서 온 주소가 config.json 에 남으면 안 된다 (공개 저장소)."""
+        os.environ["JOBMON_RECIPIENTS"] = "admin@example.com"
+        path = os.path.join(tempfile.mkdtemp(), "config.json")
+        live = config_mod.effective(config_mod.normalize({"recipients": ["team@example.com"]}))
+        config_mod.save(path, live)
+        with open(path, encoding="utf-8") as fh:
+            saved = json.load(fh)
+        self.assertNotIn("admin_recipients", saved)
+        self.assertIn("admin@example.com", live["recipients"])   # 보낼 때는 쓰인다
 
     def test_env_summary_hides_values(self):
         os.environ["JOBMON_SMTP_PASSWORD"] = "비밀"
@@ -845,7 +939,7 @@ class HealthAlertTest(unittest.TestCase):
         alerts = [{"site_id": "a", "site_name": "A", "site_url": "https://a.example",
                    "site_link": "https://a.example", "kind": "no_items",
                    "label": "목록을 하나도 읽지 못했습니다", "detail": "평소 40건", "recovered": False}]
-        subject, text, html = notify_mod.render(results, alerts=alerts)
+        subject, text, html = notify_mod.render_alerts(alerts, results)
         self.assertIn("점검 필요", subject)
         self.assertIn("목록을 하나도 읽지 못했습니다", text)
         self.assertIn("평소 40건", html)

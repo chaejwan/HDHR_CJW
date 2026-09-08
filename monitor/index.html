@@ -79,12 +79,16 @@
         <span>새 공고를 이메일로 받기</span>
       </label>
       <label class="field">
-        <span>수신 이메일 (여러 개는 쉼표로 구분)</span>
+        <span>수신 이메일 — 새 공고를 받아 볼 사람 (여러 개는 쉼표로 구분)</span>
         <input id="recipientsInput" type="text" placeholder="hong@example.com, kim@example.com" />
       </label>
       <p class="hint" id="recipientsHint">
-        이 저장소가 공개(public)라면 여기 적은 주소도 공개됩니다. 주소를 감추고 싶으면 이 칸을 비우고
-        저장소 <b>Secrets</b> 에 <code>JOBMON_RECIPIENTS</code> 로 넣으세요 (설정보다 우선합니다).
+        <b>새 공고</b>는 여기 적은 주소와 관리자에게 함께 갑니다.
+        <b>사이트 점검 안내</b>(감시가 망가진 정황, 접속 실패)는 여기 적은 사람에게 가지 않고,
+        저장소 시크릿 <code>JOBMON_RECIPIENTS</code> 에 적힌 <b>관리자에게만</b> 갑니다.
+        (시크릿이 비어 있으면 이 칸의 주소가 관리자 역할까지 합니다.)
+        <br />이 저장소가 공개(public)라면 여기 적은 주소도 공개됩니다.
+        감추고 싶은 주소는 이 칸 대신 <code>JOBMON_RECIPIENTS</code> 시크릿에 넣으세요.
       </p>
 
       <details class="more">
