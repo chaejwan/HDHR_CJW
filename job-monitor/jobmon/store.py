@@ -99,12 +99,18 @@ def remember(entry: dict, items: list, at: str) -> None:
 
 
 def recent_item_counts(entry: dict, limit: int = 10) -> list:
-    """최근 성공한 확인들의 항목 수 (지금 것은 아직 기록 전이므로 포함되지 않는다)."""
+    """최근 성공한 확인들의 항목 수 (지금 것은 아직 기록 전이므로 포함되지 않는다).
+
+    기준을 잡은 확인(baseline)보다 앞선 숫자는 쓰지 않는다. 30건짜리 메뉴를 읽다가
+    14건짜리 진짜 공고를 읽게 된 것을 '급감' 으로 오해하지 않기 위해서다.
+    (history 는 최신 것이 앞에 온다)
+    """
     counts = []
     for record in entry.get("history") or []:
-        if record.get("status") == "error":
-            continue
-        counts.append(int(record.get("item_count") or 0))
+        if record.get("status") != "error":
+            counts.append(int(record.get("item_count") or 0))
+        if record.get("status") == "baseline" or record.get("reset"):
+            break                      # 여기서부터 이전은 다른 방식으로 센 숫자다
         if len(counts) >= limit:
             break
     return counts
@@ -112,7 +118,8 @@ def recent_item_counts(entry: dict, limit: int = 10) -> list:
 
 def record_check(entry: dict, *, at: str, status: str, new_items: list = None,
                  error: str = "", method: str = "", item_count: int = 0,
-                 fingerprint: str = "", note: str = "", sample_titles: list = None) -> None:
+                 fingerprint: str = "", note: str = "", sample_titles: list = None,
+                 reset: bool = False) -> None:
     new_items = new_items or []
     if status == "error":
         entry["consecutive_errors"] = int(entry.get("consecutive_errors") or 0) + 1
@@ -136,6 +143,7 @@ def record_check(entry: dict, *, at: str, status: str, new_items: list = None,
     history.insert(0, {
         "at": at,
         "status": status,
+        "reset": reset,
         "new_count": len(new_items),
         "item_count": item_count,
         "error": error,
