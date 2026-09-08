@@ -500,17 +500,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714",
      "date": "2026.09.20 23:59",
      "first_seen": "2026-09-08T06:59:59+00:00"
+    },
+    "1a56588d47b9068e": {
+     "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19725",
+     "date": "2026.09.28 23:59",
+     "first_seen": "2026-09-08T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-08T14:30:33+00:00",
-   "last_success": "2026-09-08T14:30:33+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T15:00:41+00:00",
+   "last_success": "2026-09-08T15:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "a5c53ed0c031a06f",
+   "item_count": 82,
+   "fingerprint": "5653203e4abd7a11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19725",
+       "date": "2026.09.28 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-08T14:30:33+00:00",
      "status": "ok",
@@ -815,7 +837,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-08T06:59:59+00:00"
+   "last_new_at": "2026-09-08T15:00:41+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1082,17 +1104,111 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/232453",
      "date": "",
      "first_seen": "2026-09-08T04:08:29+00:00"
+    },
+    "e17f1cb7f2d94cb6": {
+     "title": "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-19",
+     "url": "https://recruit-hanwhaocean.com/ko/o/234988",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "3013a9457b58428d": {
+     "title": "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "ac70404d059fc20c": {
+     "title": "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200596",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "17caf68495ec23b2": {
+     "title": "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200604",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "e6be52e80fd05aec": {
+     "title": "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/207059",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "21db82d2aa92ae2e": {
+     "title": "[제품전략기술원] 플랜트설계(공정개발) 경력사원 채용경력제품전략기술원설계배관설계외경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/214146",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "eabffaa64edb7ce2": {
+     "title": "[경영지원] 국내법무팀장 채용경력경영지원경영지원국내법무경력 10년 이상정규직서울2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/217485",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "3af73de9ca478d9b": {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용경력특수선사업부경영지원외구매외경력 5년 이상외정규직거제외2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/219887",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "d3c78bf32cfec961": {
+     "title": "[경영지원] 노사관리/운영 경력사원 채용경력경영지원경영지원노사관리/개별 근로관계법 운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/220500",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "cef3a519cd64250d": {
+     "title": "[제조총괄] 안전팀 경력사원(계약직) 채용경력제조총괄생산/품질/HSE/공무안전/환경/보건경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/227363",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "b386789ac2720f89": {
+     "title": "[재무실] 자금집행/관리 경력사원 채용 (육아휴직 대체, 계약직)경력경영지원경영지원재무/회계경력 1년 이상계약직서울2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/228068",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "856f8ff444801258": {
+     "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용경력경영지원경영지원해외인력지원경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/231099",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "0c3bd00647e33334": {
+     "title": "[경영지원] 총무구매지원(계약직) 채용경력경영지원경영지원구매경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232450",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
+    },
+    "75218655ae88e777": {
+     "title": "[제조총괄] 사내 간호사(계약직) 채용경력제조총괄생산/품질/HSE/공무HSE경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-113",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232453",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-08T14:30:34+00:00",
-   "last_success": "2026-09-08T14:30:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T15:00:43+00:00",
+   "last_success": "2026-09-08T15:00:43+00:00",
+   "last_status": "baseline",
    "last_error": "",
    "last_method": "links",
    "item_count": 14,
-   "fingerprint": "e639239f6ae2bb0b",
+   "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:00:43+00:00",
+     "status": "baseline",
+     "reset": true,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 44건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-08T14:30:34+00:00",
      "status": "ok",
@@ -1298,19 +1414,19 @@
      "new": []
     }
    ],
-   "last_note": "22개 중 필터를 통과한 14개를 사용합니다.",
+   "last_note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 44건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-20",
-    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-114",
-    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-114",
-    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-114",
-    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-114"
+    "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-19",
+    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-113",
+    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-113",
+    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-113",
+    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-113"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-08T15:00:43+00:00"
    }
   },
   "sk-sk-careers": {
@@ -2016,17 +2132,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261933",
      "date": "",
      "first_seen": "2026-09-08T11:00:51+00:00"
+    },
+    "450dc84a3e13959e": {
+     "title": "SK플라즈마 안전관리 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261941",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:46+00:00"
+    },
+    "a3c94b059925ab9f": {
+     "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261942",
+     "date": "",
+     "first_seen": "2026-09-08T15:00:46+00:00"
     }
    },
-   "last_check": "2026-09-08T14:30:44+00:00",
-   "last_success": "2026-09-08T14:30:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-08T15:00:46+00:00",
+   "last_success": "2026-09-08T15:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 94,
-   "fingerprint": "5190ebd7f0d5b544",
+   "fingerprint": "b2ab3fbc093add4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 안전관리 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261941",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261942",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-08T14:30:44+00:00",
      "status": "ok",
@@ -2263,18 +2412,18 @@
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SK플라즈마 안동공장 혈액제제 충전 및 공정관리 신입(전환형 인턴) 모집",
-    "GEO & 브랜드 검색광고 담당자",
     "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
     "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
-    "SK플라즈마 KOICA IBS 사업 담당자 모집"
+    "SK플라즈마 KOICA IBS 사업 담당자 모집",
+    "윤리경영 담당(경력)",
+    "해외법무 담당(경력)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-08T11:00:51+00:00"
+   "last_new_at": "2026-09-08T15:00:46+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -3581,15 +3730,25 @@
      "first_seen": "2026-09-08T07:00:06+00:00"
     }
    },
-   "last_check": "2026-09-08T14:30:45+00:00",
-   "last_success": "2026-09-08T14:30:45+00:00",
+   "last_check": "2026-09-08T15:00:47+00:00",
+   "last_success": "2026-09-08T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 151,
-   "fingerprint": "5b2a7ef3b5fdcbd5",
+   "fingerprint": "890df6adf305aef6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T14:30:45+00:00",
      "status": "ok",
@@ -4312,15 +4471,25 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T14:30:49+00:00",
-   "last_success": "2026-09-08T14:30:49+00:00",
+   "last_check": "2026-09-08T15:00:52+00:00",
+   "last_success": "2026-09-08T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 30,
-   "fingerprint": "66e40e355234c62b",
+   "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T14:30:49+00:00",
      "status": "ok",
