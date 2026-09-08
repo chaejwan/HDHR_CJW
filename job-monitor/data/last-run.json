@@ -1,45 +1,24 @@
 {
- "at": "2026-09-07T23:00:05+00:00",
+ "at": "2026-09-07T23:27:20+00:00",
  "checked": 5,
- "new_total": 4,
+ "new_total": 0,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
   "skipped": ""
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34168527443",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34170084138",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화 채용 (hanwhain)",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "status": "new",
+   "status": "ok",
    "item_count": 73,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화시스템 레이다연구소 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
-     "date": "2026.09.27 23:59"
-    },
-    {
-     "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
-     "date": "2026.09.27 23:59"
-    },
-    {
-     "title": "한화시스템 지상연구소 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
-     "date": "2026.09.27 23:59"
-    },
-    {
-     "title": "한화시스템 통신연구소 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
-     "date": "2026.09.27 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
