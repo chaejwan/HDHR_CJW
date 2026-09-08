@@ -356,7 +356,7 @@ def items_from_anchors(doc: ParsedDoc, base_url: str) -> list:
         if key in seen:
             continue
         seen.add(key)
-        items.append({"id": digest(url, title), "title": title, "url": url, "date": "", "raw_id": ""})
+        items.append({"id": digest(url, title), "title": title[:160], "url": url, "date": "", "raw_id": ""})
     return items
 
 
@@ -483,8 +483,24 @@ def extract(site: dict, fetched) -> ExtractResult:
     return _finish(ExtractResult(items=items, method=method, fingerprint=fingerprint, note=note), site)
 
 
+def _stabilize_ids(items: list) -> None:
+    """주소가 항목마다 다르면 주소만으로 식별한다.
+
+    링크에서 읽은 제목에는 남은 일수(D-114)나 조회수처럼 매일 바뀌는 값이
+    섞여 들어오는 일이 잦다. 그대로 두면 같은 공고가 매일 새 공고로 보인다.
+    """
+    urls = [canonical_url(item.get("url") or "") for item in items]
+    distinct = {url for url in urls if url and urlparse(url).path not in ("", "/")}
+    if len(distinct) != len([u for u in urls if u]):
+        return                      # 주소가 겹치는 항목이 있으면 제목도 함께 본다
+    for item, url in zip(items, urls):
+        if not item.get("raw_id") and url and urlparse(url).path not in ("", "/"):
+            item["id"] = digest(url)
+
+
 def _finish(result: ExtractResult, site: dict) -> ExtractResult:
-    """필터 적용 · 중복 제거 · 최대 개수 제한."""
+    """식별자 안정화 · 필터 적용 · 중복 제거 · 최대 개수 제한."""
+    _stabilize_ids(result.items)
     items, note = result.items, result.note
     if items:
         before = len(items)

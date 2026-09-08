@@ -729,3 +729,30 @@ class SiteLinkTest(unittest.TestCase):
         _subject, text, html = notify_mod.render(results)
         self.assertIn("https://www.example.com/jobs", text)
         self.assertNotIn("api.example.com", html)
+
+
+class StableIdentityTest(unittest.TestCase):
+    """제목에 매일 바뀌는 값이 섞여도 같은 공고로 인식해야 한다."""
+
+    def _items(self, html, site=None):
+        site = site or config_mod.normalize({"sites": [{"name": "A", "url": "https://a.example/list"}]})["sites"][0]
+        return extract_mod.extract(site, fake(html, url="https://a.example/list")).items
+
+    def test_same_posting_with_changing_dday(self):
+        today = self._items('<a href="/o/1">간호사 채용 · 마감 D-114</a><a href="/o/2">설계 엔지니어 · D-3</a>')
+        tomorrow = self._items('<a href="/o/1">간호사 채용 · 마감 D-113</a><a href="/o/2">설계 엔지니어 · D-2</a>')
+        self.assertEqual([i["id"] for i in today], [i["id"] for i in tomorrow])
+
+    def test_title_still_counts_when_urls_repeat(self):
+        # 상세 주소가 없어 모두 같은 주소를 가리키면 제목으로 구분해야 한다
+        items = self._items('<a href="/list">공고 A</a><a href="/list">공고 B</a>')
+        self.assertEqual(len({i["id"] for i in items}), 2)
+
+    def test_new_posting_is_still_detected(self):
+        today = self._items('<a href="/o/1">간호사 채용 D-114</a>')
+        tomorrow = self._items('<a href="/o/1">간호사 채용 D-113</a><a href="/o/9">신규 공고 D-30</a>')
+        self.assertEqual(len(set(i["id"] for i in tomorrow) - set(i["id"] for i in today)), 1)
+
+    def test_long_card_text_is_trimmed(self):
+        items = self._items('<a href="/o/1">' + ("가" * 400) + "</a>")
+        self.assertLessEqual(len(items[0]["title"]), 160)
