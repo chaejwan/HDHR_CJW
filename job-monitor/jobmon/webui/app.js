@@ -217,7 +217,7 @@ function renderSites() {
       });
     };
 
-    ['enabled', 'name', 'url', 'mode', 'interval_hours', 'max_items',
+    ['enabled', 'name', 'url', 'home_url', 'mode', 'interval_hours', 'max_items',
       'url_pattern', 'title_pattern', 'exclude_pattern', 'note',
       'json.items_path', 'json.title_field', 'json.id_field', 'json.url_template',
       'json.date_field', 'method', 'body',
@@ -477,7 +477,7 @@ el.saveBtn.addEventListener('click', async () => {
 
 el.addSiteBtn.addEventListener('click', () => {
   cfg.sites.push({
-    id: '', name: '', url: '', enabled: true, mode: 'auto', interval_hours: null,
+    id: '', name: '', url: '', home_url: '', enabled: true, mode: 'auto', interval_hours: null,
     url_pattern: '', title_pattern: '', exclude_pattern: '', max_items: 300,
     method: 'GET', body: '', headers: {},
     json: { items_path: '', id_field: '', title_field: '', url_field: '', url_template: '', date_field: '' },

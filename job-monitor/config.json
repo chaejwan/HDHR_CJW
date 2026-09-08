@@ -40,13 +40,14 @@
         "url_field": "",
         "url_template": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq={rtSeq}",
         "date_field": "rtAcptEndDttm"
-      }
+      },
+      "home_url": "https://www.hanwhain.com/portal/apply/recruit"
     },
     {
       "id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-      "name": "한화오션 채용",
+      "name": "한화오션 채용 (설정 필요)",
       "url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-      "enabled": true,
+      "enabled": false,
       "mode": "auto",
       "interval_hours": null,
       "url_pattern": "",
@@ -64,38 +65,44 @@
         "url_template": "",
         "date_field": ""
       },
-      "note": ""
+      "note": "지금 주소는 소개 페이지라 공고가 아니라 메뉴(회사 소개·FAQ 등)만 잡혀서 꺼 두었습니다. 공고 목록이 실제로 보이는 페이지 주소로 바꾸면 됩니다. 이 사이트는 greetinghr(워크스페이스 12062) 채용 플랫폼을 씁니다.",
+      "home_url": "https://recruit-hanwhaocean.com/ko/intro"
     },
     {
       "id": "sk-sk-careers",
       "name": "SK 채용 (SK Careers)",
-      "url": "https://www.skcareers.com/Recruit",
+      "url": "https://www.skcareers.com/Recruit/GetRecruitList",
       "enabled": true,
-      "mode": "auto",
+      "mode": "json",
       "interval_hours": null,
       "url_pattern": "",
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
-      "method": "GET",
-      "body": "",
-      "headers": {},
+      "method": "POST",
+      "body": "sort=2&searchText=&corpCode=&jobRole=0&recruitType=&workingType=&workingRegion=",
+      "headers": {
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://www.skcareers.com/Recruit"
+      },
       "json": {
-        "items_path": "",
-        "id_field": "",
-        "title_field": "",
+        "items_path": "list",
+        "id_field": "noticeID",
+        "title_field": "title",
         "url_field": "",
-        "url_template": "",
+        "url_template": "https://www.skcareers.com/Recruit/Detail/{noticeID}",
         "date_field": ""
       },
-      "note": ""
+      "note": "화면이 호출하는 공고 목록 API. 상세는 noticeID 로 연결됩니다.",
+      "home_url": "https://www.skcareers.com/Recruit"
     },
     {
       "id": "talent-hyundai-com-apply-applylist-hc-nf",
       "name": "현대자동차 채용",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?nfGubnC=ac85892205b92e8cecdc87185a3fbf039f04b2a7751ccf0e8a1f547d53b9945a&tagArray=&sortDataTagArray=&areaDataTagArray=&fieldDataTagArray=&occupDataTagArray=&intnsvYn=",
+      "url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page=1&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
       "enabled": true,
-      "mode": "auto",
+      "mode": "json",
       "interval_hours": null,
       "url_pattern": "",
       "title_pattern": "",
@@ -103,22 +110,25 @@
       "max_items": 300,
       "method": "GET",
       "body": "",
-      "headers": {},
+      "headers": {
+        "Referer": "https://talent.hyundai.com/apply/applyList.hc"
+      },
       "json": {
-        "items_path": "",
+        "items_path": "data.list",
         "id_field": "",
         "title_field": "",
         "url_field": "",
         "url_template": "",
         "date_field": ""
       },
-      "note": ""
+      "note": "화면이 호출하는 공고 목록 API (한 번에 100건).",
+      "home_url": "https://talent.hyundai.com/apply/applyList.hc"
     },
     {
       "id": "samsungcareers-com-hr",
-      "name": "삼성 채용",
+      "name": "삼성 채용 (설정 필요)",
       "url": "https://www.samsungcareers.com/hr/",
-      "enabled": true,
+      "enabled": false,
       "mode": "auto",
       "interval_hours": null,
       "url_pattern": "",
@@ -136,7 +146,8 @@
         "url_template": "",
         "date_field": ""
       },
-      "note": ""
+      "note": "지금 주소에서는 공고가 아니라 메뉴(관계사 소개 등)만 잡혀서 꺼 두었습니다. 공고 목록이 실제로 보이는 페이지 주소로 바꾸면 됩니다.",
+      "home_url": "https://www.samsungcareers.com/hr/"
     }
   ]
 }

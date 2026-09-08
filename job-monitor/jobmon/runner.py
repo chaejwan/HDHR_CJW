@@ -138,6 +138,11 @@ class Monitor:
             return result
 
         extracted = extract_mod.extract(site, fetched)
+        link = result.get("site_link") or site["url"]
+        for item in extracted.items:
+            # 항목에 상세 주소가 없으면 API 주소 대신 사람이 볼 주소로 연결한다
+            if not item.get("url") or item["url"] == fetched.url:
+                item["url"] = link
         result["method"] = extracted.method
         result["note"] = extracted.note
         result["item_count"] = len(extracted.items)

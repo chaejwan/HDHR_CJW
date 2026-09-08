@@ -8,8 +8,11 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "진단할 주소 (예: https://www.example.com/careers)"
-        required: true
+        description: "진단할 주소 (예: https://www.example.com/careers). site_id 를 쓰면 비워 두세요."
+        required: false
+      site_id:
+        description: "설정에 등록된 사이트 id — 그 설정 그대로(POST 본문·필드 매핑 포함) 점검합니다"
+        required: false
       browser:
         description: "브라우저로 렌더링해서 확인 (자바스크립트로 목록을 그리는 사이트)"
         type: boolean
@@ -35,13 +38,18 @@ jobs:
           python-version: "3.12"
 
       - name: 브라우저 설치
-        if: inputs.browser
+        if: ${{ inputs.browser && !inputs.site_id }}
         run: |
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
 
       - name: 진단
         run: |
-          python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
-            ${{ inputs.browser && '--browser' || ' ' }} \
-            ${{ (inputs.browser && inputs.network) && '--network' || ' ' }}
+          if [ -n "${{ inputs.site_id }}" ]; then
+            python3 job-monitor/tools/pick_site.py job-monitor/config.json "${{ inputs.site_id }}" /tmp/site.json
+            python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
+          else
+            python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
+              ${{ inputs.browser && '--browser' || ' ' }} \
+              ${{ (inputs.browser && inputs.network) && '--network' || ' ' }}
+          fi

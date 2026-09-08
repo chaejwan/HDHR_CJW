@@ -629,3 +629,103 @@ class RetryTest(unittest.TestCase):
         with self.assertRaises(fetch_mod.FetchError):
             fetch_mod.fetch("https://example.com")
         self.assertEqual(calls["n"], 1)
+
+
+class HealthAlertTest(unittest.TestCase):
+    """사이트가 조용히 망가졌을 때 점검 알림이 나가는지."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.path = os.path.join(self.tmp.name, "config.json")
+        config_mod.save(self.path, {"sites": [{"id": "a", "name": "A", "url": "https://a.example"}]})
+        self.monitor = Monitor(self.path)
+        self.cfg = self.monitor.load_config()
+        self.site = self.cfg["sites"][0]
+        self.state = store_mod.empty_state()
+        self.entry = store_mod.site_state(self.state, "a")
+
+    def _record(self, count, method="links", status="ok"):
+        """확인 한 번을 흉내 내고 (알림, ) 을 돌려준다."""
+        at = store_mod.now_iso()
+        before = {"method": self.entry.get("last_method") or "",
+                  "counts": store_mod.recent_item_counts(self.entry)}
+        result = {"site_id": "a", "site_name": "A", "site_url": "https://a.example",
+                  "site_link": "https://a.example", "status": status, "new_items": [],
+                  "item_count": count, "method": method, "note": "", "error": "실패" if status == "error" else ""}
+        store_mod.record_check(self.entry, at=at, status=status, method=method,
+                               item_count=count, error=result["error"])
+        self.entry["baseline_done"] = True
+        return self.monitor.update_health(self.cfg, self.site, self.entry, result, at, before)
+
+    def test_item_count_collapse_alerts_once_and_recovers(self):
+        for _ in range(4):
+            self.assertIsNone(self._record(40))
+        alert = self._record(0)                      # 갑자기 하나도 못 읽음
+        self.assertIsNotNone(alert)
+        self.assertEqual(alert["kind"], "no_items")
+        self.assertFalse(alert["recovered"])
+        self.assertIsNone(self._record(0))           # 같은 문제로 또 보내지 않는다
+        recovered = self._record(40)                 # 정상으로 돌아오면 복구 알림
+        self.assertIsNotNone(recovered)
+        self.assertTrue(recovered["recovered"])
+
+    def test_big_drop_alerts(self):
+        for _ in range(4):
+            self._record(40)
+        alert = self._record(10)
+        self.assertEqual(alert["kind"], "drop")
+        self.assertIn("40", alert["detail"])
+
+    def test_method_change_alerts(self):
+        for _ in range(3):
+            self._record(30, method="json")
+        alert = self._record(30, method="links")
+        self.assertEqual(alert["kind"], "method_changed")
+
+    def test_consecutive_errors_alert(self):
+        self._record(30)
+        self.assertIsNone(self._record(0, status="error"))
+        self.assertIsNone(self._record(0, status="error"))
+        alert = self._record(0, status="error")      # 기본값 3회째
+        self.assertEqual(alert["kind"], "errors")
+
+    def test_fingerprint_alerts_immediately(self):
+        alert = self._record(0, method="fingerprint")
+        self.assertEqual(alert["kind"], "fingerprint")
+
+    def test_alerts_can_be_turned_off(self):
+        self.cfg["alerts"]["enabled"] = False
+        for _ in range(4):
+            self._record(40)
+        self.assertIsNone(self._record(0))
+
+    def test_alert_is_mailed_even_without_new_postings(self):
+        results = [{"site_name": "A", "site_url": "https://a.example", "site_link": "https://a.example",
+                    "status": "ok", "new_items": []}]
+        alerts = [{"site_id": "a", "site_name": "A", "site_url": "https://a.example",
+                   "site_link": "https://a.example", "kind": "no_items",
+                   "label": "목록을 하나도 읽지 못했습니다", "detail": "평소 40건", "recovered": False}]
+        subject, text, html = notify_mod.render(results, alerts=alerts)
+        self.assertIn("점검 필요", subject)
+        self.assertIn("목록을 하나도 읽지 못했습니다", text)
+        self.assertIn("평소 40건", html)
+
+
+class SiteLinkTest(unittest.TestCase):
+    """API 주소를 감시할 때 메일 링크는 사람이 볼 주소로 나가야 한다."""
+
+    def test_site_link_prefers_home_url(self):
+        cfg = config_mod.normalize({"sites": [{
+            "name": "A", "url": "https://api.example.com/list", "home_url": "www.example.com/jobs",
+        }]})
+        site = cfg["sites"][0]
+        self.assertEqual(config_mod.site_link(site), "https://www.example.com/jobs")
+
+    def test_mail_uses_site_link(self):
+        results = [{"site_name": "A", "site_url": "https://api.example.com/list",
+                    "site_link": "https://www.example.com/jobs", "status": "new",
+                    "new_items": [{"title": "공고", "url": "", "date": ""}]}]
+        _subject, text, html = notify_mod.render(results)
+        self.assertIn("https://www.example.com/jobs", text)
+        self.assertNotIn("api.example.com", html)
