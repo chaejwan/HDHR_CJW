@@ -508,15 +508,25 @@
      "first_seen": "2026-09-08T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-08T22:00:39+00:00",
+   "last_check": "2026-09-08T22:30:29+00:00",
    "last_success": "2026-09-08T22:00:39+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 82,
    "fingerprint": "5653203e4abd7a11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T22:30:29+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T22:00:39+00:00",
      "status": "ok",
@@ -812,66 +822,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T06:59:59+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 9,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19722",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19721",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "AX 전략기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19720",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "VLM Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19719",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "금융프로젝트 PM(프로젝트매니저) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19718",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "SWA 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19717",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "ERP 컨설턴트 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19716",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "금융프로젝트 시스템 개발 경력사원 채용 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19715",
-       "date": "2026.09.20 23:59"
-      },
-      {
-       "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714",
-       "date": "2026.09.20 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
     "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
@@ -1237,8 +1191,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-08T22:00:40+00:00",
-   "last_success": "2026-09-08T22:00:40+00:00",
+   "last_check": "2026-09-08T22:32:56+00:00",
+   "last_success": "2026-09-08T22:32:56+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1246,6 +1200,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T22:32:56+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-08T22:00:40+00:00",
      "status": "ok",
@@ -1528,16 +1492,6 @@
     },
     {
      "at": "2026-09-08T08:35:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T07:00:01+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2279,8 +2233,8 @@
      "first_seen": "2026-09-08T15:00:46+00:00"
     }
    },
-   "last_check": "2026-09-08T22:00:44+00:00",
-   "last_success": "2026-09-08T22:00:44+00:00",
+   "last_check": "2026-09-08T22:33:03+00:00",
+   "last_success": "2026-09-08T22:33:03+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2288,6 +2242,16 @@
    "fingerprint": "b2ab3fbc093add4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T22:33:03+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T22:00:44+00:00",
      "status": "ok",
@@ -2616,16 +2580,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-08T07:00:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3949,8 +3903,8 @@
      "first_seen": "2026-09-08T07:00:06+00:00"
     }
    },
-   "last_check": "2026-09-08T22:00:45+00:00",
-   "last_success": "2026-09-08T22:00:45+00:00",
+   "last_check": "2026-09-08T22:33:04+00:00",
+   "last_success": "2026-09-08T22:33:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -3958,6 +3912,16 @@
    "fingerprint": "1ee07d96de6ec952",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T22:33:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T22:00:45+00:00",
      "status": "ok",
@@ -4247,22 +4211,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T07:00:06+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아르바이트] 채용 지원 (양재/강남)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2023&recuType=N4&recuCls=23",
-       "date": "20260918"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -4776,8 +4724,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-08T22:00:48+00:00",
-   "last_success": "2026-09-08T22:00:48+00:00",
+   "last_check": "2026-09-08T22:33:09+00:00",
+   "last_success": "2026-09-08T22:33:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4785,6 +4733,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-08T22:33:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-08T22:00:48+00:00",
      "status": "ok",
@@ -5067,16 +5025,6 @@
     },
     {
      "at": "2026-09-08T08:35:57+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T07:00:10+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
