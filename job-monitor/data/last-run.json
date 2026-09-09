@@ -1,26 +1,32 @@
 {
- "at": "2026-09-09T04:33:16+00:00",
+ "at": "2026-09-09T05:00:50+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 4,
  "email": {
   "sent": true,
   "error": "",
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34311224462",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34313156152",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화 채용 (hanwhain)",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 82,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화라이프랩] 2026년 신입사원 공개채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19664",
+     "date": "2026.09.27 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -39,30 +45,40 @@
    "site_name": "SK 채용 (SK Careers)",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "ER 담당 노무사 경력직(정규직) 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261947",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차 채용",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 151,
+   "status": "new",
+   "item_count": 154,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "배터리 품질기술 개발 (셀)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=75",
+     "date": "20260902"
+    },
+    {
+     "title": "배터리 제조운영 (전극)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=82",
+     "date": "20260902"
+    },
+    {
+     "title": "배터리 공정기술 (전극)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=79",
+     "date": "20260812"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",

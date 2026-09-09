@@ -506,17 +506,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19725",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-08T15:00:41+00:00"
+    },
+    "3539fc6b990ab3f0": {
+     "title": "[한화라이프랩] 2026년 신입사원 공개채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19664",
+     "date": "2026.09.27 23:59",
+     "first_seen": "2026-09-09T05:00:35+00:00"
     }
    },
-   "last_check": "2026-09-09T04:30:27+00:00",
-   "last_success": "2026-09-09T04:00:37+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-09T05:00:35+00:00",
+   "last_success": "2026-09-09T05:00:35+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "fdf0c893a1117d36",
+   "item_count": 82,
+   "fingerprint": "93fa7244df922bdf",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화라이프랩] 2026년 신입사원 공개채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19664",
+       "date": "2026.09.27 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T04:30:27+00:00",
      "status": "error",
@@ -806,26 +828,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T15:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19725",
-       "date": "2026.09.28 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
     "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
@@ -838,7 +844,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-08T15:00:41+00:00"
+   "last_new_at": "2026-09-09T05:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1191,8 +1197,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-09T04:32:55+00:00",
-   "last_success": "2026-09-09T04:32:55+00:00",
+   "last_check": "2026-09-09T05:00:36+00:00",
+   "last_success": "2026-09-09T05:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1200,6 +1206,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T04:32:55+00:00",
      "status": "ok",
@@ -1488,16 +1504,6 @@
      "item_count": 14,
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 44건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T14:30:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
      "new": []
     }
    ],
@@ -2269,15 +2275,25 @@
      "first_seen": "2026-09-09T04:33:06+00:00"
     }
    },
-   "last_check": "2026-09-09T04:33:06+00:00",
-   "last_success": "2026-09-09T04:33:06+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-09T05:00:41+00:00",
+   "last_success": "2026-09-09T05:00:41+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 98,
    "fingerprint": "2d4e1a557f379591",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T04:33:06+00:00",
      "status": "new",
@@ -2614,16 +2630,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-08T14:30:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3945,17 +3951,61 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2023&recuType=N4&recuCls=23",
      "date": "20260918",
      "first_seen": "2026-09-08T07:00:06+00:00"
+    },
+    "30a8dbf2e915c3ed": {
+     "title": "배터리 품질기술 개발 (셀)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=75",
+     "date": "20260902",
+     "first_seen": "2026-09-09T05:00:42+00:00"
+    },
+    "f2568f4e93c9d332": {
+     "title": "배터리 제조운영 (전극)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=82",
+     "date": "20260902",
+     "first_seen": "2026-09-09T05:00:42+00:00"
+    },
+    "325c8ef6e661a3b5": {
+     "title": "배터리 공정기술 (전극)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=79",
+     "date": "20260812",
+     "first_seen": "2026-09-09T05:00:42+00:00"
     }
    },
-   "last_check": "2026-09-09T04:33:08+00:00",
-   "last_success": "2026-09-09T04:33:08+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-09T05:00:42+00:00",
+   "last_success": "2026-09-09T05:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 151,
-   "fingerprint": "2352abe44e5a6dee",
+   "item_count": 154,
+   "fingerprint": "7d37be76c9f605c9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "배터리 품질기술 개발 (셀)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=75",
+       "date": "20260902"
+      },
+      {
+       "title": "배터리 제조운영 (전극)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=82",
+       "date": "20260902"
+      },
+      {
+       "title": "배터리 공정기술 (전극)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=79",
+       "date": "20260812"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T04:33:08+00:00",
      "status": "ok",
@@ -4245,16 +4295,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T14:30:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4271,7 +4311,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-08T07:00:06+00:00"
+   "last_new_at": "2026-09-09T05:00:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -4768,8 +4808,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T04:33:12+00:00",
-   "last_success": "2026-09-09T04:33:12+00:00",
+   "last_check": "2026-09-09T05:00:47+00:00",
+   "last_success": "2026-09-09T05:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4777,6 +4817,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T04:33:12+00:00",
      "status": "ok",
@@ -5059,16 +5109,6 @@
     },
     {
      "at": "2026-09-08T15:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T14:30:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
