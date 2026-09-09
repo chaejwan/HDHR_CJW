@@ -518,17 +518,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19728",
      "date": "2026.09.23 17:30",
      "first_seen": "2026-09-09T05:31:05+00:00"
+    },
+    "e33203807ab81d45": {
+     "title": "[한화생명] 급여·보상 사무직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
+     "date": "2026.09.21 15:00",
+     "first_seen": "2026-09-09T06:33:03+00:00"
     }
    },
-   "last_check": "2026-09-09T06:18:01+00:00",
-   "last_success": "2026-09-09T06:18:01+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-09T06:33:03+00:00",
+   "last_success": "2026-09-09T06:33:03+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 76,
-   "fingerprint": "93e9c1f0062b852f",
+   "item_count": 77,
+   "fingerprint": "b37bdec95a858ca1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:33:03+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화생명] 급여·보상 사무직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
+       "date": "2026.09.21 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T06:18:01+00:00",
      "status": "ok",
@@ -830,16 +852,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -856,7 +868,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T05:31:05+00:00"
+   "last_new_at": "2026-09-09T06:33:03+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1209,8 +1221,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-09T06:18:02+00:00",
-   "last_success": "2026-09-09T06:18:02+00:00",
+   "last_check": "2026-09-09T06:33:04+00:00",
+   "last_success": "2026-09-09T06:33:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1218,6 +1230,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:33:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:18:02+00:00",
      "status": "ok",
@@ -1500,16 +1522,6 @@
     },
     {
      "at": "2026-09-08T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T16:30:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2299,15 +2311,25 @@
      "first_seen": "2026-09-09T06:18:04+00:00"
     }
    },
-   "last_check": "2026-09-09T06:18:04+00:00",
-   "last_success": "2026-09-09T06:18:04+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-09T06:33:08+00:00",
+   "last_success": "2026-09-09T06:33:08+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
    "fingerprint": "6357d5ea86430bc8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:33:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:18:04+00:00",
      "status": "new",
@@ -2637,16 +2659,6 @@
     },
     {
      "at": "2026-09-08T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T16:30:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4007,15 +4019,25 @@
      "first_seen": "2026-09-09T06:18:05+00:00"
     }
    },
-   "last_check": "2026-09-09T06:18:05+00:00",
-   "last_success": "2026-09-09T06:18:05+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-09T06:33:09+00:00",
+   "last_success": "2026-09-09T06:33:09+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 156,
-   "fingerprint": "6f381d43d27418bd",
+   "fingerprint": "6975a66ba1eef60b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:33:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:18:05+00:00",
      "status": "new",
@@ -4326,16 +4348,6 @@
     },
     {
      "at": "2026-09-08T17:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T16:30:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4856,8 +4868,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T06:18:08+00:00",
-   "last_success": "2026-09-09T06:18:08+00:00",
+   "last_check": "2026-09-09T06:33:13+00:00",
+   "last_success": "2026-09-09T06:33:13+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4865,6 +4877,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:33:13+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:18:08+00:00",
      "status": "ok",
@@ -5154,16 +5176,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T16:30:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5183,9 +5195,19 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 급여·보상 사무직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
+    "date": "2026.09.21 15:00",
+    "found_at": "2026-09-09T06:33:16+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-09T06:33:16+00:00",
   "last_sent": "2026-09-09T06:18:14+00:00"
  }
 }
