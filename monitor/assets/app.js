@@ -477,17 +477,11 @@ function historyRows() {
   return rows;
 }
 
-function dayLabel(iso) {
+function fmtFound(iso) {
   const date = new Date(iso);
-  if (isNaN(date)) return '날짜 미상';
-  const today = new Date();
-  const same = (a, b) => a.toDateString() === b.toDateString();
-  const yesterday = new Date(today.getTime() - 86400000);
-  const stamp = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
-  if (same(date, today)) return `오늘 (${stamp})`;
-  if (same(date, yesterday)) return `어제 (${stamp})`;
-  const days = ['일', '월', '화', '수', '목', '금', '토'];
-  return `${stamp} (${days[date.getDay()]})`;
+  if (isNaN(date)) return '';
+  const pad = (n) => String(n).padStart(2, '0');
+  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())} ${pad(date.getHours())}:${pad(date.getMinutes())}`;
 }
 
 function fmtDeadline(value) {
@@ -534,60 +528,23 @@ function renderFeed() {
     return;
   }
 
-  const shown = rows.slice(0, feedLimit);
-  let html = '';
-  let currentDay = '';
-  shown.forEach((row, index) => {
-    const day = dayLabel(row.found_at);
-    if (day !== currentDay) {
-      if (currentDay) html += '</div>';
-      html += `<h3 class="feedday">${escapeHtml(day)}</h3><div class="feedday__items">`;
-      currentDay = day;
-    }
+  const head = `<div class="post post--head">
+      <span>회사</span><span>제목</span><span>마감</span><span>발견</span>
+    </div>`;
+  const body = rows.slice(0, feedLimit).map((row) => {
     const url = row.url || row.site_link || '';
-    html += `
-      <article class="post">
-        <div class="post__main">
-          <a class="post__title" href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(row.title || '(제목 없음)')}</a>
-          <div class="post__meta">
-            <span class="post__site">${escapeHtml(row.site_name || '')}</span>
-            ${row.date ? `<span>마감·접수 ${escapeHtml(fmtDeadline(row.date))}</span>` : ''}
-            <span>발견 ${fmtTime(row.found_at)}</span>
-          </div>
-        </div>
-        <button class="btn btn--small post__copy" type="button" data-copy="${escapeHtml(url)}" data-index="${index}">링크복사</button>
-      </article>`;
-  });
-  html += '</div>';
-  el.feedList.innerHTML = html;
+    const deadline = fmtDeadline(row.date);
+    return `<div class="post">
+        <span class="post__site">${escapeHtml(row.site_name || '')}</span>
+        <a class="post__title" href="${escapeHtml(url)}" target="_blank" rel="noopener"
+           title="${escapeHtml(row.title || '')}">${escapeHtml(row.title || '(제목 없음)')}</a>
+        <span class="post__cell" title="${escapeHtml(deadline)}">${escapeHtml(deadline || '—')}</span>
+        <span class="post__cell">${escapeHtml(fmtFound(row.found_at))}</span>
+      </div>`;
+  }).join('');
+  el.feedList.innerHTML = head + body;
   el.feedMoreBtn.hidden = rows.length <= feedLimit;
   el.feedMoreBtn.textContent = `더 보기 (${rows.length - feedLimit}건 남음)`;
-}
-
-async function copyText(text, button) {
-  let ok = false;
-  try {
-    await navigator.clipboard.writeText(text);
-    ok = true;
-  } catch (err) {
-    // 권한이나 브라우저 사정으로 막히면 예전 방식으로 한 번 더 시도한다.
-    const area = document.createElement('textarea');
-    area.value = text;
-    area.setAttribute('readonly', '');
-    area.style.position = 'fixed';
-    area.style.opacity = '0';
-    document.body.appendChild(area);
-    area.select();
-    try { ok = document.execCommand('copy'); } catch (err2) { ok = false; }
-    document.body.removeChild(area);
-  }
-  if (button) {
-    const original = button.textContent;
-    button.textContent = ok ? '복사됨' : '복사 실패';
-    button.classList.toggle('btn--done', ok);
-    setTimeout(() => { button.textContent = original; button.classList.remove('btn--done'); }, 1500);
-  }
-  if (!ok) toast('복사하지 못했습니다. 주소를 길게 눌러 직접 복사해 주세요.', true);
 }
 
 function showTab(name) {
@@ -854,12 +811,6 @@ el.feedSites.addEventListener('click', (event) => {
   renderFeed();
 });
 el.feedMoreBtn.addEventListener('click', () => { feedLimit += 50; renderFeed(); });
-el.feedList.addEventListener('click', (event) => {
-  const button = event.target.closest('[data-copy]');
-  if (!button) return;
-  copyText(button.dataset.copy, button);
-});
-
 el.digestDays.addEventListener('click', (event) => {
   const chip = event.target.closest('.chip[data-day]');
   if (!chip || !cfg) return;

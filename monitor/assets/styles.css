@@ -45,7 +45,7 @@ body {
 .topbar__status { margin: 2px 0 0; color: var(--muted); font-size: 12.5px; }
 .topbar__actions { display: flex; gap: 8px; }
 
-.wrap { max-width: 940px; margin: 0 auto; padding: 20px 16px 60px; display: grid; gap: 16px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 20px 16px 60px; display: grid; gap: 16px; }
 
 .card {
   background: var(--panel);
@@ -200,7 +200,7 @@ input:focus, select:focus { outline: 2px solid rgba(47,111,235,.35); outline-off
 
 /* ------------------------------------------------ 탭 */
 .tabs {
-  display: flex; gap: 4px; max-width: 940px; margin: 0 auto; padding: 12px 16px 0;
+  display: flex; gap: 4px; max-width: 1180px; margin: 0 auto; padding: 12px 16px 0;
 }
 .tab {
   appearance: none; border: 1px solid transparent; border-bottom: none;
@@ -220,34 +220,40 @@ input:focus, select:focus { outline: 2px solid rgba(47,111,235,.35); outline-off
   flex: 1 1 260px; min-width: 200px; padding: 8px 10px; font: inherit;
   border: 1px solid var(--line); border-radius: 8px; background: #fff;
 }
-.feedlist { display: grid; gap: 6px; }
-.feedday {
-  margin: 16px 0 6px; font-size: 12.5px; font-weight: 700; color: var(--muted);
-  letter-spacing: .02em;
-}
-.feedday:first-child { margin-top: 0; }
-.feedday__items { display: grid; gap: 6px; }
+.feedlist { border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+
+/* 한 줄에 한 건 · 회사 / 제목 / 마감 / 발견 이 세로로 맞춰진다 */
 .post {
-  display: flex; align-items: flex-start; gap: 10px;
-  border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; background: #fcfcfd;
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr) 150px 150px;
+  gap: 12px; align-items: center;
+  padding: 9px 14px; border-top: 1px solid var(--line); background: var(--panel);
 }
-.post:hover { background: #f6f8fa; }
-.post__main { flex: 1; min-width: 0; }
+.post:first-child { border-top: none; }
+.post:not(.post--head):hover { background: #f6f8fa; }
+.post--head {
+  background: #f6f7f9; font-size: 12px; font-weight: 700; color: var(--muted);
+  letter-spacing: .02em; position: sticky; top: 0; z-index: 1;
+}
+.post__site { font-weight: 600; color: #3d4451; font-size: 13px; }
 .post__title {
-  display: block; color: var(--accent-dark); font-weight: 600; text-decoration: none;
-  line-height: 1.45; word-break: break-word;
+  color: var(--accent-dark); font-weight: 600; text-decoration: none;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .post__title:hover { text-decoration: underline; }
-.post__meta {
-  display: flex; flex-wrap: wrap; gap: 4px 10px; margin-top: 3px;
-  font-size: 12px; color: var(--muted);
+.post__cell {
+  font-size: 12.5px; color: var(--muted);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
-.post__site { font-weight: 600; color: #4b5563; }
-.post__copy { flex: 0 0 auto; white-space: nowrap; }
-.btn--done { background: #1a7f37; border-color: #1a7f37; color: #fff; }
 .feedmore { display: flex; justify-content: center; margin-top: 12px; }
 
-@media (max-width: 560px) {
-  .post { flex-direction: column; align-items: stretch; }
-  .post__copy { align-self: flex-start; }
+/* 좁은 화면에서는 제목 아래로 나머지를 접어 넣는다 */
+@media (max-width: 720px) {
+  .post { grid-template-columns: 1fr auto; row-gap: 2px; padding: 10px 12px; }
+  .post--head { display: none; }
+  .post__site { grid-row: 1; grid-column: 1; font-size: 12px; color: var(--muted); }
+  .post__title { grid-row: 2; grid-column: 1 / -1; white-space: normal; }
+  .post__cell { grid-row: 3; grid-column: 1 / -1; }
+  .post__cell + .post__cell { grid-row: 3; grid-column: 2; text-align: right; }
 }
+
