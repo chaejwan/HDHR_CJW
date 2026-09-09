@@ -1,5 +1,5 @@
 {
- "at": "2026-09-09T02:00:49+00:00",
+ "at": "2026-09-09T02:30:53+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
@@ -8,7 +8,7 @@
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34301467404",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34303477184",
  "results": [
   {
    "site_id": "hanwhain",
@@ -40,14 +40,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 96,
+   "item_count": 97,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "사내 편의시설 운영 지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261945",
+     "title": "제조 물류자동화(AMHS) 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261946",
      "date": ""
     }
    ]
