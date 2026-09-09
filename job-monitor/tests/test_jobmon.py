@@ -579,6 +579,30 @@ class MailRoutingTest(unittest.TestCase):
         self.assertEqual(len(admin_only), 1)
         self.assertEqual(admin_only[0][1], ["admin@example.com"])
 
+
+class WorkflowSecretsTest(unittest.TestCase):
+    """코드가 읽는 시크릿은 워크플로가 반드시 넘겨 주어야 한다.
+
+    실제로 JOBMON_POSTING_RECIPIENTS 를 코드에만 넣고 워크플로에 빠뜨려,
+    그 주소로 메일이 가지 않은 일이 있었다. 그 실수를 여기서 잡는다.
+    """
+
+    # 워크플로에 없어도 되는 것들 (평소에는 쓰지 않는 임시 조정용)
+    OPTIONAL = {"JOBMON_EMAIL_ENABLED"}
+
+    def test_every_secret_the_code_reads_is_passed_in(self):
+        root = os.path.dirname(BASE_DIR)      # 저장소 최상위
+        path = os.path.join(root, ".github", "workflows", "job-monitor.yml")
+        if not os.path.exists(path):
+            self.skipTest("워크플로 파일이 없는 곳에서 실행 중")
+        with open(path, encoding="utf-8") as fh:
+            workflow = fh.read()
+        for name in config_mod.env_summary():
+            if name in self.OPTIONAL:
+                continue
+            self.assertIn(f"{name}: ${{{{ secrets.{name} }}}}", workflow,
+                          f"{name} 을(를) 워크플로가 넘겨 주지 않습니다")
+
 if __name__ == "__main__":
     unittest.main()
 

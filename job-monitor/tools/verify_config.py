@@ -55,6 +55,13 @@ def main(argv) -> int:
     for site in sites:
         mark = "○" if site.get("enabled") else "×"
         print(f"  {mark} [{site['id']}] {site['name']} · {site['mode']} · {site['url']}")
+    # 수신처가 어디서 몇 명 잡히는지 (주소는 찍지 않는다). 시크릿을 워크플로에서
+    # 넘겨 주는 것을 빠뜨리면 여기 숫자가 0 으로 나와 바로 알아볼 수 있다.
+    live = config_mod.effective(cfg)
+    page = len(cfg.get("recipients") or [])
+    print(f"수신처 · 새 공고 {len(live.get('recipients') or [])}명"
+          f"(설정 화면 {page}명 + 시크릿 {len(live.get('recipients') or []) - page}명)"
+          f" · 점검 안내 {len(live.get('admin_recipients') or [])}명")
     for warning in config_mod.validate(cfg):
         print(f"  알림: {warning}")
     if not enabled:
