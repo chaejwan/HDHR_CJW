@@ -41,7 +41,8 @@ def _period(since: str) -> str:
     return f"{moment.strftime('%m월 %d일 %H:%M')} 이후 발견한 공고입니다."
 
 
-def render(results: list, subject_prefix: str = "[채용 알림]", since: str = ""):
+def render(results: list, subject_prefix: str = "[채용 알림]", since: str = "",
+           page_url: str = ""):
     """새 공고 알림 메일 (공고를 받아 볼 사람들에게 가는 메일).
 
     사이트 점검 안내나 접속 실패 같은 운영 이야기는 여기 넣지 않는다.
@@ -85,6 +86,14 @@ def render(results: list, subject_prefix: str = "[채용 알림]", since: str = 
         html_parts.append("</ul>")
         text_lines.append("")
 
+    if page_url:
+        text_lines.append("")
+        text_lines.append(f"지난 공고까지 모아 보기: {page_url}")
+        html_parts.append(
+            f"<p style='margin:24px 0 0'><a href='{html_mod.escape(page_url)}' "
+            "style='color:#0969da'>공고 이력 페이지에서 보기</a>"
+            " <span style='color:#656d76'>— 사내망에서 링크가 열리지 않을 때, "
+            "여기서 주소를 복사해 개인 브라우저에 붙여넣으세요.</span></p>")
     html_parts.append(FOOTER)
     return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
 

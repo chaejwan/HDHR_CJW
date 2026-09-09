@@ -690,6 +690,45 @@ class DigestTest(unittest.TestCase):
         self.monitor.run_check(notify=True)
         self.assertEqual(len(self.sent), 1)
 
+
+class ArchiveTest(unittest.TestCase):
+    """설정 화면 '공고 이력' 탭이 읽는 목록."""
+
+    def test_findings_are_kept_and_capped(self):
+        state = {"sites": {}}
+        results = [{"site_id": "s1", "site_name": "테스트", "site_link": "https://example.com/jobs",
+                    "new_items": [{"title": "공고 A", "url": "https://example.com/a", "date": "2026-09-30"}]}]
+        store_mod.hold(state, results, [], "2026-09-09T00:00:00+00:00")
+        log = store_mod.archive(state)
+        self.assertEqual(len(log), 1)
+        self.assertEqual(log[0]["title"], "공고 A")
+        self.assertEqual(log[0]["site_name"], "테스트")
+        self.assertEqual(log[0]["found_at"], "2026-09-09T00:00:00+00:00")
+
+        many = [{"site_id": "s1", "site_name": "테스트", "site_link": "u",
+                 "new_items": [{"title": f"공고 {i}", "url": f"u{i}", "date": ""}
+                               for i in range(store_mod.MAX_ARCHIVE + 20)]}]
+        store_mod.hold(state, many, [], "2026-09-09T01:00:00+00:00")
+        self.assertEqual(len(store_mod.archive(state)), store_mod.MAX_ARCHIVE)
+        self.assertEqual(store_mod.archive(state)[-1]["title"],
+                         f"공고 {store_mod.MAX_ARCHIVE + 19}")      # 최신이 남는다
+
+    def test_seed_from_old_history_runs_once(self):
+        state = {"sites": {"s1": {"history": [
+            {"at": "2026-09-08T00:00:00+00:00", "new": [{"title": "옛 공고", "url": "u", "date": ""}]},
+        ]}}}
+        store_mod.seed_archive(state, {"s1": "테스트"})
+        self.assertEqual([row["title"] for row in store_mod.archive(state)], ["옛 공고"])
+        store_mod.seed_archive(state, {"s1": "테스트"})              # 두 번 불러도 늘지 않는다
+        self.assertEqual(len(store_mod.archive(state)), 1)
+
+    def test_mail_links_to_the_history_page(self):
+        results = [{"site_name": "A", "site_url": "u", "site_link": "u", "status": "new",
+                    "new_items": [{"title": "공고", "url": "https://example.com/1", "date": ""}]}]
+        _subject, text, html = notify_mod.render(results, page_url="https://example.github.io/x/monitor/")
+        self.assertIn("https://example.github.io/x/monitor/", text)
+        self.assertIn("공고 이력 페이지에서 보기", html)
+
 if __name__ == "__main__":
     unittest.main()
 
