@@ -29,6 +29,10 @@ const DEFAULT_CONFIG = {
     subject_prefix: '[채용 알림]',
   },
   request: { timeout_sec: 20 },
+  digest: {
+    enabled: false, days: ['mon', 'tue', 'wed', 'thu', 'fri'], times: ['08:00'],
+    timezone: 'Asia/Seoul', utc_offset_hours: 9,
+  },
   sites: [],
 };
 
@@ -36,6 +40,7 @@ const $ = (sel) => document.querySelector(sel);
 const el = {};
 ['statusLine', 'saveBtn', 'runBtn', 'refreshBtn', 'addSiteBtn', 'siteList', 'notice', 'runBox',
   'intervalInput', 'firstRunInput', 'emailEnabled', 'recipientsInput', 'smtpHost', 'smtpPort',
+  'digestEnabled', 'digestDays', 'digestTimes', 'digestTz',
   'smtpSecurity', 'smtpUser', 'smtpFrom', 'subjectPrefix', 'tokenInput', 'tokenSaveBtn',
   'tokenClearBtn', 'tokenState', 'copyJsonBtn', 'editOnGithub', 'actionsLink', 'secretsLink',
   'feed', 'sourceLine', 'toast', 'modal', 'modalTitle', 'modalBody', 'siteTemplate',
@@ -247,6 +252,9 @@ function normalizeConfig(raw) {
   Object.assign(out, raw || {});
   out.email = Object.assign({}, DEFAULT_CONFIG.email, (raw && raw.email) || {});
   out.request = Object.assign({}, DEFAULT_CONFIG.request, (raw && raw.request) || {});
+  out.digest = Object.assign({}, DEFAULT_CONFIG.digest, (raw && raw.digest) || {});
+  if (!Array.isArray(out.digest.days)) out.digest.days = DEFAULT_CONFIG.digest.days.slice();
+  if (!Array.isArray(out.digest.times)) out.digest.times = DEFAULT_CONFIG.digest.times.slice();
   out.recipients = Array.isArray(out.recipients) ? out.recipients : [];
   const taken = new Set();
   out.sites = (out.sites || []).map((site) => {
@@ -278,6 +286,10 @@ function fillForm() {
   el.smtpUser.value = cfg.email.username || '';
   el.smtpFrom.value = cfg.email.from_addr || '';
   el.subjectPrefix.value = cfg.email.subject_prefix || '';
+  el.digestEnabled.checked = !!cfg.digest.enabled;
+  el.digestTimes.value = (cfg.digest.times || []).join(', ');
+  el.digestTz.value = cfg.digest.timezone || '';
+  renderDigestDays();
   document.querySelectorAll('.chip[data-interval]').forEach((chip) => {
     chip.setAttribute('aria-pressed', String(Number(chip.dataset.interval) === Number(cfg.check_interval_hours)));
   });
@@ -296,6 +308,12 @@ function collectConfig() {
   out.email.from_addr = el.smtpFrom.value.trim();
   out.email.subject_prefix = el.subjectPrefix.value.trim();
   out.email.password = '';           // 비밀번호는 저장소에 두지 않는다
+  out.digest = Object.assign({}, cfg.digest, {
+    enabled: el.digestEnabled.checked,
+    days: cfg.digest.days.slice(),
+    times: el.digestTimes.value.split(/[,\s]+/).map((s2) => s2.trim()).filter(Boolean),
+    timezone: el.digestTz.value.trim(),
+  });
   const taken = new Set();
   out.sites = (out.sites || []).filter((site) => (site.url || '').trim()).map((site) => {
     const copy = Object.assign({}, site);
@@ -403,6 +421,12 @@ function toggleJsonBox(node, mode) {
   });
 }
 
+function renderDigestDays() {
+  el.digestDays.querySelectorAll('.chip[data-day]').forEach((chip) => {
+    chip.setAttribute('aria-pressed', String((cfg.digest.days || []).includes(chip.dataset.day)));
+  });
+}
+
 function renderRun() {
   if (!lastRun) {
     el.runBox.innerHTML = '<p class="empty">아직 실행 기록이 없습니다. ‘지금 확인 실행’ 을 눌러 보세요.</p>';
@@ -421,7 +445,14 @@ function renderRun() {
       ${r.note ? `<div class="feed__meta">${escapeHtml(r.note)}</div>` : ''}
       ${items ? `<ol>${items}</ol>` : ''}</div>`;
   }).join('');
+  const pending = lastRun.pending || {};
+  const pendingLine = (pending.items || pending.alerts)
+    ? `<p class="runbox__line">보낼 때를 기다리는 중 — 새 공고 <b>${pending.items || 0}건</b>`
+      + `${pending.alerts ? ` · 점검 안내 ${pending.alerts}건` : ''}`
+      + `${pending.schedule ? ` · 발송 ${escapeHtml(pending.schedule)}` : ''}</p>`
+    : '';
   el.runBox.innerHTML = `
+    ${pendingLine}
     <p class="runbox__line"><b>${fmtTime(lastRun.at)}</b> · 사이트 ${lastRun.checked}곳 확인 ·
       새 공고 ${lastRun.new_total}건 · ${escapeHtml(mailText)}
       ${lastRun.run_url ? ` · <a href="${escapeHtml(lastRun.run_url)}" target="_blank" rel="noopener">실행 기록</a>` : ''}</p>
@@ -681,6 +712,20 @@ el.runBtn.addEventListener('click', runNow);
 el.refreshBtn.addEventListener('click', () => {
   if (dirty && !confirm('저장하지 않은 변경이 사라집니다. 계속할까요?')) return;
   loadAll(true).catch((err) => toast(err.message, true));
+});
+el.digestDays.addEventListener('click', (event) => {
+  const chip = event.target.closest('.chip[data-day]');
+  if (!chip || !cfg) return;
+  const day = chip.dataset.day;
+  const days = cfg.digest.days || (cfg.digest.days = []);
+  const at = days.indexOf(day);
+  if (at >= 0) days.splice(at, 1); else days.push(day);
+  renderDigestDays();
+  markDirty();
+});
+[el.digestEnabled, el.digestTimes, el.digestTz].forEach((input) => {
+  input.addEventListener('input', markDirty);
+  input.addEventListener('change', markDirty);
 });
 el.tokenSaveBtn.addEventListener('click', saveToken);
 el.tokenClearBtn.addEventListener('click', clearToken);

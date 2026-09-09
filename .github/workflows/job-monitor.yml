@@ -2,19 +2,16 @@ name: 채용공고 확인
 
 # 사이트를 주기적으로 확인해 새 공고가 있으면 메일을 보내고, 확인 기록을 저장소에 남깁니다.
 # - 실제 확인 주기는 job-monitor/config.json 의 check_interval_hours 가 결정합니다.
-#   (이 워크플로는 10분마다 깨어나 '확인할 때가 된' 사이트만 확인합니다.)
+#   (이 워크플로는 깨어날 때마다 '확인할 때가 된' 사이트만 확인합니다.)
 # - 스케줄 실행은 기본 브랜치에서만 동작합니다.
 
 on:
   schedule:
-    # 10분마다 (UTC). GitHub 예약 실행은 자주 건너뜁니다 — 실제로 이 저장소에서도
-    # 30분 예약이 하루 동안 세 번밖에 오지 않았습니다. 그래서 촘촘히 걸어 두고,
-    # 몇 번 걸러지더라도 원하는 주기 안에 한 번은 깨어나도록 합니다.
-    # 정각·정시는 예약이 가장 몰리는 시간대라 피하고, 어중간한 분에 나눠 겁니다.
-    # 실제 확인 여부는 사이트별 주기가 결정하므로, 자주 깨어난다고 자주 접속하지는 않습니다.
-    - cron: "7,37 * * * *"
-    - cron: "17,47 * * * *"
-    - cron: "27,57 * * * *"
+    # 평소 확인은 cron-job.org 가 깨워 줍니다(30분마다). 여기 예약은 예비용입니다.
+    # 메일이 나가는 시각(월~금 아침 8시) 직후에 한 번 깨워, 바깥 신호가 실패했더라도
+    # 모아 둔 공고가 그날 아침 안에는 나가도록 합니다.
+    # (GitHub 예약 실행은 자주 건너뛰므로 이것만 믿지는 않습니다.)
+    - cron: "20 23 * * 0-4"    # 23:20 UTC = 08:20 KST 월~금
   workflow_dispatch:
     inputs:
       check_all:
@@ -33,7 +30,9 @@ on:
     paths:
       - "job-monitor/config.json"   # 설정을 바꾸면 바로 한 번 확인
   repository_dispatch:
-    # 바깥에서 깨워 주기 (cron-job.org 등). GitHub 예약 실행은 자주 건너뛰기 때문에,
+    # 바깥에서 깨워 주기 (cron-job.org 등). 예약 실행과 똑같이 '확인할 때가 된' 사이트만
+    # 확인하므로, 신호가 자주 와도 설정한 주기보다 자주 접속하지 않습니다.
+    # GitHub 예약 실행은 자주 건너뛰기 때문에,
     # 정해진 시각에 이 저장소로 신호를 보내면 그때 확인이 돕니다.
     #   POST https://api.github.com/repos/<사용자>/<저장소>/dispatches
     #   Authorization: Bearer <토큰>   본문: {"event_type": "check-now"}
@@ -101,7 +100,7 @@ jobs:
           python3 job-monitor/monitor.py \
             --config job-monitor/config.json \
             check \
-            ${{ (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && !inputs.check_all)) && '--due-only' || ' ' }} \
+            ${{ (github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || (github.event_name == 'workflow_dispatch' && !inputs.check_all)) && '--due-only' || ' ' }} \
             ${{ (github.event_name == 'workflow_dispatch' && inputs.no_email) && '--no-email' || ' ' }} \
             --summary-json job-monitor/data/last-run.json
 

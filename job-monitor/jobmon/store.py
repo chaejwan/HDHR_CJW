@@ -116,6 +116,58 @@ def recent_item_counts(entry: dict, limit: int = 10) -> list:
     return counts
 
 
+def outbox(state: dict) -> dict:
+    """아직 메일로 보내지 않고 모아 둔 것들 (모아 보내기용)."""
+    box = state.setdefault("outbox", {})
+    box.setdefault("items", [])       # 발견한 새 공고
+    box.setdefault("alerts", [])      # 점검 안내
+    box.setdefault("since", "")       # 언제부터 모으고 있는지
+    box.setdefault("last_sent", "")   # 마지막으로 메일이 나간 시각
+    return box
+
+
+def hold(state: dict, results: list, alerts: list, at: str) -> None:
+    """이번 확인에서 나온 새 공고와 점검 안내를 발송함에 담아 둔다."""
+    box = outbox(state)
+    for result in results:
+        for item in result.get("new_items") or []:
+            box["items"].append({
+                "site_id": result.get("site_id", ""),
+                "site_name": result.get("site_name", ""),
+                "site_link": result.get("site_link") or result.get("site_url", ""),
+                "title": item.get("title", ""),
+                "url": item.get("url", ""),
+                "date": item.get("date", ""),
+                "found_at": at,
+            })
+    box["alerts"].extend(alerts or [])
+    if (box["items"] or box["alerts"]) and not box["since"]:
+        box["since"] = at
+
+
+def held_results(state: dict) -> list:
+    """모아 둔 공고를 사이트별로 묶어 메일 렌더러가 쓰는 모양으로 돌려준다."""
+    grouped = {}
+    for item in outbox(state)["items"]:
+        key = item.get("site_id") or item.get("site_name")
+        entry = grouped.setdefault(key, {
+            "site_id": item.get("site_id", ""),
+            "site_name": item.get("site_name", ""),
+            "site_url": item.get("site_link", ""),
+            "site_link": item.get("site_link", ""),
+            "status": "new",
+            "new_items": [],
+        })
+        entry["new_items"].append({k: item.get(k, "") for k in ("title", "url", "date")})
+    return list(grouped.values())
+
+
+def clear_outbox(state: dict, at: str) -> None:
+    box = outbox(state)
+    box["items"], box["alerts"], box["since"] = [], [], ""
+    box["last_sent"] = at
+
+
 def record_check(entry: dict, *, at: str, status: str, new_items: list = None,
                  error: str = "", method: str = "", item_count: int = 0,
                  fingerprint: str = "", note: str = "", sample_titles: list = None,

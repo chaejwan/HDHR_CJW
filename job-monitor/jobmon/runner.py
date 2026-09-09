@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
 from . import config as config_mod
+from . import digest as digest_mod
 from . import extract as extract_mod
 from . import fetch as fetch_mod
 from . import notify as notify_mod
@@ -395,10 +396,37 @@ class Monitor:
             "email": {"sent": False, "error": "", "skipped": ""},
         }
 
-        worth_mailing = summary["new_total"] or alerts
-        if not notify or not worth_mailing:
-            if worth_mailing and not notify:
+        # 이번에 나온 것을 발송함에 담아 둔다. 메일은 여기서 바로 보내는 것이 아니라
+        # 정해 둔 발송 시각에 모아서 나간다 (모아 보내기가 꺼져 있으면 곧바로 나간다).
+        with self._lock:
+            store_mod.hold(state, results, alerts, summary["at"])
+            self.save_state(state)
+
+        box = store_mod.outbox(state)
+        pending_items, pending_alerts = box["items"], box["alerts"]
+        summary["pending"] = {
+            "items": len(pending_items),
+            "alerts": len(pending_alerts),
+            "since": box.get("since", ""),
+            "schedule": digest_mod.describe(cfg) if (cfg.get("digest") or {}).get("enabled") else "",
+        }
+        if not notify:
+            if pending_items or pending_alerts:
                 summary["email"]["skipped"] = "메일 발송을 건너뛰도록 지정했습니다."
+            return summary
+
+        now = datetime.now().astimezone()
+        last_sent = _parse_iso(box.get("last_sent") or "")
+        if not digest_mod.should_send(cfg, last_sent, now):
+            nxt = digest_mod.next_slot(cfg, now)
+            when = nxt.strftime("%m-%d %H:%M") if nxt else "다음 발송 시각"
+            if pending_items or pending_alerts:
+                summary["email"]["skipped"] = (
+                    f"모아 두는 중입니다 (새 공고 {len(pending_items)}건 · 점검 {len(pending_alerts)}건). "
+                    f"{when} 에 보냅니다.")
+                self.log(summary["email"]["skipped"])
+            return summary
+        if not (pending_items or pending_alerts):
             return summary
 
         live = config_mod.effective(cfg)   # 시크릿(환경변수)을 얹은 설정
@@ -409,11 +437,12 @@ class Monitor:
         admin_to = live.get("admin_recipients") or posting_to
 
         mails = []
-        if summary["new_total"]:
-            subject, text, html = notify_mod.render(results, prefix)
+        if pending_items:
+            held = store_mod.held_results(state)
+            subject, text, html = notify_mod.render(held, prefix, since=box.get("since", ""))
             mails.append(("새 공고", posting_to, subject, text, html))
-        if alerts:
-            subject, text, html = notify_mod.render_alerts(alerts, results, prefix)
+        if pending_alerts:
+            subject, text, html = notify_mod.render_alerts(pending_alerts, results, prefix)
             mails.append(("점검 안내", admin_to, subject, text, html))
 
         if not email_cfg.get("enabled"):
@@ -433,6 +462,11 @@ class Monitor:
                     self.log(f"{kind} 메일 발송 실패: {exc}")
             summary["email"]["error"] = " / ".join(errors)
             summary["email"]["skipped"] = " / ".join(skipped)
+            if summary["email"]["sent"] and not errors:
+                store_mod.clear_outbox(state, store_mod.now_iso())
+                self.save_state(state)
+                summary["pending"] = {"items": 0, "alerts": 0, "since": "",
+                                      "schedule": summary["pending"]["schedule"]}
         if summary["email"]["skipped"]:
             self.log(f"메일 발송 생략: {summary['email']['skipped']} (새 공고 {summary['new_total']}건)")
         return summary

@@ -15,7 +15,9 @@ from urllib import request as urlrequest
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, BASE_DIR)
 
+from datetime import datetime, timedelta, timezone   # noqa: E402
 from jobmon import config as config_mod       # noqa: E402
+from jobmon import digest as digest_mod       # noqa: E402
 from jobmon import extract as extract_mod     # noqa: E402
 from jobmon import notify as notify_mod       # noqa: E402
 from jobmon import server as server_mod       # noqa: E402
@@ -602,6 +604,91 @@ class WorkflowSecretsTest(unittest.TestCase):
                 continue
             self.assertIn(f"{name}: ${{{{ secrets.{name} }}}}", workflow,
                           f"{name} 을(를) 워크플로가 넘겨 주지 않습니다")
+
+
+class DigestTest(unittest.TestCase):
+    """확인은 계속 쌓고, 메일은 정해 둔 요일·시각에만 한 번."""
+
+    def setUp(self):
+        path = os.path.join(tempfile.mkdtemp(), "config.json")
+        config_mod.save(path, {
+            "recipients": ["team@example.com"],
+            "email": {"enabled": True, "smtp_host": "smtp.example", "username": "u@example.com"},
+            "digest": {"enabled": True, "days": ["mon", "tue", "wed", "thu", "fri"],
+                       "times": ["08:00"], "timezone": "Asia/Seoul"},
+            "sites": [{"id": "s1", "name": "테스트", "url": "https://example.com/jobs"}],
+        })
+        self.monitor = Monitor(path)
+        self.sent = []
+        original = notify_mod.send
+        notify_mod.send = lambda _c, to, subject, text, _h="": self.sent.append((subject, text))
+        self.addCleanup(lambda: setattr(notify_mod, "send", original))
+
+    def _serve(self, items):
+        result = extract_mod.ExtractResult(items=items, method="links", fingerprint="fp")
+        self.monitor.collect = lambda _cfg, site: (
+            FetchResult(url=site["url"], status=200, text="<html></html>",
+                        content_type="text/html"), result)
+
+    @staticmethod
+    def _item(n):
+        return {"id": f"i{n}", "title": f"공고 {n}", "url": f"https://example.com/{n}", "date": ""}
+
+    def test_findings_are_held_until_the_send_time(self):
+        self._serve([self._item(1)])
+        self.monitor.run_check(notify=True)                   # 첫 확인: 기준만 저장
+
+        # 아직 발송 시각이 지나지 않은 것으로 두면, 발견해도 메일은 나가지 않는다
+        state = self.monitor.load_state()
+        store_mod.outbox(state)["last_sent"] = store_mod.now_iso()
+        self.monitor.save_state(state)
+
+        self._serve([self._item(1), self._item(2), self._item(3)])
+        summary = self.monitor.run_check(notify=True)
+        self.assertEqual(summary["new_total"], 2)
+        self.assertEqual(self.sent, [])
+        self.assertEqual(summary["pending"]["items"], 2)
+        self.assertIn("모아 두는 중", summary["email"]["skipped"])
+
+        # 발송 시각이 지난 상태가 되면, 그동안 모인 것이 한 통으로 나간다
+        state = self.monitor.load_state()
+        store_mod.outbox(state)["last_sent"] = "2020-01-01T00:00:00+09:00"
+        self.monitor.save_state(state)
+        self._serve([self._item(1), self._item(2), self._item(3), self._item(4)])
+        summary = self.monitor.run_check(notify=True)
+        self.assertEqual(len(self.sent), 1)
+        subject, text = self.sent[0]
+        self.assertIn("새 공고 3건", subject)                   # 2건(모아 둔 것) + 1건(방금)
+        for n in (2, 3, 4):
+            self.assertIn(f"공고 {n}", text)
+        self.assertEqual(summary["pending"]["items"], 0)        # 보냈으니 비워진다
+
+    def test_send_window(self):
+        cfg = self.monitor.load_config()
+        kst = timezone(timedelta(hours=9))
+        friday_9am = datetime(2026, 9, 11, 9, 0, tzinfo=kst)
+        thursday_8am = datetime(2026, 9, 10, 8, 0, tzinfo=kst)
+        # 목요일 8시에 보냈다면 금요일 9시에는 또 보낸다
+        self.assertTrue(digest_mod.should_send(cfg, thursday_8am, friday_9am))
+        # 금요일 8시에 보냈다면 같은 날 9시에는 보내지 않는다
+        friday_8am = datetime(2026, 9, 11, 8, 0, tzinfo=kst)
+        self.assertFalse(digest_mod.should_send(cfg, friday_8am, friday_9am))
+        # 주말에는 발송 시각이 없으므로 금요일 발송 이후로는 조용하다
+        saturday = datetime(2026, 9, 12, 12, 0, tzinfo=kst)
+        self.assertFalse(digest_mod.should_send(cfg, friday_8am, saturday))
+        # 월요일 아침이 되면 다시 나간다
+        monday = datetime(2026, 9, 14, 8, 30, tzinfo=kst)
+        self.assertTrue(digest_mod.should_send(cfg, friday_8am, monday))
+
+    def test_disabled_digest_sends_right_away(self):
+        cfg = self.monitor.load_config()
+        cfg["digest"]["enabled"] = False
+        self.monitor.save_config(cfg)
+        self._serve([self._item(1)])
+        self.monitor.run_check(notify=True)
+        self._serve([self._item(1), self._item(2)])
+        self.monitor.run_check(notify=True)
+        self.assertEqual(len(self.sent), 1)
 
 if __name__ == "__main__":
     unittest.main()
