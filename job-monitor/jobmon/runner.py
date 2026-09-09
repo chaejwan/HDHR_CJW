@@ -474,6 +474,56 @@ class Monitor:
             self.log(f"메일 발송 생략: {summary['email']['skipped']} (새 공고 {summary['new_total']}건)")
         return summary
 
+    def backfill(self) -> dict:
+        """지금 각 사이트에 올라와 있는 공고를 이력에 채워 넣는다 (메일은 보내지 않는다).
+
+        이미 '아는 공고' 로 기억만 하고 있던 것들을 설정 화면의 공고 이력에서도
+        볼 수 있게 하는 용도다. 처음 이력을 만들 때 한 번 쓰면 된다.
+        기억해 둔 첫 발견 시각이 있으면 그 시각을 그대로 쓴다.
+        """
+        cfg = self.load_config()
+        state = self.load_state()
+        now = store_mod.now_iso()
+        summary = {"at": now, "checked": 0, "added": 0, "sites": []}
+        for site in cfg.get("sites") or []:
+            if not site.get("enabled"):
+                continue
+            try:
+                fetched, extracted = self.collect(cfg, site)
+            except fetch_mod.FetchError as exc:
+                summary["sites"].append({"site_id": site["id"], "error": str(exc), "added": 0})
+                self.log(f"[{site['id']}] 이력 채우기 실패: {exc}")
+                continue
+            entry = store_mod.site_state(state, site["id"])
+            seen = entry.get("seen") or {}
+            link = config_mod.site_link(site)
+            rows = []
+            for item in extracted.items:
+                url = item.get("url") or ""
+                path = urlparse(url).path if url else ""
+                if not url or url == fetched.url or path in ("", "/"):
+                    url = link
+                remembered = seen.get(item.get("id") or "") or {}
+                rows.append({
+                    "site_id": site["id"],
+                    "site_name": site.get("name") or site["id"],
+                    "site_link": link,
+                    "title": item.get("title", ""),
+                    "url": url,
+                    "date": item.get("date", ""),
+                    "found_at": remembered.get("first_seen") or now,
+                })
+            with self._lock:
+                added = store_mod.add_to_archive(state, rows)
+            summary["checked"] += 1
+            summary["added"] += added
+            summary["sites"].append({"site_id": site["id"], "found": len(rows), "added": added})
+            self.log(f"[{site['id']}] 이력 채우기: 읽은 공고 {len(rows)}건 · 새로 넣은 것 {added}건")
+        with self._lock:
+            self.save_state(state)
+        self.log(f"이력 채우기 완료: 사이트 {summary['checked']}곳 · 모두 {summary['added']}건 추가")
+        return summary
+
     def preview(self, site: dict) -> dict:
         """설정 화면에서 '미리보기' 를 눌렀을 때: 지금 무엇이 뽑히는지만 보여 준다."""
         cfg = self.load_config()

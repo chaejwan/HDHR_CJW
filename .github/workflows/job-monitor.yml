@@ -26,6 +26,10 @@ on:
         description: "테스트 메일만 보내기 (메일 설정이 맞는지 확인용, 공고 확인은 건너뜀)"
         type: boolean
         default: false
+      backfill:
+        description: "지금 올라와 있는 공고를 '공고 이력' 에 채워 넣기 (메일 없음)"
+        type: boolean
+        default: false
   push:
     paths:
       - "job-monitor/config.json"   # 설정을 바꾸면 바로 한 번 확인
@@ -83,8 +87,12 @@ jobs:
           JOBMON_POSTING_RECIPIENTS: ${{ secrets.JOBMON_POSTING_RECIPIENTS }}
         run: python3 job-monitor/monitor.py --config job-monitor/config.json test-email
 
+      - name: 공고 이력 채우기
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.backfill }}
+        run: python3 job-monitor/monitor.py --config job-monitor/config.json backfill
+
       - name: 공고 확인
-        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.test_email) }}
+        if: ${{ !(github.event_name == 'workflow_dispatch' && (inputs.test_email || inputs.backfill)) }}
         id: check
         continue-on-error: true   # 사이트 한 곳이 응답하지 않아도 나머지는 계속 진행
         env:
