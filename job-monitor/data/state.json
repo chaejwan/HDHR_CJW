@@ -526,15 +526,25 @@
      "first_seen": "2026-09-09T06:33:03+00:00"
     }
    },
-   "last_check": "2026-09-09T06:33:03+00:00",
-   "last_success": "2026-09-09T06:33:03+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-09T09:00:37+00:00",
+   "last_success": "2026-09-09T09:00:37+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 77,
-   "fingerprint": "b37bdec95a858ca1",
+   "fingerprint": "81b3e6e421b55c1b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T09:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:33:03+00:00",
      "status": "new",
@@ -835,16 +845,6 @@
     },
     {
      "at": "2026-09-08T17:30:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T17:27:55+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -1221,8 +1221,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-09T06:33:04+00:00",
-   "last_success": "2026-09-09T06:33:04+00:00",
+   "last_check": "2026-09-09T09:00:38+00:00",
+   "last_success": "2026-09-09T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1230,6 +1230,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:33:04+00:00",
      "status": "ok",
@@ -1512,16 +1522,6 @@
     },
     {
      "at": "2026-09-08T17:27:57+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T17:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2309,17 +2309,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261950",
      "date": "",
      "first_seen": "2026-09-09T06:18:04+00:00"
+    },
+    "464e0eecf55887e0": {
+     "title": "경영기획 경력 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261954",
+     "date": "",
+     "first_seen": "2026-09-09T09:00:48+00:00"
+    },
+    "7099cbea0dd979f5": {
+     "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261670",
+     "date": "",
+     "first_seen": "2026-09-09T09:00:48+00:00"
     }
    },
-   "last_check": "2026-09-09T06:33:08+00:00",
-   "last_success": "2026-09-09T06:33:08+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-09T09:00:48+00:00",
+   "last_success": "2026-09-09T09:00:48+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 101,
-   "fingerprint": "6357d5ea86430bc8",
+   "item_count": 102,
+   "fingerprint": "a02bdab2c94f3f0d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T09:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 102,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "경영기획 경력 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261954",
+       "date": ""
+      },
+      {
+       "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261670",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-09T06:33:08+00:00",
      "status": "ok",
@@ -2656,16 +2689,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2682,7 +2705,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T06:18:04+00:00"
+   "last_new_at": "2026-09-09T09:00:48+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4017,17 +4040,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=204",
      "date": "20260916",
      "first_seen": "2026-09-09T06:18:05+00:00"
+    },
+    "034c68bed60d51eb": {
+     "title": "[계약직] 사상하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=202",
+     "date": "20260923",
+     "first_seen": "2026-09-09T09:00:49+00:00"
+    },
+    "71ffa596dac6f55b": {
+     "title": "[계약직] 동부하이테크센터 드라이버",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
+     "date": "20260923",
+     "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-09T06:33:09+00:00",
-   "last_success": "2026-09-09T06:33:09+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-09T09:00:49+00:00",
+   "last_success": "2026-09-09T09:00:49+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 156,
-   "fingerprint": "6975a66ba1eef60b",
+   "item_count": 158,
+   "fingerprint": "48f74fd05c3e3435",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T09:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 158,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 사상하이테크센터 고객응대 및 수납",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=202",
+       "date": "20260923"
+      },
+      {
+       "title": "[계약직] 동부하이테크센터 드라이버",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
+       "date": "20260923"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T06:33:09+00:00",
      "status": "ok",
@@ -4345,16 +4401,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T17:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4371,7 +4417,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T06:18:05+00:00"
+   "last_new_at": "2026-09-09T09:00:49+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -4868,8 +4914,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T06:33:13+00:00",
-   "last_success": "2026-09-09T06:33:13+00:00",
+   "last_check": "2026-09-09T09:00:54+00:00",
+   "last_success": "2026-09-09T09:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4877,6 +4923,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T09:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:33:13+00:00",
      "status": "ok",
@@ -5166,16 +5222,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T17:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5204,6 +5250,42 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
     "date": "2026.09.21 15:00",
     "found_at": "2026-09-09T06:33:16+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "경영기획 경력 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261954",
+    "date": "",
+    "found_at": "2026-09-09T09:00:58+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261670",
+    "date": "",
+    "found_at": "2026-09-09T09:00:58+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 사상하이테크센터 고객응대 및 수납",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=202",
+    "date": "20260923",
+    "found_at": "2026-09-09T09:00:58+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 동부하이테크센터 드라이버",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
+    "date": "20260923",
+    "found_at": "2026-09-09T09:00:58+00:00"
    }
   ],
   "alerts": [],
@@ -8630,6 +8712,42 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
    "date": "2026.09.21 15:00",
    "found_at": "2026-09-09T06:33:03+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "경영기획 경력 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261954",
+   "date": "",
+   "found_at": "2026-09-09T09:00:58+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261670",
+   "date": "",
+   "found_at": "2026-09-09T09:00:58+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 사상하이테크센터 고객응대 및 수납",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=202",
+   "date": "20260923",
+   "found_at": "2026-09-09T09:00:58+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 동부하이테크센터 드라이버",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
+   "date": "20260923",
+   "found_at": "2026-09-09T09:00:58+00:00"
   }
  ]
 }
