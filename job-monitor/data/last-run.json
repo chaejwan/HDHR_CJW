@@ -1,7 +1,7 @@
 {
- "at": "2026-09-09T11:00:54+00:00",
+ "at": "2026-09-09T13:01:02+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-09-09T06:33:16+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34343241073",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34354395517",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 78,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "글로벌 사업 및 투자 전략 경력채용(과장~부장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
-     "date": "2026.09.21 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 103,
+   "status": "ok",
+   "item_count": 102,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[SK에어플러스]용인 Project 배관 품질/시공 감독(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261958",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
