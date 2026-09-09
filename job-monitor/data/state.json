@@ -532,15 +532,25 @@
      "first_seen": "2026-09-09T11:00:38+00:00"
     }
    },
-   "last_check": "2026-09-09T19:00:38+00:00",
+   "last_check": "2026-09-09T21:00:38+00:00",
    "last_success": "2026-09-09T19:00:38+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 76,
    "fingerprint": "72e618c1bccee932",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T21:00:38+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T19:00:38+00:00",
      "status": "ok",
@@ -854,20 +864,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T20:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
     "DB영업 기획/교육",
@@ -1317,8 +1317,8 @@
      "first_seen": "2026-09-09T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-09T19:00:39+00:00",
-   "last_success": "2026-09-09T19:00:39+00:00",
+   "last_check": "2026-09-09T21:03:05+00:00",
+   "last_success": "2026-09-09T21:03:05+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1326,6 +1326,16 @@
    "fingerprint": "e54e13534b8bca47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T21:03:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T19:00:39+00:00",
      "status": "ok",
@@ -1608,16 +1618,6 @@
     },
     {
      "at": "2026-09-08T20:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T19:30:34+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2425,8 +2425,8 @@
      "first_seen": "2026-09-09T11:00:45+00:00"
     }
    },
-   "last_check": "2026-09-09T19:00:43+00:00",
-   "last_success": "2026-09-09T19:00:43+00:00",
+   "last_check": "2026-09-09T21:03:07+00:00",
+   "last_success": "2026-09-09T21:03:07+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2434,6 +2434,16 @@
    "fingerprint": "8865d9701e4dd531",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T21:03:07+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T19:00:43+00:00",
      "status": "ok",
@@ -2780,16 +2790,6 @@
     },
     {
      "at": "2026-09-08T20:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T19:30:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4162,15 +4162,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-09T19:00:44+00:00",
-   "last_success": "2026-09-09T19:00:44+00:00",
+   "last_check": "2026-09-09T21:03:08+00:00",
+   "last_success": "2026-09-09T21:03:08+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 157,
-   "fingerprint": "0ba0b155022046af",
+   "fingerprint": "ab33fc2f55b37684",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T21:03:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T19:00:44+00:00",
      "status": "ok",
@@ -4492,16 +4502,6 @@
     },
     {
      "at": "2026-09-08T20:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T19:30:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5022,8 +5022,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T19:00:49+00:00",
-   "last_success": "2026-09-09T19:00:49+00:00",
+   "last_check": "2026-09-09T21:03:12+00:00",
+   "last_success": "2026-09-09T21:03:12+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5031,6 +5031,16 @@
    "fingerprint": "e1155ec3869974e6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T21:03:12+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T19:00:49+00:00",
      "status": "ok",
@@ -5313,16 +5323,6 @@
     },
     {
      "at": "2026-09-08T20:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T19:30:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
