@@ -520,15 +520,25 @@
      "first_seen": "2026-09-09T05:31:05+00:00"
     }
    },
-   "last_check": "2026-09-09T05:31:05+00:00",
+   "last_check": "2026-09-09T06:00:38+00:00",
    "last_success": "2026-09-09T05:31:05+00:00",
-   "last_status": "new",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 83,
    "fingerprint": "64ac024ddb1e96bc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:00:38+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:31:05+00:00",
      "status": "new",
@@ -830,20 +840,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T16:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
     "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
@@ -1209,8 +1209,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-09T05:31:06+00:00",
-   "last_success": "2026-09-09T05:31:06+00:00",
+   "last_check": "2026-09-09T06:03:05+00:00",
+   "last_success": "2026-09-09T06:03:05+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1218,6 +1218,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:03:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:31:06+00:00",
      "status": "ok",
@@ -1500,16 +1510,6 @@
     },
     {
      "at": "2026-09-08T16:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T15:30:33+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2287,15 +2287,25 @@
      "first_seen": "2026-09-09T04:33:06+00:00"
     }
    },
-   "last_check": "2026-09-09T05:31:10+00:00",
-   "last_success": "2026-09-09T05:31:10+00:00",
+   "last_check": "2026-09-09T06:03:09+00:00",
+   "last_success": "2026-09-09T06:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 98,
-   "fingerprint": "2d4e1a557f379591",
+   "item_count": 99,
+   "fingerprint": "8db232213369fbfd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:31:10+00:00",
      "status": "ok",
@@ -2614,16 +2624,6 @@
     },
     {
      "at": "2026-09-08T16:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T15:30:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3970,17 +3970,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=79",
      "date": "20260812",
      "first_seen": "2026-09-09T05:00:42+00:00"
+    },
+    "63ce58938dd1b643": {
+     "title": "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=203",
+     "date": "20260916",
+     "first_seen": "2026-09-09T06:03:10+00:00"
     }
    },
-   "last_check": "2026-09-09T05:31:11+00:00",
-   "last_success": "2026-09-09T05:31:11+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-09T06:03:10+00:00",
+   "last_success": "2026-09-09T06:03:10+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 154,
-   "fingerprint": "19906084471fd5d8",
+   "item_count": 155,
+   "fingerprint": "8909b189e1710934",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:03:10+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 155,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=203",
+       "date": "20260916"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T05:31:11+00:00",
      "status": "ok",
@@ -4286,16 +4308,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T15:30:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4312,7 +4324,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T05:00:42+00:00"
+   "last_new_at": "2026-09-09T06:03:10+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -4809,8 +4821,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T05:31:15+00:00",
-   "last_success": "2026-09-09T05:31:15+00:00",
+   "last_check": "2026-09-09T06:03:14+00:00",
+   "last_success": "2026-09-09T06:03:14+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4818,6 +4830,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:03:14+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:31:15+00:00",
      "status": "ok",
@@ -5100,16 +5122,6 @@
     },
     {
      "at": "2026-09-08T16:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T15:30:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
