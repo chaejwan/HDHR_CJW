@@ -1,5 +1,5 @@
 {
- "at": "2026-09-09T04:00:50+00:00",
+ "at": "2026-09-09T04:33:16+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
@@ -8,18 +8,18 @@
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34309283657",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34311224462",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화 채용 (hanwhain)",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 81,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {
@@ -46,7 +46,7 @@
    "error": "",
    "new_items": [
     {
-     "title": "ER 담당 노무사 경력직(정직) 채용",
+     "title": "ER 담당 노무사 경력직(정규직) 채용",
      "url": "https://www.skcareers.com/Recruit/Detail/R261947",
      "date": ""
     }
