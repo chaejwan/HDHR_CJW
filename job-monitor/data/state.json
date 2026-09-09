@@ -532,15 +532,25 @@
      "first_seen": "2026-09-09T11:00:38+00:00"
     }
    },
-   "last_check": "2026-09-09T21:00:38+00:00",
-   "last_success": "2026-09-09T19:00:38+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-09T23:00:35+00:00",
+   "last_success": "2026-09-09T23:00:35+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
    "item_count": 76,
    "fingerprint": "72e618c1bccee932",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T23:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T21:00:38+00:00",
      "status": "error",
@@ -854,20 +864,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T20:30:29+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
     "DB영업 기획/교육",
@@ -1317,8 +1317,8 @@
      "first_seen": "2026-09-09T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-09T21:03:05+00:00",
-   "last_success": "2026-09-09T21:03:05+00:00",
+   "last_check": "2026-09-09T23:00:36+00:00",
+   "last_success": "2026-09-09T23:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1326,6 +1326,16 @@
    "fingerprint": "e54e13534b8bca47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T23:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T21:03:05+00:00",
      "status": "ok",
@@ -1608,16 +1618,6 @@
     },
     {
      "at": "2026-09-08T20:30:30+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T20:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2425,8 +2425,8 @@
      "first_seen": "2026-09-09T11:00:45+00:00"
     }
    },
-   "last_check": "2026-09-09T21:03:07+00:00",
-   "last_success": "2026-09-09T21:03:07+00:00",
+   "last_check": "2026-09-09T23:00:41+00:00",
+   "last_success": "2026-09-09T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2434,6 +2434,16 @@
    "fingerprint": "8865d9701e4dd531",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T21:03:07+00:00",
      "status": "ok",
@@ -2780,16 +2790,6 @@
     },
     {
      "at": "2026-09-08T20:30:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T20:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4162,15 +4162,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-09T21:03:08+00:00",
-   "last_success": "2026-09-09T21:03:08+00:00",
+   "last_check": "2026-09-09T23:00:42+00:00",
+   "last_success": "2026-09-09T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 157,
-   "fingerprint": "ab33fc2f55b37684",
+   "fingerprint": "75915a19f8076433",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T21:03:08+00:00",
      "status": "ok",
@@ -4492,16 +4502,6 @@
     },
     {
      "at": "2026-09-08T20:30:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T20:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5022,8 +5022,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T21:03:12+00:00",
-   "last_success": "2026-09-09T21:03:12+00:00",
+   "last_check": "2026-09-09T23:00:45+00:00",
+   "last_success": "2026-09-09T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5031,6 +5031,16 @@
    "fingerprint": "e1155ec3869974e6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T21:03:12+00:00",
      "status": "ok",
@@ -5320,16 +5330,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T20:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5349,95 +5349,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 급여·보상 사무직 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
-    "date": "2026.09.21 15:00",
-    "found_at": "2026-09-09T06:33:16+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "경영기획 경력 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261954",
-    "date": "",
-    "found_at": "2026-09-09T09:00:58+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261670",
-    "date": "",
-    "found_at": "2026-09-09T09:00:58+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 사상하이테크센터 고객응대 및 수납",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=202",
-    "date": "20260923",
-    "found_at": "2026-09-09T09:00:58+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 동부하이테크센터 드라이버",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
-    "date": "20260923",
-    "found_at": "2026-09-09T09:00:58+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "글로벌 사업 및 투자 전략 경력채용(과장~부장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
-    "date": "2026.09.21 15:00",
-    "found_at": "2026-09-09T11:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스]용인 Project 배관 품질/시공 감독(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261958",
-    "date": "",
-    "found_at": "2026-09-09T11:00:54+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-09T06:33:16+00:00",
-  "last_sent": "2026-09-09T06:18:14+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-09T23:00:54+00:00"
  },
  "archive": [
   {
