@@ -5209,5 +5209,151 @@
   "alerts": [],
   "since": "2026-09-09T06:33:16+00:00",
   "last_sent": "2026-09-09T06:18:14+00:00"
- }
+ },
+ "archive": [
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "제조 AI 컨설턴트 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261927",
+   "date": "",
+   "found_at": "2026-09-09T01:00:39+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "사내 편의시설 운영 지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261945",
+   "date": "",
+   "found_at": "2026-09-09T02:00:42+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "제조 물류자동화(AMHS) 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261946",
+   "date": "",
+   "found_at": "2026-09-09T02:30:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "전사 노무 담당자 경력직(정직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261947",
+   "date": "",
+   "found_at": "2026-09-09T03:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "ER 담당 노무사 경력직(정직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261947",
+   "date": "",
+   "found_at": "2026-09-09T04:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "ER 담당 노무사 경력직(정규직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261947",
+   "date": "",
+   "found_at": "2026-09-09T04:33:06+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "",
+   "title": "[한화라이프랩] 2026년 신입사원 공개채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19664",
+   "date": "2026.09.27 23:59",
+   "found_at": "2026-09-09T05:00:35+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "",
+   "title": "배터리 품질기술 개발 (셀)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=75",
+   "date": "20260902",
+   "found_at": "2026-09-09T05:00:42+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "",
+   "title": "배터리 제조운영 (전극)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=82",
+   "date": "20260902",
+   "found_at": "2026-09-09T05:00:42+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "",
+   "title": "배터리 공정기술 (전극)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=79",
+   "date": "20260812",
+   "found_at": "2026-09-09T05:00:42+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "",
+   "title": "한화솔루션 인사이트 PLS사업부 마케팅 경력",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19728",
+   "date": "2026.09.23 17:30",
+   "found_at": "2026-09-09T05:31:05+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "",
+   "title": "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=203",
+   "date": "20260916",
+   "found_at": "2026-09-09T06:03:10+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "[신입] SK바이오텍 설비관리 운전원 신입사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261951",
+   "date": "",
+   "found_at": "2026-09-09T06:18:04+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "",
+   "title": "[경력] SK바이오텍 설비엔지니어 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261950",
+   "date": "",
+   "found_at": "2026-09-09T06:18:04+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "",
+   "title": "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=204",
+   "date": "20260916",
+   "found_at": "2026-09-09T06:18:05+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "",
+   "title": "[한화생명] 급여·보상 사무직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
+   "date": "2026.09.21 15:00",
+   "found_at": "2026-09-09T06:33:03+00:00"
+  }
+ ]
 }
