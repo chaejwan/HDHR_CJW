@@ -157,6 +157,29 @@ def seed_archive(state: dict, names: dict) -> None:
     state["archive"] = rows[-MAX_ARCHIVE:]
 
 
+def archive_keys(state: dict) -> set:
+    """이력에 이미 들어 있는 공고들 (사이트·주소·제목으로 구분)."""
+    return {(row.get("site_id", ""), row.get("url", ""), row.get("title", ""))
+            for row in archive(state)}
+
+
+def add_to_archive(state: dict, rows: list) -> int:
+    """이력에 없는 것만 넣고, 발견 시각 순으로 정리한다. 넣은 건수를 돌려준다."""
+    log, known = archive(state), archive_keys(state)
+    added = 0
+    for row in rows:
+        key = (row.get("site_id", ""), row.get("url", ""), row.get("title", ""))
+        if key in known:
+            continue
+        known.add(key)
+        log.append(row)
+        added += 1
+    log.sort(key=lambda row: row.get("found_at") or "")
+    if len(log) > MAX_ARCHIVE:
+        del log[: len(log) - MAX_ARCHIVE]
+    return added
+
+
 def hold(state: dict, results: list, alerts: list, at: str) -> None:
     """이번 확인에서 나온 새 공고와 점검 안내를 발송함과 이력에 담는다."""
     box = outbox(state)

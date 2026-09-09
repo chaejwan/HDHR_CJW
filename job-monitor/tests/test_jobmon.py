@@ -713,6 +713,34 @@ class ArchiveTest(unittest.TestCase):
         self.assertEqual(store_mod.archive(state)[-1]["title"],
                          f"공고 {store_mod.MAX_ARCHIVE + 19}")      # 최신이 남는다
 
+    def test_backfill_fills_from_what_is_on_the_sites_now(self):
+        """지금 올라와 있는 공고를 메일 없이 이력에만 채워 넣는다."""
+        path = os.path.join(tempfile.mkdtemp(), "config.json")
+        config_mod.save(path, {"sites": [
+            {"id": "s1", "name": "테스트", "url": "https://example.com/jobs"}]})
+        monitor = Monitor(path)
+        items = [{"id": f"i{i}", "title": f"공고 {i}", "url": f"https://example.com/{i}", "date": ""}
+                 for i in range(3)]
+        monitor.collect = lambda _cfg, site: (
+            FetchResult(url=site["url"], status=200, text="<html></html>", content_type="text/html"),
+            extract_mod.ExtractResult(items=items, method="links", fingerprint="fp"))
+
+        # 이미 기억하고 있는 공고에는 첫 발견 시각이 있으니 그것을 쓴다
+        state = monitor.load_state()
+        entry = store_mod.site_state(state, "s1")
+        entry["seen"] = {"i0": {"title": "공고 0", "url": "https://example.com/0", "date": "",
+                                "first_seen": "2026-09-01T00:00:00+00:00"}}
+        monitor.save_state(state)
+
+        summary = monitor.backfill()
+        self.assertEqual(summary["added"], 3)
+        log = store_mod.archive(monitor.load_state())
+        self.assertEqual(len(log), 3)
+        self.assertEqual(log[0]["found_at"], "2026-09-01T00:00:00+00:00")   # 기억해 둔 시각
+        self.assertEqual(log[0]["site_name"], "테스트")
+
+        self.assertEqual(monitor.backfill()["added"], 0)                    # 두 번 해도 안 늘어난다
+
     def test_seed_from_old_history_runs_once(self):
         state = {"sites": {"s1": {"history": [
             {"at": "2026-09-08T00:00:00+00:00", "new": [{"title": "옛 공고", "url": "u", "date": ""}]},

@@ -57,6 +57,7 @@ def build_parser() -> argparse.ArgumentParser:
     run.add_argument("--tick", type=int, default=30, help="예정 시각 확인 간격(초)")
 
     sub.add_parser("list", help="사이트 목록과 상태 보기")
+    sub.add_parser("backfill", help="지금 올라와 있는 공고를 '공고 이력' 에 채워 넣기 (메일 없음)")
     sub.add_parser("test-email", help="테스트 메일 보내기")
 
     diagnose = sub.add_parser("diagnose", help="주소에서 무엇이 추출되는지 점검")
@@ -360,6 +361,21 @@ def _describe_json_capture(capture: dict) -> list:
     return lines
 
 
+def cmd_backfill(monitor: Monitor) -> int:
+    """지금 올라와 있는 공고를 공고 이력에 채워 넣는다 (메일은 나가지 않는다)."""
+    summary = monitor.backfill()
+    for row in summary["sites"]:
+        if row.get("error"):
+            print(f"  × [{row['site_id']}] {row['error']}")
+        else:
+            print(f"  ○ [{row['site_id']}] 읽은 공고 {row['found']}건 · 이력에 추가 {row['added']}건")
+    print(f"사이트 {summary['checked']}곳 · 이력에 모두 {summary['added']}건 추가했습니다.")
+    _write_step_summary({"at": summary["at"], "checked": summary["checked"], "new_total": 0,
+                         "results": [], "alerts": [],
+                         "email": {"sent": False, "error": "", "skipped": "이력 채우기라 메일을 보내지 않습니다."}})
+    return 0
+
+
 def cmd_diagnose(monitor: Monitor, args) -> int:
     cfg = monitor.load_config()
     if getattr(args, "site_json", None):
@@ -542,6 +558,8 @@ def main(argv=None) -> int:
         return 0
     if command == "list":
         return cmd_list(monitor)
+    if command == "backfill":
+        return cmd_backfill(monitor)
     if command == "test-email":
         return cmd_test_email(monitor)
     if command == "diagnose":
