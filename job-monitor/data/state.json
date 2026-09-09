@@ -512,17 +512,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19664",
      "date": "2026.09.27 23:59",
      "first_seen": "2026-09-09T05:00:35+00:00"
+    },
+    "1608d5f86489f5ab": {
+     "title": "한화솔루션 인사이트 PLS사업부 마케팅 경력",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19728",
+     "date": "2026.09.23 17:30",
+     "first_seen": "2026-09-09T05:31:05+00:00"
     }
    },
-   "last_check": "2026-09-09T05:00:35+00:00",
-   "last_success": "2026-09-09T05:00:35+00:00",
+   "last_check": "2026-09-09T05:31:05+00:00",
+   "last_success": "2026-09-09T05:31:05+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 82,
-   "fingerprint": "93fa7244df922bdf",
+   "item_count": 83,
+   "fingerprint": "64ac024ddb1e96bc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:31:05+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화솔루션 인사이트 PLS사업부 마케팅 경력",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19728",
+       "date": "2026.09.23 17:30"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T05:00:35+00:00",
      "status": "new",
@@ -818,16 +840,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T15:30:32+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -844,7 +856,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T05:00:35+00:00"
+   "last_new_at": "2026-09-09T05:31:05+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1197,8 +1209,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-09T05:00:36+00:00",
-   "last_success": "2026-09-09T05:00:36+00:00",
+   "last_check": "2026-09-09T05:31:06+00:00",
+   "last_success": "2026-09-09T05:31:06+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1206,6 +1218,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:31:06+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:00:36+00:00",
      "status": "ok",
@@ -1494,16 +1516,6 @@
      "item_count": 14,
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T15:00:43+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 44건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -2275,8 +2287,8 @@
      "first_seen": "2026-09-09T04:33:06+00:00"
     }
    },
-   "last_check": "2026-09-09T05:00:41+00:00",
-   "last_success": "2026-09-09T05:00:41+00:00",
+   "last_check": "2026-09-09T05:31:10+00:00",
+   "last_success": "2026-09-09T05:31:10+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2284,6 +2296,16 @@
    "fingerprint": "2d4e1a557f379591",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:31:10+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:00:41+00:00",
      "status": "ok",
@@ -2609,27 +2631,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T15:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 안전관리 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261941",
-       "date": ""
-      },
-      {
-       "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261942",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -3971,15 +3972,25 @@
      "first_seen": "2026-09-09T05:00:42+00:00"
     }
    },
-   "last_check": "2026-09-09T05:00:42+00:00",
-   "last_success": "2026-09-09T05:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-09T05:31:11+00:00",
+   "last_success": "2026-09-09T05:31:11+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 154,
-   "fingerprint": "7d37be76c9f605c9",
+   "fingerprint": "19906084471fd5d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:31:11+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:00:42+00:00",
      "status": "new",
@@ -4278,16 +4289,6 @@
     },
     {
      "at": "2026-09-08T15:30:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T15:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4808,8 +4809,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T05:00:47+00:00",
-   "last_success": "2026-09-09T05:00:47+00:00",
+   "last_check": "2026-09-09T05:31:15+00:00",
+   "last_success": "2026-09-09T05:31:15+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4817,6 +4818,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T05:31:15+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T05:00:47+00:00",
      "status": "ok",
@@ -5099,16 +5110,6 @@
     },
     {
      "at": "2026-09-08T15:30:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T15:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
