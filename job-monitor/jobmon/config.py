@@ -13,6 +13,8 @@ import re
 import tempfile
 import uuid
 
+from . import digest as digest_mod
+
 # 확인 주기 하한/상한 (시간). 너무 잦은 접속은 상대 서버에 부담이 된다.
 MIN_INTERVAL_HOURS = 0.1
 MAX_INTERVAL_HOURS = 24 * 30
@@ -31,6 +33,14 @@ DEFAULT_CONFIG = {
         "password_env": "JOBMON_SMTP_PASSWORD",
         "from_addr": "",
         "subject_prefix": "[채용 알림]",
+    },
+    # 메일을 언제 보낼지. 확인은 신호가 올 때마다 하되, 메일은 여기 정한 때에만 보낸다.
+    "digest": {
+        "enabled": False,         # 끄면 새 공고를 발견하는 즉시 보낸다
+        "days": ["mon", "tue", "wed", "thu", "fri"],
+        "times": ["08:00"],       # 하루에 여러 번도 가능 (["08:00", "18:00"])
+        "timezone": "Asia/Seoul",
+        "utc_offset_hours": 9,    # 시간대 이름을 못 읽는 환경에서만 쓰는 예비값
     },
     "request": {
         "timeout_sec": 20,
@@ -173,6 +183,32 @@ def normalize(config: dict) -> dict:
         alerts["stale_days"] = max(0, min(365, int(alerts.get("stale_days") or 0)))
     except (TypeError, ValueError):
         alerts["stale_days"] = 30
+
+    d = cfg["digest"]
+    d["enabled"] = bool(d.get("enabled"))
+    days = d.get("days") or []
+    if isinstance(days, str):
+        days = re.split(r"[,\s]+", days)
+    d["days"] = [name for name in digest_mod.DAY_NAMES
+                 if name in {str(x).strip().lower()[:3] for x in days}] or list(digest_mod.DAY_NAMES)
+    times = d.get("times") or []
+    if isinstance(times, str):
+        times = re.split(r"[,\s]+", times)
+    cleaned = []
+    for raw in times:
+        text = str(raw).strip()
+        match = re.match(r"^(\d{1,2})\s*[:시]?\s*(\d{1,2})?$", text)
+        if not match:
+            continue
+        hour = min(23, max(0, int(match.group(1))))
+        minute = min(59, max(0, int(match.group(2) or 0)))
+        cleaned.append(f"{hour:02d}:{minute:02d}")
+    d["times"] = sorted(set(cleaned)) or ["08:00"]
+    d["timezone"] = (d.get("timezone") or "").strip()
+    try:
+        d["utc_offset_hours"] = max(-12, min(14, float(d.get("utc_offset_hours"))))
+    except (TypeError, ValueError):
+        d["utc_offset_hours"] = 9
 
     req = cfg["request"]
     try:

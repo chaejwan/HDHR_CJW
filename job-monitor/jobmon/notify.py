@@ -6,6 +6,7 @@ import html as html_mod
 import os
 import smtplib
 import ssl
+from datetime import datetime
 from email.message import EmailMessage
 from email.utils import formatdate
 
@@ -29,7 +30,18 @@ FOOTER = ("<p style='margin-top:24px;color:#656d76;font-size:12px'>"
           "채용공고 모니터가 자동으로 보낸 메일입니다.</p></div>")
 
 
-def render(results: list, subject_prefix: str = "[채용 알림]"):
+def _period(since: str) -> str:
+    """'9월 8일 08:00 이후' 처럼, 모아 둔 기간을 알려 주는 한 줄."""
+    if not since:
+        return ""
+    try:
+        moment = datetime.fromisoformat(since).astimezone()
+    except (TypeError, ValueError):
+        return ""
+    return f"{moment.strftime('%m월 %d일 %H:%M')} 이후 발견한 공고입니다."
+
+
+def render(results: list, subject_prefix: str = "[채용 알림]", since: str = ""):
     """새 공고 알림 메일 (공고를 받아 볼 사람들에게 가는 메일).
 
     사이트 점검 안내나 접속 실패 같은 운영 이야기는 여기 넣지 않는다.
@@ -46,6 +58,11 @@ def render(results: list, subject_prefix: str = "[채용 알림]"):
     html_parts = [BODY_STYLE]
     if total:
         html_parts.append(f"<h2 style='margin:0 0 16px'>새로 올라온 공고 {total}건</h2>")
+    period = _period(since)
+    if period:
+        text_lines.append(period)
+        text_lines.append("")
+        html_parts.append(f"<p style='margin:-8px 0 16px;color:#656d76'>{html_mod.escape(period)}</p>")
     for result in with_new:
         link = result.get("site_link") or result["site_url"]
         text_lines.append(f"[{result['site_name']}] {link}")

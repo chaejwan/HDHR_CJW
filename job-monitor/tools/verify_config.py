@@ -57,6 +57,12 @@ def main(argv) -> int:
         print(f"  {mark} [{site['id']}] {site['name']} · {site['mode']} · {site['url']}")
     # 수신처가 어디서 몇 명 잡히는지 (주소는 찍지 않는다). 시크릿을 워크플로에서
     # 넘겨 주는 것을 빠뜨리면 여기 숫자가 0 으로 나와 바로 알아볼 수 있다.
+    from jobmon import digest as digest_mod
+    if (cfg.get("digest") or {}).get("enabled"):
+        print(f"메일 발송 시각 · {digest_mod.describe(cfg)} (그 사이 발견한 공고는 모아 둡니다)")
+    else:
+        print("메일 발송 · 새 공고를 발견하는 즉시")
+
     live = config_mod.effective(cfg)
     page = len(cfg.get("recipients") or [])
     print(f"수신처 · 새 공고 {len(live.get('recipients') or [])}명"

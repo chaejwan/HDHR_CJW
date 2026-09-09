@@ -84,6 +84,7 @@ def _write_summary_json(path: str, summary: dict) -> None:
         "new_total": summary["new_total"],
         "email": summary["email"],
         "alerts": summary.get("alerts") or [],
+        "pending": summary.get("pending") or {},
         "run_url": _run_url(),
         "results": [
             {
