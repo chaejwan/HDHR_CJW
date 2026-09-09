@@ -1,14 +1,7 @@
 {
   "check_interval_hours": 0.5,
   "notify_on_first_run": false,
-  "recipients": [
-    "rayeon.kong@hd.com",
-    "kimwonje@hd.com",
-    "juhui.park@hd.com",
-    "slee193@hd.com",
-    "junhojoa@hd.com",
-    "sechoi@hd.com"
-  ],
+  "recipients": [],
   "email": {
     "enabled": true,
     "smtp_host": "smtp.gmail.com",
