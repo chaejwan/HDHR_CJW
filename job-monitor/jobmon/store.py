@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 
 MAX_SEEN_PER_SITE = 3000     # 사이트별로 기억할 최대 공고 수
 MAX_HISTORY_PER_SITE = 30    # 사이트별 최근 확인 기록 수
+MAX_ARCHIVE = 500            # 설정 화면 '공고 이력' 에 남겨 둘 공고 수
 MAX_NEW_IN_HISTORY = 50
 
 
@@ -126,11 +127,51 @@ def outbox(state: dict) -> dict:
     return box
 
 
+def archive(state: dict) -> list:
+    """지금까지 발견한 공고를 모아 둔 목록 (설정 화면의 '공고 이력' 탭이 읽는다).
+
+    확인 기록(history)은 사이트별 30번까지만 남기므로, 사람이 훑어보기 위한
+    목록은 따로 쌓아 둔다. 오래된 것부터 MAX_ARCHIVE 개까지만 유지한다.
+    """
+    return state.setdefault("archive", [])
+
+
+def seed_archive(state: dict, names: dict) -> None:
+    """예전 확인 기록에 남아 있는 공고들로 이력을 한 번 채운다 (처음 한 번만)."""
+    if "archive" in state:
+        return
+    rows = []
+    for site_id, entry in (state.get("sites") or {}).items():
+        for record in entry.get("history") or []:
+            for item in record.get("new") or []:
+                rows.append({
+                    "site_id": site_id,
+                    "site_name": names.get(site_id, site_id),
+                    "site_link": "",
+                    "title": item.get("title", ""),
+                    "url": item.get("url", ""),
+                    "date": item.get("date", ""),
+                    "found_at": record.get("at", ""),
+                })
+    rows.sort(key=lambda row: row["found_at"])
+    state["archive"] = rows[-MAX_ARCHIVE:]
+
+
 def hold(state: dict, results: list, alerts: list, at: str) -> None:
-    """이번 확인에서 나온 새 공고와 점검 안내를 발송함에 담아 둔다."""
+    """이번 확인에서 나온 새 공고와 점검 안내를 발송함과 이력에 담는다."""
     box = outbox(state)
+    log = archive(state)
     for result in results:
         for item in result.get("new_items") or []:
+            log.append({
+                "site_id": result.get("site_id", ""),
+                "site_name": result.get("site_name", ""),
+                "site_link": result.get("site_link") or result.get("site_url", ""),
+                "title": item.get("title", ""),
+                "url": item.get("url", ""),
+                "date": item.get("date", ""),
+                "found_at": at,
+            })
             box["items"].append({
                 "site_id": result.get("site_id", ""),
                 "site_name": result.get("site_name", ""),
@@ -143,6 +184,8 @@ def hold(state: dict, results: list, alerts: list, at: str) -> None:
     box["alerts"].extend(alerts or [])
     if (box["items"] or box["alerts"]) and not box["since"]:
         box["since"] = at
+    if len(log) > MAX_ARCHIVE:
+        del log[: len(log) - MAX_ARCHIVE]
 
 
 def held_results(state: dict) -> list:

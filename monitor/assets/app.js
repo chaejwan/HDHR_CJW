@@ -29,6 +29,7 @@ const DEFAULT_CONFIG = {
     subject_prefix: '[채용 알림]',
   },
   request: { timeout_sec: 20 },
+  page_url: '',
   digest: {
     enabled: false, days: ['mon', 'tue', 'wed', 'thu', 'fri'], times: ['08:00'],
     timezone: 'Asia/Seoul', utc_offset_hours: 9,
@@ -43,7 +44,9 @@ const el = {};
   'digestEnabled', 'digestDays', 'digestTimes', 'digestTz',
   'smtpSecurity', 'smtpUser', 'smtpFrom', 'subjectPrefix', 'tokenInput', 'tokenSaveBtn',
   'tokenClearBtn', 'tokenState', 'copyJsonBtn', 'editOnGithub', 'actionsLink', 'secretsLink',
-  'feed', 'sourceLine', 'toast', 'modal', 'modalTitle', 'modalBody', 'siteTemplate',
+  'sourceLine', 'toast', 'modal', 'modalTitle', 'modalBody', 'siteTemplate',
+  'tabFeedBtn', 'tabSettingsBtn', 'panelFeed', 'panelSettings', 'refreshBtn2',
+  'feedStat', 'feedSearch', 'feedSites', 'feedList', 'feedMoreBtn',
 ].forEach((id) => { el[id] = document.getElementById(id) || $('#' + id); });
 
 let repo = null;         // {owner, repo}
@@ -53,6 +56,8 @@ let configSha = '';      // 저장할 때 필요한 파일 버전
 let state = null;        // data/state.json
 let lastRun = null;      // data/last-run.json
 let emailStatus = null;  // data/email-status.json (마지막 메일 발송 결과)
+let feedFilter = { site: '', text: '' };   // 이력 탭 필터
+let feedLimit = 50;                        // 한 번에 보여 줄 건수
 let dirty = false;
 let busy = false;
 
@@ -308,6 +313,8 @@ function collectConfig() {
   out.email.from_addr = el.smtpFrom.value.trim();
   out.email.subject_prefix = el.subjectPrefix.value.trim();
   out.email.password = '';           // 비밀번호는 저장소에 두지 않는다
+  // 이 화면의 주소를 남겨 두면 메일에서 '공고 이력 페이지' 로 이어 줄 수 있다.
+  out.page_url = location.origin + location.pathname;
   out.digest = Object.assign({}, cfg.digest, {
     enabled: el.digestEnabled.checked,
     days: cfg.digest.days.slice(),
@@ -459,24 +466,142 @@ function renderRun() {
     ${rows || '<p class="empty">확인한 사이트가 없습니다.</p>'}`;
 }
 
-function renderFeed() {
-  const rows = [];
-  const sites = (state && state.sites) || {};
-  (cfg.sites || []).forEach((site) => {
-    const entry = sites[site.id];
-    if (!entry) return;
-    (entry.history || []).forEach((record) => {
-      (record.new || []).forEach((item) => rows.push(Object.assign({ site: site.name, at: record.at }, item)));
-    });
+function historyRows() {
+  /* 확인하면서 발견한 공고들 (state.json 의 archive). 최신 순으로. */
+  const names = {};
+  (cfg && cfg.sites || []).forEach((site) => { names[site.id] = site.name; });
+  const rows = ((state && state.archive) || []).map((row) => Object.assign({}, row, {
+    site_name: names[row.site_id] || row.site_name || row.site_id,
+  }));
+  rows.sort((a, b) => String(b.found_at).localeCompare(String(a.found_at)));
+  return rows;
+}
+
+function dayLabel(iso) {
+  const date = new Date(iso);
+  if (isNaN(date)) return '날짜 미상';
+  const today = new Date();
+  const same = (a, b) => a.toDateString() === b.toDateString();
+  const yesterday = new Date(today.getTime() - 86400000);
+  const stamp = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+  if (same(date, today)) return `오늘 (${stamp})`;
+  if (same(date, yesterday)) return `어제 (${stamp})`;
+  const days = ['일', '월', '화', '수', '목', '금', '토'];
+  return `${stamp} (${days[date.getDay()]})`;
+}
+
+function fmtDeadline(value) {
+  /* 사이트마다 제각각인 날짜 표기를 읽기 좋게. 모르는 형식은 그대로 둔다. */
+  const text = String(value || '').trim();
+  const digits = text.match(/^(\d{4})(\d{2})(\d{2})$/);
+  if (digits) return `${digits[1]}-${digits[2]}-${digits[3]}`;
+  return text.replace(/\./g, '-').replace(/-\s/g, ' ');
+}
+
+function renderFeedSites(rows) {
+  const counts = new Map();
+  rows.forEach((row) => counts.set(row.site_name, (counts.get(row.site_name) || 0) + 1));
+  const chips = [`<button class="chip" type="button" data-site="" aria-pressed="${!feedFilter.site}">전체 ${rows.length}</button>`];
+  [...counts.entries()].sort((a, b) => b[1] - a[1]).forEach(([name, count]) => {
+    chips.push(`<button class="chip" type="button" data-site="${escapeHtml(name)}"`
+      + ` aria-pressed="${feedFilter.site === name}">${escapeHtml(name)} ${count}</button>`);
   });
-  rows.sort((a, b) => String(b.at).localeCompare(String(a.at)));
-  el.feed.innerHTML = rows.length
-    ? rows.slice(0, 30).map((row) => `
-      <div class="feed__item">
-        <a href="${escapeHtml(row.url)}" target="_blank" rel="noopener">${escapeHtml(row.title)}</a>
-        <div class="feed__meta">${escapeHtml(row.site)} · 발견 ${fmtTime(row.at)}${row.date ? ' · ' + escapeHtml(row.date) : ''}</div>
-      </div>`).join('')
-    : '<p class="empty">아직 새로 발견한 공고가 없습니다.</p>';
+  el.feedSites.innerHTML = chips.join('');
+}
+
+function renderFeed() {
+  const all = historyRows();
+  renderFeedSites(all);
+
+  const text = feedFilter.text.trim().toLowerCase();
+  const rows = all.filter((row) =>
+    (!feedFilter.site || row.site_name === feedFilter.site)
+    && (!text || String(row.title || '').toLowerCase().includes(text)));
+
+  const pending = (lastRun && lastRun.pending) || {};
+  const bits = [];
+  if (lastRun) bits.push(`마지막 확인 ${fmtTime(lastRun.at)}`);
+  bits.push(`모아 둔 공고 ${all.length}건`);
+  if (pending.items) bits.push(`다음 메일에 나갈 새 공고 ${pending.items}건`);
+  if (pending.schedule) bits.push(`메일 발송 ${pending.schedule}`);
+  el.feedStat.textContent = bits.join(' · ');
+
+  if (!rows.length) {
+    el.feedList.innerHTML = all.length
+      ? '<p class="empty">조건에 맞는 공고가 없습니다.</p>'
+      : '<p class="empty">아직 발견한 공고가 없습니다. 확인이 한 번 돌면 여기에 쌓입니다.</p>';
+    el.feedMoreBtn.hidden = true;
+    return;
+  }
+
+  const shown = rows.slice(0, feedLimit);
+  let html = '';
+  let currentDay = '';
+  shown.forEach((row, index) => {
+    const day = dayLabel(row.found_at);
+    if (day !== currentDay) {
+      if (currentDay) html += '</div>';
+      html += `<h3 class="feedday">${escapeHtml(day)}</h3><div class="feedday__items">`;
+      currentDay = day;
+    }
+    const url = row.url || row.site_link || '';
+    html += `
+      <article class="post">
+        <div class="post__main">
+          <a class="post__title" href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(row.title || '(제목 없음)')}</a>
+          <div class="post__meta">
+            <span class="post__site">${escapeHtml(row.site_name || '')}</span>
+            ${row.date ? `<span>마감·접수 ${escapeHtml(fmtDeadline(row.date))}</span>` : ''}
+            <span>발견 ${fmtTime(row.found_at)}</span>
+          </div>
+        </div>
+        <button class="btn btn--small post__copy" type="button" data-copy="${escapeHtml(url)}" data-index="${index}">링크복사</button>
+      </article>`;
+  });
+  html += '</div>';
+  el.feedList.innerHTML = html;
+  el.feedMoreBtn.hidden = rows.length <= feedLimit;
+  el.feedMoreBtn.textContent = `더 보기 (${rows.length - feedLimit}건 남음)`;
+}
+
+async function copyText(text, button) {
+  let ok = false;
+  try {
+    await navigator.clipboard.writeText(text);
+    ok = true;
+  } catch (err) {
+    // 권한이나 브라우저 사정으로 막히면 예전 방식으로 한 번 더 시도한다.
+    const area = document.createElement('textarea');
+    area.value = text;
+    area.setAttribute('readonly', '');
+    area.style.position = 'fixed';
+    area.style.opacity = '0';
+    document.body.appendChild(area);
+    area.select();
+    try { ok = document.execCommand('copy'); } catch (err2) { ok = false; }
+    document.body.removeChild(area);
+  }
+  if (button) {
+    const original = button.textContent;
+    button.textContent = ok ? '복사됨' : '복사 실패';
+    button.classList.toggle('btn--done', ok);
+    setTimeout(() => { button.textContent = original; button.classList.remove('btn--done'); }, 1500);
+  }
+  if (!ok) toast('복사하지 못했습니다. 주소를 길게 눌러 직접 복사해 주세요.', true);
+}
+
+function showTab(name) {
+  const feed = name !== 'settings';
+  el.panelFeed.hidden = !feed;
+  el.panelSettings.hidden = feed;
+  el.tabFeedBtn.setAttribute('aria-selected', String(feed));
+  el.tabSettingsBtn.setAttribute('aria-selected', String(!feed));
+  el.saveBtn.hidden = feed;
+  el.runBtn.hidden = feed;
+  try { localStorage.setItem('jobmon.tab', feed ? 'feed' : 'settings'); } catch (err) { /* 무시 */ }
+  if (location.hash !== (feed ? '#feed' : '#settings')) {
+    history.replaceState(null, '', feed ? '#feed' : '#settings');
+  }
 }
 
 function renderStatusLine() {
@@ -713,6 +838,28 @@ el.refreshBtn.addEventListener('click', () => {
   if (dirty && !confirm('저장하지 않은 변경이 사라집니다. 계속할까요?')) return;
   loadAll(true).catch((err) => toast(err.message, true));
 });
+el.tabFeedBtn.addEventListener('click', () => showTab('feed'));
+el.tabSettingsBtn.addEventListener('click', () => showTab('settings'));
+el.refreshBtn2.addEventListener('click', () => loadAll(true).catch((err) => toast(err.message, true)));
+el.feedSearch.addEventListener('input', () => {
+  feedFilter.text = el.feedSearch.value;
+  feedLimit = 50;
+  renderFeed();
+});
+el.feedSites.addEventListener('click', (event) => {
+  const chip = event.target.closest('.chip[data-site]');
+  if (!chip) return;
+  feedFilter.site = chip.dataset.site === feedFilter.site ? '' : chip.dataset.site;
+  feedLimit = 50;
+  renderFeed();
+});
+el.feedMoreBtn.addEventListener('click', () => { feedLimit += 50; renderFeed(); });
+el.feedList.addEventListener('click', (event) => {
+  const button = event.target.closest('[data-copy]');
+  if (!button) return;
+  copyText(button.dataset.copy, button);
+});
+
 el.digestDays.addEventListener('click', (event) => {
   const chip = event.target.closest('.chip[data-day]');
   if (!chip || !cfg) return;
@@ -734,6 +881,15 @@ document.getElementById('modalClose').addEventListener('click', () => { el.modal
 el.modal.addEventListener('click', (event) => { if (event.target === el.modal) el.modal.hidden = true; });
 document.addEventListener('keydown', (event) => { if (event.key === 'Escape') el.modal.hidden = true; });
 window.addEventListener('beforeunload', (event) => { if (dirty) { event.preventDefault(); event.returnValue = ''; } });
+
+// 처음 열 때 어느 탭을 보여 줄지: 주소의 #settings > 지난번에 보던 탭 > 공고 이력
+(function restoreTab() {
+  let saved = '';
+  try { saved = localStorage.getItem('jobmon.tab') || ''; } catch (err) { /* 무시 */ }
+  const wanted = location.hash === '#settings' ? 'settings'
+    : location.hash === '#feed' ? 'feed' : (saved || 'feed');
+  showTab(wanted);
+})();
 
 setInterval(() => { if (!busy && !dirty) loadAll(false).catch(() => {}); }, 120000);
 boot();

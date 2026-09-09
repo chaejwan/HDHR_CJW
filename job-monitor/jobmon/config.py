@@ -22,6 +22,7 @@ MAX_INTERVAL_HOURS = 24 * 30
 DEFAULT_CONFIG = {
     "check_interval_hours": 24,
     "notify_on_first_run": False,
+    "page_url": "",               # 설정 화면 주소 (메일에서 '공고 이력 보기' 로 연결)
     "recipients": [],
     "email": {
         "enabled": False,
@@ -154,6 +155,7 @@ def normalize(config: dict) -> dict:
         cfg.get("check_interval_hours"), DEFAULT_CONFIG["check_interval_hours"]
     )
     cfg["notify_on_first_run"] = bool(cfg.get("notify_on_first_run"))
+    cfg["page_url"] = (cfg.get("page_url") or "").strip()
 
     recipients = cfg.get("recipients") or []
     if isinstance(recipients, str):

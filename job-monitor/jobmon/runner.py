@@ -399,6 +399,8 @@ class Monitor:
         # 이번에 나온 것을 발송함에 담아 둔다. 메일은 여기서 바로 보내는 것이 아니라
         # 정해 둔 발송 시각에 모아서 나간다 (모아 보내기가 꺼져 있으면 곧바로 나간다).
         with self._lock:
+            store_mod.seed_archive(state, {s["id"]: s.get("name") or s["id"]
+                                           for s in (cfg.get("sites") or [])})
             store_mod.hold(state, results, alerts, summary["at"])
             self.save_state(state)
 
@@ -439,7 +441,8 @@ class Monitor:
         mails = []
         if pending_items:
             held = store_mod.held_results(state)
-            subject, text, html = notify_mod.render(held, prefix, since=box.get("since", ""))
+            subject, text, html = notify_mod.render(held, prefix, since=box.get("since", ""),
+                                                    page_url=cfg.get("page_url") or "")
             mails.append(("새 공고", posting_to, subject, text, html))
         if pending_alerts:
             subject, text, html = notify_mod.render_alerts(pending_alerts, results, prefix)

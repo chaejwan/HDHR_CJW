@@ -18,7 +18,36 @@
     </div>
   </header>
 
+  <nav class="tabs" role="tablist">
+    <button class="tab" id="tabFeedBtn" type="button" role="tab" aria-selected="true">채용 공고 이력</button>
+    <button class="tab" id="tabSettingsBtn" type="button" role="tab" aria-selected="false">설정</button>
+  </nav>
+
   <main class="wrap">
+    <!-- ------------------------------------------------ 채용 공고 이력 탭 -->
+    <div id="panelFeed" role="tabpanel">
+      <section class="card">
+        <div class="card__head">
+          <h2>채용 공고 이력</h2>
+          <button id="refreshBtn2" class="btn btn--small" type="button">새로고침</button>
+        </div>
+        <p class="feedstat" id="feedStat">불러오는 중…</p>
+        <div class="feedbar">
+          <input id="feedSearch" class="feedbar__search" type="search"
+                 placeholder="제목으로 찾기 (예: 개발, 경력, 재무)" />
+          <div class="chips" id="feedSites"></div>
+        </div>
+        <div id="feedList" class="feedlist"><p class="empty">불러오는 중…</p></div>
+        <div class="feedmore"><button id="feedMoreBtn" class="btn btn--small" type="button" hidden>더 보기</button></div>
+        <p class="hint">
+          제목을 누르면 공고 페이지가 열립니다. 사내망에서 열리지 않는다면
+          <b>링크복사</b> 를 눌러 주소를 복사한 뒤, 개인 브라우저 새 탭에 붙여넣어 여세요.
+        </p>
+      </section>
+    </div>
+
+    <!-- ------------------------------------------------ 설정 탭 -->
+    <div id="panelSettings" role="tabpanel" hidden>
     <div id="notice"></div>
 
     <section class="card">
@@ -189,11 +218,8 @@
       </div>
     </section>
 
-    <section class="card">
-      <div class="card__head"><h2>최근 발견한 공고</h2></div>
-      <div id="feed" class="feed"></div>
-      <p class="hint" id="sourceLine"></p>
-    </section>
+    <p class="hint" id="sourceLine"></p>
+    </div><!-- /설정 탭 -->
   </main>
 
   <div id="toast" class="toast" hidden></div>
