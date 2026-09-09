@@ -17,10 +17,25 @@
     "timeout_sec": 45,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
   },
+  "digest": {
+    "enabled": true,
+    "days": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri"
+    ],
+    "times": [
+      "08:00"
+    ],
+    "timezone": "Asia/Seoul",
+    "utc_offset_hours": 9
+  },
   "sites": [
     {
       "id": "hanwhain",
-      "name": "한화 채용 (hanwhain)",
+      "name": "한화",
       "url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
       "home_url": "https://www.hanwhain.com/portal/apply/recruit",
       "enabled": true,
@@ -49,7 +64,7 @@
     },
     {
       "id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-      "name": "한화오션 채용",
+      "name": "한화오션",
       "url": "https://recruit-hanwhaocean.com/ko/intro",
       "home_url": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
       "enabled": true,
@@ -78,7 +93,7 @@
     },
     {
       "id": "sk-sk-careers",
-      "name": "SK 채용 (SK Careers)",
+      "name": "SK",
       "url": "https://www.skcareers.com/Recruit/GetRecruitList",
       "home_url": "https://www.skcareers.com/Recruit",
       "enabled": true,
@@ -111,7 +126,7 @@
     },
     {
       "id": "talent-hyundai-com-apply-applylist-hc-nf",
-      "name": "현대자동차 채용",
+      "name": "현대자동차",
       "url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
       "home_url": "https://talent.hyundai.com/apply/applyList.hc",
       "enabled": true,
@@ -142,7 +157,7 @@
     },
     {
       "id": "samsungcareers-com-hr",
-      "name": "삼성 채용",
+      "name": "삼성",
       "url": "https://www.samsungcareers.com/hr/list.data",
       "home_url": "https://www.samsungcareers.com/hr/",
       "enabled": true,
@@ -173,20 +188,5 @@
         "date_field": "period"
       }
     }
-  ],
-  "digest": {
-    "enabled": true,
-    "days": [
-      "mon",
-      "tue",
-      "wed",
-      "thu",
-      "fri"
-    ],
-    "times": [
-      "08:00"
-    ],
-    "timezone": "Asia/Seoul",
-    "utc_offset_hours": 9
-  }
+  ]
 }
