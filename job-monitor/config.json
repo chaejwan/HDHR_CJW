@@ -1,5 +1,5 @@
 {
-  "check_interval_hours": 0.5,
+  "check_interval_hours": 20,
   "notify_on_first_run": false,
   "recipients": [],
   "email": {
