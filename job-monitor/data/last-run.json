@@ -1,5 +1,5 @@
 {
- "at": "2026-09-09T02:30:53+00:00",
+ "at": "2026-09-09T03:00:56+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
@@ -8,7 +8,7 @@
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34303477184",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34305434558",
  "results": [
   {
    "site_id": "hanwhain",
@@ -40,14 +40,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 97,
+   "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "제조 물류자동화(AMHS) 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261946",
+     "title": "전사 노무 담당자 경력직(정직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261947",
      "date": ""
     }
    ]
