@@ -81,6 +81,7 @@ jobs:
           JOBMON_SMTP_PASSWORD: ${{ secrets.JOBMON_SMTP_PASSWORD }}
           JOBMON_SMTP_FROM: ${{ secrets.JOBMON_SMTP_FROM }}
           JOBMON_RECIPIENTS: ${{ secrets.JOBMON_RECIPIENTS }}
+          JOBMON_POSTING_RECIPIENTS: ${{ secrets.JOBMON_POSTING_RECIPIENTS }}
         run: python3 job-monitor/monitor.py --config job-monitor/config.json test-email
 
       - name: 공고 확인
@@ -95,6 +96,7 @@ jobs:
           JOBMON_SMTP_PASSWORD: ${{ secrets.JOBMON_SMTP_PASSWORD }}
           JOBMON_SMTP_FROM: ${{ secrets.JOBMON_SMTP_FROM }}
           JOBMON_RECIPIENTS: ${{ secrets.JOBMON_RECIPIENTS }}
+          JOBMON_POSTING_RECIPIENTS: ${{ secrets.JOBMON_POSTING_RECIPIENTS }}
         run: |
           python3 job-monitor/monitor.py \
             --config job-monitor/config.json \
