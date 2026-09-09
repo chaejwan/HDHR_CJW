@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<title>행정구역 지도 — 성남시 분당구</title>
+<meta name="description" content="행정동과 법정동 경계를 한 화면에서 여러 개 동시에 볼 수 있는 지도.">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <aside id="panel" aria-label="구역 선택">
+    <header class="panel-head">
+      <h1>행정구역 지도</h1>
+      <p class="subtitle" id="scope-label">성남시 분당구</p>
+    </header>
+
+    <div class="tabs" role="tablist" aria-label="구역 체계">
+      <button class="tab" role="tab" data-level="hjd" aria-selected="true">행정동</button>
+      <button class="tab" role="tab" data-level="bjd" aria-selected="false">법정동</button>
+    </div>
+
+    <div class="search-row">
+      <input id="search" type="search" placeholder="구역 이름 검색 (예: 수내, ㅅㄴ)" autocomplete="off" aria-label="구역 이름 검색">
+      <button id="search-clear" class="icon-btn" title="검색어 지우기" hidden>✕</button>
+    </div>
+
+    <div class="bulk-row">
+      <button id="select-all" class="mini-btn">전체 선택</button>
+      <button id="select-none" class="mini-btn">전체 해제</button>
+      <span class="spacer"></span>
+      <span id="count-badge" class="badge">0 / 0</span>
+    </div>
+
+    <div id="notice" class="notice" hidden></div>
+
+    <ul id="list" class="list" role="listbox" aria-multiselectable="true"></ul>
+
+    <footer class="panel-foot">
+      <div class="summary" id="summary"></div>
+      <div class="options">
+        <label><input type="checkbox" id="opt-labels" checked> 이름 표시</label>
+        <label><input type="checkbox" id="opt-only-selected"> 선택만 보기</label>
+        <label><input type="checkbox" id="opt-outline" checked> 구 전체 외곽선</label>
+      </div>
+      <div class="basemap-row">
+        <label for="basemap">배경지도</label>
+        <select id="basemap">
+          <option value="light">밝게</option>
+          <option value="dark">어둡게</option>
+          <option value="none">없음</option>
+        </select>
+        <button id="fit-btn" class="mini-btn" title="선택 구역이 다 보이도록 이동">화면 맞춤</button>
+      </div>
+      <p class="credit" id="credit"></p>
+    </footer>
+  </aside>
+
+  <main id="map-wrap">
+    <div id="map"></div>
+    <button id="panel-toggle" class="panel-toggle" aria-expanded="true" title="목록 접기/펼치기">◀</button>
+    <div id="tooltip" class="tooltip" hidden></div>
+    <div id="labels" class="labels" aria-hidden="true"></div>
+  </main>
+
+</div>
+
+<script src="vendor/maplibre-gl.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
