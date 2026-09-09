@@ -1,14 +1,14 @@
 {
- "at": "2026-09-09T03:30:41+00:00",
+ "at": "2026-09-09T04:00:50+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
   "skipped": ""
  },
  "alerts": [],
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34307378255",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34309283657",
  "results": [
   {
    "site_id": "hanwhain",
@@ -39,12 +39,18 @@
    "site_name": "SK 채용 (SK Careers)",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
+   "status": "new",
    "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "ER 담당 노무사 경력직(정직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261947",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
