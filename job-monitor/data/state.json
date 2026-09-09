@@ -520,15 +520,25 @@
      "first_seen": "2026-09-09T05:31:05+00:00"
     }
    },
-   "last_check": "2026-09-09T06:00:38+00:00",
-   "last_success": "2026-09-09T05:31:05+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-09T06:18:01+00:00",
+   "last_success": "2026-09-09T06:18:01+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "64ac024ddb1e96bc",
+   "item_count": 76,
+   "fingerprint": "93e9c1f0062b852f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:18:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:00:38+00:00",
      "status": "error",
@@ -830,26 +840,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T16:30:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
-    "Special Situation팀 '글로벌전략투자 및 파트너십 전문가' 경력채용(대리~차장)",
-    "경력직 채용_RSP운용팀 (LDI 주식운용_퇴직계정)",
-    "[한화생명]PLUS WM전략팀 '클라우드•DevOps 엔지니어' 경력채용",
-    "[한화생명]PLUS WM전략팀 '백엔드 개발' 경력채용(주니어)",
-    "[한화생명]PLUS WM전략팀 'UX•UI 디자이너' 경력채용"
+    "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(기계,장치/배관,계전)",
+    "[한화모멘텀㈜] 시설관리(공무) 계약직 신입/경력 채용",
+    "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
+    "DB영업 기획/교육",
+    "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)"
    ],
    "health": {
     "issue": "",
@@ -1209,8 +1209,8 @@
      "first_seen": "2026-09-08T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-09T06:03:05+00:00",
-   "last_success": "2026-09-09T06:03:05+00:00",
+   "last_check": "2026-09-09T06:18:02+00:00",
+   "last_success": "2026-09-09T06:18:02+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1218,6 +1218,16 @@
    "fingerprint": "95c9872730e6423c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:18:02+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:03:05+00:00",
      "status": "ok",
@@ -1500,16 +1510,6 @@
     },
     {
      "at": "2026-09-08T16:30:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T16:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2285,17 +2285,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261947",
      "date": "",
      "first_seen": "2026-09-09T04:33:06+00:00"
+    },
+    "56f3c1be548fd246": {
+     "title": "[신입] SK바이오텍 설비관리 운전원 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261951",
+     "date": "",
+     "first_seen": "2026-09-09T06:18:04+00:00"
+    },
+    "f5cf0bb09f01e0d1": {
+     "title": "[경력] SK바이오텍 설비엔지니어 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261950",
+     "date": "",
+     "first_seen": "2026-09-09T06:18:04+00:00"
     }
    },
-   "last_check": "2026-09-09T06:03:09+00:00",
-   "last_success": "2026-09-09T06:03:09+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-09T06:18:04+00:00",
+   "last_success": "2026-09-09T06:18:04+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 99,
-   "fingerprint": "8db232213369fbfd",
+   "item_count": 101,
+   "fingerprint": "6357d5ea86430bc8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:18:04+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[신입] SK바이오텍 설비관리 운전원 신입사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261951",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 설비엔지니어 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261950",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-09T06:03:09+00:00",
      "status": "ok",
@@ -2621,16 +2654,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T16:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2647,7 +2670,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T04:33:06+00:00"
+   "last_new_at": "2026-09-09T06:18:04+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -3976,17 +3999,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=203",
      "date": "20260916",
      "first_seen": "2026-09-09T06:03:10+00:00"
+    },
+    "487c04c51963304f": {
+     "title": "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=204",
+     "date": "20260916",
+     "first_seen": "2026-09-09T06:18:05+00:00"
     }
    },
-   "last_check": "2026-09-09T06:03:10+00:00",
-   "last_success": "2026-09-09T06:03:10+00:00",
+   "last_check": "2026-09-09T06:18:05+00:00",
+   "last_success": "2026-09-09T06:18:05+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 155,
-   "fingerprint": "8909b189e1710934",
+   "item_count": 156,
+   "fingerprint": "6f381d43d27418bd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:18:05+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=204",
+       "date": "20260916"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T06:03:10+00:00",
      "status": "new",
@@ -4298,16 +4343,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T16:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4324,7 +4359,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T06:03:10+00:00"
+   "last_new_at": "2026-09-09T06:18:05+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -4821,8 +4856,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T06:03:14+00:00",
-   "last_success": "2026-09-09T06:03:14+00:00",
+   "last_check": "2026-09-09T06:18:08+00:00",
+   "last_success": "2026-09-09T06:18:08+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -4830,6 +4865,16 @@
    "fingerprint": "e2251115eddd9f3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-09T06:18:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T06:03:14+00:00",
      "status": "ok",
@@ -5119,16 +5164,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T16:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5146,5 +5181,11 @@
     "since": ""
    }
   }
+ },
+ "outbox": {
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-09T06:18:14+00:00"
  }
 }
