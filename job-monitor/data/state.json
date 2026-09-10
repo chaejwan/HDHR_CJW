@@ -542,17 +542,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
      "date": "2026.09.21 15:00",
      "first_seen": "2026-09-10T00:14:17+00:00"
+    },
+    "3c18955960da472e": {
+     "title": "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19730",
+     "date": "2026.09.23 23:59",
+     "first_seen": "2026-09-10T01:10:34+00:00"
     }
    },
-   "last_check": "2026-09-10T00:14:17+00:00",
-   "last_success": "2026-09-10T00:14:17+00:00",
+   "last_check": "2026-09-10T01:10:34+00:00",
+   "last_success": "2026-09-10T01:10:34+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 77,
-   "fingerprint": "bf72bc9e00cbca32",
+   "item_count": 78,
+   "fingerprint": "6f98ee2b052d0a5b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T01:10:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19730",
+       "date": "2026.09.23 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-10T00:14:17+00:00",
      "status": "new",
@@ -877,16 +899,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T21:30:28+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -903,7 +915,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-10T00:14:17+00:00"
+   "last_new_at": "2026-09-10T01:10:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1340,8 +1352,8 @@
      "first_seen": "2026-09-09T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-10T00:14:19+00:00",
-   "last_success": "2026-09-10T00:14:19+00:00",
+   "last_check": "2026-09-10T01:10:36+00:00",
+   "last_success": "2026-09-10T01:10:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1349,6 +1361,16 @@
    "fingerprint": "e54e13534b8bca47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T01:10:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-10T00:14:19+00:00",
      "status": "ok",
@@ -1631,16 +1653,6 @@
     },
     {
      "at": "2026-09-08T21:30:29+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2452,17 +2464,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261959",
      "date": "",
      "first_seen": "2026-09-10T00:14:24+00:00"
+    },
+    "ca126502c5df614f": {
+     "title": "청주 부속의원 독감 예방접종 의사/간호사 단기 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261926",
+     "date": "",
+     "first_seen": "2026-09-10T01:10:38+00:00"
+    },
+    "0578f37af36afd0d": {
+     "title": "제조 설비OT 사업 보건관리 담당자 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261934",
+     "date": "",
+     "first_seen": "2026-09-10T01:10:38+00:00"
     }
    },
-   "last_check": "2026-09-10T00:14:24+00:00",
-   "last_success": "2026-09-10T00:14:24+00:00",
+   "last_check": "2026-09-10T01:10:38+00:00",
+   "last_success": "2026-09-10T01:10:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "1228f9762e3258fa",
+   "item_count": 99,
+   "fingerprint": "5e4b8e038ac0c859",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T01:10:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "청주 부속의원 독감 예방접종 의사/간호사 단기 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261926",
+       "date": ""
+      },
+      {
+       "title": "제조 설비OT 사업 보건관리 담당자 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261934",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-10T00:14:24+00:00",
      "status": "new",
@@ -2822,16 +2867,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2848,7 +2883,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-10T00:14:24+00:00"
+   "last_new_at": "2026-09-10T01:10:38+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4197,15 +4232,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-10T00:14:25+00:00",
-   "last_success": "2026-09-10T00:14:25+00:00",
+   "last_check": "2026-09-10T01:10:39+00:00",
+   "last_success": "2026-09-10T01:10:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 157,
-   "fingerprint": "5d2b279bc138611d",
+   "fingerprint": "a3ae45847205cb20",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T01:10:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-10T00:14:25+00:00",
      "status": "ok",
@@ -4527,16 +4572,6 @@
     },
     {
      "at": "2026-09-08T21:30:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T21:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5057,8 +5092,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-10T00:14:29+00:00",
-   "last_success": "2026-09-10T00:14:29+00:00",
+   "last_check": "2026-09-10T01:10:43+00:00",
+   "last_success": "2026-09-10T01:10:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5066,6 +5101,16 @@
    "fingerprint": "e1155ec3869974e6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T01:10:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-10T00:14:29+00:00",
      "status": "ok",
@@ -5355,16 +5400,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T21:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5411,6 +5446,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261959",
     "date": "",
     "found_at": "2026-09-10T00:14:33+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19730",
+    "date": "2026.09.23 23:59",
+    "found_at": "2026-09-10T01:10:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "청주 부속의원 독감 예방접종 의사/간호사 단기 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261926",
+    "date": "",
+    "found_at": "2026-09-10T01:10:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 설비OT 사업 보건관리 담당자 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261934",
+    "date": "",
+    "found_at": "2026-09-10T01:10:46+00:00"
    }
   ],
   "alerts": [],
@@ -8918,6 +8980,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261959",
    "date": "",
    "found_at": "2026-09-10T00:14:33+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19730",
+   "date": "2026.09.23 23:59",
+   "found_at": "2026-09-10T01:10:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "청주 부속의원 독감 예방접종 의사/간호사 단기 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261926",
+   "date": "",
+   "found_at": "2026-09-10T01:10:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 설비OT 사업 보건관리 담당자 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261934",
+   "date": "",
+   "found_at": "2026-09-10T01:10:46+00:00"
   }
  ]
 }
