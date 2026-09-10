@@ -578,17 +578,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19742",
      "date": "2026.12.31 23:59",
      "first_seen": "2026-09-10T06:00:35+00:00"
+    },
+    "0e402bce60173d7f": {
+     "title": "AI Agent Project Manager 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19744",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-10T08:00:34+00:00"
     }
    },
-   "last_check": "2026-09-10T06:00:35+00:00",
-   "last_success": "2026-09-10T06:00:35+00:00",
+   "last_check": "2026-09-10T08:00:34+00:00",
+   "last_success": "2026-09-10T08:00:34+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "358259d62dd5738a",
+   "item_count": 80,
+   "fingerprint": "f56b3bb3fc0f2516",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T08:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "AI Agent Project Manager 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19744",
+       "date": "2026.09.20 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-10T06:00:35+00:00",
      "status": "new",
@@ -946,33 +968,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T22:57:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
-    "DB영업 기획/교육",
-    "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
     "2026 한화솔루션 인사이트부문 사업지원실 구매&DT팀 경력직 채용",
-    "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)"
+    "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
+    "[한화에어로스페이스] 항공사업부 SW 품질보증(SQA) 경력사원 수시채용",
+    "[한화모멘텀(주)] HR Business Partner 경력 채용",
+    "[한화라이프랩] 마케팅추진팀 담당자"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-10T06:00:35+00:00"
+   "last_new_at": "2026-09-10T08:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1409,8 +1421,8 @@
      "first_seen": "2026-09-09T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-10T06:00:36+00:00",
-   "last_success": "2026-09-10T06:00:36+00:00",
+   "last_check": "2026-09-10T08:00:35+00:00",
+   "last_success": "2026-09-10T08:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1418,6 +1430,16 @@
    "fingerprint": "e54e13534b8bca47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T08:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-10T06:00:36+00:00",
      "status": "ok",
@@ -1700,16 +1722,6 @@
     },
     {
      "at": "2026-09-08T23:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T22:32:56+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2569,17 +2581,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261960",
      "date": "",
      "first_seen": "2026-09-10T06:00:41+00:00"
+    },
+    "3bcb1f02b945e1b1": {
+     "title": "용인 부속의원 간호사 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261957",
+     "date": "",
+     "first_seen": "2026-09-10T08:00:42+00:00"
     }
    },
-   "last_check": "2026-09-10T06:00:41+00:00",
-   "last_success": "2026-09-10T06:00:41+00:00",
+   "last_check": "2026-09-10T08:00:42+00:00",
+   "last_success": "2026-09-10T08:00:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 105,
-   "fingerprint": "f409a48f8091a798",
+   "item_count": 106,
+   "fingerprint": "64447b897afa5aca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T08:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "용인 부속의원 간호사 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261957",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-10T06:00:41+00:00",
      "status": "new",
@@ -2982,16 +3016,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T22:33:03+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3008,7 +3032,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-10T06:00:41+00:00"
+   "last_new_at": "2026-09-10T08:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4357,15 +4381,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-10T06:00:42+00:00",
-   "last_success": "2026-09-10T06:00:42+00:00",
+   "last_check": "2026-09-10T08:00:43+00:00",
+   "last_success": "2026-09-10T08:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 157,
-   "fingerprint": "f2cb9dd3376a905e",
+   "fingerprint": "e1e2614a79180a23",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T08:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-10T06:00:42+00:00",
      "status": "ok",
@@ -4687,16 +4721,6 @@
     },
     {
      "at": "2026-09-08T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T22:33:04+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5217,8 +5241,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-10T06:00:46+00:00",
-   "last_success": "2026-09-10T06:00:46+00:00",
+   "last_check": "2026-09-10T08:00:48+00:00",
+   "last_success": "2026-09-10T08:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5226,6 +5250,16 @@
    "fingerprint": "e1155ec3869974e6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T08:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-10T06:00:46+00:00",
      "status": "ok",
@@ -5515,16 +5549,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T22:33:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5697,6 +5721,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261960",
     "date": "",
     "found_at": "2026-09-10T06:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "AI Agent Project Manager 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19744",
+    "date": "2026.09.20 23:59",
+    "found_at": "2026-09-10T08:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "용인 부속의원 간호사 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261957",
+    "date": "",
+    "found_at": "2026-09-10T08:00:52+00:00"
    }
   ],
   "alerts": [],
@@ -9330,6 +9372,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261960",
    "date": "",
    "found_at": "2026-09-10T06:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "AI Agent Project Manager 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19744",
+   "date": "2026.09.20 23:59",
+   "found_at": "2026-09-10T08:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "용인 부속의원 간호사 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261957",
+   "date": "",
+   "found_at": "2026-09-10T08:00:52+00:00"
   }
  ]
 }

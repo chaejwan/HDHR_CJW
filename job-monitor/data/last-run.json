@@ -1,20 +1,20 @@
 {
- "at": "2026-09-10T06:00:48+00:00",
+ "at": "2026-09-10T08:00:52+00:00",
  "checked": 5,
- "new_total": 7,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 17건 · 점검 0건). 09-11 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 09-11 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 17,
+  "items": 19,
   "alerts": 0,
   "since": "2026-09-10T00:14:33+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34443347168",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34452846798",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,20 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 83,
+   "item_count": 80,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화생명] 사무직 채용(경리, 회계, 사무지원)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19731",
-     "date": "2026.09.23 15:00"
-    },
-    {
-     "title": "[상시] 생산운전 오퍼레이터 경력 Pool 등록",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19742",
-     "date": "2026.12.31 23:59"
+     "title": "AI Agent Project Manager 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19744",
+     "date": "2026.09.20 23:59"
     }
    ]
   },
@@ -57,34 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 105,
+   "item_count": 106,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "고객 커뮤니케이션 메시지 윤문 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261961",
-     "date": ""
-    },
-    {
-     "title": "[삼강에스앤씨] Dock 운영 구성원 모집(Dock Master)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261966",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 플랜트 프로젝트 PM 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261967",
-     "date": ""
-    },
-    {
-     "title": "SK플라즈마 전략기획 경력 구성원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261965",
-     "date": ""
-    },
-    {
-     "title": "[SK케미칼] Pharma사업 의약품 RA(허가) 담당자 경력 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261960",
+     "title": "용인 부속의원 간호사 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261957",
      "date": ""
     }
    ]
