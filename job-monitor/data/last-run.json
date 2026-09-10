@@ -1,42 +1,59 @@
 {
- "at": "2026-09-10T14:03:19+00:00",
+ "at": "2026-09-10T16:00:53+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 09-11 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 24건 · 점검 1건). 09-11 08:00 에 보냅니다."
  },
- "alerts": [],
+ "alerts": [
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "kind": "relisted",
+   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+   "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+   "recovered": false
+  }
+ ],
  "pending": {
-  "items": 20,
-  "alerts": 0,
+  "items": 24,
+  "alerts": 1,
   "since": "2026-09-10T00:14:33+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34486238486",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34499337598",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 82,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "한화시스템 Talent Sourcer 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19746",
+     "date": "2026.09.20 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
+   "status": "baseline",
    "item_count": 14,
    "method": "links",
-   "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+   "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 72건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
    "error": "",
    "new_items": []
   },
@@ -45,12 +62,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 106,
+   "status": "new",
+   "item_count": 104,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[국가보훈대상자 제한경쟁채용] SK키파운드리 '26년 하반기 제조Operator(신입) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261944",
+     "date": ""
+    },
+    {
+     "title": "SK키파운드리 Diffusion 장비기술 Engineer 신입 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261963",
+     "date": ""
+    },
+    {
+     "title": "SK키파운드리 Photo 장비기술 Engineer 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261968",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
