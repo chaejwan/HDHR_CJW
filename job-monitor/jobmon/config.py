@@ -23,6 +23,9 @@ DEFAULT_CONFIG = {
     "check_interval_hours": 24,
     "notify_on_first_run": False,
     "page_url": "",               # 설정 화면 주소 (메일에서 '공고 이력 보기' 로 연결)
+    # 설정 화면을 열 때 물어보는 비밀번호. 비밀번호 자체는 저장하지 않고 해시만 둔다.
+    # 정적 페이지라 '완전한 잠금' 은 아니고, 모르는 사람이 우연히 들여다보는 것을 막는 용도.
+    "access": {"enabled": False, "salt": "", "hash": "", "hint": ""},
     "recipients": [],
     "email": {
         "enabled": False,
@@ -156,6 +159,13 @@ def normalize(config: dict) -> dict:
     )
     cfg["notify_on_first_run"] = bool(cfg.get("notify_on_first_run"))
     cfg["page_url"] = (cfg.get("page_url") or "").strip()
+
+    access = cfg["access"]
+    access["enabled"] = bool(access.get("enabled"))
+    for key in ("salt", "hash", "hint"):
+        access[key] = str(access.get(key) or "").strip()
+    if not (access["salt"] and access["hash"]):
+        access["enabled"] = False        # 비밀번호를 정하지 않았으면 켜지지 않는다
 
     recipients = cfg.get("recipients") or []
     if isinstance(recipients, str):

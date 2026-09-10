@@ -763,6 +763,23 @@ class ArchiveTest(unittest.TestCase):
         self.assertIn("채용공고 모니터가 자동으로 보낸", plain)
         self.assertNotIn("<a href='https://example.github.io", plain)
 
+
+class AccessGateTest(unittest.TestCase):
+    """설정 화면 비밀번호 (해시만 저장한다)."""
+
+    def test_password_is_never_stored_in_plain(self):
+        cfg = config_mod.normalize({"access": {
+            "enabled": True, "salt": "a1b2", "hash": "deadbeef", "hint": " 팀 이름 ",
+        }})
+        self.assertEqual(cfg["access"]["hint"], "팀 이름")
+        self.assertNotIn("password", cfg["access"])
+        text = json.dumps(cfg, ensure_ascii=False)
+        self.assertIn("deadbeef", text)
+
+    def test_cannot_turn_on_without_a_password(self):
+        cfg = config_mod.normalize({"access": {"enabled": True}})
+        self.assertFalse(cfg["access"]["enabled"])
+
 if __name__ == "__main__":
     unittest.main()
 

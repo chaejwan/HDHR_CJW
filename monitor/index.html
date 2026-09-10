@@ -7,6 +7,19 @@
   <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
+  <!-- 비밀번호를 걸어 두면, 맞기 전까지 이 화면만 보입니다 -->
+  <div id="gate" class="gate" hidden>
+    <form id="gateForm" class="gate__box">
+      <h1 class="gate__title">채용공고 모니터</h1>
+      <p class="gate__lead">이 페이지는 비밀번호를 아는 분만 볼 수 있습니다.</p>
+      <input id="gatePassword" class="gate__input" type="password" autocomplete="current-password"
+             placeholder="비밀번호" aria-label="비밀번호" />
+      <button class="btn btn--primary gate__btn" type="submit">열기</button>
+      <p id="gateHint" class="gate__hint" hidden></p>
+      <p id="gateError" class="gate__error" hidden>비밀번호가 맞지 않습니다.</p>
+    </form>
+  </div>
+
   <header class="topbar">
     <div class="topbar__title">
       <h1>채용공고 모니터</h1>
@@ -181,6 +194,27 @@
           <code>JOBMON_SMTP_USER</code>, <code>JOBMON_SMTP_FROM</code> 시크릿을 쓰면 이 설정보다 우선합니다.
         </div>
       </details>
+    </section>
+
+    <section class="card">
+      <div class="card__head"><h2>페이지 비밀번호</h2></div>
+      <label class="check">
+        <input id="gateEnabled" type="checkbox" />
+        <span>이 페이지를 열 때 비밀번호를 묻기</span>
+      </label>
+      <div class="row">
+        <label class="field"><span>새 비밀번호 (바꿀 때만 입력)</span>
+          <input id="gateNewPw" type="password" autocomplete="new-password" placeholder="비워 두면 그대로 둡니다" /></label>
+        <label class="field"><span>힌트 (선택)</span>
+          <input id="gateHintInput" type="text" placeholder="예: 팀 이름 + 연도" /></label>
+      </div>
+      <p class="hint">
+        비밀번호는 저장하지 않고 <b>되돌릴 수 없는 형태(해시)</b> 로만 저장소에 남습니다.
+        한 번 맞히면 그 브라우저에서는 30일 동안 다시 묻지 않습니다.<br />
+        <b>완전한 잠금은 아닙니다.</b> 이 페이지는 서버 없이 파일만 내려 주는 방식이라,
+        저장소 주소를 아는 사람은 비밀번호와 상관없이 원본 데이터를 볼 수 있습니다.
+        모르는 사람이 우연히 들여다보는 것을 막는 용도로 쓰세요.
+      </p>
     </section>
 
     <section class="card">
