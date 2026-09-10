@@ -452,7 +452,7 @@ class Monitor:
         if not email_cfg.get("enabled"):
             summary["email"]["skipped"] = "메일 발송이 꺼져 있습니다."
         else:
-            skipped, errors = [], []
+            skipped, errors, done = [], [], set()
             for kind, recipients, subject, text, html in mails:
                 if not recipients:
                     skipped.append(f"{kind}: 수신 이메일이 없습니다.")
@@ -460,16 +460,22 @@ class Monitor:
                 try:
                     notify_mod.send(email_cfg, recipients, subject, text, html)
                     summary["email"]["sent"] = True
+                    done.add(kind)
                     self.log(f"{kind} 메일 발송 완료 → {', '.join(recipients)}")
                 except notify_mod.NotifyError as exc:
                     errors.append(f"{kind}: {exc}")
                     self.log(f"{kind} 메일 발송 실패: {exc}")
             summary["email"]["error"] = " / ".join(errors)
             summary["email"]["skipped"] = " / ".join(skipped)
-            if summary["email"]["sent"] and not errors:
-                store_mod.clear_outbox(state, store_mod.now_iso())
-                self.save_state(state)
-                summary["pending"] = {"items": 0, "alerts": 0, "since": "",
+            if done:
+                # 나간 것만 비운다. 실패한 쪽은 남겨 두었다가 다음 확인 때 다시 보낸다.
+                with self._lock:
+                    store_mod.clear_outbox(state, store_mod.now_iso(),
+                                           items="새 공고" in done, alerts="점검 안내" in done)
+                    self.save_state(state)
+                box = store_mod.outbox(state)
+                summary["pending"] = {"items": len(box["items"]), "alerts": len(box["alerts"]),
+                                      "since": box.get("since", ""),
                                       "schedule": summary["pending"]["schedule"]}
         if summary["email"]["skipped"]:
             self.log(f"메일 발송 생략: {summary['email']['skipped']} (새 공고 {summary['new_total']}건)")
