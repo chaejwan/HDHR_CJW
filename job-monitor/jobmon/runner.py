@@ -384,25 +384,23 @@ class Monitor:
                 targets = [s for s in (cfg.get("sites") or []) if s.get("enabled")]
 
             results = [self.check_site(cfg, site, state, force=force) for site in targets]
+            alerts = [r["alert"] for r in results if r.get("alert")]
+            at = store_mod.now_iso()
+            # '이미 아는 공고' 기록과 '보낼 목록' 은 반드시 함께 저장한다. 따로 저장하면
+            # 그 사이에 실행이 끊겼을 때 공고가 아는 것으로만 남고 메일에는 못 실린다.
+            store_mod.seed_archive(state, {s["id"]: s.get("name") or s["id"]
+                                           for s in (cfg.get("sites") or [])})
+            store_mod.hold(state, results, alerts, at)
             self.save_state(state)
 
-        alerts = [r["alert"] for r in results if r.get("alert")]
         summary = {
-            "at": store_mod.now_iso(),
+            "at": at,
             "checked": len(results),
             "new_total": sum(len(r["new_items"]) for r in results),
             "results": results,
             "alerts": alerts,
             "email": {"sent": False, "error": "", "skipped": ""},
         }
-
-        # 이번에 나온 것을 발송함에 담아 둔다. 메일은 여기서 바로 보내는 것이 아니라
-        # 정해 둔 발송 시각에 모아서 나간다 (모아 보내기가 꺼져 있으면 곧바로 나간다).
-        with self._lock:
-            store_mod.seed_archive(state, {s["id"]: s.get("name") or s["id"]
-                                           for s in (cfg.get("sites") or [])})
-            store_mod.hold(state, results, alerts, summary["at"])
-            self.save_state(state)
 
         box = store_mod.outbox(state)
         pending_items, pending_alerts = box["items"], box["alerts"]
