@@ -26,8 +26,13 @@ def resolve_password(email_cfg: dict) -> str:
 
 BODY_STYLE = ("<div style=\"font-family:'Malgun Gothic',AppleSDGothicNeo-Regular,sans-serif;"
               "font-size:14px;color:#1f2328;line-height:1.6\">")
-FOOTER = ("<p style='margin-top:24px;color:#656d76;font-size:12px'>"
-          "채용공고 모니터가 자동으로 보낸 메일입니다.</p></div>")
+def footer(page_url: str = "") -> str:
+    """맨 아래 한 줄. 이력 페이지 주소를 알면 '채용공고 모니터' 에 링크를 건다."""
+    name = "채용공고 모니터"
+    if page_url:
+        name = (f"<a href='{html_mod.escape(page_url)}' style='color:#0969da'>{name}</a>")
+    return ("<p style='margin-top:24px;color:#656d76;font-size:12px'>"
+            f"{name}가 자동으로 보낸 메일입니다.</p></div>")
 
 
 def _period(since: str) -> str:
@@ -89,16 +94,12 @@ def render(results: list, subject_prefix: str = "[채용 알림]", since: str = 
     if page_url:
         text_lines.append("")
         text_lines.append(f"지난 공고까지 모아 보기: {page_url}")
-        html_parts.append(
-            f"<p style='margin:24px 0 0'><a href='{html_mod.escape(page_url)}' "
-            "style='color:#0969da'>공고 이력 페이지에서 보기</a>"
-            " <span style='color:#656d76'>— 사내망에서 링크가 열리지 않을 때, "
-            "여기서 주소를 복사해 개인 브라우저에 붙여넣으세요.</span></p>")
-    html_parts.append(FOOTER)
+    html_parts.append(footer(page_url))
     return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
 
 
-def render_alerts(alerts: list, results: list = None, subject_prefix: str = "[채용 알림]"):
+def render_alerts(alerts: list, results: list = None, subject_prefix: str = "[채용 알림]",
+                  page_url: str = ""):
     """사이트 점검 안내 메일 (관리자에게만 가는 메일).
 
     감시가 조용히 망가진 정황과, 이번에 접속하지 못한 사이트를 담는다.
@@ -143,7 +144,7 @@ def render_alerts(alerts: list, results: list = None, subject_prefix: str = "[�
             )
         html_parts.append("</ul>")
 
-    html_parts.append(FOOTER)
+    html_parts.append(footer(page_url))
     return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
 
 
