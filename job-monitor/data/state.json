@@ -530,17 +530,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
      "date": "2026.09.21 15:00",
      "first_seen": "2026-09-09T11:00:38+00:00"
+    },
+    "b45b6228a97df54f": {
+     "title": "MRO 해외영업 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19729",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-10T00:14:17+00:00"
+    },
+    "4add2794660406ea": {
+     "title": "미국/인니/베트남/중동 글로벌 사업 및 투자 전략 경력채용(과장~부장급/본사근무)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
+     "date": "2026.09.21 15:00",
+     "first_seen": "2026-09-10T00:14:17+00:00"
     }
    },
-   "last_check": "2026-09-09T23:00:35+00:00",
-   "last_success": "2026-09-09T23:00:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-10T00:14:17+00:00",
+   "last_success": "2026-09-10T00:14:17+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 76,
-   "fingerprint": "72e618c1bccee932",
+   "item_count": 77,
+   "fingerprint": "bf72bc9e00cbca32",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T00:14:17+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "MRO 해외영업 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19729",
+       "date": "2026.09.20 23:59"
+      },
+      {
+       "title": "미국/인니/베트남/중동 글로벌 사업 및 투자 전략 경력채용(과장~부장급/본사근무)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
+       "date": "2026.09.21 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-09T23:00:35+00:00",
      "status": "ok",
@@ -854,16 +887,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -880,7 +903,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T11:00:38+00:00"
+   "last_new_at": "2026-09-10T00:14:17+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1317,8 +1340,8 @@
      "first_seen": "2026-09-09T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-09T23:00:36+00:00",
-   "last_success": "2026-09-09T23:00:36+00:00",
+   "last_check": "2026-09-10T00:14:19+00:00",
+   "last_success": "2026-09-10T00:14:19+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1326,6 +1349,16 @@
    "fingerprint": "e54e13534b8bca47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T00:14:19+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-09T23:00:36+00:00",
      "status": "ok",
@@ -1608,16 +1641,6 @@
     },
     {
      "at": "2026-09-08T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T20:30:30+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2423,17 +2446,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261958",
      "date": "",
      "first_seen": "2026-09-09T11:00:45+00:00"
+    },
+    "4b44c550fcf43592": {
+     "title": "QA Automation Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261959",
+     "date": "",
+     "first_seen": "2026-09-10T00:14:24+00:00"
     }
    },
-   "last_check": "2026-09-09T23:00:41+00:00",
-   "last_success": "2026-09-09T23:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-10T00:14:24+00:00",
+   "last_success": "2026-09-10T00:14:24+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "8865d9701e4dd531",
+   "fingerprint": "1228f9762e3258fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T00:14:24+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "QA Automation Engineer",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261959",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-09T23:00:41+00:00",
      "status": "ok",
@@ -2787,16 +2832,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T20:30:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2813,7 +2848,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T11:00:45+00:00"
+   "last_new_at": "2026-09-10T00:14:24+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4162,15 +4197,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-09T23:00:42+00:00",
-   "last_success": "2026-09-09T23:00:42+00:00",
+   "last_check": "2026-09-10T00:14:25+00:00",
+   "last_success": "2026-09-10T00:14:25+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 157,
-   "fingerprint": "75915a19f8076433",
+   "fingerprint": "5d2b279bc138611d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T00:14:25+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T23:00:42+00:00",
      "status": "ok",
@@ -4492,16 +4537,6 @@
     },
     {
      "at": "2026-09-08T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-08T20:30:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5022,8 +5057,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-09T23:00:45+00:00",
-   "last_success": "2026-09-09T23:00:45+00:00",
+   "last_check": "2026-09-10T00:14:29+00:00",
+   "last_success": "2026-09-10T00:14:29+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5031,6 +5066,16 @@
    "fingerprint": "e1155ec3869974e6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-10T00:14:29+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-09T23:00:45+00:00",
      "status": "ok",
@@ -5320,16 +5365,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-08T20:30:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5349,9 +5384,37 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "MRO 해외영업 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19729",
+    "date": "2026.09.20 23:59",
+    "found_at": "2026-09-10T00:14:33+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "미국/인니/베트남/중동 글로벌 사업 및 투자 전략 경력채용(과장~부장급/본사근무)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
+    "date": "2026.09.21 15:00",
+    "found_at": "2026-09-10T00:14:33+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "QA Automation Engineer",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261959",
+    "date": "",
+    "found_at": "2026-09-10T00:14:33+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-10T00:14:33+00:00",
   "last_sent": "2026-09-09T23:00:54+00:00"
  },
  "archive": [
@@ -8828,6 +8891,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261958",
    "date": "",
    "found_at": "2026-09-09T11:00:54+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "MRO 해외영업 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19729",
+   "date": "2026.09.20 23:59",
+   "found_at": "2026-09-10T00:14:33+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "미국/인니/베트남/중동 글로벌 사업 및 투자 전략 경력채용(과장~부장급/본사근무)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
+   "date": "2026.09.21 15:00",
+   "found_at": "2026-09-10T00:14:33+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "QA Automation Engineer",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261959",
+   "date": "",
+   "found_at": "2026-09-10T00:14:33+00:00"
   }
  ]
 }
