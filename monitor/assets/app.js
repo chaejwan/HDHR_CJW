@@ -45,7 +45,7 @@ const el = {};
   'smtpSecurity', 'smtpUser', 'smtpFrom', 'subjectPrefix', 'tokenInput', 'tokenSaveBtn',
   'tokenClearBtn', 'tokenState', 'copyJsonBtn', 'editOnGithub', 'actionsLink', 'secretsLink',
   'sourceLine', 'toast', 'modal', 'modalTitle', 'modalBody', 'siteTemplate',
-  'tabFeedBtn', 'tabSettingsBtn', 'panelFeed', 'panelSettings', 'refreshBtn2',
+  'settingsBtn', 'panelFeed', 'panelSettings', 'refreshBtn2',
   'feedStat', 'feedSearch', 'feedSites', 'feedList', 'feedMoreBtn',
 ].forEach((id) => { el[id] = document.getElementById(id) || $('#' + id); });
 
@@ -548,16 +548,19 @@ function renderFeed() {
 }
 
 function showTab(name) {
+  /* 기본은 공고 이력. 설정은 오른쪽 위 톱니바퀴로만 들어간다. */
   const feed = name !== 'settings';
   el.panelFeed.hidden = !feed;
   el.panelSettings.hidden = feed;
-  el.tabFeedBtn.setAttribute('aria-selected', String(feed));
-  el.tabSettingsBtn.setAttribute('aria-selected', String(!feed));
   el.saveBtn.hidden = feed;
   el.runBtn.hidden = feed;
+  el.settingsBtn.classList.toggle('iconbtn--on', !feed);
+  el.settingsBtn.title = feed ? '설정' : '설정 닫기';
+  el.settingsBtn.setAttribute('aria-label', el.settingsBtn.title);
+  el.settingsBtn.setAttribute('aria-pressed', String(!feed));
   try { localStorage.setItem('jobmon.tab', feed ? 'feed' : 'settings'); } catch (err) { /* 무시 */ }
-  if (location.hash !== (feed ? '#feed' : '#settings')) {
-    history.replaceState(null, '', feed ? '#feed' : '#settings');
+  if (location.hash !== (feed ? '' : '#settings')) {
+    history.replaceState(null, '', feed ? location.pathname : '#settings');
   }
 }
 
@@ -795,8 +798,9 @@ el.refreshBtn.addEventListener('click', () => {
   if (dirty && !confirm('저장하지 않은 변경이 사라집니다. 계속할까요?')) return;
   loadAll(true).catch((err) => toast(err.message, true));
 });
-el.tabFeedBtn.addEventListener('click', () => showTab('feed'));
-el.tabSettingsBtn.addEventListener('click', () => showTab('settings'));
+el.settingsBtn.addEventListener('click', () => {
+  showTab(el.panelSettings.hidden ? 'settings' : 'feed');
+});
 el.refreshBtn2.addEventListener('click', () => loadAll(true).catch((err) => toast(err.message, true)));
 el.feedSearch.addEventListener('input', () => {
   feedFilter.text = el.feedSearch.value;
@@ -835,11 +839,7 @@ window.addEventListener('beforeunload', (event) => { if (dirty) { event.preventD
 
 // 처음 열 때 어느 탭을 보여 줄지: 주소의 #settings > 지난번에 보던 탭 > 공고 이력
 (function restoreTab() {
-  let saved = '';
-  try { saved = localStorage.getItem('jobmon.tab') || ''; } catch (err) { /* 무시 */ }
-  const wanted = location.hash === '#settings' ? 'settings'
-    : location.hash === '#feed' ? 'feed' : (saved || 'feed');
-  showTab(wanted);
+  showTab(location.hash === '#settings' ? 'settings' : 'feed');
 })();
 
 setInterval(() => { if (!busy && !dirty) loadAll(false).catch(() => {}); }, 120000);

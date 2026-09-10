@@ -445,7 +445,8 @@ class Monitor:
                                                     page_url=cfg.get("page_url") or "")
             mails.append(("새 공고", posting_to, subject, text, html))
         if pending_alerts:
-            subject, text, html = notify_mod.render_alerts(pending_alerts, results, prefix)
+            subject, text, html = notify_mod.render_alerts(pending_alerts, results, prefix,
+                                                           page_url=cfg.get("page_url") or "")
             mails.append(("점검 안내", admin_to, subject, text, html))
 
         if not email_cfg.get("enabled"):

@@ -753,9 +753,15 @@ class ArchiveTest(unittest.TestCase):
     def test_mail_links_to_the_history_page(self):
         results = [{"site_name": "A", "site_url": "u", "site_link": "u", "status": "new",
                     "new_items": [{"title": "공고", "url": "https://example.com/1", "date": ""}]}]
-        _subject, text, html = notify_mod.render(results, page_url="https://example.github.io/x/monitor/")
-        self.assertIn("https://example.github.io/x/monitor/", text)
-        self.assertIn("공고 이력 페이지에서 보기", html)
+        page = "https://example.github.io/x/monitor/"
+        _subject, text, html = notify_mod.render(results, page_url=page)
+        self.assertIn(page, text)
+        # 꼬리말의 '채용공고 모니터' 가 이력 페이지로 이어진다
+        self.assertIn(f"<a href='{page}' style='color:#0969da'>채용공고 모니터</a>", html)
+
+        _s2, _t2, plain = notify_mod.render(results)      # 주소를 모르면 링크 없이
+        self.assertIn("채용공고 모니터가 자동으로 보낸", plain)
+        self.assertNotIn("<a href='https://example.github.io", plain)
 
 if __name__ == "__main__":
     unittest.main()
