@@ -1,20 +1,20 @@
 {
- "at": "2026-09-10T08:00:52+00:00",
+ "at": "2026-09-10T10:00:51+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 09-11 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 09-11 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 19,
+  "items": 20,
   "alerts": 0,
   "since": "2026-09-10T00:14:33+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34452846798",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34463746082",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 80,
+   "item_count": 81,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "AI Agent Project Manager 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19744",
-     "date": "2026.09.20 23:59"
+     "title": "한화시스템 M&A/전략투자 담당 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19745",
+     "date": "2026.09.28 23:59"
     }
    ]
   },
@@ -51,18 +51,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 106,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "용인 부속의원 간호사 계약직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261957",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
