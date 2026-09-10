@@ -680,6 +680,40 @@ class DigestTest(unittest.TestCase):
         monday = datetime(2026, 9, 14, 8, 30, tzinfo=kst)
         self.assertTrue(digest_mod.should_send(cfg, friday_8am, monday))
 
+    def test_partial_failure_does_not_resend_what_already_went_out(self):
+        """공고 메일은 나갔는데 점검 안내가 실패하면, 다음 확인 때 공고 메일이 또 나가면 안 된다."""
+        state = self.monitor.load_state()
+        box = store_mod.outbox(state)
+        box["items"] = [{"site_id": "s1", "site_name": "테스트", "site_link": "u",
+                         "title": "공고 1", "url": "u1", "date": "", "found_at": "2026-09-09T00:00:00+09:00"}]
+        box["alerts"] = [{"site_name": "테스트", "site_url": "u", "site_link": "u", "kind": "no_items",
+                          "label": "목록을 못 읽었습니다", "detail": "0건", "recovered": False}]
+        box["last_sent"] = "2020-01-01T00:00:00+09:00"     # 발송 시각이 지난 상태
+        self.monitor.save_state(state)
+
+        def flaky(_cfg, to, subject, text, _html=""):
+            if "점검" in subject:
+                raise notify_mod.NotifyError("SMTP 오류")
+            self.sent.append((subject, text))
+        original = notify_mod.send
+        notify_mod.send = flaky
+        self.addCleanup(lambda: setattr(notify_mod, "send", original))
+
+        self._serve([])
+        summary = self.monitor.run_check(notify=True)
+        self.assertEqual(len(self.sent), 1)                 # 공고 메일만 나갔다
+        self.assertIn("점검 안내", summary["email"]["error"])
+        box = store_mod.outbox(self.monitor.load_state())
+        self.assertEqual(box["items"], [])                  # 나간 것은 비워졌고
+        self.assertEqual(len(box["alerts"]), 1)             # 실패한 것만 남는다
+        self.assertEqual(box["last_sent"], "2020-01-01T00:00:00+09:00")   # 아직 다 못 보냈다
+
+        notify_mod.send = lambda _c, to, subject, text, _h="": self.sent.append((subject, text))
+        self.monitor.run_check(notify=True)                 # 다음 확인
+        self.assertEqual(len(self.sent), 2)                 # 점검 안내만 추가로 나간다
+        self.assertIn("점검", self.sent[1][0])
+        self.assertEqual(store_mod.outbox(self.monitor.load_state())["alerts"], [])
+
     def test_disabled_digest_sends_right_away(self):
         cfg = self.monitor.load_config()
         cfg["digest"]["enabled"] = False
@@ -762,6 +796,23 @@ class ArchiveTest(unittest.TestCase):
         _s2, _t2, plain = notify_mod.render(results)      # 주소를 모르면 링크 없이
         self.assertIn("채용공고 모니터가 자동으로 보낸", plain)
         self.assertNotIn("<a href='https://example.github.io", plain)
+
+
+class AccessGateTest(unittest.TestCase):
+    """설정 화면 비밀번호 (해시만 저장한다)."""
+
+    def test_password_is_never_stored_in_plain(self):
+        cfg = config_mod.normalize({"access": {
+            "enabled": True, "salt": "a1b2", "hash": "deadbeef", "hint": " 팀 이름 ",
+        }})
+        self.assertEqual(cfg["access"]["hint"], "팀 이름")
+        self.assertNotIn("password", cfg["access"])
+        text = json.dumps(cfg, ensure_ascii=False)
+        self.assertIn("deadbeef", text)
+
+    def test_cannot_turn_on_without_a_password(self):
+        cfg = config_mod.normalize({"access": {"enabled": True}})
+        self.assertFalse(cfg["access"]["enabled"])
 
 if __name__ == "__main__":
     unittest.main()

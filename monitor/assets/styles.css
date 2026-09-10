@@ -253,3 +253,22 @@ input:focus, select:focus { outline: 2px solid rgba(47,111,235,.35); outline-off
   .post__cell + .post__cell { grid-row: 3; grid-column: 2; text-align: right; }
 }
 
+/* ------------------------------------------------ 비밀번호 가림막 */
+.gate {
+  position: fixed; inset: 0; z-index: 50; display: flex;
+  align-items: center; justify-content: center; padding: 20px; background: var(--bg);
+}
+.gate__box {
+  width: 100%; max-width: 320px; display: grid; gap: 10px; text-align: center;
+  background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 28px 24px; box-shadow: 0 1px 3px rgba(0,0,0,.06);
+}
+.gate__title { margin: 0; font-size: 17px; }
+.gate__lead { margin: 0 0 6px; color: var(--muted); font-size: 13px; }
+.gate__input {
+  width: 100%; padding: 9px 11px; font: inherit; text-align: center;
+  border: 1px solid var(--line); border-radius: 8px; background: #fff;
+}
+.gate__btn { width: 100%; justify-content: center; }
+.gate__hint { margin: 2px 0 0; color: var(--muted); font-size: 12px; }
+.gate__error { margin: 2px 0 0; color: var(--danger); font-size: 12.5px; }

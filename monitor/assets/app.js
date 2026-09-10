@@ -17,6 +17,9 @@ const PATHS = {
 const WORKFLOW_FILE = 'job-monitor.yml';
 const LS_TOKEN = 'jobmon.token';
 const LS_REPO = 'jobmon.repo';
+const LS_GATE = 'jobmon.gate';
+const GATE_DAYS = 30;             // 한 번 맞히면 이 기간 동안 다시 묻지 않는다
+const GATE_ROUNDS = 200000;       // 비밀번호를 해시할 때 반복 횟수 (마구 대입 늦추기)
 const API = 'https://api.github.com';
 
 const DEFAULT_CONFIG = {
@@ -30,6 +33,7 @@ const DEFAULT_CONFIG = {
   },
   request: { timeout_sec: 20 },
   page_url: '',
+  access: { enabled: false, salt: '', hash: '', hint: '' },
   digest: {
     enabled: false, days: ['mon', 'tue', 'wed', 'thu', 'fri'], times: ['08:00'],
     timezone: 'Asia/Seoul', utc_offset_hours: 9,
@@ -46,6 +50,8 @@ const el = {};
   'tokenClearBtn', 'tokenState', 'copyJsonBtn', 'editOnGithub', 'actionsLink', 'secretsLink',
   'sourceLine', 'toast', 'modal', 'modalTitle', 'modalBody', 'siteTemplate',
   'settingsBtn', 'panelFeed', 'panelSettings', 'refreshBtn2',
+  'gate', 'gateForm', 'gatePassword', 'gateHint', 'gateError',
+  'gateEnabled', 'gateNewPw', 'gateHintInput',
   'feedStat', 'feedSearch', 'feedSites', 'feedList', 'feedMoreBtn',
 ].forEach((id) => { el[id] = document.getElementById(id) || $('#' + id); });
 
@@ -258,6 +264,7 @@ function normalizeConfig(raw) {
   out.email = Object.assign({}, DEFAULT_CONFIG.email, (raw && raw.email) || {});
   out.request = Object.assign({}, DEFAULT_CONFIG.request, (raw && raw.request) || {});
   out.digest = Object.assign({}, DEFAULT_CONFIG.digest, (raw && raw.digest) || {});
+  out.access = Object.assign({}, DEFAULT_CONFIG.access, (raw && raw.access) || {});
   if (!Array.isArray(out.digest.days)) out.digest.days = DEFAULT_CONFIG.digest.days.slice();
   if (!Array.isArray(out.digest.times)) out.digest.times = DEFAULT_CONFIG.digest.times.slice();
   out.recipients = Array.isArray(out.recipients) ? out.recipients : [];
@@ -294,6 +301,9 @@ function fillForm() {
   el.digestEnabled.checked = !!cfg.digest.enabled;
   el.digestTimes.value = (cfg.digest.times || []).join(', ');
   el.digestTz.value = cfg.digest.timezone || '';
+  el.gateEnabled.checked = !!cfg.access.enabled;
+  el.gateHintInput.value = cfg.access.hint || '';
+  el.gateNewPw.value = '';
   renderDigestDays();
   document.querySelectorAll('.chip[data-interval]').forEach((chip) => {
     chip.setAttribute('aria-pressed', String(Number(chip.dataset.interval) === Number(cfg.check_interval_hours)));
@@ -315,6 +325,10 @@ function collectConfig() {
   out.email.password = '';           // 비밀번호는 저장소에 두지 않는다
   // 이 화면의 주소를 남겨 두면 메일에서 '공고 이력 페이지' 로 이어 줄 수 있다.
   out.page_url = location.origin + location.pathname;
+  out.access = Object.assign({}, cfg.access, {
+    enabled: el.gateEnabled.checked,
+    hint: el.gateHintInput.value.trim(),
+  });
   out.digest = Object.assign({}, cfg.digest, {
     enabled: el.digestEnabled.checked,
     days: cfg.digest.days.slice(),
@@ -547,6 +561,67 @@ function renderFeed() {
   el.feedMoreBtn.textContent = `더 보기 (${rows.length - feedLimit}건 남음)`;
 }
 
+/* ------------------------------------------------------------ 비밀번호 가림막 */
+
+function toHex(bytes) {
+  return [...bytes].map((b) => b.toString(16).padStart(2, '0')).join('');
+}
+
+async function hashPassword(password, saltHex) {
+  /* PBKDF2 로 늘려서 해시한다. 저장소에는 이 결과(해시)만 남는다. */
+  const enc = new TextEncoder();
+  const salt = Uint8Array.from((saltHex.match(/../g) || []).map((h) => parseInt(h, 16)));
+  const key = await crypto.subtle.importKey('raw', enc.encode(password), 'PBKDF2', false, ['deriveBits']);
+  const bits = await crypto.subtle.deriveBits(
+    { name: 'PBKDF2', salt, iterations: GATE_ROUNDS, hash: 'SHA-256' }, key, 256);
+  return toHex(new Uint8Array(bits));
+}
+
+function randomSalt() {
+  return toHex(crypto.getRandomValues(new Uint8Array(16)));
+}
+
+function gateUnlocked(access) {
+  /* 이 브라우저가 이미 통과했는지 (같은 비밀번호일 때만 유효) */
+  try {
+    const saved = JSON.parse(localStorage.getItem(LS_GATE) || 'null');
+    if (!saved || saved.hash !== access.hash) return false;
+    return Date.now() - (saved.at || 0) < GATE_DAYS * 86400000;
+  } catch (err) {
+    return false;
+  }
+}
+
+function rememberGate(hash) {
+  try { localStorage.setItem(LS_GATE, JSON.stringify({ hash, at: Date.now() })); } catch (err) { /* 무시 */ }
+}
+
+function askPassword(access) {
+  /* 비밀번호를 맞힐 때까지 이 화면만 보여 준다. 맞히면 원래 화면으로 이어진다. */
+  el.gate.hidden = false;
+  el.gateHint.hidden = !access.hint;
+  el.gateHint.textContent = access.hint ? `힌트: ${access.hint}` : '';
+  el.gatePassword.focus();
+  return new Promise((resolve) => {
+    el.gateForm.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      el.gateError.hidden = true;
+      const typed = el.gatePassword.value;
+      if (!typed) return;
+      const digest = await hashPassword(typed, access.salt);
+      if (digest !== access.hash) {
+        el.gateError.hidden = false;
+        el.gatePassword.select();
+        return;
+      }
+      rememberGate(digest);
+      el.gate.hidden = true;
+      el.gatePassword.value = '';
+      resolve();
+    });
+  });
+}
+
 function showTab(name) {
   /* 기본은 공고 이력. 설정은 오른쪽 위 톱니바퀴로만 들어간다. */
   const feed = name !== 'settings';
@@ -653,6 +728,17 @@ async function loadAll(showToast) {
 
 async function save() {
   if (!getToken()) { toast('먼저 GitHub 토큰을 저장하세요.', true); return; }
+  const newPassword = el.gateNewPw.value;
+  if (newPassword) {
+    const salt = randomSalt();
+    cfg.access = Object.assign({}, cfg.access, { salt, hash: await hashPassword(newPassword, salt) });
+    rememberGate(cfg.access.hash);        // 지금 이 브라우저는 계속 열어 둔다
+    el.gateNewPw.value = '';
+  }
+  if (el.gateEnabled.checked && !(cfg.access.salt && cfg.access.hash)) {
+    toast('비밀번호를 먼저 정해 주세요. (새 비밀번호 칸)', true);
+    return;
+  }
   const payload = collectConfig();
   const text = JSON.stringify(payload, null, 2) + '\n';
   setBusy(true, '저장 중…');
@@ -752,6 +838,15 @@ async function boot() {
     branch = 'main';
     toast(`저장소 정보를 읽지 못해 기본 브랜치를 main 으로 가정합니다: ${err.message}`, true);
   }
+  try {
+    const first = await readJsonFile(PATHS.config);
+    const access = Object.assign({}, DEFAULT_CONFIG.access, (first.data || {}).access || {});
+    if (access.enabled && access.salt && access.hash && !gateUnlocked(access)) {
+      await askPassword(access);
+    }
+  } catch (err) {
+    // 설정을 못 읽으면 가림막 없이 진행하고, 아래에서 오류를 안내한다.
+  }
   wireLinks();
   try {
     await loadAll(false);
@@ -825,7 +920,8 @@ el.digestDays.addEventListener('click', (event) => {
   renderDigestDays();
   markDirty();
 });
-[el.digestEnabled, el.digestTimes, el.digestTz].forEach((input) => {
+[el.digestEnabled, el.digestTimes, el.digestTz, el.gateEnabled, el.gateNewPw,
+  el.gateHintInput].forEach((input) => {
   input.addEventListener('input', markDirty);
   input.addEventListener('change', markDirty);
 });

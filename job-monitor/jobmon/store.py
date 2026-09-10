@@ -228,10 +228,21 @@ def held_results(state: dict) -> list:
     return list(grouped.values())
 
 
-def clear_outbox(state: dict, at: str) -> None:
+def clear_outbox(state: dict, at: str, items: bool = True, alerts: bool = True) -> None:
+    """보낸 것만 발송함에서 비운다.
+
+    한쪽(공고 메일)만 나가고 다른 쪽(점검 안내)이 실패할 수 있다. 그때 통째로
+    비우면 점검 안내를 잃고, 통째로 남기면 다음 확인 때 공고 메일이 또 나간다.
+    그래서 나간 것만 지우고, 남은 것이 없을 때에만 '보낸 시각' 을 새로 적는다.
+    """
     box = outbox(state)
-    box["items"], box["alerts"], box["since"] = [], [], ""
-    box["last_sent"] = at
+    if items:
+        box["items"] = []
+    if alerts:
+        box["alerts"] = []
+    if not box["items"] and not box["alerts"]:
+        box["since"] = ""
+        box["last_sent"] = at
 
 
 def record_check(entry: dict, *, at: str, status: str, new_items: list = None,
