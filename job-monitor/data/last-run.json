@@ -1,31 +1,31 @@
 {
- "at": "2026-09-11T03:00:50+00:00",
+ "at": "2026-09-11T05:03:16+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 09-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 09-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 1,
+  "items": 4,
   "alerts": 0,
   "since": "2026-09-11T03:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34556785420",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34564302704",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 82,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {
@@ -46,14 +46,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 105,
+   "item_count": 108,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "PI 컨설턴트 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261971",
+     "title": "AI Agent 엔지니어 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261936",
+     "date": ""
+    },
+    {
+     "title": "AI Data 엔지니어 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261937",
+     "date": ""
+    },
+    {
+     "title": "AI Model 엔지니어 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261938",
      "date": ""
     }
    ]
