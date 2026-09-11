@@ -598,15 +598,25 @@
      "first_seen": "2026-09-10T16:00:40+00:00"
     }
    },
-   "last_check": "2026-09-11T00:00:38+00:00",
+   "last_check": "2026-09-11T01:00:36+00:00",
    "last_success": "2026-09-11T00:00:38+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 82,
    "fingerprint": "4e851068b5f310f2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T01:00:36+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T00:00:38+00:00",
      "status": "ok",
@@ -982,20 +992,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-09T03:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "2026 한화솔루션 인사이트부문 사업지원실 구매&DT팀 경력직 채용",
     "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
@@ -1529,8 +1529,8 @@
      "first_seen": "2026-09-10T16:00:41+00:00"
     }
    },
-   "last_check": "2026-09-11T00:00:39+00:00",
-   "last_success": "2026-09-11T00:00:39+00:00",
+   "last_check": "2026-09-11T01:03:04+00:00",
+   "last_success": "2026-09-11T01:03:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1538,6 +1538,16 @@
    "fingerprint": "1761571ba4bf03c7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T01:03:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-11T00:00:39+00:00",
      "status": "ok",
@@ -1820,16 +1830,6 @@
     },
     {
      "at": "2026-09-09T03:30:30+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T03:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2715,15 +2715,25 @@
      "first_seen": "2026-09-10T16:00:45+00:00"
     }
    },
-   "last_check": "2026-09-11T00:00:42+00:00",
-   "last_success": "2026-09-11T00:00:42+00:00",
+   "last_check": "2026-09-11T01:03:06+00:00",
+   "last_success": "2026-09-11T01:03:06+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 104,
-   "fingerprint": "cba5f55ec6e63a36",
+   "fingerprint": "007c604ec7b88e3c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T01:03:06+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 104,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T00:00:42+00:00",
      "status": "ok",
@@ -3124,22 +3134,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-09T03:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "전사 노무 담당자 경력직(정직) 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261947",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -4505,15 +4499,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-11T00:00:43+00:00",
-   "last_success": "2026-09-11T00:00:43+00:00",
+   "last_check": "2026-09-11T01:03:07+00:00",
+   "last_success": "2026-09-11T01:03:07+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 157,
-   "fingerprint": "c2c2eebdd16b3b26",
+   "fingerprint": "b82cd7bcd17032d3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T01:03:07+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T00:00:43+00:00",
      "status": "ok",
@@ -4835,16 +4839,6 @@
     },
     {
      "at": "2026-09-09T03:30:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T03:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5365,8 +5359,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-11T00:00:46+00:00",
-   "last_success": "2026-09-11T00:00:46+00:00",
+   "last_check": "2026-09-11T01:03:11+00:00",
+   "last_success": "2026-09-11T01:03:11+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5374,6 +5368,16 @@
    "fingerprint": "1b965764be80ac37",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T01:03:11+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T00:00:46+00:00",
      "status": "ok",
@@ -5656,16 +5660,6 @@
     },
     {
      "at": "2026-09-09T03:30:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T03:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,

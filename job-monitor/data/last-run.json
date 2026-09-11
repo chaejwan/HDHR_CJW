@@ -1,9 +1,9 @@
 {
- "at": "2026-09-11T00:00:49+00:00",
+ "at": "2026-09-11T01:03:14+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
   "skipped": ""
  },
@@ -14,18 +14,18 @@
   "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34544618654",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34548877348",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 82,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {
