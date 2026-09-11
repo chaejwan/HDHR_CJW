@@ -1,32 +1,68 @@
 {
- "at": "2026-09-11T05:03:16+00:00",
+ "at": "2026-09-11T07:00:52+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 10,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 09-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 0건). 09-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 4,
+  "items": 14,
   "alerts": 0,
   "since": "2026-09-11T03:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34564302704",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34572398515",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 88,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "(주)한화 글로벌부문 보은사업장 생산기획 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19762",
+     "date": "2026.09.27 23:59"
+    },
+    {
+     "title": "[한화생명] PLUS솔루션팀 '에디토리얼 디자이너 (Editorial Designer)' 경력채용(대리급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19753",
+     "date": "2026.09.28 15:00"
+    },
+    {
+     "title": "[한화생명] PLUS솔루션팀 '크리에이티브 디렉터 / 편집장 (Editorial & Creative Director)' 경력채용(과~차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19752",
+     "date": "2026.09.28 15:00"
+    },
+    {
+     "title": "[한화생명] PLUS솔루션팀 '디지털 채널 및 콘텐츠 담당' 경력채용(대리~과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19751",
+     "date": "2026.09.28 15:00"
+    },
+    {
+     "title": "[한화생명] PLUS솔루션팀 '공간 전략 기획•운영 담당' 경력채용(과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19750",
+     "date": "2026.09.28 15:00"
+    },
+    {
+     "title": "[한화생명] PLUS솔루션팀 '디지털 프로덕트 기획자' 경력채용(과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19747",
+     "date": "2026.09.28 15:00"
+    },
+    {
+     "title": "[한화세미텍] 반도체장비 모션 제어 개발 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
+     "date": "2026.10.16 22:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,24 +82,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 108,
+   "item_count": 111,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "AI Agent 엔지니어 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261936",
+     "title": "AI Agent 개발자 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261939",
      "date": ""
     },
     {
-     "title": "AI Data 엔지니어 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261937",
+     "title": "AI 플랫폼 아키텍트 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261940",
      "date": ""
     },
     {
-     "title": "AI Model 엔지니어 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261938",
+     "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261970",
      "date": ""
     }
    ]
@@ -74,7 +110,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 157,
+   "item_count": 158,
    "method": "json",
    "note": "",
    "error": "",
