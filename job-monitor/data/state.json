@@ -646,15 +646,25 @@
      "first_seen": "2026-09-11T11:00:36+00:00"
     }
    },
-   "last_check": "2026-09-11T11:00:36+00:00",
-   "last_success": "2026-09-11T11:00:36+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-11T13:00:38+00:00",
+   "last_success": "2026-09-11T13:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 89,
-   "fingerprint": "b35f6501113715f6",
+   "item_count": 90,
+   "fingerprint": "b22b1d034bd6f621",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T13:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T11:00:36+00:00",
      "status": "new",
@@ -1058,16 +1068,6 @@
      "new_count": 0,
      "item_count": 76,
      "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T06:00:38+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
     }
@@ -1607,8 +1607,8 @@
      "first_seen": "2026-09-10T16:00:41+00:00"
     }
    },
-   "last_check": "2026-09-11T11:00:38+00:00",
-   "last_success": "2026-09-11T11:00:38+00:00",
+   "last_check": "2026-09-11T13:00:39+00:00",
+   "last_success": "2026-09-11T13:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1616,6 +1616,16 @@
    "fingerprint": "1761571ba4bf03c7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T13:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-11T11:00:38+00:00",
      "status": "ok",
@@ -1898,16 +1908,6 @@
     },
     {
      "at": "2026-09-09T06:18:02+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T06:03:05+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2871,15 +2871,25 @@
      "first_seen": "2026-09-11T11:00:44+00:00"
     }
    },
-   "last_check": "2026-09-11T11:00:44+00:00",
-   "last_success": "2026-09-11T11:00:44+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-11T13:00:42+00:00",
+   "last_success": "2026-09-11T13:00:42+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 117,
    "fingerprint": "2f394aa4cf6ad230",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T13:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T11:00:44+00:00",
      "status": "new",
@@ -3338,16 +3348,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-09T06:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 99,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4713,15 +4713,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-11T11:00:44+00:00",
-   "last_success": "2026-09-11T11:00:44+00:00",
+   "last_check": "2026-09-11T13:00:43+00:00",
+   "last_success": "2026-09-11T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 158,
-   "fingerprint": "c52e3f15ed4d0e6a",
+   "fingerprint": "7fa1f39564ca62c9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 158,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T11:00:44+00:00",
      "status": "ok",
@@ -5025,22 +5035,6 @@
       {
        "title": "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
        "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=204",
-       "date": "20260916"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-09T06:03:10+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 155,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=203",
        "date": "20260916"
       }
      ]
@@ -5557,8 +5551,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-11T11:00:48+00:00",
-   "last_success": "2026-09-11T11:00:48+00:00",
+   "last_check": "2026-09-11T13:00:48+00:00",
+   "last_success": "2026-09-11T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5566,6 +5560,16 @@
    "fingerprint": "1b965764be80ac37",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T11:00:48+00:00",
      "status": "ok",
@@ -5848,16 +5852,6 @@
     },
     {
      "at": "2026-09-09T06:18:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T06:03:14+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
