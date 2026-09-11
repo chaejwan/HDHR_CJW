@@ -1,32 +1,38 @@
 {
- "at": "2026-09-11T09:03:16+00:00",
+ "at": "2026-09-11T11:00:50+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 17건 · 점검 0건). 09-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 0건). 09-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 17,
+  "items": 21,
   "alerts": 0,
   "since": "2026-09-11T03:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34581988004",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34591942132",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 89,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
+     "date": "2026.09.20 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,24 +52,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 114,
+   "item_count": 117,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "2026년 울산지피에스 사무서기 채용(판교)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261972",
+     "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261975",
      "date": ""
     },
     {
-     "title": "2026년 울산지피에스 사무지원 채용(울산)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261974",
+     "title": "IP Junior 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261976",
      "date": ""
     },
     {
-     "title": "SK온 고품조사팀 | 품질 이슈 조사·평가 기술감독직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261964",
+     "title": "IP Senior 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261977",
      "date": ""
     }
    ]

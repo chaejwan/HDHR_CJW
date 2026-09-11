@@ -638,17 +638,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
      "date": "2026.10.16 22:00",
      "first_seen": "2026-09-11T07:00:36+00:00"
+    },
+    "99454833ccd2982e": {
+     "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-11T11:00:36+00:00"
     }
    },
-   "last_check": "2026-09-11T09:00:36+00:00",
-   "last_success": "2026-09-11T07:00:36+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-11T11:00:36+00:00",
+   "last_success": "2026-09-11T11:00:36+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 88,
-   "fingerprint": "83cf1c2f6ba7cd6f",
+   "item_count": 89,
+   "fingerprint": "b35f6501113715f6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T11:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
+       "date": "2026.09.20 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-11T09:00:36+00:00",
      "status": "error",
@@ -1048,26 +1070,10 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-09T05:31:05+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화솔루션 인사이트 PLS사업부 마케팅 경력",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19728",
-       "date": "2026.09.23 17:30"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
     "[한화에어로스페이스] 항공사업부 SW 품질보증(SQA) 경력사원 수시채용",
@@ -1080,7 +1086,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-11T07:00:36+00:00"
+   "last_new_at": "2026-09-11T11:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1601,8 +1607,8 @@
      "first_seen": "2026-09-10T16:00:41+00:00"
     }
    },
-   "last_check": "2026-09-11T09:03:03+00:00",
-   "last_success": "2026-09-11T09:03:03+00:00",
+   "last_check": "2026-09-11T11:00:38+00:00",
+   "last_success": "2026-09-11T11:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1610,6 +1616,16 @@
    "fingerprint": "1761571ba4bf03c7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T11:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-11T09:03:03+00:00",
      "status": "ok",
@@ -1892,16 +1908,6 @@
     },
     {
      "at": "2026-09-09T06:03:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-09T05:31:06+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2845,17 +2851,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261964",
      "date": "",
      "first_seen": "2026-09-11T09:03:09+00:00"
+    },
+    "6bb105a4583aa14c": {
+     "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261975",
+     "date": "",
+     "first_seen": "2026-09-11T11:00:44+00:00"
+    },
+    "c995fd34e9f34287": {
+     "title": "IP Junior 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261976",
+     "date": "",
+     "first_seen": "2026-09-11T11:00:44+00:00"
+    },
+    "eb8c1502e77083e0": {
+     "title": "IP Senior 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261977",
+     "date": "",
+     "first_seen": "2026-09-11T11:00:44+00:00"
     }
    },
-   "last_check": "2026-09-11T09:03:09+00:00",
-   "last_success": "2026-09-11T09:03:09+00:00",
+   "last_check": "2026-09-11T11:00:44+00:00",
+   "last_success": "2026-09-11T11:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 114,
-   "fingerprint": "2eb42dbba35054a1",
+   "item_count": 117,
+   "fingerprint": "2f394aa4cf6ad230",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T11:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261975",
+       "date": ""
+      },
+      {
+       "title": "IP Junior 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261976",
+       "date": ""
+      },
+      {
+       "title": "IP Senior 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261977",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-11T09:03:09+00:00",
      "status": "new",
@@ -3298,16 +3348,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-09T05:31:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3324,7 +3364,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-11T09:03:09+00:00"
+   "last_new_at": "2026-09-11T11:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4673,15 +4713,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-11T09:03:10+00:00",
-   "last_success": "2026-09-11T09:03:10+00:00",
+   "last_check": "2026-09-11T11:00:44+00:00",
+   "last_success": "2026-09-11T11:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 158,
-   "fingerprint": "fef9164d830ace11",
+   "fingerprint": "c52e3f15ed4d0e6a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T11:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 158,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T09:03:10+00:00",
      "status": "ok",
@@ -4994,16 +5044,6 @@
        "date": "20260916"
       }
      ]
-    },
-    {
-     "at": "2026-09-09T05:31:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5517,8 +5557,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-11T09:03:13+00:00",
-   "last_success": "2026-09-11T09:03:13+00:00",
+   "last_check": "2026-09-11T11:00:48+00:00",
+   "last_success": "2026-09-11T11:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5526,6 +5566,16 @@
    "fingerprint": "1b965764be80ac37",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-11T11:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-11T09:03:13+00:00",
      "status": "ok",
@@ -5815,16 +5865,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-09T05:31:15+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5997,6 +6037,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261964",
     "date": "",
     "found_at": "2026-09-11T09:03:16+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
+    "date": "2026.09.20 23:59",
+    "found_at": "2026-09-11T11:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261975",
+    "date": "",
+    "found_at": "2026-09-11T11:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "IP Junior 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261976",
+    "date": "",
+    "found_at": "2026-09-11T11:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "IP Senior 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261977",
+    "date": "",
+    "found_at": "2026-09-11T11:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -9846,6 +9922,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261964",
    "date": "",
    "found_at": "2026-09-11T09:03:16+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
+   "date": "2026.09.20 23:59",
+   "found_at": "2026-09-11T11:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261975",
+   "date": "",
+   "found_at": "2026-09-11T11:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "IP Junior 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261976",
+   "date": "",
+   "found_at": "2026-09-11T11:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "IP Senior 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261977",
+   "date": "",
+   "found_at": "2026-09-11T11:00:50+00:00"
   }
  ]
 }
