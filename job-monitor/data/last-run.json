@@ -1,11 +1,11 @@
 {
- "at": "2026-09-12T15:00:57+00:00",
+ "at": "2026-09-12T17:00:52+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 22건 · 점검 3건). 09-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 22건 · 점검 4건). 09-14 08:00 에 보냅니다."
  },
  "alerts": [
   {
@@ -15,17 +15,17 @@
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
    "kind": "relisted",
    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-   "recovered": false
+   "detail": "다시 정상으로 확인됐습니다.",
+   "recovered": true
   }
  ],
  "pending": {
   "items": 22,
-  "alerts": 3,
+  "alerts": 4,
   "since": "2026-09-11T03:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34700926901",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34706928110",
  "results": [
   {
    "site_id": "hanwhain",
@@ -44,10 +44,10 @@
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "baseline",
+   "status": "ok",
    "item_count": 14,
    "method": "links",
-   "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 100건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
+   "note": "22개 중 필터를 통과한 14개를 사용합니다.",
    "error": "",
    "new_items": []
   },
