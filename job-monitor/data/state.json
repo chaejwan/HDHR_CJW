@@ -652,8 +652,8 @@
      "first_seen": "2026-09-11T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-12T19:00:36+00:00",
-   "last_success": "2026-09-12T19:00:36+00:00",
+   "last_check": "2026-09-12T21:00:40+00:00",
+   "last_success": "2026-09-12T21:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -661,6 +661,16 @@
    "fingerprint": "0c3b597cfe3632d6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-12T21:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-12T19:00:36+00:00",
      "status": "ok",
@@ -1004,22 +1014,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-10T10:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 M&A/전략투자 담당 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19745",
-       "date": "2026.09.28 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -1725,8 +1719,8 @@
      "first_seen": "2026-09-12T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-12T19:00:37+00:00",
-   "last_success": "2026-09-12T19:00:37+00:00",
+   "last_check": "2026-09-12T21:00:41+00:00",
+   "last_success": "2026-09-12T21:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1734,6 +1728,16 @@
    "fingerprint": "e091ae44cc0d98cf",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-12T21:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-12T19:00:37+00:00",
      "status": "ok",
@@ -2016,16 +2020,6 @@
     },
     {
      "at": "2026-09-10T12:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T10:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2989,8 +2983,8 @@
      "first_seen": "2026-09-11T11:00:44+00:00"
     }
    },
-   "last_check": "2026-09-12T19:00:44+00:00",
-   "last_success": "2026-09-12T19:00:44+00:00",
+   "last_check": "2026-09-12T21:00:45+00:00",
+   "last_success": "2026-09-12T21:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2998,6 +2992,16 @@
    "fingerprint": "7ef7c169570a2bae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-12T21:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 114,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-12T19:00:44+00:00",
      "status": "ok",
@@ -3366,16 +3370,6 @@
     },
     {
      "at": "2026-09-10T12:03:23+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T10:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4748,15 +4742,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-12T19:00:45+00:00",
-   "last_success": "2026-09-12T19:00:45+00:00",
+   "last_check": "2026-09-12T21:00:46+00:00",
+   "last_success": "2026-09-12T21:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 158,
-   "fingerprint": "a22241d7cffcd739",
+   "fingerprint": "feddb929140146a7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-12T21:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 158,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-12T19:00:45+00:00",
      "status": "ok",
@@ -5039,16 +5043,6 @@
     },
     {
      "at": "2026-09-10T12:03:24+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 157,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T10:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5569,8 +5563,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-12T19:00:50+00:00",
-   "last_success": "2026-09-12T19:00:50+00:00",
+   "last_check": "2026-09-12T21:00:49+00:00",
+   "last_success": "2026-09-12T21:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5578,6 +5572,16 @@
    "fingerprint": "f114a5ff1e703ca5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-12T21:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-12T19:00:50+00:00",
      "status": "ok",
@@ -5860,16 +5864,6 @@
     },
     {
      "at": "2026-09-10T12:03:29+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T10:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
