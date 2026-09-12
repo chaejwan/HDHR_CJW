@@ -1,5 +1,5 @@
 {
- "at": "2026-09-12T17:00:52+00:00",
+ "at": "2026-09-12T19:00:54+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -7,25 +7,14 @@
   "error": "",
   "skipped": "모아 두는 중입니다 (새 공고 22건 · 점검 4건). 09-14 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  }
- ],
+ "alerts": [],
  "pending": {
   "items": 22,
   "alerts": 4,
   "since": "2026-09-11T03:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34706928110",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34712875118",
  "results": [
   {
    "site_id": "hanwhain",
