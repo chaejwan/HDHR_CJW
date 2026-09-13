@@ -652,15 +652,25 @@
      "first_seen": "2026-09-11T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T07:00:36+00:00",
-   "last_success": "2026-09-13T07:00:36+00:00",
+   "last_check": "2026-09-13T09:01:58+00:00",
+   "last_success": "2026-09-13T09:01:58+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 91,
-   "fingerprint": "0c3b597cfe3632d6",
+   "item_count": 90,
+   "fingerprint": "8e5fbf759d5213a5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T09:01:58+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T07:00:36+00:00",
      "status": "ok",
@@ -998,26 +1008,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-10T22:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
     "[한화에어로스페이스] 항공사업부 SW 품질보증(SQA) 경력사원 수시채용",
     "[한화모멘텀(주)] HR Business Partner 경력 채용",
     "[한화라이프랩] 마케팅추진팀 담당자",
-    "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용"
+    "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+    "[한화솔루션 큐셀] 한국공장(진천) 스마트팩토리팀 IT 인프라 경력사원 모집"
    ],
    "health": {
     "issue": "",
@@ -1713,8 +1713,8 @@
      "first_seen": "2026-09-12T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-13T07:00:38+00:00",
-   "last_success": "2026-09-13T07:00:38+00:00",
+   "last_check": "2026-09-13T09:02:00+00:00",
+   "last_success": "2026-09-13T09:02:00+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1722,6 +1722,16 @@
    "fingerprint": "114ceffafd82e7ec",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T09:02:00+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-13T07:00:38+00:00",
      "status": "ok",
@@ -2004,16 +2014,6 @@
     },
     {
      "at": "2026-09-11T00:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T22:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -2977,8 +2977,8 @@
      "first_seen": "2026-09-11T11:00:44+00:00"
     }
    },
-   "last_check": "2026-09-13T07:00:41+00:00",
-   "last_success": "2026-09-13T07:00:41+00:00",
+   "last_check": "2026-09-13T09:02:06+00:00",
+   "last_success": "2026-09-13T09:02:06+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2986,6 +2986,16 @@
    "fingerprint": "7ef7c169570a2bae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T09:02:06+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 114,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T07:00:41+00:00",
      "status": "ok",
@@ -3338,16 +3348,6 @@
     },
     {
      "at": "2026-09-11T00:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 104,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T22:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4720,15 +4720,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-13T07:00:42+00:00",
-   "last_success": "2026-09-13T07:00:42+00:00",
+   "last_check": "2026-09-13T09:02:07+00:00",
+   "last_success": "2026-09-13T09:02:07+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 158,
-   "fingerprint": "00fa5799b42db346",
+   "item_count": 147,
+   "fingerprint": "07075d3aebd3eff6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T09:02:07+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 147,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T07:00:42+00:00",
      "status": "ok",
@@ -5018,26 +5028,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-10T22:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 157,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "에너지 산업/시장 전략 수립 및 신사업 기획",
-    "보안 기획/운영",
-    "노무관리 (울산)",
-    "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
-    "[제조물류지능화] 사내/사외 물류 통합운영 시스템 기획/개발"
+    "[계약직] 울산공장 영상 크리에이터",
+    "현대/제네시스 디자인 전략/CQM (Color Quality Management)",
+    "항공파워트레인 기획/개발",
+    "필드 안전품질",
+    "플랜트 운영 (전주공장)"
    ],
    "health": {
     "issue": "",
@@ -5541,8 +5541,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-13T07:00:46+00:00",
-   "last_success": "2026-09-13T07:00:46+00:00",
+   "last_check": "2026-09-13T09:02:12+00:00",
+   "last_success": "2026-09-13T09:02:12+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5550,6 +5550,16 @@
    "fingerprint": "f114a5ff1e703ca5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T09:02:12+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T07:00:46+00:00",
      "status": "ok",
@@ -5832,16 +5842,6 @@
     },
     {
      "at": "2026-09-11T00:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-10T22:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
