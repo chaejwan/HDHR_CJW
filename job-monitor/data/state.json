@@ -652,8 +652,8 @@
      "first_seen": "2026-09-11T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T17:00:36+00:00",
-   "last_success": "2026-09-13T17:00:36+00:00",
+   "last_check": "2026-09-13T19:00:39+00:00",
+   "last_success": "2026-09-13T19:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -661,6 +661,16 @@
    "fingerprint": "e7239c0eb100713e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T19:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T17:00:36+00:00",
      "status": "ok",
@@ -962,52 +972,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T07:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 7,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "(주)한화 글로벌부문 보은사업장 생산기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19762",
-       "date": "2026.09.27 23:59"
-      },
-      {
-       "title": "[한화생명] PLUS솔루션팀 '에디토리얼 디자이너 (Editorial Designer)' 경력채용(대리급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19753",
-       "date": "2026.09.28 15:00"
-      },
-      {
-       "title": "[한화생명] PLUS솔루션팀 '크리에이티브 디렉터 / 편집장 (Editorial & Creative Director)' 경력채용(과~차장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19752",
-       "date": "2026.09.28 15:00"
-      },
-      {
-       "title": "[한화생명] PLUS솔루션팀 '디지털 채널 및 콘텐츠 담당' 경력채용(대리~과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19751",
-       "date": "2026.09.28 15:00"
-      },
-      {
-       "title": "[한화생명] PLUS솔루션팀 '공간 전략 기획•운영 담당' 경력채용(과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19750",
-       "date": "2026.09.28 15:00"
-      },
-      {
-       "title": "[한화생명] PLUS솔루션팀 '디지털 프로덕트 기획자' 경력채용(과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19747",
-       "date": "2026.09.28 15:00"
-      },
-      {
-       "title": "[한화세미텍] 반도체장비 모션 제어 개발 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
-       "date": "2026.10.16 22:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -1797,8 +1761,8 @@
      "first_seen": "2026-09-13T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T17:00:37+00:00",
-   "last_success": "2026-09-13T17:00:37+00:00",
+   "last_check": "2026-09-13T19:00:40+00:00",
+   "last_success": "2026-09-13T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1806,6 +1770,16 @@
    "fingerprint": "5901af1f56eeea13",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-13T17:00:37+00:00",
      "status": "ok",
@@ -2088,16 +2062,6 @@
     },
     {
      "at": "2026-09-11T09:03:03+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T07:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3067,8 +3031,8 @@
      "first_seen": "2026-09-13T15:00:46+00:00"
     }
    },
-   "last_check": "2026-09-13T17:00:40+00:00",
-   "last_success": "2026-09-13T17:00:40+00:00",
+   "last_check": "2026-09-13T19:00:42+00:00",
+   "last_success": "2026-09-13T19:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -3076,6 +3040,16 @@
    "fingerprint": "242e8d7b8de4ff53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T19:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T17:00:40+00:00",
      "status": "ok",
@@ -3400,32 +3374,6 @@
       {
        "title": "SK온 고품조사팀 | 품질 이슈 조사·평가 기술감독직 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R261964",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-11T07:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 111,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "AI Agent 개발자 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261939",
-       "date": ""
-      },
-      {
-       "title": "AI 플랫폼 아키텍트 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261940",
-       "date": ""
-      },
-      {
-       "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261970",
        "date": ""
       }
      ]
@@ -4794,15 +4742,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-13T17:00:41+00:00",
-   "last_success": "2026-09-13T17:00:41+00:00",
+   "last_check": "2026-09-13T19:00:43+00:00",
+   "last_success": "2026-09-13T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 146,
-   "fingerprint": "78ecce91d712419d",
+   "fingerprint": "cbf1e8ba02eb4be0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 146,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T17:00:41+00:00",
      "status": "ok",
@@ -5085,16 +5043,6 @@
     },
     {
      "at": "2026-09-11T09:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T07:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5615,8 +5563,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-13T17:00:46+00:00",
-   "last_success": "2026-09-13T17:00:46+00:00",
+   "last_check": "2026-09-13T19:00:46+00:00",
+   "last_success": "2026-09-13T19:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5624,6 +5572,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T19:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T17:00:46+00:00",
      "status": "ok",
@@ -5906,16 +5864,6 @@
     },
     {
      "at": "2026-09-11T09:03:13+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T07:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
