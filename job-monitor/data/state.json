@@ -652,15 +652,25 @@
      "first_seen": "2026-09-11T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T21:00:38+00:00",
+   "last_check": "2026-09-13T23:00:38+00:00",
    "last_success": "2026-09-13T21:00:38+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 81,
    "fingerprint": "e7239c0eb100713e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T23:00:38+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T21:00:38+00:00",
      "status": "ok",
@@ -956,26 +966,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T11:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
-       "date": "2026.09.20 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "「인천 검진센터 의무직 (방사선사)」 채용",
@@ -1761,8 +1755,8 @@
      "first_seen": "2026-09-13T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T21:00:39+00:00",
-   "last_success": "2026-09-13T21:00:39+00:00",
+   "last_check": "2026-09-13T23:03:05+00:00",
+   "last_success": "2026-09-13T23:03:05+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1770,6 +1764,16 @@
    "fingerprint": "5901af1f56eeea13",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T23:03:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-13T21:00:39+00:00",
      "status": "ok",
@@ -2052,16 +2056,6 @@
     },
     {
      "at": "2026-09-11T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T11:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3031,8 +3025,8 @@
      "first_seen": "2026-09-13T15:00:46+00:00"
     }
    },
-   "last_check": "2026-09-13T21:00:46+00:00",
-   "last_success": "2026-09-13T21:00:46+00:00",
+   "last_check": "2026-09-13T23:03:08+00:00",
+   "last_success": "2026-09-13T23:03:08+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -3040,6 +3034,16 @@
    "fingerprint": "242e8d7b8de4ff53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T23:03:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T21:00:46+00:00",
      "status": "ok",
@@ -3335,32 +3339,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T11:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261975",
-       "date": ""
-      },
-      {
-       "title": "IP Junior 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261976",
-       "date": ""
-      },
-      {
-       "title": "IP Senior 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261977",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -4726,15 +4704,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-13T21:00:47+00:00",
-   "last_success": "2026-09-13T21:00:47+00:00",
+   "last_check": "2026-09-13T23:03:09+00:00",
+   "last_success": "2026-09-13T23:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 146,
-   "fingerprint": "b96583489f7a81d3",
+   "fingerprint": "7c3e47fd38eb4c3e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T23:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 146,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T21:00:47+00:00",
      "status": "ok",
@@ -5017,16 +5005,6 @@
     },
     {
      "at": "2026-09-11T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5547,8 +5525,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-13T21:00:52+00:00",
-   "last_success": "2026-09-13T21:00:52+00:00",
+   "last_check": "2026-09-13T23:03:14+00:00",
+   "last_success": "2026-09-13T23:03:14+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5556,6 +5534,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-13T23:03:14+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T21:00:52+00:00",
      "status": "ok",
@@ -5845,16 +5833,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T11:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5874,279 +5852,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "PI 컨설턴트 (경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261971",
-    "date": "",
-    "found_at": "2026-09-11T03:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI Agent 엔지니어 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261936",
-    "date": "",
-    "found_at": "2026-09-11T05:03:16+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI Data 엔지니어 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261937",
-    "date": "",
-    "found_at": "2026-09-11T05:03:16+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI Model 엔지니어 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261938",
-    "date": "",
-    "found_at": "2026-09-11T05:03:16+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 보은사업장 생산기획 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19762",
-    "date": "2026.09.27 23:59",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] PLUS솔루션팀 '에디토리얼 디자이너 (Editorial Designer)' 경력채용(대리급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19753",
-    "date": "2026.09.28 15:00",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] PLUS솔루션팀 '크리에이티브 디렉터 / 편집장 (Editorial & Creative Director)' 경력채용(과~차장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19752",
-    "date": "2026.09.28 15:00",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] PLUS솔루션팀 '디지털 채널 및 콘텐츠 담당' 경력채용(대리~과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19751",
-    "date": "2026.09.28 15:00",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] PLUS솔루션팀 '공간 전략 기획•운영 담당' 경력채용(과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19750",
-    "date": "2026.09.28 15:00",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] PLUS솔루션팀 '디지털 프로덕트 기획자' 경력채용(과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19747",
-    "date": "2026.09.28 15:00",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화세미텍] 반도체장비 모션 제어 개발 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
-    "date": "2026.10.16 22:00",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI Agent 개발자 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261939",
-    "date": "",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI 플랫폼 아키텍트 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261940",
-    "date": "",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261970",
-    "date": "",
-    "found_at": "2026-09-11T07:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 울산지피에스 사무서기 채용(판교)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261972",
-    "date": "",
-    "found_at": "2026-09-11T09:03:16+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 울산지피에스 사무지원 채용(울산)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261974",
-    "date": "",
-    "found_at": "2026-09-11T09:03:16+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 고품조사팀 | 품질 이슈 조사·평가 기술감독직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261964",
-    "date": "",
-    "found_at": "2026-09-11T09:03:16+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화에어로스페이스] 호주법인 사업관리 담당자 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19724",
-    "date": "2026.09.20 23:59",
-    "found_at": "2026-09-11T11:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[엔솔브] 일반 사무/행정 담당 장애인 구성원 채용 (신입/경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261975",
-    "date": "",
-    "found_at": "2026-09-11T11:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "IP Junior 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261976",
-    "date": "",
-    "found_at": "2026-09-11T11:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "IP Senior 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261977",
-    "date": "",
-    "found_at": "2026-09-11T11:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 구매(대급지급관리) 계약직 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
-    "date": "2026.09.28 23:59",
-    "found_at": "2026-09-11T15:01:08+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "'26년 9월 토목사업 Projcet 공사(토목/건축), 공무 경력직(촉탁직) 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261973",
-    "date": "",
-    "found_at": "2026-09-13T15:00:53+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-11T03:00:50+00:00",
-  "last_sent": "2026-09-11T00:00:54+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-13T23:03:24+00:00"
  },
  "archive": [
   {
