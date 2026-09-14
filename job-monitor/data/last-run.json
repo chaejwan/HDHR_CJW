@@ -1,31 +1,31 @@
 {
- "at": "2026-09-13T23:03:18+00:00",
+ "at": "2026-09-14T01:00:49+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 8,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 09-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 8,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-14T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34788425835",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34794483115",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "ok",
+   "item_count": 81,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
+   "error": "",
    "new_items": []
   },
   {
@@ -33,24 +33,66 @@
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 14,
+   "status": "new",
+   "item_count": 20,
    "method": "links",
-   "note": "22개 중 필터를 통과한 14개를 사용합니다.",
+   "note": "28개 중 필터를 통과한 20개를 사용합니다.",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+     "date": ""
+    },
+    {
+     "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+     "date": ""
+    },
+    {
+     "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+     "date": ""
+    },
+    {
+     "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+     "date": ""
+    },
+    {
+     "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+     "date": ""
+    },
+    {
+     "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 86,
+   "status": "new",
+   "item_count": 89,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK키파운드리 제조 Operator(전임직) 신입 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261943",
+     "date": ""
+    },
+    {
+     "title": "SK온 IP 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261952",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -58,7 +100,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 146,
+   "item_count": 144,
    "method": "json",
    "note": "",
    "error": "",

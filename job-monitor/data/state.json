@@ -652,15 +652,25 @@
      "first_seen": "2026-09-11T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T23:00:38+00:00",
-   "last_success": "2026-09-13T21:00:38+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-14T01:00:38+00:00",
+   "last_success": "2026-09-14T01:00:38+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "e7239c0eb100713e",
+   "fingerprint": "31687fae237b303f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T23:00:38+00:00",
      "status": "error",
@@ -956,20 +966,10 @@
        "date": "2026.09.28 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-11T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "「인천 검진센터 의무직 (방사선사)」 채용",
@@ -1753,17 +1753,94 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/232453",
      "date": "",
      "first_seen": "2026-09-13T15:00:42+00:00"
+    },
+    "fa3a61e72173b2eb": {
+     "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:39+00:00"
+    },
+    "b5ed3c4830c644af": {
+     "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:39+00:00"
+    },
+    "67fca3c82ef96e5d": {
+     "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:39+00:00"
+    },
+    "e1601bee42dba6e5": {
+     "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:39+00:00"
+    },
+    "e1980e5c2bf67958": {
+     "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:39+00:00"
+    },
+    "a84f6416b695b11d": {
+     "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:39+00:00"
     }
    },
-   "last_check": "2026-09-13T23:03:05+00:00",
-   "last_success": "2026-09-13T23:03:05+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-14T01:00:39+00:00",
+   "last_success": "2026-09-14T01:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 14,
-   "fingerprint": "5901af1f56eeea13",
+   "item_count": 20,
+   "fingerprint": "37432430991866ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T01:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 6,
+     "item_count": 20,
+     "error": "",
+     "note": "28개 중 필터를 통과한 20개를 사용합니다.",
+     "new": [
+      {
+       "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+       "date": ""
+      },
+      {
+       "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+       "date": ""
+      },
+      {
+       "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+       "date": ""
+      },
+      {
+       "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+       "date": ""
+      },
+      {
+       "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+       "date": ""
+      },
+      {
+       "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-13T23:03:05+00:00",
      "status": "ok",
@@ -2053,32 +2130,23 @@
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 86건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
-    },
-    {
-     "at": "2026-09-11T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "22개 중 필터를 통과한 14개를 사용합니다.",
+   "last_note": "28개 중 필터를 통과한 20개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-14",
-    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-108",
-    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-108",
-    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-108",
-    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-108"
+    "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
+    "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
+    "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
-   }
+   },
+   "last_new_at": "2026-09-14T01:00:39+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -3023,17 +3091,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261973",
      "date": "",
      "first_seen": "2026-09-13T15:00:46+00:00"
+    },
+    "6bcdf36eda611188": {
+     "title": "SK키파운드리 제조 Operator(전임직) 신입 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261943",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:42+00:00"
+    },
+    "5114ffd1275bd92a": {
+     "title": "SK온 IP 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261952",
+     "date": "",
+     "first_seen": "2026-09-14T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-13T23:03:08+00:00",
-   "last_success": "2026-09-13T23:03:08+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-14T01:00:42+00:00",
+   "last_success": "2026-09-14T01:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 86,
-   "fingerprint": "242e8d7b8de4ff53",
+   "item_count": 89,
+   "fingerprint": "71e64b7e049b73fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T01:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK키파운드리 제조 Operator(전임직) 신입 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261943",
+       "date": ""
+      },
+      {
+       "title": "SK온 IP 담당자 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261952",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-13T23:03:08+00:00",
      "status": "ok",
@@ -3329,16 +3430,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3355,7 +3446,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-13T15:00:46+00:00"
+   "last_new_at": "2026-09-14T01:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4704,15 +4795,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-13T23:03:09+00:00",
-   "last_success": "2026-09-13T23:03:09+00:00",
+   "last_check": "2026-09-14T01:00:43+00:00",
+   "last_success": "2026-09-14T01:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 146,
-   "fingerprint": "7c3e47fd38eb4c3e",
+   "item_count": 144,
+   "fingerprint": "7d1b76208a6fffb8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T01:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T23:03:09+00:00",
      "status": "ok",
@@ -4995,16 +5096,6 @@
     },
     {
      "at": "2026-09-11T15:00:59+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T13:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5525,8 +5616,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-13T23:03:14+00:00",
-   "last_success": "2026-09-13T23:03:14+00:00",
+   "last_check": "2026-09-14T01:00:46+00:00",
+   "last_success": "2026-09-14T01:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5534,6 +5625,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T01:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-13T23:03:14+00:00",
      "status": "ok",
@@ -5823,16 +5924,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T13:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5852,9 +5943,82 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK키파운드리 제조 Operator(전임직) 신입 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261943",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK온 IP 담당자 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261952",
+    "date": "",
+    "found_at": "2026-09-14T01:00:49+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-14T01:00:49+00:00",
   "last_sent": "2026-09-13T23:03:24+00:00"
  },
  "archive": [
@@ -9754,6 +9918,78 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261973",
    "date": "",
    "found_at": "2026-09-13T15:00:53+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK키파운드리 제조 Operator(전임직) 신입 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261943",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK온 IP 담당자 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261952",
+   "date": "",
+   "found_at": "2026-09-14T01:00:49+00:00"
   }
  ]
 }
