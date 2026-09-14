@@ -650,17 +650,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-11T15:00:42+00:00"
+    },
+    "cfc94f95901f9542": {
+     "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
+     "date": "2026.10.11 23:59",
+     "first_seen": "2026-09-14T05:00:35+00:00"
     }
    },
-   "last_check": "2026-09-14T03:00:40+00:00",
-   "last_success": "2026-09-14T01:00:38+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-14T05:00:35+00:00",
+   "last_success": "2026-09-14T05:00:35+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "31687fae237b303f",
+   "item_count": 82,
+   "fingerprint": "11eb2133f37f4b5f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T05:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
+       "date": "2026.10.11 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-14T03:00:40+00:00",
      "status": "error",
@@ -950,20 +972,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T17:00:38+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "「인천 검진센터 의무직 (방사선사)」 채용",
@@ -976,7 +988,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-11T15:00:42+00:00"
+   "last_new_at": "2026-09-14T05:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1785,8 +1797,8 @@
      "first_seen": "2026-09-14T01:00:39+00:00"
     }
    },
-   "last_check": "2026-09-14T03:03:07+00:00",
-   "last_success": "2026-09-14T03:03:07+00:00",
+   "last_check": "2026-09-14T05:00:37+00:00",
+   "last_success": "2026-09-14T05:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1794,6 +1806,16 @@
    "fingerprint": "37432430991866ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T05:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 20,
+     "error": "",
+     "note": "28개 중 필터를 통과한 20개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-14T03:03:07+00:00",
      "status": "ok",
@@ -2107,16 +2129,6 @@
     },
     {
      "at": "2026-09-11T19:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T17:03:06+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3099,8 +3111,8 @@
      "first_seen": "2026-09-14T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-14T03:03:11+00:00",
-   "last_success": "2026-09-14T03:03:11+00:00",
+   "last_check": "2026-09-14T05:00:47+00:00",
+   "last_success": "2026-09-14T05:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -3108,6 +3120,16 @@
    "fingerprint": "71e64b7e049b73fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T05:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T03:03:11+00:00",
      "status": "ok",
@@ -3407,16 +3429,6 @@
     },
     {
      "at": "2026-09-11T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T17:03:13+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4789,15 +4801,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T03:03:13+00:00",
-   "last_success": "2026-09-14T03:03:13+00:00",
+   "last_check": "2026-09-14T05:00:48+00:00",
+   "last_success": "2026-09-14T05:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 144,
-   "fingerprint": "9cc71f9db96a35ca",
+   "fingerprint": "e23cf3d6a5d8a6e0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T05:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T03:03:13+00:00",
      "status": "ok",
@@ -5080,16 +5102,6 @@
     },
     {
      "at": "2026-09-11T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T17:03:14+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5610,8 +5622,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-14T03:03:17+00:00",
-   "last_success": "2026-09-14T03:03:17+00:00",
+   "last_check": "2026-09-14T05:00:53+00:00",
+   "last_success": "2026-09-14T05:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5619,6 +5631,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T05:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T03:03:17+00:00",
      "status": "ok",
@@ -5908,16 +5930,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T17:03:19+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6009,6 +6021,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261952",
     "date": "",
     "found_at": "2026-09-14T01:00:49+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
+    "date": "2026.10.11 23:59",
+    "found_at": "2026-09-14T05:00:56+00:00"
    }
   ],
   "alerts": [],
@@ -9984,6 +10005,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261952",
    "date": "",
    "found_at": "2026-09-14T01:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
+   "date": "2026.10.11 23:59",
+   "found_at": "2026-09-14T05:00:56+00:00"
   }
  ]
 }

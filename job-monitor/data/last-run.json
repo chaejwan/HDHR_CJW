@@ -1,32 +1,38 @@
 {
- "at": "2026-09-14T03:03:21+00:00",
+ "at": "2026-09-14T05:00:56+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 09-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 09-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 9,
   "alerts": 0,
   "since": "2026-09-14T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34801095210",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34808055784",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 82,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
+     "date": "2026.10.11 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
