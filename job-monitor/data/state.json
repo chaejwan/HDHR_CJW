@@ -652,15 +652,25 @@
      "first_seen": "2026-09-11T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-14T01:00:38+00:00",
+   "last_check": "2026-09-14T03:00:40+00:00",
    "last_success": "2026-09-14T01:00:38+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 81,
    "fingerprint": "31687fae237b303f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T03:00:40+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T01:00:38+00:00",
      "status": "ok",
@@ -950,26 +960,10 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T15:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 구매(대급지급관리) 계약직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
-       "date": "2026.09.28 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "「인천 검진센터 의무직 (방사선사)」 채용",
@@ -1791,15 +1785,25 @@
      "first_seen": "2026-09-14T01:00:39+00:00"
     }
    },
-   "last_check": "2026-09-14T01:00:39+00:00",
-   "last_success": "2026-09-14T01:00:39+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-14T03:03:07+00:00",
+   "last_success": "2026-09-14T03:03:07+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 20,
    "fingerprint": "37432430991866ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T03:03:07+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 20,
+     "error": "",
+     "note": "28개 중 필터를 통과한 20개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-14T01:00:39+00:00",
      "status": "new",
@@ -2119,16 +2123,6 @@
      "item_count": 14,
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T15:00:43+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 86건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -3105,15 +3099,25 @@
      "first_seen": "2026-09-14T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-14T01:00:42+00:00",
-   "last_success": "2026-09-14T01:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-14T03:03:11+00:00",
+   "last_success": "2026-09-14T03:03:11+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 89,
    "fingerprint": "71e64b7e049b73fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T03:03:11+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T01:00:42+00:00",
      "status": "new",
@@ -3413,16 +3417,6 @@
     },
     {
      "at": "2026-09-11T17:03:13+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T15:00:58+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4795,15 +4789,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T01:00:43+00:00",
-   "last_success": "2026-09-14T01:00:43+00:00",
+   "last_check": "2026-09-14T03:03:13+00:00",
+   "last_success": "2026-09-14T03:03:13+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 144,
-   "fingerprint": "7d1b76208a6fffb8",
+   "fingerprint": "9cc71f9db96a35ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T03:03:13+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T01:00:43+00:00",
      "status": "ok",
@@ -5086,16 +5090,6 @@
     },
     {
      "at": "2026-09-11T17:03:14+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T15:00:59+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5616,8 +5610,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-14T01:00:46+00:00",
-   "last_success": "2026-09-14T01:00:46+00:00",
+   "last_check": "2026-09-14T03:03:17+00:00",
+   "last_success": "2026-09-14T03:03:17+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5625,6 +5619,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T03:03:17+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T01:00:46+00:00",
      "status": "ok",
@@ -5907,16 +5911,6 @@
     },
     {
      "at": "2026-09-11T17:03:19+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T15:01:04+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
