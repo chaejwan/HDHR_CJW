@@ -676,8 +676,8 @@
      "first_seen": "2026-09-14T15:00:48+00:00"
     }
    },
-   "last_check": "2026-09-14T21:00:40+00:00",
-   "last_success": "2026-09-14T21:00:40+00:00",
+   "last_check": "2026-09-14T23:00:34+00:00",
+   "last_success": "2026-09-14T23:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -685,6 +685,16 @@
    "fingerprint": "cbd68d4ec2aa2b80",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T23:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T21:00:40+00:00",
      "status": "ok",
@@ -990,16 +1000,6 @@
     },
     {
      "at": "2026-09-12T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T11:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -1964,8 +1964,8 @@
      "first_seen": "2026-09-14T15:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T21:00:41+00:00",
-   "last_success": "2026-09-14T21:00:41+00:00",
+   "last_check": "2026-09-14T23:00:35+00:00",
+   "last_success": "2026-09-14T23:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1973,6 +1973,16 @@
    "fingerprint": "9486ca01db3bf9e3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T23:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 21,
+     "error": "",
+     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-14T21:00:41+00:00",
      "status": "ok",
@@ -2292,16 +2302,6 @@
     },
     {
      "at": "2026-09-12T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T11:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3320,8 +3320,8 @@
      "first_seen": "2026-09-14T15:00:55+00:00"
     }
    },
-   "last_check": "2026-09-14T21:00:44+00:00",
-   "last_success": "2026-09-14T21:00:44+00:00",
+   "last_check": "2026-09-14T23:00:41+00:00",
+   "last_success": "2026-09-14T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -3329,6 +3329,16 @@
    "fingerprint": "64e273bfa608273f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T21:00:44+00:00",
      "status": "ok",
@@ -3661,16 +3671,6 @@
     },
     {
      "at": "2026-09-12T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5043,8 +5043,8 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T21:00:45+00:00",
-   "last_success": "2026-09-14T21:00:45+00:00",
+   "last_check": "2026-09-14T23:00:42+00:00",
+   "last_success": "2026-09-14T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5052,6 +5052,16 @@
    "fingerprint": "504a988dedbd2a3a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T21:00:45+00:00",
      "status": "ok",
@@ -5334,16 +5344,6 @@
     },
     {
      "at": "2026-09-12T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T11:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5864,8 +5864,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-14T21:00:47+00:00",
-   "last_success": "2026-09-14T21:00:47+00:00",
+   "last_check": "2026-09-14T23:00:44+00:00",
+   "last_success": "2026-09-14T23:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5873,6 +5873,16 @@
    "fingerprint": "e33222cc63cb6fb4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T23:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T21:00:47+00:00",
      "status": "ok",
@@ -6162,16 +6172,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T11:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6191,223 +6191,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236432",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236418",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236417",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236414",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236395",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236315",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 제조 Operator(전임직) 신입 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261943",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 IP 담당자 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261952",
-    "date": "",
-    "found_at": "2026-09-14T01:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
-    "date": "2026.10.11 23:59",
-    "found_at": "2026-09-14T05:00:56+00:00"
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-16",
-    "url": "https://recruit-hanwhaocean.com/ko/o/236218",
-    "date": "",
-    "found_at": "2026-09-14T07:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI사업 운영 지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261982",
-    "date": "",
-    "found_at": "2026-09-14T07:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 중국어 통번역사 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261955",
-    "date": "",
-    "found_at": "2026-09-14T09:05:06+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK케미칼] Pharma사업 해외 RA 경력 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261984",
-    "date": "",
-    "found_at": "2026-09-14T09:05:06+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 기반연구소 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19741",
-    "date": "2026.09.28 23:59",
-    "found_at": "2026-09-14T11:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화세미텍] 반도체장비 모션제어 개발 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
-    "date": "2026.10.16 22:00",
-    "found_at": "2026-09-14T11:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 Recruiting Coordinator 계약직 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19770",
-    "date": "2026.09.28 23:59",
-    "found_at": "2026-09-14T15:01:02+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "IT보안 전문가 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261989",
-    "date": "",
-    "found_at": "2026-09-14T15:01:02+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "IT 네트워크 전문가 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261990",
-    "date": "",
-    "found_at": "2026-09-14T15:01:02+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "보안 아키텍트 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261988",
-    "date": "",
-    "found_at": "2026-09-14T15:01:02+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "kind": "drop",
-    "label": "항목 수가 갑자기 크게 줄었습니다",
-    "detail": "평소 146건에서 52건으로 줄었습니다.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "kind": "drop",
-    "label": "항목 수가 갑자기 크게 줄었습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-14T01:00:49+00:00",
-  "last_sent": "2026-09-13T23:03:24+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-14T23:00:50+00:00"
  },
  "archive": [
   {
