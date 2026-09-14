@@ -658,15 +658,25 @@
      "first_seen": "2026-09-14T05:00:35+00:00"
     }
    },
-   "last_check": "2026-09-14T05:00:35+00:00",
-   "last_success": "2026-09-14T05:00:35+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-14T07:00:39+00:00",
+   "last_success": "2026-09-14T07:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 82,
    "fingerprint": "11eb2133f37f4b5f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T05:00:35+00:00",
      "status": "new",
@@ -960,16 +970,6 @@
      "new_count": 0,
      "item_count": 0,
      "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T19:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
      "note": "",
      "new": []
     }
@@ -1795,17 +1795,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/236315",
      "date": "",
      "first_seen": "2026-09-14T01:00:39+00:00"
+    },
+    "62f55b7bfe6e9f4e": {
+     "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+     "date": "",
+     "first_seen": "2026-09-14T07:00:40+00:00"
     }
    },
-   "last_check": "2026-09-14T05:00:37+00:00",
-   "last_success": "2026-09-14T05:00:37+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-14T07:00:40+00:00",
+   "last_success": "2026-09-14T07:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 20,
-   "fingerprint": "37432430991866ee",
+   "item_count": 21,
+   "fingerprint": "39f46bca450a1dcb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T07:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 21,
+     "error": "",
+     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
+     "new": [
+      {
+       "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-16",
+       "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-14T05:00:37+00:00",
      "status": "ok",
@@ -2126,19 +2148,9 @@
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-11T19:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "28개 중 필터를 통과한 20개를 사용합니다.",
+   "last_note": "29개 중 필터를 통과한 21개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-14",
@@ -2152,7 +2164,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-14T01:00:39+00:00"
+   "last_new_at": "2026-09-14T07:00:40+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -3109,17 +3121,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261952",
      "date": "",
      "first_seen": "2026-09-14T01:00:42+00:00"
+    },
+    "0c481fbe5a0dcce1": {
+     "title": "AI사업 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261982",
+     "date": "",
+     "first_seen": "2026-09-14T07:00:45+00:00"
     }
    },
-   "last_check": "2026-09-14T05:00:47+00:00",
-   "last_success": "2026-09-14T05:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-14T07:00:45+00:00",
+   "last_success": "2026-09-14T07:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 89,
-   "fingerprint": "71e64b7e049b73fa",
+   "item_count": 91,
+   "fingerprint": "0a5045037e81e5b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T07:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "AI사업 운영 지원 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261982",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-14T05:00:47+00:00",
      "status": "ok",
@@ -3426,16 +3460,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3452,7 +3476,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-14T01:00:42+00:00"
+   "last_new_at": "2026-09-14T07:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4801,15 +4825,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T05:00:48+00:00",
-   "last_success": "2026-09-14T05:00:48+00:00",
+   "last_check": "2026-09-14T07:00:46+00:00",
+   "last_success": "2026-09-14T07:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 144,
-   "fingerprint": "e23cf3d6a5d8a6e0",
+   "fingerprint": "c4297cddcb8fba12",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T07:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T05:00:48+00:00",
      "status": "ok",
@@ -5092,16 +5126,6 @@
     },
     {
      "at": "2026-09-11T21:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T19:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5622,8 +5646,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-14T05:00:53+00:00",
-   "last_success": "2026-09-14T05:00:53+00:00",
+   "last_check": "2026-09-14T07:00:50+00:00",
+   "last_success": "2026-09-14T07:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5631,6 +5655,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T07:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T05:00:53+00:00",
      "status": "ok",
@@ -5920,16 +5954,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6030,6 +6054,24 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
     "date": "2026.10.11 23:59",
     "found_at": "2026-09-14T05:00:56+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-16",
+    "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+    "date": "",
+    "found_at": "2026-09-14T07:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI사업 운영 지원 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261982",
+    "date": "",
+    "found_at": "2026-09-14T07:00:53+00:00"
    }
   ],
   "alerts": [],
@@ -10014,6 +10056,24 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
    "date": "2026.10.11 23:59",
    "found_at": "2026-09-14T05:00:56+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-16",
+   "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+   "date": "",
+   "found_at": "2026-09-14T07:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI사업 운영 지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261982",
+   "date": "",
+   "found_at": "2026-09-14T07:00:53+00:00"
   }
  ]
 }

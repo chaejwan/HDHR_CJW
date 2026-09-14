@@ -1,62 +1,68 @@
 {
- "at": "2026-09-14T05:00:56+00:00",
+ "at": "2026-09-14T07:00:53+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 09-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 09-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 11,
   "alerts": 0,
   "since": "2026-09-14T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34808055784",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34815866201",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 82,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19763",
-     "date": "2026.10.11 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 20,
+   "status": "new",
+   "item_count": 21,
    "method": "links",
-   "note": "28개 중 필터를 통과한 20개를 사용합니다.",
+   "note": "29개 중 필터를 통과한 21개를 사용합니다.",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-16",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 89,
+   "status": "new",
+   "item_count": 91,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "AI사업 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261982",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
