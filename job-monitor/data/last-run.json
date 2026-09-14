@@ -1,5 +1,5 @@
 {
- "at": "2026-09-14T19:00:49+00:00",
+ "at": "2026-09-14T21:00:50+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -7,25 +7,14 @@
   "error": "",
   "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 4건). 09-15 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "kind": "drop",
-   "label": "항목 수가 갑자기 크게 줄었습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  }
- ],
+ "alerts": [],
  "pending": {
   "items": 19,
   "alerts": 4,
   "since": "2026-09-14T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34884260181",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34896287573",
  "results": [
   {
    "site_id": "hanwhain",
