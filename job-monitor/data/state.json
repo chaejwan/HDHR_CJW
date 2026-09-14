@@ -658,15 +658,25 @@
      "first_seen": "2026-09-14T05:00:35+00:00"
     }
    },
-   "last_check": "2026-09-14T07:00:39+00:00",
+   "last_check": "2026-09-14T09:02:31+00:00",
    "last_success": "2026-09-14T07:00:39+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 82,
    "fingerprint": "11eb2133f37f4b5f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T09:02:31+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T07:00:39+00:00",
      "status": "ok",
@@ -962,20 +972,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T21:00:38+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "「인천 검진센터 의무직 (방사선사)」 채용",
@@ -1803,15 +1803,25 @@
      "first_seen": "2026-09-14T07:00:40+00:00"
     }
    },
-   "last_check": "2026-09-14T07:00:40+00:00",
-   "last_success": "2026-09-14T07:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-14T09:04:58+00:00",
+   "last_success": "2026-09-14T09:04:58+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 21,
    "fingerprint": "39f46bca450a1dcb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T09:04:58+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 21,
+     "error": "",
+     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-14T07:00:40+00:00",
      "status": "new",
@@ -2131,16 +2141,6 @@
     },
     {
      "at": "2026-09-11T23:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-11T21:03:05+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3127,17 +3127,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261982",
      "date": "",
      "first_seen": "2026-09-14T07:00:45+00:00"
+    },
+    "0611421b5b1287ee": {
+     "title": "SK온 중국어 통번역사 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261955",
+     "date": "",
+     "first_seen": "2026-09-14T09:05:01+00:00"
+    },
+    "77d2585707a66585": {
+     "title": "[SK케미칼] Pharma사업 해외 RA 경력 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261984",
+     "date": "",
+     "first_seen": "2026-09-14T09:05:01+00:00"
     }
    },
-   "last_check": "2026-09-14T07:00:45+00:00",
-   "last_success": "2026-09-14T07:00:45+00:00",
+   "last_check": "2026-09-14T09:05:01+00:00",
+   "last_success": "2026-09-14T09:05:01+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 91,
-   "fingerprint": "0a5045037e81e5b9",
+   "item_count": 93,
+   "fingerprint": "e8bb6eb158c0cc46",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T09:05:01+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK온 중국어 통번역사 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261955",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼] Pharma사업 해외 RA 경력 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261984",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-14T07:00:45+00:00",
      "status": "new",
@@ -3450,16 +3483,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T21:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3476,7 +3499,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-14T07:00:45+00:00"
+   "last_new_at": "2026-09-14T09:05:01+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -4825,15 +4848,25 @@
      "first_seen": "2026-09-09T09:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T07:00:46+00:00",
-   "last_success": "2026-09-14T07:00:46+00:00",
+   "last_check": "2026-09-14T09:05:02+00:00",
+   "last_success": "2026-09-14T09:05:02+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 144,
-   "fingerprint": "c4297cddcb8fba12",
+   "item_count": 52,
+   "fingerprint": "8c11e5c1767c0915",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T09:05:02+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T07:00:46+00:00",
      "status": "ok",
@@ -5123,31 +5156,21 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T21:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "현대/제네시스 디자인 전략/CQM (Color Quality Management)",
-    "항공파워트레인 기획/개발",
-    "필드 안전품질",
-    "플랜트 운영 (전주공장)",
-    "플랜트 운영 (울산공장)"
+    "[계약직] CS강사",
+    "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
+    "제네시스 비스포크 컨설턴트",
+    "[계약직] 울산공장 영상 크리에이터",
+    "[계약직] 행정지원 (장애인 제한경쟁)"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "drop",
+    "detail": "평소 146건에서 52건으로 줄었습니다.",
+    "since": "2026-09-14T09:05:02+00:00"
    },
    "last_new_at": "2026-09-09T09:00:49+00:00"
   },
@@ -5646,8 +5669,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-14T07:00:50+00:00",
-   "last_success": "2026-09-14T07:00:50+00:00",
+   "last_check": "2026-09-14T09:05:03+00:00",
+   "last_success": "2026-09-14T09:05:03+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5655,6 +5678,16 @@
    "fingerprint": "369c57c63602eb84",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-14T09:05:03+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T07:00:50+00:00",
      "status": "ok",
@@ -5944,16 +5977,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-11T21:03:16+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6072,9 +6095,38 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261982",
     "date": "",
     "found_at": "2026-09-14T07:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK온 중국어 통번역사 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261955",
+    "date": "",
+    "found_at": "2026-09-14T09:05:06+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼] Pharma사업 해외 RA 경력 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261984",
+    "date": "",
+    "found_at": "2026-09-14T09:05:06+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "kind": "drop",
+    "label": "항목 수가 갑자기 크게 줄었습니다",
+    "detail": "평소 146건에서 52건으로 줄었습니다.",
+    "recovered": false
+   }
+  ],
   "since": "2026-09-14T01:00:49+00:00",
   "last_sent": "2026-09-13T23:03:24+00:00"
  },
@@ -10074,6 +10126,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261982",
    "date": "",
    "found_at": "2026-09-14T07:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK온 중국어 통번역사 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261955",
+   "date": "",
+   "found_at": "2026-09-14T09:05:06+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼] Pharma사업 해외 RA 경력 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261984",
+   "date": "",
+   "found_at": "2026-09-14T09:05:06+00:00"
   }
  ]
 }
