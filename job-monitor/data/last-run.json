@@ -1,43 +1,43 @@
 {
- "at": "2026-09-14T09:05:06+00:00",
+ "at": "2026-09-14T11:00:49+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 1건). 09-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 15건 · 점검 1건). 09-15 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "kind": "drop",
-   "label": "항목 수가 갑자기 크게 줄었습니다",
-   "detail": "평소 146건에서 52건으로 줄었습니다.",
-   "recovered": false
-  }
- ],
+ "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 15,
   "alerts": 1,
   "since": "2026-09-14T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34825623142",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34835985741",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 83,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "한화시스템 기반연구소 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19741",
+     "date": "2026.09.28 23:59"
+    },
+    {
+     "title": "[한화세미텍] 반도체장비 모션제어 개발 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
+     "date": "2026.10.16 22:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -56,23 +56,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK온 중국어 통번역사 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261955",
-     "date": ""
-    },
-    {
-     "title": "[SK케미칼] Pharma사업 해외 RA 경력 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261984",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
