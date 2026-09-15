@@ -682,15 +682,25 @@
      "first_seen": "2026-09-15T01:00:37+00:00"
     }
    },
-   "last_check": "2026-09-15T03:00:37+00:00",
+   "last_check": "2026-09-15T05:00:34+00:00",
    "last_success": "2026-09-15T03:00:37+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 84,
    "fingerprint": "b38f970de0522fce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T05:00:34+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-15T03:00:37+00:00",
      "status": "ok",
@@ -1009,20 +1019,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T17:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "「인천 검진센터 의무직 (방사선사)」 채용",
     "퐁피두센터 한화, 마케팅 인력 채용",
@@ -1976,8 +1976,8 @@
      "first_seen": "2026-09-14T15:00:49+00:00"
     }
    },
-   "last_check": "2026-09-15T03:00:38+00:00",
-   "last_success": "2026-09-15T03:00:38+00:00",
+   "last_check": "2026-09-15T05:03:01+00:00",
+   "last_success": "2026-09-15T05:03:01+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1985,6 +1985,16 @@
    "fingerprint": "f6973cbd9cc92e2c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T05:03:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 21,
+     "error": "",
+     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-15T03:00:38+00:00",
      "status": "ok",
@@ -2304,16 +2314,6 @@
     },
     {
      "at": "2026-09-12T19:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T17:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3348,17 +3348,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261993",
      "date": "",
      "first_seen": "2026-09-15T03:00:44+00:00"
+    },
+    "4ff7afbe456adb1f": {
+     "title": "[9월] 월간 hy-way(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261983",
+     "date": "",
+     "first_seen": "2026-09-15T05:03:07+00:00"
+    },
+    "a38378163ce4e5db": {
+     "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261964",
+     "date": "",
+     "first_seen": "2026-09-15T05:03:07+00:00"
+    },
+    "1856dbb95783aa17": {
+     "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261994",
+     "date": "",
+     "first_seen": "2026-09-15T05:03:07+00:00"
     }
    },
-   "last_check": "2026-09-15T03:00:44+00:00",
-   "last_success": "2026-09-15T03:00:44+00:00",
+   "last_check": "2026-09-15T05:03:07+00:00",
+   "last_success": "2026-09-15T05:03:07+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 84,
-   "fingerprint": "3af58bd82d3671a0",
+   "item_count": 86,
+   "fingerprint": "de65c1adfa0654d0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T05:03:07+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[9월] 월간 hy-way(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261983",
+       "date": ""
+      },
+      {
+       "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261964",
+       "date": ""
+      },
+      {
+       "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261994",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-15T03:00:44+00:00",
      "status": "new",
@@ -3715,16 +3759,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 114,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3741,7 +3775,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T03:00:44+00:00"
+   "last_new_at": "2026-09-15T05:03:07+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5258,15 +5292,25 @@
      "first_seen": "2026-09-15T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-15T03:00:45+00:00",
-   "last_success": "2026-09-15T03:00:45+00:00",
+   "last_check": "2026-09-15T05:03:08+00:00",
+   "last_success": "2026-09-15T05:03:08+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 80,
-   "fingerprint": "a6a54c9376204028",
+   "fingerprint": "b9a29e71d424ef9b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T05:03:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-15T03:00:45+00:00",
      "status": "ok",
@@ -5697,26 +5741,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "[계약직] CS강사",
-    "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
     "제네시스 비스포크 컨설턴트",
     "[계약직] 울산공장 영상 크리에이터",
-    "[계약직] 행정지원 (장애인 제한경쟁)"
+    "[계약직] 행정지원 (장애인 제한경쟁)",
+    "[계약직] 연료교환"
    ],
    "health": {
     "issue": "",
@@ -6220,8 +6254,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-15T03:00:48+00:00",
-   "last_success": "2026-09-15T03:00:48+00:00",
+   "last_check": "2026-09-15T05:03:11+00:00",
+   "last_success": "2026-09-15T05:03:11+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6229,6 +6263,16 @@
    "fingerprint": "e33222cc63cb6fb4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T05:03:11+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-15T03:00:48+00:00",
      "status": "ok",
@@ -6511,16 +6555,6 @@
     },
     {
      "at": "2026-09-12T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T17:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6835,6 +6869,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261993",
     "date": "",
     "found_at": "2026-09-15T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[9월] 월간 hy-way(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261983",
+    "date": "",
+    "found_at": "2026-09-15T05:03:14+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261964",
+    "date": "",
+    "found_at": "2026-09-15T05:03:14+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261994",
+    "date": "",
+    "found_at": "2026-09-15T05:03:14+00:00"
    }
   ],
   "alerts": [],
@@ -11197,6 +11258,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261993",
    "date": "",
    "found_at": "2026-09-15T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[9월] 월간 hy-way(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261983",
+   "date": "",
+   "found_at": "2026-09-15T05:03:14+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261964",
+   "date": "",
+   "found_at": "2026-09-15T05:03:14+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261994",
+   "date": "",
+   "found_at": "2026-09-15T05:03:14+00:00"
   }
  ]
 }

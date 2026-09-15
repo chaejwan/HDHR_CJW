@@ -1,31 +1,31 @@
 {
- "at": "2026-09-15T03:00:51+00:00",
+ "at": "2026-09-15T05:03:14+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 32건 · 점검 0건). 09-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 35건 · 점검 0건). 09-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 32,
+  "items": 35,
   "alerts": 0,
   "since": "2026-09-15T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34923331921",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34931012322",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 84,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {
@@ -46,14 +46,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 84,
+   "item_count": 86,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK플라즈마 튀르키예 주재원 경력직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261993",
+     "title": "[9월] 월간 hy-way(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261983",
+     "date": ""
+    },
+    {
+     "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261964",
+     "date": ""
+    },
+    {
+     "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261994",
      "date": ""
     }
    ]
