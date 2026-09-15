@@ -704,17 +704,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19529",
      "date": "2026.09.27 23:59",
      "first_seen": "2026-09-15T07:00:34+00:00"
+    },
+    "efb637314814d27a": {
+     "title": "2026년 한화손해보험 임원 비서 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19775",
+     "date": "2026.09.22 15:00",
+     "first_seen": "2026-09-15T09:00:38+00:00"
     }
    },
-   "last_check": "2026-09-15T07:00:34+00:00",
-   "last_success": "2026-09-15T07:00:34+00:00",
+   "last_check": "2026-09-15T09:00:38+00:00",
+   "last_success": "2026-09-15T09:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 88,
-   "fingerprint": "80518d2b3c5cc424",
+   "item_count": 89,
+   "fingerprint": "ad7d2edcc5b1cf24",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T09:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 한화손해보험 임원 비서 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19775",
+       "date": "2026.09.22 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-15T07:00:34+00:00",
      "status": "new",
@@ -1054,16 +1076,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1080,7 +1092,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T07:00:34+00:00"
+   "last_new_at": "2026-09-15T09:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2037,17 +2049,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/227594",
      "date": "",
      "first_seen": "2026-09-15T07:00:35+00:00"
+    },
+    "b111e471b0353157": {
+     "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직서울외2026. 09. 27, 14:59까지D-12",
+     "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+     "date": "",
+     "first_seen": "2026-09-15T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-15T07:00:35+00:00",
-   "last_success": "2026-09-15T07:00:35+00:00",
+   "last_check": "2026-09-15T09:00:39+00:00",
+   "last_success": "2026-09-15T09:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
-   "fingerprint": "9180ed7c52fdbfa7",
+   "fingerprint": "020da2b5cb2cfb46",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T09:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": [
+      {
+       "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직서울외2026. 09. 27, 14:59까지D-12",
+       "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-15T07:00:35+00:00",
      "status": "new",
@@ -2390,16 +2424,6 @@
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-12T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
     }
    ],
    "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
@@ -2416,7 +2440,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T07:00:35+00:00"
+   "last_new_at": "2026-09-15T09:00:39+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -3469,17 +3493,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261995",
      "date": "",
      "first_seen": "2026-09-15T07:00:42+00:00"
+    },
+    "94bcabccea9398a2": {
+     "title": "QC System 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261999",
+     "date": "",
+     "first_seen": "2026-09-15T09:00:45+00:00"
+    },
+    "b3b98bec86d6d3f5": {
+     "title": "k8s Engineer PL 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261986",
+     "date": "",
+     "first_seen": "2026-09-15T09:00:45+00:00"
+    },
+    "c22611d2a726328e": {
+     "title": "AI Data Platform 개발.운영 PL (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261987",
+     "date": "",
+     "first_seen": "2026-09-15T09:00:45+00:00"
     }
    },
-   "last_check": "2026-09-15T07:00:42+00:00",
-   "last_success": "2026-09-15T07:00:42+00:00",
+   "last_check": "2026-09-15T09:00:45+00:00",
+   "last_success": "2026-09-15T09:00:45+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 90,
-   "fingerprint": "0e5f24e90131188c",
+   "item_count": 93,
+   "fingerprint": "4944b5d9bd007159",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T09:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "QC System 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261999",
+       "date": ""
+      },
+      {
+       "title": "k8s Engineer PL 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261986",
+       "date": ""
+      },
+      {
+       "title": "AI Data Platform 개발.운영 PL (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261987",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-15T07:00:42+00:00",
      "status": "new",
@@ -3873,16 +3941,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 114,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3899,7 +3957,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T07:00:42+00:00"
+   "last_new_at": "2026-09-15T09:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5414,17 +5472,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
      "date": "20261231",
      "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "12dd441773a69b6c": {
+     "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
+     "date": "20260929",
+     "first_seen": "2026-09-15T09:00:46+00:00"
     }
    },
-   "last_check": "2026-09-15T07:00:44+00:00",
-   "last_success": "2026-09-15T07:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-15T09:00:46+00:00",
+   "last_success": "2026-09-15T09:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 80,
-   "fingerprint": "6f0d8e9487349d69",
+   "item_count": 81,
+   "fingerprint": "69cf9ef51a58bf99",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T09:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
+       "date": "20260929"
+      }
+     ]
+    },
     {
      "at": "2026-09-15T07:00:44+00:00",
      "status": "ok",
@@ -5855,16 +5935,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T21:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5881,7 +5951,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T01:00:42+00:00"
+   "last_new_at": "2026-09-15T09:00:46+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -6378,15 +6448,31 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-15T07:00:46+00:00",
-   "last_success": "2026-09-15T07:00:46+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-15T09:00:49+00:00",
+   "last_success": "2026-09-15T09:00:49+00:00",
+   "last_status": "changed",
    "last_error": "",
-   "last_method": "pattern",
-   "item_count": 30,
-   "fingerprint": "e33222cc63cb6fb4",
+   "last_method": "fingerprint",
+   "item_count": 0,
+   "fingerprint": "db3b17610d460fed",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T09:00:49+00:00",
+     "status": "changed",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 0,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "페이지 내용이 변경되었습니다 (목록 자동 인식 불가)",
+       "url": "https://www.samsungcareers.com/hr/list.data",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-15T07:00:46+00:00",
      "status": "ok",
@@ -6676,32 +6762,17 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T21:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
-   "sample_titles": [
-    "삼성전자 DX부문 2026년 하반기 3급 신입사원 채용 공고 (DX부문)",
-    "삼성전자 DS부문 2026년 하반기 3급 신입사원 채용 공고 (DS부문)",
-    "삼성전자 DX부문 Samsung Convergence SW Academy 모집 공고 (DX부문)",
-    "삼성전자 DS부문 Samsung Convergence SW Academy 모집 공고 (DS부문)",
-    "Samsung Electronics DX Division [Samsung Electronics] Full-time opportunity for international students (DX)"
-   ],
+   "sample_titles": [],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
-   }
+    "issue": "fingerprint",
+    "detail": "목록을 못 찾아 본문 변경만 감시 중입니다. 확인 방식이나 주소를 다시 지정해 주세요.",
+    "since": "2026-09-15T09:00:49+00:00"
+   },
+   "last_new_at": "2026-09-15T09:00:49+00:00"
   }
  },
  "outbox": {
@@ -7119,58 +7190,87 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R261995",
     "date": "",
     "found_at": "2026-09-15T07:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "2026년 한화손해보험 임원 비서 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19775",
+    "date": "2026.09.22 15:00",
+    "found_at": "2026-09-15T09:00:50+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직서울외2026. 09. 27, 14:59까지D-12",
+    "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+    "date": "",
+    "found_at": "2026-09-15T09:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "QC System 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261999",
+    "date": "",
+    "found_at": "2026-09-15T09:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "k8s Engineer PL 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261986",
+    "date": "",
+    "found_at": "2026-09-15T09:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI Data Platform 개발.운영 PL (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261987",
+    "date": "",
+    "found_at": "2026-09-15T09:00:50+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
+    "date": "20260929",
+    "found_at": "2026-09-15T09:00:50+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "페이지 내용이 변경되었습니다 (목록 자동 인식 불가)",
+    "url": "https://www.samsungcareers.com/hr/list.data",
+    "date": "",
+    "found_at": "2026-09-15T09:00:50+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_url": "https://www.samsungcareers.com/hr/list.data",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "kind": "fingerprint",
+    "label": "공고 목록을 인식하지 못해 페이지 변경만 감시하고 있습니다",
+    "detail": "목록을 못 찾아 본문 변경만 감시 중입니다. 확인 방식이나 주소를 다시 지정해 주세요.",
+    "recovered": false
+   }
+  ],
   "since": "2026-09-15T01:00:47+00:00",
   "last_sent": "2026-09-14T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(기계,장치/배관,계전)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19668",
-   "date": "2026.09.09 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 신입/경력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19625",
-   "date": "2026.09.09 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명]PLUS미디어팀 'PLUS 미디어 콘텐츠 마케터' 경력채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19639",
-   "date": "2026.09.10 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "DB영업 기획/교육",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19631",
-   "date": "2026.09.10 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19614",
-   "date": "2026.09.10 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11607,6 +11707,69 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261995",
    "date": "",
    "found_at": "2026-09-15T07:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "2026년 한화손해보험 임원 비서 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19775",
+   "date": "2026.09.22 15:00",
+   "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직서울외2026. 09. 27, 14:59까지D-12",
+   "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+   "date": "",
+   "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "QC System 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261999",
+   "date": "",
+   "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "k8s Engineer PL 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261986",
+   "date": "",
+   "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI Data Platform 개발.운영 PL (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261987",
+   "date": "",
+   "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
+   "date": "20260929",
+   "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "페이지 내용이 변경되었습니다 (목록 자동 인식 불가)",
+   "url": "https://www.samsungcareers.com/hr/list.data",
+   "date": "",
+   "found_at": "2026-09-15T09:00:50+00:00"
   }
  ]
 }
