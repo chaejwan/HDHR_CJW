@@ -682,15 +682,25 @@
      "first_seen": "2026-09-15T01:00:37+00:00"
     }
    },
-   "last_check": "2026-09-15T01:00:37+00:00",
-   "last_success": "2026-09-15T01:00:37+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-15T03:00:37+00:00",
+   "last_success": "2026-09-15T03:00:37+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 84,
    "fingerprint": "b38f970de0522fce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T03:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-15T01:00:37+00:00",
      "status": "new",
@@ -1002,16 +1012,6 @@
     },
     {
      "at": "2026-09-12T17:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T15:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -1976,8 +1976,8 @@
      "first_seen": "2026-09-14T15:00:49+00:00"
     }
    },
-   "last_check": "2026-09-15T01:00:38+00:00",
-   "last_success": "2026-09-15T01:00:38+00:00",
+   "last_check": "2026-09-15T03:00:38+00:00",
+   "last_success": "2026-09-15T03:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -1985,6 +1985,16 @@
    "fingerprint": "f6973cbd9cc92e2c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T03:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 21,
+     "error": "",
+     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-15T01:00:38+00:00",
      "status": "ok",
@@ -2310,16 +2320,6 @@
      "item_count": 14,
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T15:00:43+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 100건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -3342,17 +3342,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261991",
      "date": "",
      "first_seen": "2026-09-15T01:00:41+00:00"
+    },
+    "36eb81320c4330e1": {
+     "title": "SK플라즈마 튀르키예 주재원 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261993",
+     "date": "",
+     "first_seen": "2026-09-15T03:00:44+00:00"
     }
    },
-   "last_check": "2026-09-15T01:00:41+00:00",
-   "last_success": "2026-09-15T01:00:41+00:00",
+   "last_check": "2026-09-15T03:00:44+00:00",
+   "last_success": "2026-09-15T03:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "78563665fd9d8793",
+   "item_count": 84,
+   "fingerprint": "3af58bd82d3671a0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T03:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 튀르키예 주재원 경력직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261993",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-15T01:00:41+00:00",
      "status": "new",
@@ -3703,16 +3725,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T15:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 114,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3729,7 +3741,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T01:00:41+00:00"
+   "last_new_at": "2026-09-15T03:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5246,15 +5258,25 @@
      "first_seen": "2026-09-15T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-15T01:00:42+00:00",
-   "last_success": "2026-09-15T01:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-15T03:00:45+00:00",
+   "last_success": "2026-09-15T03:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 80,
-   "fingerprint": "5897d916eb7e2ea6",
+   "fingerprint": "a6a54c9376204028",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T03:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-15T01:00:42+00:00",
      "status": "new",
@@ -5678,16 +5700,6 @@
     },
     {
      "at": "2026-09-12T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T15:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6208,8 +6220,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-15T01:00:44+00:00",
-   "last_success": "2026-09-15T01:00:44+00:00",
+   "last_check": "2026-09-15T03:00:48+00:00",
+   "last_success": "2026-09-15T03:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6217,6 +6229,16 @@
    "fingerprint": "e33222cc63cb6fb4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T03:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-15T01:00:44+00:00",
      "status": "ok",
@@ -6499,16 +6521,6 @@
     },
     {
      "at": "2026-09-12T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-12T15:00:54+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6814,6 +6826,15 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
     "date": "20261231",
     "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 튀르키예 주재원 경력직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261993",
+    "date": "",
+    "found_at": "2026-09-15T03:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -11167,6 +11188,15 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
    "date": "20261231",
    "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 튀르키예 주재원 경력직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261993",
+   "date": "",
+   "found_at": "2026-09-15T03:00:51+00:00"
   }
  ]
 }
