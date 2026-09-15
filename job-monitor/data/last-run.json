@@ -1,131 +1,80 @@
 {
- "at": "2026-09-15T09:00:50+00:00",
+ "at": "2026-09-15T11:01:05+00:00",
  "checked": 5,
- "new_total": 7,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
   "skipped": "모아 두는 중입니다 (새 공고 53건 · 점검 1건). 09-16 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "kind": "fingerprint",
-   "label": "공고 목록을 인식하지 못해 페이지 변경만 감시하고 있습니다",
-   "detail": "목록을 못 찾아 본문 변경만 감시 중입니다. 확인 방식이나 주소를 다시 지정해 주세요.",
-   "recovered": false
-  }
- ],
+ "alerts": [],
  "pending": {
   "items": 53,
   "alerts": 1,
   "since": "2026-09-15T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34950100035",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/34960946394",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 89,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "2026년 한화손해보험 임원 비서 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19775",
-     "date": "2026.09.22 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "new",
+   "status": "ok",
    "item_count": 24,
    "method": "links",
    "note": "32개 중 필터를 통과한 24개를 사용합니다.",
    "error": "",
-   "new_items": [
-    {
-     "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직서울외2026. 09. 27, 14:59까지D-12",
-     "url": "https://recruit-hanwhaocean.com/ko/o/237145",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "QC System 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261999",
-     "date": ""
-    },
-    {
-     "title": "k8s Engineer PL 영입 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261986",
-     "date": ""
-    },
-    {
-     "title": "AI Data Platform 개발.운영 PL (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261987",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 81,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
-     "date": "20260929"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "changed",
+   "status": "ok",
    "item_count": 0,
    "method": "fingerprint",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "페이지 내용이 변경되었습니다 (목록 자동 인식 불가)",
-     "url": "https://www.samsungcareers.com/hr/list.data",
-     "date": ""
-    }
-   ]
+   "new_items": []
   }
  ]
 }
