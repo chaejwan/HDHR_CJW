@@ -1,20 +1,31 @@
 {
- "at": "2026-09-15T21:00:47+00:00",
+ "at": "2026-09-15T23:00:49+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 53건 · 점검 3건). 09-16 08:00 에 보냅니다."
+  "skipped": ""
  },
- "alerts": [],
+ "alerts": [
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "kind": "relisted",
+   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+   "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+   "recovered": false
+  }
+ ],
  "pending": {
-  "items": 53,
-  "alerts": 3,
-  "since": "2026-09-15T01:00:47+00:00",
+  "items": 0,
+  "alerts": 0,
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35023048679",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35033678716",
  "results": [
   {
    "site_id": "hanwhain",
@@ -69,10 +80,10 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 0,
-   "method": "fingerprint",
-   "note": "",
+   "status": "baseline",
+   "item_count": 1,
+   "method": "pattern",
+   "note": "이전에 기억하던 82건과 겹치는 공고가 없어, 지금 1건을 기준으로 다시 저장했습니다(알림 없음).",
    "error": "",
    "new_items": []
   }
