@@ -674,17 +674,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19770",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-14T15:00:48+00:00"
+    },
+    "8fcab9bb858d027d": {
+     "title": "제조서비스 인프라 운영 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19735",
+     "date": "2026.09.20 23:59",
+     "first_seen": "2026-09-15T01:00:37+00:00"
     }
    },
-   "last_check": "2026-09-14T23:00:34+00:00",
-   "last_success": "2026-09-14T23:00:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-15T01:00:37+00:00",
+   "last_success": "2026-09-15T01:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "cbd68d4ec2aa2b80",
+   "item_count": 84,
+   "fingerprint": "b38f970de0522fce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T01:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "제조서비스 인프라 운영 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19735",
+       "date": "2026.09.20 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-14T23:00:34+00:00",
      "status": "ok",
@@ -997,16 +1019,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1023,7 +1035,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-14T15:00:48+00:00"
+   "last_new_at": "2026-09-15T01:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -1964,15 +1976,25 @@
      "first_seen": "2026-09-14T15:00:49+00:00"
     }
    },
-   "last_check": "2026-09-14T23:00:35+00:00",
-   "last_success": "2026-09-14T23:00:35+00:00",
+   "last_check": "2026-09-15T01:00:38+00:00",
+   "last_success": "2026-09-15T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 21,
-   "fingerprint": "9486ca01db3bf9e3",
+   "fingerprint": "f6973cbd9cc92e2c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 21,
+     "error": "",
+     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-14T23:00:35+00:00",
      "status": "ok",
@@ -2299,26 +2321,16 @@
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 100건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
-    },
-    {
-     "at": "2026-09-12T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
     }
    ],
    "last_note": "29개 중 필터를 통과한 21개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-13",
-    "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-15",
-    "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-15",
+    "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-15",
+    "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-15",
+    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-15",
     "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-15",
-    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-15"
+    "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-15"
    ],
    "health": {
     "issue": "",
@@ -3318,17 +3330,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261988",
      "date": "",
      "first_seen": "2026-09-14T15:00:55+00:00"
+    },
+    "cf50a92942117472": {
+     "title": "2026년 SK이노베이션 계열 울산CLX 기술직 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261969",
+     "date": "",
+     "first_seen": "2026-09-15T01:00:41+00:00"
+    },
+    "ddd2cd0767afc5a0": {
+     "title": "제품 설계 포지션 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261991",
+     "date": "",
+     "first_seen": "2026-09-15T01:00:41+00:00"
     }
    },
-   "last_check": "2026-09-14T23:00:41+00:00",
-   "last_success": "2026-09-14T23:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-15T01:00:41+00:00",
+   "last_success": "2026-09-15T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "64e273bfa608273f",
+   "item_count": 83,
+   "fingerprint": "78563665fd9d8793",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 SK이노베이션 계열 울산CLX 기술직 인턴 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261969",
+       "date": ""
+      },
+      {
+       "title": "제품 설계 포지션 경력직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R261991",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-14T23:00:41+00:00",
      "status": "ok",
@@ -3668,16 +3713,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3694,7 +3729,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-14T15:00:55+00:00"
+   "last_new_at": "2026-09-15T01:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5041,17 +5076,336 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
      "date": "20260923",
      "first_seen": "2026-09-09T09:00:49+00:00"
+    },
+    "c77dda4bd312129f": {
+     "title": "중장기 사업 전략 수립",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=346",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "c7e2f075ec6c5f9b": {
+     "title": "전고체배터리 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=343",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "e82fc69b37d1dc6d": {
+     "title": "인포테인먼트 시스템 검증 및 법규 인증",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=333",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "e77b07523e51a52d": {
+     "title": "완성차 사업 전략 기획",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=338",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "6159f1554715fb29": {
+     "title": "수소 충전 인프라 기술 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=337",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "bedefc527fc666a1": {
+     "title": "배터리 품질 기술 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=336",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "b35c4320fa1e02a3": {
+     "title": "배터리 전극 생산 운영",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=334",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "e4fdf58a9c1078d8": {
+     "title": "배터리 공정기술(노칭)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=335",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "48b0239d04fc3f0f": {
+     "title": "리튬메탈배터리 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=344",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "d9edf770fc85cad2": {
+     "title": "기업 법무",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=351",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "2f3910fb502979c7": {
+     "title": "글로벌 에너지 사업 전략 수립",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=340",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "f844e54ed56b6573": {
+     "title": "글로벌 관세대응 및 FTA, 통상업무",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=339",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "f32435436f8e6ead": {
+     "title": "고객/임직원 공간 인테리어 디자인",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=356",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "5d52432718ecd4fd": {
+     "title": "[통합보안] Service Security Engineer - 애플리케이션 보안",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=352",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "7988da2b0e5a474a": {
+     "title": "[통합보안] Information Security Strategy",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=361",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "1ef1f2edf8632f8b": {
+     "title": "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "50496b8003129a81": {
+     "title": "[제조로보틱스] 로보틱스 구조 부품 DFM",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "c893c63a3a0f31a5": {
+     "title": "[SDF] 제조 DX MLOps 아키텍트",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "6f4e8eb23837ddb4": {
+     "title": "[SDF] Manufacturing DX Project Manager (Scrum Master)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=349",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "4bb5c4a893572722": {
+     "title": "[ICT] UI Designer",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=355",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "9d24c424ec6a293b": {
+     "title": "[ICT] Solution Architect - MM 모듈",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=357",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "f15a48b16f9ef9fc": {
+     "title": "[ICT] SW Architect",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=359",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "15144f28d3febece": {
+     "title": "[ICT] PMO",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=358",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "cfd446b9b2f1bd0e": {
+     "title": "[ICT] IT Project Manager - 차량 진단",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=354",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "fa8ca72f94bbcdee": {
+     "title": "[ICT] IT Project Manager - 웹 서비스 구축",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=360",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "675ed8f719904034": {
+     "title": "[ICT] IT Project Manager - Sales & Mobility",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=353",
+     "date": "20260929",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "b18ebb489a2427bf": {
+     "title": "NPU/SoC 개발 PM",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=341",
+     "date": "20261231",
+     "first_seen": "2026-09-15T01:00:42+00:00"
+    },
+    "3af0841e4a724b0c": {
+     "title": "NPU 설계",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
+     "date": "20261231",
+     "first_seen": "2026-09-15T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-14T23:00:42+00:00",
-   "last_success": "2026-09-14T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-15T01:00:42+00:00",
+   "last_success": "2026-09-15T01:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 52,
-   "fingerprint": "504a988dedbd2a3a",
+   "item_count": 80,
+   "fingerprint": "5897d916eb7e2ea6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T01:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 28,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "중장기 사업 전략 수립",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=346",
+       "date": "20260929"
+      },
+      {
+       "title": "전고체배터리 개발",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=343",
+       "date": "20260929"
+      },
+      {
+       "title": "인포테인먼트 시스템 검증 및 법규 인증",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=333",
+       "date": "20260929"
+      },
+      {
+       "title": "완성차 사업 전략 기획",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=338",
+       "date": "20260929"
+      },
+      {
+       "title": "수소 충전 인프라 기술 개발",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=337",
+       "date": "20260929"
+      },
+      {
+       "title": "배터리 품질 기술 개발",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=336",
+       "date": "20260929"
+      },
+      {
+       "title": "배터리 전극 생산 운영",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=334",
+       "date": "20260929"
+      },
+      {
+       "title": "배터리 공정기술(노칭)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=335",
+       "date": "20260929"
+      },
+      {
+       "title": "리튬메탈배터리 개발",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=344",
+       "date": "20260929"
+      },
+      {
+       "title": "기업 법무",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=351",
+       "date": "20260929"
+      },
+      {
+       "title": "글로벌 에너지 사업 전략 수립",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=340",
+       "date": "20260929"
+      },
+      {
+       "title": "글로벌 관세대응 및 FTA, 통상업무",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=339",
+       "date": "20260929"
+      },
+      {
+       "title": "고객/임직원 공간 인테리어 디자인",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=356",
+       "date": "20260929"
+      },
+      {
+       "title": "[통합보안] Service Security Engineer - 애플리케이션 보안",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=352",
+       "date": "20260929"
+      },
+      {
+       "title": "[통합보안] Information Security Strategy",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=361",
+       "date": "20260929"
+      },
+      {
+       "title": "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
+       "date": "20260929"
+      },
+      {
+       "title": "[제조로보틱스] 로보틱스 구조 부품 DFM",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
+       "date": "20260929"
+      },
+      {
+       "title": "[SDF] 제조 DX MLOps 아키텍트",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
+       "date": "20260929"
+      },
+      {
+       "title": "[SDF] Manufacturing DX Project Manager (Scrum Master)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=349",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] UI Designer",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=355",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] Solution Architect - MM 모듈",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=357",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] SW Architect",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=359",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] PMO",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=358",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] IT Project Manager - 차량 진단",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=354",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] IT Project Manager - 웹 서비스 구축",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=360",
+       "date": "20260929"
+      },
+      {
+       "title": "[ICT] IT Project Manager - Sales & Mobility",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=353",
+       "date": "20260929"
+      },
+      {
+       "title": "NPU/SoC 개발 PM",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=341",
+       "date": "20261231"
+      },
+      {
+       "title": "NPU 설계",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
+       "date": "20261231"
+      }
+     ]
+    },
     {
      "at": "2026-09-14T23:00:42+00:00",
      "status": "ok",
@@ -5341,16 +5695,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5367,7 +5711,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-09T09:00:49+00:00"
+   "last_new_at": "2026-09-15T01:00:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -5864,8 +6208,8 @@
      "first_seen": "2026-09-08T04:08:39+00:00"
     }
    },
-   "last_check": "2026-09-14T23:00:44+00:00",
-   "last_success": "2026-09-14T23:00:44+00:00",
+   "last_check": "2026-09-15T01:00:44+00:00",
+   "last_success": "2026-09-15T01:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5873,6 +6217,16 @@
    "fingerprint": "e33222cc63cb6fb4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-15T01:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 30,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-14T23:00:44+00:00",
      "status": "ok",
@@ -6162,16 +6516,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-12T13:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6191,9 +6535,289 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "제조서비스 인프라 운영 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19735",
+    "date": "2026.09.20 23:59",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 SK이노베이션 계열 울산CLX 기술직 인턴 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261969",
+    "date": "",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제품 설계 포지션 경력직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R261991",
+    "date": "",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "중장기 사업 전략 수립",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=346",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "전고체배터리 개발",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=343",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "인포테인먼트 시스템 검증 및 법규 인증",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=333",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "완성차 사업 전략 기획",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=338",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "수소 충전 인프라 기술 개발",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=337",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "배터리 품질 기술 개발",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=336",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "배터리 전극 생산 운영",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=334",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "배터리 공정기술(노칭)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=335",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "리튬메탈배터리 개발",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=344",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "기업 법무",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=351",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "글로벌 에너지 사업 전략 수립",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=340",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "글로벌 관세대응 및 FTA, 통상업무",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=339",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "고객/임직원 공간 인테리어 디자인",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=356",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[통합보안] Service Security Engineer - 애플리케이션 보안",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=352",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[통합보안] Information Security Strategy",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=361",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[제조로보틱스] 로보틱스 구조 부품 DFM",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[SDF] 제조 DX MLOps 아키텍트",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[SDF] Manufacturing DX Project Manager (Scrum Master)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=349",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] UI Designer",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=355",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] Solution Architect - MM 모듈",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=357",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] SW Architect",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=359",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] PMO",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=358",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] IT Project Manager - 차량 진단",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=354",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] IT Project Manager - 웹 서비스 구축",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=360",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[ICT] IT Project Manager - Sales & Mobility",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=353",
+    "date": "20260929",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "NPU/SoC 개발 PM",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=341",
+    "date": "20261231",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "NPU 설계",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
+    "date": "20261231",
+    "found_at": "2026-09-15T01:00:47+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-15T01:00:47+00:00",
   "last_sent": "2026-09-14T23:00:50+00:00"
  },
  "archive": [
@@ -10264,6 +10888,285 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R261988",
    "date": "",
    "found_at": "2026-09-14T15:01:02+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "제조서비스 인프라 운영 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19735",
+   "date": "2026.09.20 23:59",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 SK이노베이션 계열 울산CLX 기술직 인턴 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261969",
+   "date": "",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제품 설계 포지션 경력직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261991",
+   "date": "",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "중장기 사업 전략 수립",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=346",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "전고체배터리 개발",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=343",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "인포테인먼트 시스템 검증 및 법규 인증",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=333",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "완성차 사업 전략 기획",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=338",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "수소 충전 인프라 기술 개발",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=337",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "배터리 품질 기술 개발",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=336",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "배터리 전극 생산 운영",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=334",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "배터리 공정기술(노칭)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=335",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "리튬메탈배터리 개발",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=344",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "기업 법무",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=351",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "글로벌 에너지 사업 전략 수립",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=340",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "글로벌 관세대응 및 FTA, 통상업무",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=339",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "고객/임직원 공간 인테리어 디자인",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=356",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[통합보안] Service Security Engineer - 애플리케이션 보안",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=352",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[통합보안] Information Security Strategy",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=361",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[제조로보틱스] 로보틱스 구조 부품 DFM",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[SDF] 제조 DX MLOps 아키텍트",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[SDF] Manufacturing DX Project Manager (Scrum Master)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=349",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] UI Designer",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=355",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] Solution Architect - MM 모듈",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=357",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] SW Architect",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=359",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] PMO",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=358",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] IT Project Manager - 차량 진단",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=354",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] IT Project Manager - 웹 서비스 구축",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=360",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[ICT] IT Project Manager - Sales & Mobility",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=353",
+   "date": "20260929",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "NPU/SoC 개발 PM",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=341",
+   "date": "20261231",
+   "found_at": "2026-09-15T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "NPU 설계",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
+   "date": "20261231",
+   "found_at": "2026-09-15T01:00:47+00:00"
   }
  ]
 }
