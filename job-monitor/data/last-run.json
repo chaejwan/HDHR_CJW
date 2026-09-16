@@ -1,7 +1,7 @@
 {
- "at": "2026-09-16T11:00:52+00:00",
+ "at": "2026-09-16T13:00:49+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,30 +14,19 @@
   "since": "2026-09-16T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35088003131",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35099197307",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 96,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
-     "date": "2026.10.05 23:59"
-    },
-    {
-     "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
-     "date": "2026.10.05 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
