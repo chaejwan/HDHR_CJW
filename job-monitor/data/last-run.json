@@ -1,20 +1,20 @@
 {
- "at": "2026-09-16T07:00:53+00:00",
+ "at": "2026-09-16T09:00:45+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 8,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 16건 · 점검 1건). 09-17 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 24건 · 점검 1건). 09-17 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 16,
+  "items": 24,
   "alerts": 1,
   "since": "2026-09-16T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35066365197",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35076937044",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,45 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 90,
+   "item_count": 97,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "조직도입마케터",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
-     "date": "2026.09.29 15:00"
+     "title": "(주)한화 글로벌부문 케미칼소재 R&D 분석 연구원 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19777",
+     "date": "2026.09.27 18:00"
+    },
+    {
+     "title": "[PGM사업부] 서무행정 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19778",
+     "date": "2026.09.27 23:59"
+    },
+    {
+     "title": "경력직 채용_채널연금2센터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19781",
+     "date": "2026.09.30 15:00"
+    },
+    {
+     "title": "[PGM사업부] 수주/제안 전략 전문인력 (정규직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
+     "date": "2026.10.05 23:59"
+    },
+    {
+     "title": "[PGM사업부] 수주/제안 전략 전문인력 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
+     "date": "2026.10.05 23:59"
+    },
+    {
+     "title": "[PGM사업부] 수주/제안 디자인 담당 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19780",
+     "date": "2026.10.05 23:59"
+    },
+    {
+     "title": "[한화생명] 전략투자본부 '대체투자 자산배분' 경력채용(과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19784",
+     "date": "2026.10.09 15:00"
     }
    ]
   },
@@ -52,19 +82,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 95,
+   "item_count": 96,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262008",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262003",
+     "title": "디앤디프라퍼티솔루션 정보보호담당자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262012",
      "date": ""
     }
    ]
