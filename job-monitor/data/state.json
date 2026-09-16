@@ -716,17 +716,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-16T01:00:34+00:00"
+    },
+    "78b27ca318ff7752": {
+     "title": "조직도입마케터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
+     "date": "2026.09.29 15:00",
+     "first_seen": "2026-09-16T07:00:34+00:00"
     }
    },
-   "last_check": "2026-09-16T05:00:33+00:00",
-   "last_success": "2026-09-16T05:00:33+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-16T07:00:34+00:00",
+   "last_success": "2026-09-16T07:00:34+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 90,
-   "fingerprint": "d8e2bd21bcefb58e",
+   "fingerprint": "fb8eaa090875530b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T07:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "조직도입마케터",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
+       "date": "2026.09.29 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-16T05:00:33+00:00",
      "status": "ok",
@@ -1078,33 +1100,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T19:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "「인천 검진센터 의무직 (방사선사)」 채용",
     "퐁피두센터 한화, 마케팅 인력 채용",
     "[판교R&D센터] Perovskite 태양전지 개발 및 신뢰성 평가 연구원 채용",
     "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
-    "신입/경력직 채용_재무팀"
+    "신입/경력직 채용_재무팀",
+    "경력직 채용_HR팀 (총무담당 시니어)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T01:00:34+00:00"
+   "last_new_at": "2026-09-16T07:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2213,8 +2225,8 @@
      "first_seen": "2026-09-15T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-16T05:00:34+00:00",
-   "last_success": "2026-09-16T05:00:34+00:00",
+   "last_check": "2026-09-16T07:00:36+00:00",
+   "last_success": "2026-09-16T07:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2222,6 +2234,16 @@
    "fingerprint": "b070c11e38a917b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T07:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-16T05:00:34+00:00",
      "status": "ok",
@@ -2563,16 +2585,6 @@
     },
     {
      "at": "2026-09-13T21:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-13T19:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3709,17 +3721,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262005",
      "date": "",
      "first_seen": "2026-09-16T05:00:44+00:00"
+    },
+    "38c39003ab4de599": {
+     "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262008",
+     "date": "",
+     "first_seen": "2026-09-16T07:00:47+00:00"
+    },
+    "be80c87ebe58b4d7": {
+     "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262003",
+     "date": "",
+     "first_seen": "2026-09-16T07:00:47+00:00"
     }
    },
-   "last_check": "2026-09-16T05:00:44+00:00",
-   "last_success": "2026-09-16T05:00:44+00:00",
+   "last_check": "2026-09-16T07:00:47+00:00",
+   "last_success": "2026-09-16T07:00:47+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 96,
-   "fingerprint": "5702cc875b2d5202",
+   "item_count": 95,
+   "fingerprint": "b36623e7c9b32258",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T07:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262008",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262003",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-16T05:00:44+00:00",
      "status": "new",
@@ -4161,33 +4206,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T19:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[SK케미칼(GC)] 울산공장 전기/계장 담당 경력 구성원 모집",
-    "청주 부속의원 독감 예방접종 의사/간호사 단기 계약직 채용",
-    "용인 부속의원 간호사 계약직 채용",
     "SK실트론 Generative AI Engineer 경력직 채용",
-    "고객 커뮤니케이션 메시지 윤문 담당자"
+    "고객 커뮤니케이션 메시지 윤문 담당자",
+    "Commercial Mgmt 인턴 구성원 영입",
+    "SK리비오 HR 경력사원 채용 (육아휴직 대체)",
+    "SK키파운드리 정보보안 경력 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T05:00:44+00:00"
+   "last_new_at": "2026-09-16T07:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5716,15 +5751,25 @@
      "first_seen": "2026-09-16T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-16T05:00:45+00:00",
-   "last_success": "2026-09-16T05:00:45+00:00",
+   "last_check": "2026-09-16T07:00:48+00:00",
+   "last_success": "2026-09-16T07:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "7b91537c45a80ef9",
+   "fingerprint": "db334fbdcd9fdcb4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T07:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T05:00:45+00:00",
      "status": "ok",
@@ -6160,16 +6205,6 @@
     },
     {
      "at": "2026-09-13T21:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-13T19:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6720,8 +6755,8 @@
      "first_seen": "2026-09-16T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-16T05:00:48+00:00",
-   "last_success": "2026-09-16T05:00:48+00:00",
+   "last_check": "2026-09-16T07:00:51+00:00",
+   "last_success": "2026-09-16T07:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6729,6 +6764,16 @@
    "fingerprint": "1b936252f3d7b988",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T07:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T05:00:48+00:00",
      "status": "ok",
@@ -7045,16 +7090,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7192,6 +7227,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262005",
     "date": "",
     "found_at": "2026-09-16T05:00:49+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "조직도입마케터",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
+    "date": "2026.09.29 15:00",
+    "found_at": "2026-09-16T07:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262008",
+    "date": "",
+    "found_at": "2026-09-16T07:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262003",
+    "date": "",
+    "found_at": "2026-09-16T07:00:53+00:00"
    }
   ],
   "alerts": [
@@ -7210,33 +7272,6 @@
   "last_sent": "2026-09-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "퐁피두센터 한화, 마케팅 인력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19683",
-   "date": "2026.09.16 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[판교R&D센터] Perovskite 태양전지 개발 및 신뢰성 평가 연구원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19653",
-   "date": "2026.09.16 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[판교R&D센터] 우주환경 태양전지 및 모듈 신뢰성 평가 직무 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19650",
-   "date": "2026.09.16 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11709,6 +11744,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262005",
    "date": "",
    "found_at": "2026-09-16T05:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "조직도입마케터",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
+   "date": "2026.09.29 15:00",
+   "found_at": "2026-09-16T07:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262008",
+   "date": "",
+   "found_at": "2026-09-16T07:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262003",
+   "date": "",
+   "found_at": "2026-09-16T07:00:53+00:00"
   }
  ]
 }

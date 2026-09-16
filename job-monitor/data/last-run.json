@@ -1,32 +1,38 @@
 {
- "at": "2026-09-16T05:00:49+00:00",
+ "at": "2026-09-16T07:00:53+00:00",
  "checked": 5,
  "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 1건). 09-17 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 16건 · 점검 1건). 09-17 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 16,
   "alerts": 1,
   "since": "2026-09-16T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35057799003",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35066365197",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
+   "status": "new",
    "item_count": 90,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "조직도입마케터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
+     "date": "2026.09.29 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,24 +52,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 96,
+   "item_count": 95,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262006",
+     "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262008",
      "date": ""
     },
     {
-     "title": "[SK오션플랜트] IR/공시 담당 구성원 모집(경력/신입)",
+     "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
      "url": "https://www.skcareers.com/Recruit/Detail/R262003",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 정보보안 담당 구성원 모집(경력/신입)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262005",
      "date": ""
     }
    ]
