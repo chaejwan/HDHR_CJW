@@ -1,130 +1,19 @@
 {
- "at": "2026-09-16T01:00:46+00:00",
- "checked": 5,
- "new_total": 7,
+ "at": "2026-09-16T01:28:58+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
   "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 1건). 09-17 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  }
- ],
+ "alerts": [],
  "pending": {
   "items": 7,
   "alerts": 1,
   "since": "2026-09-16T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35042336858",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 90,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
-     "date": "2026.09.28 23:59"
-    }
-   ]
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 24,
-   "method": "links",
-   "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 89,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "SK실트론 설비기술 경력직 수시 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
-   "item_count": 81,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[울산공장] 보안요원",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
-     "date": "20260922"
-    }
-   ]
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
-   "item_count": 5,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
-     "url": "https://www.samsungcareers.com/hr/?no=23081",
-     "date": "2026.09.16 ~ 2026.09.28"
-    },
-    {
-     "title": "삼성중공업 경력사원 채용(상담사)",
-     "url": "https://www.samsungcareers.com/hr/?no=23205",
-     "date": "2026.09.16 ~ 2026.09.28"
-    },
-    {
-     "title": "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
-     "url": "https://www.samsungcareers.com/hr/?no=23176",
-     "date": "2026.09.16 ~ 2026.10.02"
-    },
-    {
-     "title": "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)",
-     "url": "https://www.samsungcareers.com/hr/?no=23193",
-     "date": "2026.09.16 ~ 2026.10.06"
-    }
-   ]
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35044247947",
+ "results": []
 }
