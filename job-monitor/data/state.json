@@ -764,17 +764,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19784",
      "date": "2026.10.09 15:00",
      "first_seen": "2026-09-16T09:00:36+00:00"
+    },
+    "a2c46404ae5bae32": {
+     "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-16T11:00:37+00:00"
+    },
+    "177ad02550b552f6": {
+     "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-16T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-16T09:00:36+00:00",
-   "last_success": "2026-09-16T09:00:36+00:00",
+   "last_check": "2026-09-16T11:00:37+00:00",
+   "last_success": "2026-09-16T11:00:37+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "7b1b8b4e2c7bf644",
+   "item_count": 96,
+   "fingerprint": "f15ac689eaddc6d1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T11:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
+       "date": "2026.10.05 23:59"
+      },
+      {
+       "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
+       "date": "2026.10.05 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-16T09:00:36+00:00",
      "status": "new",
@@ -1168,16 +1201,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T23:00:38+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1194,7 +1217,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T09:00:36+00:00"
+   "last_new_at": "2026-09-16T11:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2303,8 +2326,8 @@
      "first_seen": "2026-09-15T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-16T09:00:37+00:00",
-   "last_success": "2026-09-16T09:00:37+00:00",
+   "last_check": "2026-09-16T11:00:38+00:00",
+   "last_success": "2026-09-16T11:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2312,6 +2335,16 @@
    "fingerprint": "b070c11e38a917b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T11:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-16T09:00:37+00:00",
      "status": "ok",
@@ -2660,16 +2693,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-13T23:03:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
-     "new": []
     }
    ],
    "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
@@ -3819,15 +3842,25 @@
      "first_seen": "2026-09-16T09:00:40+00:00"
     }
    },
-   "last_check": "2026-09-16T09:00:40+00:00",
-   "last_success": "2026-09-16T09:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-16T11:00:47+00:00",
+   "last_success": "2026-09-16T11:00:47+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 96,
    "fingerprint": "5b07a177f6434f32",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T11:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T09:00:40+00:00",
      "status": "new",
@@ -4286,16 +4319,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-13T23:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5841,15 +5864,25 @@
      "first_seen": "2026-09-16T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-16T09:00:41+00:00",
-   "last_success": "2026-09-16T09:00:41+00:00",
+   "last_check": "2026-09-16T11:00:49+00:00",
+   "last_success": "2026-09-16T11:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "24f848a182db0249",
+   "fingerprint": "8b959985937a842e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T11:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T09:00:41+00:00",
      "status": "ok",
@@ -6289,16 +6322,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 144,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-13T23:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
      "error": "",
      "note": "",
      "new": []
@@ -6845,8 +6868,8 @@
      "first_seen": "2026-09-16T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-16T09:00:43+00:00",
-   "last_success": "2026-09-16T09:00:43+00:00",
+   "last_check": "2026-09-16T11:00:51+00:00",
+   "last_success": "2026-09-16T11:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6854,6 +6877,16 @@
    "fingerprint": "1b936252f3d7b988",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T11:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T09:00:43+00:00",
      "status": "ok",
@@ -7170,16 +7203,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T23:03:14+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7416,6 +7439,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262012",
     "date": "",
     "found_at": "2026-09-16T09:00:45+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-16T11:00:52+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-16T11:00:52+00:00"
    }
   ],
   "alerts": [
@@ -7434,24 +7475,6 @@
   "last_sent": "2026-09-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 브랜딩 및 SNS 채널 운영 담당 경력사원",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19667",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[채용연계형 인턴] 2026년 하반기 한화에어로스페이스 대규모 신입사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19647",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11933,6 +11956,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262012",
    "date": "",
    "found_at": "2026-09-16T09:00:45+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-16T11:00:52+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-16T11:00:52+00:00"
   }
  ]
 }
