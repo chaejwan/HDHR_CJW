@@ -1,20 +1,20 @@
 {
- "at": "2026-09-16T03:00:46+00:00",
+ "at": "2026-09-16T05:00:49+00:00",
  "checked": 5,
  "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 1건). 09-17 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 1건). 09-17 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 10,
+  "items": 13,
   "alerts": 1,
   "since": "2026-09-16T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35050140664",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35057799003",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,24 +46,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 93,
+   "item_count": 96,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "생산기획 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262000",
+     "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262006",
      "date": ""
     },
     {
-     "title": "[SK오션플랜트] 도장 공정관리 구성원 모집(경력/신입)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262002",
+     "title": "[SK오션플랜트] IR/공시 담당 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262003",
      "date": ""
     },
     {
-     "title": "SK실트론 보건관리자(간호사) 계약직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262004",
+     "title": "[SK오션플랜트] 정보보안 담당 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262005",
      "date": ""
     }
    ]
