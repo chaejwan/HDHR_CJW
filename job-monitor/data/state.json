@@ -710,17 +710,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19775",
      "date": "2026.09.22 15:00",
      "first_seen": "2026-09-15T09:00:38+00:00"
+    },
+    "a56a83ce5459837e": {
+     "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
+     "date": "2026.09.28 23:59",
+     "first_seen": "2026-09-16T01:00:34+00:00"
     }
    },
-   "last_check": "2026-09-15T23:00:34+00:00",
-   "last_success": "2026-09-15T23:00:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-16T01:00:34+00:00",
+   "last_success": "2026-09-16T01:00:34+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 89,
-   "fingerprint": "ad7d2edcc5b1cf24",
+   "item_count": 90,
+   "fingerprint": "408e73e820f289d3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T01:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
+       "date": "2026.09.28 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-15T23:00:34+00:00",
      "status": "ok",
@@ -1066,16 +1088,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1092,7 +1104,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T09:00:38+00:00"
+   "last_new_at": "2026-09-16T01:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2201,8 +2213,8 @@
      "first_seen": "2026-09-15T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-15T23:00:35+00:00",
-   "last_success": "2026-09-15T23:00:35+00:00",
+   "last_check": "2026-09-16T01:00:35+00:00",
+   "last_success": "2026-09-16T01:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2210,6 +2222,16 @@
    "fingerprint": "b070c11e38a917b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T01:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-15T23:00:35+00:00",
      "status": "ok",
@@ -2557,16 +2579,6 @@
      "item_count": 14,
      "error": "",
      "note": "22개 중 필터를 통과한 14개를 사용합니다. 이전에 기억하던 114건과 겹치는 공고가 없어, 지금 14건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-09-13T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "22개 중 필터를 통과한 14개를 사용합니다.",
      "new": []
     }
    ],
@@ -3655,17 +3667,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R261987",
      "date": "",
      "first_seen": "2026-09-15T09:00:45+00:00"
+    },
+    "4e91114131a6b40e": {
+     "title": "SK실트론 설비기술 경력직 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+     "date": "",
+     "first_seen": "2026-09-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-09-15T23:00:43+00:00",
-   "last_success": "2026-09-15T23:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-16T01:00:41+00:00",
+   "last_success": "2026-09-16T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 88,
-   "fingerprint": "f9ea5e0af05c8560",
+   "item_count": 89,
+   "fingerprint": "ac6067d01acf062b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK실트론 설비기술 경력직 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-15T23:00:43+00:00",
      "status": "ok",
@@ -4075,16 +4109,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-13T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 114,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4101,7 +4125,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T09:00:45+00:00"
+   "last_new_at": "2026-09-16T01:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5622,17 +5646,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
      "date": "20260929",
      "first_seen": "2026-09-15T09:00:46+00:00"
+    },
+    "867e0e8d9f883adf": {
+     "title": "[울산공장] 보안요원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
+     "date": "20260922",
+     "first_seen": "2026-09-16T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-15T23:00:44+00:00",
-   "last_success": "2026-09-15T23:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-16T01:00:42+00:00",
+   "last_success": "2026-09-16T01:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 80,
-   "fingerprint": "0e87359078c5188d",
+   "item_count": 81,
+   "fingerprint": "13574e2a7b88fc86",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T01:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[울산공장] 보안요원",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
+       "date": "20260922"
+      }
+     ]
+    },
     {
      "at": "2026-09-15T23:00:44+00:00",
      "status": "ok",
@@ -6069,16 +6115,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6095,7 +6131,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T09:00:46+00:00"
+   "last_new_at": "2026-09-16T01:00:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -6596,17 +6632,72 @@
      "url": "https://www.samsungcareers.com/hr/?no=23175",
      "date": "2026.09.16 ~ 2026.09.30",
      "first_seen": "2026-09-15T23:00:47+00:00"
+    },
+    "6116df3f9737dbdd": {
+     "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
+     "url": "https://www.samsungcareers.com/hr/?no=23081",
+     "date": "2026.09.16 ~ 2026.09.28",
+     "first_seen": "2026-09-16T01:00:45+00:00"
+    },
+    "3d563e55d3ef67f1": {
+     "title": "삼성중공업 경력사원 채용(상담사)",
+     "url": "https://www.samsungcareers.com/hr/?no=23205",
+     "date": "2026.09.16 ~ 2026.09.28",
+     "first_seen": "2026-09-16T01:00:45+00:00"
+    },
+    "712f2813753be781": {
+     "title": "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
+     "url": "https://www.samsungcareers.com/hr/?no=23176",
+     "date": "2026.09.16 ~ 2026.10.02",
+     "first_seen": "2026-09-16T01:00:45+00:00"
+    },
+    "49ebfc42d68d1109": {
+     "title": "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)",
+     "url": "https://www.samsungcareers.com/hr/?no=23193",
+     "date": "2026.09.16 ~ 2026.10.06",
+     "first_seen": "2026-09-16T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-15T23:00:47+00:00",
-   "last_success": "2026-09-15T23:00:47+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-16T01:00:45+00:00",
+   "last_success": "2026-09-16T01:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 1,
-   "fingerprint": "ca85104c38ce0db5",
+   "item_count": 5,
+   "fingerprint": "1b936252f3d7b988",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T01:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
+       "url": "https://www.samsungcareers.com/hr/?no=23081",
+       "date": "2026.09.16 ~ 2026.09.28"
+      },
+      {
+       "title": "삼성중공업 경력사원 채용(상담사)",
+       "url": "https://www.samsungcareers.com/hr/?no=23205",
+       "date": "2026.09.16 ~ 2026.09.28"
+      },
+      {
+       "title": "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
+       "url": "https://www.samsungcareers.com/hr/?no=23176",
+       "date": "2026.09.16 ~ 2026.10.02"
+      },
+      {
+       "title": "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)",
+       "url": "https://www.samsungcareers.com/hr/?no=23193",
+       "date": "2026.09.16 ~ 2026.10.06"
+      }
+     ]
+    },
     {
      "at": "2026-09-15T23:00:47+00:00",
      "status": "baseline",
@@ -6902,101 +6993,107 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-13T13:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
-   "last_note": "이전에 기억하던 82건과 겹치는 공고가 없어, 지금 1건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "삼성전기 경력사원 채용(MLCCㆍ패키지 부문)"
+    "삼성전자 DX부문 경력사원 채용(가스안전관리)",
+    "삼성전기 경력사원 채용(MLCCㆍ패키지 부문)",
+    "삼성중공업 경력사원 채용(상담사)",
+    "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
+    "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-15T23:00:47+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
-   "last_new_at": "2026-09-15T09:00:49+00:00"
+   "last_new_at": "2026-09-16T01:00:45+00:00"
   }
  },
  "outbox": {
-  "items": [],
-  "alerts": [],
-  "since": "",
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
+    "date": "2026.09.28 23:59",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 설비기술 경력직 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+    "date": "",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[울산공장] 보안요원",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
+    "date": "20260922",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
+    "url": "https://www.samsungcareers.com/hr/?no=23081",
+    "date": "2026.09.16 ~ 2026.09.28",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성중공업 경력사원 채용(상담사)",
+    "url": "https://www.samsungcareers.com/hr/?no=23205",
+    "date": "2026.09.16 ~ 2026.09.28",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
+    "url": "https://www.samsungcareers.com/hr/?no=23176",
+    "date": "2026.09.16 ~ 2026.10.02",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)",
+    "url": "https://www.samsungcareers.com/hr/?no=23193",
+    "date": "2026.09.16 ~ 2026.10.06",
+    "found_at": "2026-09-16T01:00:46+00:00"
+   }
+  ],
+  "alerts": [
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_url": "https://www.samsungcareers.com/hr/list.data",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
+   }
+  ],
+  "since": "2026-09-16T01:00:46+00:00",
   "last_sent": "2026-09-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "2026 한화솔루션 인사이트부문 사업지원실 구매&DT팀 경력직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19629",
-   "date": "2026.09.11 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치, 전기/계기)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19641",
-   "date": "2026.09.13 18:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화에어로스페이스] 항공사업부 SW 품질보증(SQA) 경력사원 수시채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19672",
-   "date": "2026.09.13 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화모멘텀(주)] HR Business Partner 경력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19666",
-   "date": "2026.09.13 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화라이프랩] 마케팅추진팀 담당자",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19663",
-   "date": "2026.09.13 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화에어로스페이스] LS사업부 창원2사업장 부속의원 계약직 의사 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19644",
-   "date": "2026.09.13 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] 한국공장(진천) 스마트팩토리팀 IT 인프라 경력사원 모집",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19633",
-   "date": "2026.09.13 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11433,6 +11530,69 @@
    "url": "https://www.samsungcareers.com/hr/list.data",
    "date": "",
    "found_at": "2026-09-15T09:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
+   "date": "2026.09.28 23:59",
+   "found_at": "2026-09-16T01:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 설비기술 경력직 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+   "date": "",
+   "found_at": "2026-09-16T01:00:46+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[울산공장] 보안요원",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
+   "date": "20260922",
+   "found_at": "2026-09-16T01:00:46+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
+   "url": "https://www.samsungcareers.com/hr/?no=23081",
+   "date": "2026.09.16 ~ 2026.09.28",
+   "found_at": "2026-09-16T01:00:46+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성중공업 경력사원 채용(상담사)",
+   "url": "https://www.samsungcareers.com/hr/?no=23205",
+   "date": "2026.09.16 ~ 2026.09.28",
+   "found_at": "2026-09-16T01:00:46+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
+   "url": "https://www.samsungcareers.com/hr/?no=23176",
+   "date": "2026.09.16 ~ 2026.10.02",
+   "found_at": "2026-09-16T01:00:46+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)",
+   "url": "https://www.samsungcareers.com/hr/?no=23193",
+   "date": "2026.09.16 ~ 2026.10.06",
+   "found_at": "2026-09-16T01:00:46+00:00"
   }
  ]
 }
