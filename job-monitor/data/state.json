@@ -784,8 +784,8 @@
      "first_seen": "2026-09-16T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-16T21:00:35+00:00",
-   "last_success": "2026-09-16T21:00:35+00:00",
+   "last_check": "2026-09-16T23:00:37+00:00",
+   "last_success": "2026-09-16T23:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -793,6 +793,16 @@
    "fingerprint": "14986a7b4204496a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T23:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T21:00:35+00:00",
      "status": "ok",
@@ -1186,27 +1196,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T11:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 기반연구소 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19741",
-       "date": "2026.09.28 23:59"
-      },
-      {
-       "title": "[한화세미텍] 반도체장비 모션제어 개발 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19761",
-       "date": "2026.10.16 22:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -2476,8 +2465,8 @@
      "first_seen": "2026-09-16T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-16T21:00:37+00:00",
-   "last_success": "2026-09-16T21:00:37+00:00",
+   "last_check": "2026-09-16T23:00:38+00:00",
+   "last_success": "2026-09-16T23:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2485,6 +2474,16 @@
    "fingerprint": "f2b122c924d578b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T23:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-16T21:00:37+00:00",
      "status": "ok",
@@ -2789,16 +2788,6 @@
     },
     {
      "at": "2026-09-14T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 21,
-     "error": "",
-     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T11:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3953,17 +3942,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262012",
      "date": "",
      "first_seen": "2026-09-16T09:00:40+00:00"
+    },
+    "bf73d181e9c2b292": {
+     "title": "9월 Hi-tech사업 경력직 채용공고(정규직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262014",
+     "date": "",
+     "first_seen": "2026-09-16T23:00:44+00:00"
     }
    },
-   "last_check": "2026-09-16T21:00:39+00:00",
-   "last_success": "2026-09-16T21:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-16T23:00:44+00:00",
+   "last_success": "2026-09-16T23:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 94,
-   "fingerprint": "ba20bdb6aa400ee0",
+   "item_count": 95,
+   "fingerprint": "907bbbbf401c09bb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T23:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "9월 Hi-tech사업 경력직 채용공고(정규직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262014",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-16T21:00:39+00:00",
      "status": "ok",
@@ -4394,16 +4405,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T11:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4420,7 +4421,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T09:00:40+00:00"
+   "last_new_at": "2026-09-16T23:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5949,15 +5950,25 @@
      "first_seen": "2026-09-16T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-16T21:00:40+00:00",
-   "last_success": "2026-09-16T21:00:40+00:00",
+   "last_check": "2026-09-16T23:00:45+00:00",
+   "last_success": "2026-09-16T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "8f7f9d3274d308e4",
+   "fingerprint": "90c2701612ba48f2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T21:00:40+00:00",
      "status": "ok",
@@ -6393,16 +6404,6 @@
     },
     {
      "at": "2026-09-14T13:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T11:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6953,8 +6954,8 @@
      "first_seen": "2026-09-16T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-16T21:00:42+00:00",
-   "last_success": "2026-09-16T21:00:42+00:00",
+   "last_check": "2026-09-16T23:00:48+00:00",
+   "last_success": "2026-09-16T23:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6962,6 +6963,16 @@
    "fingerprint": "f45a4c365e6c3b45",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-16T23:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T21:00:42+00:00",
      "status": "ok",
@@ -7278,16 +7289,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7308,296 +7309,12 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
-    "date": "2026.09.28 23:59",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 설비기술 경력직 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-    "date": "",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[울산공장] 보안요원",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
-    "date": "20260922",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
-    "url": "https://www.samsungcareers.com/hr/?no=23081",
-    "date": "2026.09.16 ~ 2026.09.28",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성중공업 경력사원 채용(상담사)",
-    "url": "https://www.samsungcareers.com/hr/?no=23205",
-    "date": "2026.09.16 ~ 2026.09.28",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
-    "url": "https://www.samsungcareers.com/hr/?no=23176",
-    "date": "2026.09.16 ~ 2026.10.02",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)",
-    "url": "https://www.samsungcareers.com/hr/?no=23193",
-    "date": "2026.09.16 ~ 2026.10.06",
-    "found_at": "2026-09-16T01:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "생산기획 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262000",
-    "date": "",
-    "found_at": "2026-09-16T03:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 도장 공정관리 구성원 모집(경력/신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262002",
-    "date": "",
-    "found_at": "2026-09-16T03:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 보건관리자(간호사) 계약직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262004",
-    "date": "",
-    "found_at": "2026-09-16T03:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262006",
-    "date": "",
-    "found_at": "2026-09-16T05:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] IR/공시 담당 구성원 모집(경력/신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262003",
-    "date": "",
-    "found_at": "2026-09-16T05:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 정보보안 담당 구성원 모집(경력/신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262005",
-    "date": "",
-    "found_at": "2026-09-16T05:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "조직도입마케터",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18952",
-    "date": "2026.09.29 15:00",
-    "found_at": "2026-09-16T07:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262008",
-    "date": "",
-    "found_at": "2026-09-16T07:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262003",
-    "date": "",
-    "found_at": "2026-09-16T07:00:53+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 케미칼소재 R&D 분석 연구원 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19777",
-    "date": "2026.09.27 18:00",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 서무행정 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19778",
-    "date": "2026.09.27 23:59",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_채널연금2센터",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19781",
-    "date": "2026.09.30 15:00",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 수주/제안 전략 전문인력 (정규직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 수주/제안 전략 전문인력 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 수주/제안 디자인 담당 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19780",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 전략투자본부 '대체투자 자산배분' 경력채용(과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19784",
-    "date": "2026.10.09 15:00",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 정보보호담당자 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262012",
-    "date": "",
-    "found_at": "2026-09-16T09:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-16T11:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-16T11:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 구미사업장 산업(건설)안전관리자 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19804",
-    "date": "2026.09.28 23:59",
-    "found_at": "2026-09-16T15:00:49+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_url": "https://www.samsungcareers.com/hr/list.data",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-16T01:00:46+00:00",
-  "last_sent": "2026-09-15T23:00:52+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-16T23:00:56+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 우주사업부 대규모 경력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19594",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -12088,6 +11805,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19804",
    "date": "2026.09.28 23:59",
    "found_at": "2026-09-16T15:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "9월 Hi-tech사업 경력직 채용공고(정규직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262014",
+   "date": "",
+   "found_at": "2026-09-16T23:00:49+00:00"
   }
  ]
 }

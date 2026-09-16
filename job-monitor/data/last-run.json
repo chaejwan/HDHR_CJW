@@ -1,20 +1,20 @@
 {
- "at": "2026-09-16T21:00:43+00:00",
+ "at": "2026-09-16T23:00:49+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 27건 · 점검 3건). 09-17 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 27,
-  "alerts": 3,
-  "since": "2026-09-16T01:00:46+00:00",
+  "items": 0,
+  "alerts": 0,
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35149911702",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35160346106",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 94,
+   "status": "new",
+   "item_count": 95,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "9월 Hi-tech사업 경력직 채용공고(정규직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262014",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
