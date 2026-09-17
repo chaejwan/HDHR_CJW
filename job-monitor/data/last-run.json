@@ -1,20 +1,20 @@
 {
- "at": "2026-09-17T05:00:43+00:00",
+ "at": "2026-09-17T07:00:44+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 09-18 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 15건 · 점검 0건). 09-18 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 15,
   "alerts": 0,
   "since": "2026-09-17T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35184047723",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35192417762",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 97,
+   "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "한화시스템 HR실 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
+     "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19808",
      "date": "2026.09.28 23:59"
+    },
+    {
+     "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19810",
+     "date": "2026.09.30 23:59"
     }
    ]
   },
@@ -51,18 +56,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262022",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",

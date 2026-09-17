@@ -794,17 +794,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-17T05:00:34+00:00"
+    },
+    "d791c0c869802793": {
+     "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19808",
+     "date": "2026.09.28 23:59",
+     "first_seen": "2026-09-17T07:00:36+00:00"
+    },
+    "98b0d18fdacdfb6b": {
+     "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19810",
+     "date": "2026.09.30 23:59",
+     "first_seen": "2026-09-17T07:00:36+00:00"
     }
    },
-   "last_check": "2026-09-17T05:00:34+00:00",
-   "last_success": "2026-09-17T05:00:34+00:00",
+   "last_check": "2026-09-17T07:00:36+00:00",
+   "last_success": "2026-09-17T07:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "076de252a0875aa6",
+   "item_count": 100,
+   "fingerprint": "40bf02c32a8d2c29",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T07:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19808",
+       "date": "2026.09.28 23:59"
+      },
+      {
+       "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19810",
+       "date": "2026.09.30 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-17T05:00:34+00:00",
      "status": "new",
@@ -1204,16 +1237,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1230,7 +1253,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T05:00:34+00:00"
+   "last_new_at": "2026-09-17T07:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2489,8 +2512,8 @@
      "first_seen": "2026-09-17T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-17T05:00:35+00:00",
-   "last_success": "2026-09-17T05:00:35+00:00",
+   "last_check": "2026-09-17T07:00:37+00:00",
+   "last_success": "2026-09-17T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2498,6 +2521,16 @@
    "fingerprint": "b122ca8a623d710d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-17T05:00:35+00:00",
      "status": "ok",
@@ -2808,16 +2841,6 @@
     },
     {
      "at": "2026-09-14T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 21,
-     "error": "",
-     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T19:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4010,15 +4033,25 @@
      "first_seen": "2026-09-17T05:00:38+00:00"
     }
    },
-   "last_check": "2026-09-17T05:00:38+00:00",
-   "last_success": "2026-09-17T05:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-17T07:00:39+00:00",
+   "last_success": "2026-09-17T07:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 100,
    "fingerprint": "c7a34656fd02102c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T05:00:38+00:00",
      "status": "new",
@@ -4460,16 +4493,6 @@
     },
     {
      "at": "2026-09-14T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T19:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6040,15 +6063,25 @@
      "first_seen": "2026-09-17T03:00:47+00:00"
     }
    },
-   "last_check": "2026-09-17T05:00:39+00:00",
-   "last_success": "2026-09-17T05:00:39+00:00",
+   "last_check": "2026-09-17T07:00:40+00:00",
+   "last_success": "2026-09-17T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 84,
-   "fingerprint": "0726a81e1a51c221",
+   "fingerprint": "63c7badad3dbd276",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T05:00:39+00:00",
      "status": "ok",
@@ -6500,16 +6533,6 @@
     },
     {
      "at": "2026-09-14T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T19:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7072,8 +7095,8 @@
      "first_seen": "2026-09-17T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-17T05:00:42+00:00",
-   "last_success": "2026-09-17T05:00:42+00:00",
+   "last_check": "2026-09-17T07:00:42+00:00",
+   "last_success": "2026-09-17T07:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7081,6 +7104,16 @@
    "fingerprint": "1426962e299a8a93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T07:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T05:00:42+00:00",
      "status": "ok",
@@ -7408,16 +7441,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7555,6 +7578,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262022",
     "date": "",
     "found_at": "2026-09-17T05:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19808",
+    "date": "2026.09.28 23:59",
+    "found_at": "2026-09-17T07:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19810",
+    "date": "2026.09.30 23:59",
+    "found_at": "2026-09-17T07:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -7562,24 +7603,6 @@
   "last_sent": "2026-09-16T23:00:56+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] 데이터 엔지니어 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19690",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] 생성형 AI 애플리케이션 엔지니어 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19689",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -12061,6 +12084,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262022",
    "date": "",
    "found_at": "2026-09-17T05:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19808",
+   "date": "2026.09.28 23:59",
+   "found_at": "2026-09-17T07:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19810",
+   "date": "2026.09.30 23:59",
+   "found_at": "2026-09-17T07:00:44+00:00"
   }
  ]
 }
