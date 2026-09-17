@@ -788,17 +788,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
      "date": "2026.09.27 23:59",
      "first_seen": "2026-09-17T01:00:32+00:00"
+    },
+    "01df887d3e9c954e": {
+     "title": "한화시스템 HR실 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
+     "date": "2026.09.28 23:59",
+     "first_seen": "2026-09-17T05:00:34+00:00"
     }
    },
-   "last_check": "2026-09-17T03:00:41+00:00",
-   "last_success": "2026-09-17T03:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-17T05:00:34+00:00",
+   "last_success": "2026-09-17T05:00:34+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 96,
-   "fingerprint": "1e51244e13e25800",
+   "item_count": 97,
+   "fingerprint": "076de252a0875aa6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T05:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 HR실 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
+       "date": "2026.09.28 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-17T03:00:41+00:00",
      "status": "ok",
@@ -1192,16 +1214,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T17:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1218,7 +1230,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T01:00:32+00:00"
+   "last_new_at": "2026-09-17T05:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2477,15 +2489,25 @@
      "first_seen": "2026-09-17T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-17T03:00:42+00:00",
-   "last_success": "2026-09-17T03:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-17T05:00:35+00:00",
+   "last_success": "2026-09-17T05:00:35+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
    "fingerprint": "b122ca8a623d710d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-17T03:00:42+00:00",
      "status": "new",
@@ -2796,16 +2818,6 @@
     },
     {
      "at": "2026-09-14T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 21,
-     "error": "",
-     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T17:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3990,17 +4002,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262011",
      "date": "",
      "first_seen": "2026-09-17T03:00:46+00:00"
+    },
+    "ae08478535bc4fb7": {
+     "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262022",
+     "date": "",
+     "first_seen": "2026-09-17T05:00:38+00:00"
     }
    },
-   "last_check": "2026-09-17T03:00:46+00:00",
-   "last_success": "2026-09-17T03:00:46+00:00",
+   "last_check": "2026-09-17T05:00:38+00:00",
+   "last_success": "2026-09-17T05:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 99,
-   "fingerprint": "dfb950b3b1662726",
+   "item_count": 100,
+   "fingerprint": "c7a34656fd02102c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T05:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262022",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-17T03:00:46+00:00",
      "status": "new",
@@ -4443,16 +4477,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T17:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4469,7 +4493,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T03:00:46+00:00"
+   "last_new_at": "2026-09-17T05:00:38+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6016,15 +6040,25 @@
      "first_seen": "2026-09-17T03:00:47+00:00"
     }
    },
-   "last_check": "2026-09-17T03:00:47+00:00",
-   "last_success": "2026-09-17T03:00:47+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-17T05:00:39+00:00",
+   "last_success": "2026-09-17T05:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 84,
-   "fingerprint": "b709ca316f301245",
+   "fingerprint": "0726a81e1a51c221",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T03:00:47+00:00",
      "status": "new",
@@ -6476,16 +6510,6 @@
     },
     {
      "at": "2026-09-14T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T17:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7048,8 +7072,8 @@
      "first_seen": "2026-09-17T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-17T03:00:49+00:00",
-   "last_success": "2026-09-17T03:00:49+00:00",
+   "last_check": "2026-09-17T05:00:42+00:00",
+   "last_success": "2026-09-17T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7057,6 +7081,16 @@
    "fingerprint": "1426962e299a8a93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T03:00:49+00:00",
      "status": "ok",
@@ -7384,16 +7418,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7513,6 +7537,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
     "date": "20260927",
     "found_at": "2026-09-17T03:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 HR실 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
+    "date": "2026.09.28 23:59",
+    "found_at": "2026-09-17T05:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262022",
+    "date": "",
+    "found_at": "2026-09-17T05:00:43+00:00"
    }
   ],
   "alerts": [],
@@ -7520,24 +7562,6 @@
   "last_sent": "2026-09-16T23:00:56+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 바이오소재 QA 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19706",
-   "date": "2026.09.27 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] AI 플랫폼 엔지니어 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19691",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -12019,6 +12043,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
    "date": "20260927",
    "found_at": "2026-09-17T03:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 HR실 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
+   "date": "2026.09.28 23:59",
+   "found_at": "2026-09-17T05:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262022",
+   "date": "",
+   "found_at": "2026-09-17T05:00:43+00:00"
   }
  ]
 }
