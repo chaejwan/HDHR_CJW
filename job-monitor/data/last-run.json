@@ -1,7 +1,7 @@
 {
- "at": "2026-09-17T01:00:42+00:00",
- "checked": 5,
- "new_total": 5,
+ "at": "2026-09-17T01:31:25+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,95 +14,6 @@
   "since": "2026-09-17T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35168835388",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 96,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
-     "date": "2026.09.27 23:59"
-    }
-   ]
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 24,
-   "method": "links",
-   "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 97,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262019",
-     "date": ""
-    },
-    {
-     "title": "LLMOps Engineer",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262015",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 81,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
-   "item_count": 7,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-     "url": "https://www.samsungcareers.com/hr/?no=23208",
-     "date": "2026.09.17 ~ 2026.09.28"
-    },
-    {
-     "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
-     "url": "https://www.samsungcareers.com/hr/?no=22861",
-     "date": "2026.09.17 ~ 2026.09.23"
-    }
-   ]
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35170876893",
+ "results": []
 }
