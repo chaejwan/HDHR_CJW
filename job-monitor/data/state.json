@@ -790,15 +790,25 @@
      "first_seen": "2026-09-17T01:00:32+00:00"
     }
    },
-   "last_check": "2026-09-17T01:00:32+00:00",
-   "last_success": "2026-09-17T01:00:32+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-17T03:00:41+00:00",
+   "last_success": "2026-09-17T03:00:41+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 96,
    "fingerprint": "1e51244e13e25800",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T03:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T01:00:32+00:00",
      "status": "new",
@@ -1192,22 +1202,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T15:00:48+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 Recruiting Coordinator 계약직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19770",
-       "date": "2026.09.28 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -2475,17 +2469,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/200596",
      "date": "",
      "first_seen": "2026-09-16T15:00:43+00:00"
+    },
+    "1719690e3adbb102": {
+     "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+     "date": "",
+     "first_seen": "2026-09-17T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-17T01:00:34+00:00",
-   "last_success": "2026-09-17T01:00:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-17T03:00:42+00:00",
+   "last_success": "2026-09-17T03:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
-   "fingerprint": "f2b122c924d578b1",
+   "fingerprint": "b122ca8a623d710d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T03:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": [
+      {
+       "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-10",
+       "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-17T01:00:34+00:00",
      "status": "ok",
@@ -2797,16 +2813,6 @@
      "error": "",
      "note": "29개 중 필터를 통과한 21개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-14T15:00:49+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 21,
-     "error": "",
-     "note": "29개 중 필터를 통과한 21개를 사용합니다. 이전에 기억하던 135건과 겹치는 공고가 없어, 지금 21건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
     }
    ],
    "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
@@ -2823,7 +2829,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-15T09:00:39+00:00"
+   "last_new_at": "2026-09-17T03:00:42+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -3972,17 +3978,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262015",
      "date": "",
      "first_seen": "2026-09-17T01:00:36+00:00"
+    },
+    "b4eab756f02e9bcd": {
+     "title": "26년 울산 현장 기술사원 모집(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262009",
+     "date": "",
+     "first_seen": "2026-09-17T03:00:46+00:00"
+    },
+    "223138e7daf5ef22": {
+     "title": "시스템 (서버) 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262011",
+     "date": "",
+     "first_seen": "2026-09-17T03:00:46+00:00"
     }
    },
-   "last_check": "2026-09-17T01:00:36+00:00",
-   "last_success": "2026-09-17T01:00:36+00:00",
+   "last_check": "2026-09-17T03:00:46+00:00",
+   "last_success": "2026-09-17T03:00:46+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "d910d72e71a07f4d",
+   "item_count": 99,
+   "fingerprint": "dfb950b3b1662726",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T03:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "26년 울산 현장 기술사원 모집(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262009",
+       "date": ""
+      },
+      {
+       "title": "시스템 (서버) 전문가 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262011",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-17T01:00:36+00:00",
      "status": "new",
@@ -4414,32 +4453,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T15:00:55+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "IT보안 전문가 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261989",
-       "date": ""
-      },
-      {
-       "title": "IT 네트워크 전문가 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261990",
-       "date": ""
-      },
-      {
-       "title": "보안 아키텍트 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261988",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -4456,7 +4469,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T01:00:36+00:00"
+   "last_new_at": "2026-09-17T03:00:46+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5983,17 +5996,61 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
      "date": "20260922",
      "first_seen": "2026-09-16T01:00:42+00:00"
+    },
+    "a89a717c1eee0da4": {
+     "title": "[계약직] 시화하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=208",
+     "date": "20260927",
+     "first_seen": "2026-09-17T03:00:47+00:00"
+    },
+    "f6d06cf299b090a0": {
+     "title": "[계약직] 서부산하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=207",
+     "date": "20260927",
+     "first_seen": "2026-09-17T03:00:47+00:00"
+    },
+    "7adc825b2139814a": {
+     "title": "[계약직] 고양하이테크센터 드라이버",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
+     "date": "20260927",
+     "first_seen": "2026-09-17T03:00:47+00:00"
     }
    },
-   "last_check": "2026-09-17T01:00:38+00:00",
-   "last_success": "2026-09-17T01:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-17T03:00:47+00:00",
+   "last_success": "2026-09-17T03:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "f2714467ed4ee763",
+   "item_count": 84,
+   "fingerprint": "b709ca316f301245",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T03:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 시화하이테크센터 파츠딜리버리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=208",
+       "date": "20260927"
+      },
+      {
+       "title": "[계약직] 서부산하이테크센터 고객응대 및 수납",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=207",
+       "date": "20260927"
+      },
+      {
+       "title": "[계약직] 고양하이테크센터 드라이버",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
+       "date": "20260927"
+      }
+     ]
+    },
     {
      "at": "2026-09-17T01:00:38+00:00",
      "status": "ok",
@@ -6436,16 +6493,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T15:00:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6462,7 +6509,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T01:00:42+00:00"
+   "last_new_at": "2026-09-17T03:00:47+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -7001,15 +7048,25 @@
      "first_seen": "2026-09-17T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-17T01:00:40+00:00",
-   "last_success": "2026-09-17T01:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-17T03:00:49+00:00",
+   "last_success": "2026-09-17T03:00:49+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 7,
    "fingerprint": "1426962e299a8a93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T03:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T01:00:40+00:00",
      "status": "new",
@@ -7337,16 +7394,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T15:00:59+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7412,6 +7459,60 @@
     "url": "https://www.samsungcareers.com/hr/?no=22861",
     "date": "2026.09.17 ~ 2026.09.23",
     "found_at": "2026-09-17T01:00:42+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-10",
+    "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+    "date": "",
+    "found_at": "2026-09-17T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "26년 울산 현장 기술사원 모집(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262009",
+    "date": "",
+    "found_at": "2026-09-17T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "시스템 (서버) 전문가 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262011",
+    "date": "",
+    "found_at": "2026-09-17T03:00:51+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 시화하이테크센터 파츠딜리버리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=208",
+    "date": "20260927",
+    "found_at": "2026-09-17T03:00:51+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 서부산하이테크센터 고객응대 및 수납",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=207",
+    "date": "20260927",
+    "found_at": "2026-09-17T03:00:51+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 고양하이테크센터 드라이버",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
+    "date": "20260927",
+    "found_at": "2026-09-17T03:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -7419,60 +7520,6 @@
   "last_sent": "2026-09-16T23:00:56+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(대구, 구미)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19679",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19678",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화에너지] 2026 하반기 신입사원 공개채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19659",
-   "date": "2026.09.21 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화모멘텀(주)] 해외영업(중국) 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19688",
-   "date": "2026.09.22 23:59",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 반도체소재 영업 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19703",
-   "date": "2026.09.27 18:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "26년 하반기 한화솔루션 재무 신입사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19607",
-   "date": "2026.09.27 23:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11918,6 +11965,60 @@
    "url": "https://www.samsungcareers.com/hr/?no=22861",
    "date": "2026.09.17 ~ 2026.09.23",
    "found_at": "2026-09-17T01:00:42+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-10",
+   "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+   "date": "",
+   "found_at": "2026-09-17T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "26년 울산 현장 기술사원 모집(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262009",
+   "date": "",
+   "found_at": "2026-09-17T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "시스템 (서버) 전문가 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262011",
+   "date": "",
+   "found_at": "2026-09-17T03:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 시화하이테크센터 파츠딜리버리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=208",
+   "date": "20260927",
+   "found_at": "2026-09-17T03:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 서부산하이테크센터 고객응대 및 수납",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=207",
+   "date": "20260927",
+   "found_at": "2026-09-17T03:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 고양하이테크센터 드라이버",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
+   "date": "20260927",
+   "found_at": "2026-09-17T03:00:51+00:00"
   }
  ]
 }
