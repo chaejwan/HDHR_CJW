@@ -1,7 +1,7 @@
 {
- "at": "2026-09-17T09:00:44+00:00",
+ "at": "2026-09-17T11:00:47+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-09-17T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35202753808",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35213416864",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화솔루션 큐셀] 개발품질 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19811",
-     "date": "2026.10.13 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,46 +45,24 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 103,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "전표 처리 및 행정 업무 지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262023",
-     "date": ""
-    },
-    {
-     "title": "채용 담당자 경력 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262026",
-     "date": ""
-    },
-    {
-     "title": "회계 지원 담당자 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262027",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 85,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 울산공장 퇴직연금 운영 담당 채용",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=210",
-     "date": "20260928"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
