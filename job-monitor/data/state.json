@@ -782,17 +782,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19804",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-16T15:00:42+00:00"
+    },
+    "8ac22c3353066dcf": {
+     "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
+     "date": "2026.09.27 23:59",
+     "first_seen": "2026-09-17T01:00:32+00:00"
     }
    },
-   "last_check": "2026-09-16T23:00:37+00:00",
-   "last_success": "2026-09-16T23:00:37+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-17T01:00:32+00:00",
+   "last_success": "2026-09-17T01:00:32+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "14986a7b4204496a",
+   "item_count": 96,
+   "fingerprint": "1e51244e13e25800",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T01:00:32+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
+       "date": "2026.09.27 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-16T23:00:37+00:00",
      "status": "ok",
@@ -1186,16 +1208,6 @@
        "date": "2026.09.28 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-14T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1212,7 +1224,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T15:00:42+00:00"
+   "last_new_at": "2026-09-17T01:00:32+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2465,8 +2477,8 @@
      "first_seen": "2026-09-16T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-16T23:00:38+00:00",
-   "last_success": "2026-09-16T23:00:38+00:00",
+   "last_check": "2026-09-17T01:00:34+00:00",
+   "last_success": "2026-09-17T01:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2474,6 +2486,16 @@
    "fingerprint": "f2b122c924d578b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T01:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-16T23:00:38+00:00",
      "status": "ok",
@@ -2784,16 +2806,6 @@
      "item_count": 21,
      "error": "",
      "note": "29개 중 필터를 통과한 21개를 사용합니다. 이전에 기억하던 135건과 겹치는 공고가 없어, 지금 21건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 21,
-     "error": "",
-     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
      "new": []
     }
    ],
@@ -3948,17 +3960,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262014",
      "date": "",
      "first_seen": "2026-09-16T23:00:44+00:00"
+    },
+    "8990843b7fb0c6a6": {
+     "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262019",
+     "date": "",
+     "first_seen": "2026-09-17T01:00:36+00:00"
+    },
+    "972a32cb3a228385": {
+     "title": "LLMOps Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262015",
+     "date": "",
+     "first_seen": "2026-09-17T01:00:36+00:00"
     }
    },
-   "last_check": "2026-09-16T23:00:44+00:00",
-   "last_success": "2026-09-16T23:00:44+00:00",
+   "last_check": "2026-09-17T01:00:36+00:00",
+   "last_success": "2026-09-17T01:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "907bbbbf401c09bb",
+   "item_count": 97,
+   "fingerprint": "d910d72e71a07f4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T01:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262019",
+       "date": ""
+      },
+      {
+       "title": "LLMOps Engineer",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262015",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-16T23:00:44+00:00",
      "status": "new",
@@ -4395,16 +4440,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-14T13:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4421,7 +4456,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T23:00:44+00:00"
+   "last_new_at": "2026-09-17T01:00:36+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -5950,15 +5985,25 @@
      "first_seen": "2026-09-16T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-16T23:00:45+00:00",
-   "last_success": "2026-09-16T23:00:45+00:00",
+   "last_check": "2026-09-17T01:00:38+00:00",
+   "last_success": "2026-09-17T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "90c2701612ba48f2",
+   "fingerprint": "f2714467ed4ee763",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-16T23:00:45+00:00",
      "status": "ok",
@@ -6394,16 +6439,6 @@
     },
     {
      "at": "2026-09-14T15:00:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-14T13:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6952,17 +6987,50 @@
      "url": "https://www.samsungcareers.com/hr/?no=23193",
      "date": "2026.09.16 ~ 2026.10.06",
      "first_seen": "2026-09-16T01:00:45+00:00"
+    },
+    "40b8525f8ebc07ef": {
+     "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+     "url": "https://www.samsungcareers.com/hr/?no=23208",
+     "date": "2026.09.17 ~ 2026.09.28",
+     "first_seen": "2026-09-17T01:00:40+00:00"
+    },
+    "98f748fb4e69f7c9": {
+     "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
+     "url": "https://www.samsungcareers.com/hr/?no=22861",
+     "date": "2026.09.17 ~ 2026.09.23",
+     "first_seen": "2026-09-17T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-16T23:00:48+00:00",
-   "last_success": "2026-09-16T23:00:48+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-17T01:00:40+00:00",
+   "last_success": "2026-09-17T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 5,
-   "fingerprint": "f45a4c365e6c3b45",
+   "item_count": 7,
+   "fingerprint": "1426962e299a8a93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+       "url": "https://www.samsungcareers.com/hr/?no=23208",
+       "date": "2026.09.17 ~ 2026.09.28"
+      },
+      {
+       "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
+       "url": "https://www.samsungcareers.com/hr/?no=22861",
+       "date": "2026.09.17 ~ 2026.09.23"
+      }
+     ]
+    },
     {
      "at": "2026-09-16T23:00:48+00:00",
      "status": "ok",
@@ -7279,87 +7347,78 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-14T13:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+    "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
     "삼성전자 DX부문 경력사원 채용(가스안전관리)",
     "삼성전기 경력사원 채용(MLCCㆍ패키지 부문)",
-    "삼성중공업 경력사원 채용(상담사)",
-    "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
-    "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
+    "삼성중공업 경력사원 채용(상담사)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-16T01:00:45+00:00"
+   "last_new_at": "2026-09-17T01:00:40+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
+    "date": "2026.09.27 23:59",
+    "found_at": "2026-09-17T01:00:42+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262019",
+    "date": "",
+    "found_at": "2026-09-17T01:00:42+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "LLMOps Engineer",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262015",
+    "date": "",
+    "found_at": "2026-09-17T01:00:42+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+    "url": "https://www.samsungcareers.com/hr/?no=23208",
+    "date": "2026.09.17 ~ 2026.09.28",
+    "found_at": "2026-09-17T01:00:42+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
+    "url": "https://www.samsungcareers.com/hr/?no=22861",
+    "date": "2026.09.17 ~ 2026.09.23",
+    "found_at": "2026-09-17T01:00:42+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-17T01:00:42+00:00",
   "last_sent": "2026-09-16T23:00:56+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "2026년 하반기 한화시스템 방산부문 학/석사 신입사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19216",
-   "date": "2026.09.21 13:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "경력직 채용_RSP운용팀 (LDI 주식 운용)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19710",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(양산)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19682",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19681",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19680",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11814,6 +11873,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262014",
    "date": "",
    "found_at": "2026-09-16T23:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
+   "date": "2026.09.27 23:59",
+   "found_at": "2026-09-17T01:00:42+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262019",
+   "date": "",
+   "found_at": "2026-09-17T01:00:42+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "LLMOps Engineer",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262015",
+   "date": "",
+   "found_at": "2026-09-17T01:00:42+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+   "url": "https://www.samsungcareers.com/hr/?no=23208",
+   "date": "2026.09.17 ~ 2026.09.28",
+   "found_at": "2026-09-17T01:00:42+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
+   "url": "https://www.samsungcareers.com/hr/?no=22861",
+   "date": "2026.09.17 ~ 2026.09.23",
+   "found_at": "2026-09-17T01:00:42+00:00"
   }
  ]
 }

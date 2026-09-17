@@ -1,32 +1,38 @@
 {
- "at": "2026-09-16T23:00:49+00:00",
+ "at": "2026-09-17T01:00:42+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 5,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 09-18 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 5,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-17T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35160346106",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35168835388",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 95,
+   "status": "new",
+   "item_count": 96,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
+     "date": "2026.09.27 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,14 +52,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 95,
+   "item_count": 97,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "9월 Hi-tech사업 경력직 채용공고(정규직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262014",
+     "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262019",
+     "date": ""
+    },
+    {
+     "title": "LLMOps Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262015",
      "date": ""
     }
    ]
@@ -75,12 +86,23 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 5,
+   "status": "new",
+   "item_count": 7,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+     "url": "https://www.samsungcareers.com/hr/?no=23208",
+     "date": "2026.09.17 ~ 2026.09.28"
+    },
+    {
+     "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
+     "url": "https://www.samsungcareers.com/hr/?no=22861",
+     "date": "2026.09.17 ~ 2026.09.23"
+    }
+   ]
   }
  ]
 }
