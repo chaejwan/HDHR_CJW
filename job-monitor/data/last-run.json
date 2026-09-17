@@ -1,32 +1,38 @@
 {
- "at": "2026-09-17T21:00:54+00:00",
+ "at": "2026-09-17T23:00:45+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 2건). 09-18 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 21,
-  "alerts": 2,
-  "since": "2026-09-17T01:00:42+00:00",
+  "items": 0,
+  "alerts": 0,
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35274181033",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35284799175",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
+   "status": "new",
    "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "2026 한화그룹 테크&라이프 부문 신입사원 채용 - 한화모멘텀㈜ 해외영업 담당",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19760",
+     "date": "2026.10.11 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
