@@ -820,15 +820,25 @@
      "first_seen": "2026-09-17T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-17T15:00:41+00:00",
-   "last_success": "2026-09-17T15:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-17T17:00:40+00:00",
+   "last_success": "2026-09-17T17:00:40+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 100,
    "fingerprint": "19e2ab0a8cec55e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T17:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T15:00:41+00:00",
      "status": "new",
@@ -1245,16 +1255,6 @@
        "date": "2026.09.27 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-15T05:00:34+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2674,15 +2674,25 @@
      "first_seen": "2026-09-17T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-17T15:00:42+00:00",
-   "last_success": "2026-09-17T15:00:42+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-17T17:00:41+00:00",
+   "last_success": "2026-09-17T17:00:41+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
    "fingerprint": "3257961f0d84f685",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T17:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-17T15:00:42+00:00",
      "status": "baseline",
@@ -3000,19 +3010,9 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-15T05:03:01+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 21,
-     "error": "",
-     "note": "29개 중 필터를 통과한 21개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 209건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-12",
@@ -3022,9 +3022,9 @@
     "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-12"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-17T15:00:42+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
    "last_new_at": "2026-09-17T03:00:42+00:00"
   },
@@ -4213,8 +4213,8 @@
      "first_seen": "2026-09-17T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-17T15:00:45+00:00",
-   "last_success": "2026-09-17T15:00:45+00:00",
+   "last_check": "2026-09-17T17:00:44+00:00",
+   "last_success": "2026-09-17T17:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4222,6 +4222,16 @@
    "fingerprint": "0a267d8cf9962b4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T17:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T15:00:45+00:00",
      "status": "ok",
@@ -4650,32 +4660,6 @@
       {
        "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입",
        "url": "https://www.skcareers.com/Recruit/Detail/R261995",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-15T05:03:07+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[9월] 월간 hy-way(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261983",
-       "date": ""
-      },
-      {
-       "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261964",
-       "date": ""
-      },
-      {
-       "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R261994",
        "date": ""
       }
      ]
@@ -6248,15 +6232,25 @@
      "first_seen": "2026-09-17T09:00:40+00:00"
     }
    },
-   "last_check": "2026-09-17T15:00:46+00:00",
-   "last_success": "2026-09-17T15:00:46+00:00",
+   "last_check": "2026-09-17T17:00:46+00:00",
+   "last_success": "2026-09-17T17:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "124988dcf0c84f2e",
+   "fingerprint": "f8178b418e13c613",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T17:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T15:00:46+00:00",
      "status": "ok",
@@ -6573,16 +6567,6 @@
     },
     {
      "at": "2026-09-15T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 80,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T05:03:08+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7145,8 +7129,8 @@
      "first_seen": "2026-09-17T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-17T15:00:48+00:00",
-   "last_success": "2026-09-17T15:00:48+00:00",
+   "last_check": "2026-09-17T17:00:48+00:00",
+   "last_success": "2026-09-17T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7154,6 +7138,16 @@
    "fingerprint": "8ef7cfd29965a3a7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-17T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-17T15:00:48+00:00",
      "status": "ok",
@@ -7481,16 +7475,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T05:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 30,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7712,6 +7696,16 @@
     "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
     "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
     "recovered": false
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
    }
   ],
   "since": "2026-09-17T01:00:42+00:00",
