@@ -1,7 +1,7 @@
 {
- "at": "2026-09-18T11:00:48+00:00",
+ "at": "2026-09-18T13:00:49+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-09-18T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35337486053",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35347717602",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화솔루션 큐셀] 한국공장(진천) 셀장비팀 자동화(Automation)경력사원 모집",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19823",
-     "date": "2026.09.28 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
