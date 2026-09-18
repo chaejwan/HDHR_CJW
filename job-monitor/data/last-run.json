@@ -1,38 +1,32 @@
 {
- "at": "2026-09-17T23:00:45+00:00",
+ "at": "2026-09-18T01:00:43+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 09-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 3,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-18T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35284799175",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35293545743",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "2026 한화그룹 테크&라이프 부문 신입사원 채용 - 한화모멘텀㈜ 해외영업 담당",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19760",
-     "date": "2026.10.11 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
+   "status": "new",
    "item_count": 101,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK실트론 설비기술(사무직) 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -75,12 +75,23 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 7,
+   "status": "new",
+   "item_count": 9,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성증권 경력사원 채용(M&A, 유선 고객상담, 콘텐츠 PD)",
+     "url": "https://www.samsungcareers.com/hr/?no=23207",
+     "date": "2026.09.18 ~ 2026.09.28"
+    },
+    {
+     "title": "삼성웰스토리 경력사원 채용(IT 인프라 운영, 보건관리자, 안전관리자, 운영지원, 단체식 영양사, 단체식 조리사)",
+     "url": "https://www.samsungcareers.com/hr/?no=23212",
+     "date": "2026.09.18 ~ 2026.09.28"
+    }
+   ]
   }
  ]
 }
