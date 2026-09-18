@@ -842,17 +842,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
      "date": "2026.10.15 15:00",
      "first_seen": "2026-09-18T05:00:34+00:00"
+    },
+    "92093f9821383b38": {
+     "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
+     "date": "2026.10.05 23:00",
+     "first_seen": "2026-09-18T07:00:36+00:00"
+    },
+    "2cd5519dbfafd960": {
+     "title": "스마트팩토리 운영 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-18T07:00:36+00:00"
     }
    },
-   "last_check": "2026-09-18T05:00:34+00:00",
-   "last_success": "2026-09-18T05:00:34+00:00",
+   "last_check": "2026-09-18T07:00:36+00:00",
+   "last_success": "2026-09-18T07:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 100,
-   "fingerprint": "218cc791a2e4fbdf",
+   "fingerprint": "e05b94a5372a253f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T07:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
+       "date": "2026.10.05 23:00"
+      },
+      {
+       "title": "스마트팩토리 운영 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
+       "date": "2026.10.05 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-18T05:00:34+00:00",
      "status": "new",
@@ -1264,33 +1297,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "신입/경력직 채용_재무팀",
-    "경력직 채용_HR팀 (총무담당 시니어)",
-    "재무계리·리스크관리 전문인력 (차장~부장급)",
-    "2026 한화금융 신입공채",
-    "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용"
+    "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용",
+    "영업지원 담당자 경력사원 채용",
+    "한화시스템 Recruiting Coordinator 계약직 채용",
+    "한화시스템 Talent Sourcer 계약직 채용",
+    "AI Agent Project Manager 경력사원 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-18T05:00:34+00:00"
+   "last_new_at": "2026-09-18T07:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2693,8 +2716,8 @@
      "first_seen": "2026-09-17T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T05:00:35+00:00",
-   "last_success": "2026-09-18T05:00:35+00:00",
+   "last_check": "2026-09-18T07:00:37+00:00",
+   "last_success": "2026-09-18T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2702,6 +2725,16 @@
    "fingerprint": "3257961f0d84f685",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-18T05:00:35+00:00",
      "status": "ok",
@@ -2990,16 +3023,6 @@
     },
     {
      "at": "2026-09-15T21:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T19:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4220,17 +4243,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262034",
      "date": "",
      "first_seen": "2026-09-18T03:03:07+00:00"
+    },
+    "e9e10a9654d6d0cc": {
+     "title": "인사정보시스템 개발자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262032",
+     "date": "",
+     "first_seen": "2026-09-18T07:00:40+00:00"
     }
    },
-   "last_check": "2026-09-18T05:00:45+00:00",
-   "last_success": "2026-09-18T05:00:45+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-18T07:00:40+00:00",
+   "last_success": "2026-09-18T07:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 102,
-   "fingerprint": "809ea37e0e6ecd53",
+   "item_count": 103,
+   "fingerprint": "1d611cfa3fce9a31",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T07:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 103,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "인사정보시스템 개발자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262032",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-18T05:00:45+00:00",
      "status": "ok",
@@ -4637,25 +4682,15 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "[엔솔브] ESS EPC 프로젝트 담당 구성원 채용 (경력)",
     "SK키파운드리 정보보안 경력 채용",
     "[SK인텔릭스] H/W개발 (회로 및 전장 설계) 경력 인재 채용",
     "SK온 New Application소재개발팀 기술감독직 채용",
-    "[엔솔브] ESS EPC 프로젝트 담당 구성원 채용 (경력)",
     "Cyber Security 컨설턴트 (인턴)"
    ],
    "health": {
@@ -4663,7 +4698,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-18T03:03:07+00:00"
+   "last_new_at": "2026-09-18T07:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6228,15 +6263,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-18T05:00:47+00:00",
-   "last_success": "2026-09-18T05:00:47+00:00",
+   "last_check": "2026-09-18T07:00:41+00:00",
+   "last_success": "2026-09-18T07:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "61e4830f588b242e",
+   "fingerprint": "3d3bd556fb48b4c3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T07:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T05:00:47+00:00",
      "status": "ok",
@@ -6558,16 +6603,6 @@
     },
     {
      "at": "2026-09-15T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 80,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T19:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7142,8 +7177,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T05:00:49+00:00",
-   "last_success": "2026-09-18T05:00:49+00:00",
+   "last_check": "2026-09-18T07:00:44+00:00",
+   "last_success": "2026-09-18T07:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7151,6 +7186,16 @@
    "fingerprint": "4bf65cd007110b93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T05:00:49+00:00",
      "status": "ok",
@@ -7483,16 +7528,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7594,6 +7629,33 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
     "date": "2026.10.15 15:00",
     "found_at": "2026-09-18T05:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
+    "date": "2026.10.05 23:00",
+    "found_at": "2026-09-18T07:00:45+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "스마트팩토리 운영 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-18T07:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "인사정보시스템 개발자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262032",
+    "date": "",
+    "found_at": "2026-09-18T07:00:45+00:00"
    }
   ],
   "alerts": [],
@@ -7601,33 +7663,6 @@
   "last_sent": "2026-09-17T23:00:48+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261876",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261877",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 KOICA IBS 사업 담당자 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261878",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12100,6 +12135,33 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
    "date": "2026.10.15 15:00",
    "found_at": "2026-09-18T05:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
+   "date": "2026.10.05 23:00",
+   "found_at": "2026-09-18T07:00:45+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "스마트팩토리 운영 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-18T07:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "인사정보시스템 개발자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262032",
+   "date": "",
+   "found_at": "2026-09-18T07:00:45+00:00"
   }
  ]
 }
