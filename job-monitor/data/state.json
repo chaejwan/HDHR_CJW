@@ -880,15 +880,25 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-18T15:00:41+00:00",
+   "last_check": "2026-09-18T17:00:39+00:00",
    "last_success": "2026-09-18T15:00:41+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 100,
    "fingerprint": "37adfdb5b65d47f0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T17:00:39+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T15:00:41+00:00",
      "status": "ok",
@@ -1327,20 +1337,10 @@
        "date": "2026.09.29 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-09-16T05:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용",
     "영업지원 담당자 경력사원 채용",
@@ -2900,15 +2900,25 @@
      "first_seen": "2026-09-18T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-18T15:00:43+00:00",
-   "last_success": "2026-09-18T15:00:43+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-18T17:03:06+00:00",
+   "last_success": "2026-09-18T17:03:06+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
    "fingerprint": "25430ecf1da9f4b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T17:03:06+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-18T15:00:43+00:00",
      "status": "baseline",
@@ -3204,19 +3214,9 @@
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-16T05:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 233건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-11",
@@ -3226,9 +3226,9 @@
     "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-11"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-18T15:00:43+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
    "last_new_at": "2026-09-17T03:00:42+00:00"
   },
@@ -4459,8 +4459,8 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-18T15:00:48+00:00",
-   "last_success": "2026-09-18T15:00:48+00:00",
+   "last_check": "2026-09-18T17:03:09+00:00",
+   "last_success": "2026-09-18T17:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4468,6 +4468,16 @@
    "fingerprint": "573e9e8c5db9bd91",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T17:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T15:00:48+00:00",
      "status": "ok",
@@ -4860,32 +4870,6 @@
       {
        "title": "[SK오션플랜트] 공시 담당 구성원 모집(경력/신입)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262003",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-16T05:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262006",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] IR/공시 담당 구성원 모집(경력/신입)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262003",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 정보보안 담당 구성원 모집(경력/신입)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262005",
        "date": ""
       }
      ]
@@ -6470,15 +6454,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-18T15:00:50+00:00",
-   "last_success": "2026-09-18T15:00:50+00:00",
+   "last_check": "2026-09-18T17:03:10+00:00",
+   "last_success": "2026-09-18T17:03:10+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 86,
-   "fingerprint": "2939c6631dafcef2",
+   "fingerprint": "7083e506181c5e7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T17:03:10+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T15:00:50+00:00",
      "status": "ok",
@@ -6794,16 +6788,6 @@
     },
     {
      "at": "2026-09-16T07:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-16T05:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7378,8 +7362,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T15:00:52+00:00",
-   "last_success": "2026-09-18T15:00:52+00:00",
+   "last_check": "2026-09-18T17:03:12+00:00",
+   "last_success": "2026-09-18T17:03:12+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7387,6 +7371,16 @@
    "fingerprint": "71e37c4caf5fe88c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T17:03:12+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T15:00:52+00:00",
      "status": "ok",
@@ -7698,16 +7692,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-16T05:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7920,6 +7904,16 @@
     "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
     "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
     "recovered": false
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
    }
   ],
   "since": "2026-09-18T01:00:43+00:00",
