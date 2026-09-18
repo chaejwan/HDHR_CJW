@@ -824,17 +824,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19760",
      "date": "2026.10.11 23:59",
      "first_seen": "2026-09-17T23:00:37+00:00"
+    },
+    "8e6b62fcf7d112d9": {
+     "title": "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19816",
+     "date": "2026.10.06 15:00",
+     "first_seen": "2026-09-18T05:00:34+00:00"
+    },
+    "4128de957bf0e484": {
+     "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
+     "date": "2026.10.15 15:00",
+     "first_seen": "2026-09-18T05:00:34+00:00"
+    },
+    "74c74a6768dceb6e": {
+     "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
+     "date": "2026.10.15 15:00",
+     "first_seen": "2026-09-18T05:00:34+00:00"
     }
    },
-   "last_check": "2026-09-18T03:00:36+00:00",
-   "last_success": "2026-09-18T01:00:34+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-18T05:00:34+00:00",
+   "last_success": "2026-09-18T05:00:34+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
    "item_count": 100,
-   "fingerprint": "826acede1f2484ff",
+   "fingerprint": "218cc791a2e4fbdf",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T05:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19816",
+       "date": "2026.10.06 15:00"
+      },
+      {
+       "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
+       "date": "2026.10.15 15:00"
+      },
+      {
+       "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
+       "date": "2026.10.15 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-18T03:00:36+00:00",
      "status": "error",
@@ -1230,20 +1274,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T17:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "신입/경력직 채용_재무팀",
     "경력직 채용_HR팀 (총무담당 시니어)",
@@ -1256,7 +1290,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T23:00:37+00:00"
+   "last_new_at": "2026-09-18T05:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2659,8 +2693,8 @@
      "first_seen": "2026-09-17T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T03:03:04+00:00",
-   "last_success": "2026-09-18T03:03:04+00:00",
+   "last_check": "2026-09-18T05:00:35+00:00",
+   "last_success": "2026-09-18T05:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2668,6 +2702,16 @@
    "fingerprint": "3257961f0d84f685",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-18T03:03:04+00:00",
      "status": "ok",
@@ -2956,16 +3000,6 @@
     },
     {
      "at": "2026-09-15T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T17:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4188,15 +4222,25 @@
      "first_seen": "2026-09-18T03:03:07+00:00"
     }
    },
-   "last_check": "2026-09-18T03:03:07+00:00",
-   "last_success": "2026-09-18T03:03:07+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-18T05:00:45+00:00",
+   "last_success": "2026-09-18T05:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 102,
    "fingerprint": "809ea37e0e6ecd53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 102,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T03:03:07+00:00",
      "status": "new",
@@ -4596,16 +4640,6 @@
     },
     {
      "at": "2026-09-15T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T17:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6194,15 +6228,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-18T03:03:08+00:00",
-   "last_success": "2026-09-18T03:03:08+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-18T05:00:47+00:00",
+   "last_success": "2026-09-18T05:00:47+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "2b1d777b86e4ac9d",
+   "fingerprint": "61e4830f588b242e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T05:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T03:03:08+00:00",
      "status": "new",
@@ -6531,26 +6575,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T17:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 80,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "제네시스 비스포크 컨설턴트",
     "[계약직] 울산공장 영상 크리에이터",
     "[계약직] 행정지원 (장애인 제한경쟁)",
     "[계약직] 연료교환",
-    "[계약직] 시험정비(경쟁차 운영)"
+    "[계약직] 시험정비(경쟁차 운영)",
+    "[계약직] 수소충전소 안전관리"
    ],
    "health": {
     "issue": "",
@@ -7108,8 +7142,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T03:03:10+00:00",
-   "last_success": "2026-09-18T03:03:10+00:00",
+   "last_check": "2026-09-18T05:00:49+00:00",
+   "last_success": "2026-09-18T05:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7117,6 +7151,16 @@
    "fingerprint": "4bf65cd007110b93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T05:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T03:03:10+00:00",
      "status": "ok",
@@ -7449,16 +7493,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7533,6 +7567,33 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
     "date": "20261002",
     "found_at": "2026-09-18T03:03:11+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19816",
+    "date": "2026.10.06 15:00",
+    "found_at": "2026-09-18T05:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
+    "date": "2026.10.15 15:00",
+    "found_at": "2026-09-18T05:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
+    "date": "2026.10.15 15:00",
+    "found_at": "2026-09-18T05:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -7540,33 +7601,6 @@
   "last_sent": "2026-09-17T23:00:48+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 전자광학·레이저 부문 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19702",
-   "date": "2026.09.27 23:59",
-   "found_at": "2026-09-07T16:24:42+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 지상연구소 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19701",
-   "date": "2026.09.27 23:59",
-   "found_at": "2026-09-07T16:24:42+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 통신연구소 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19692",
-   "date": "2026.09.27 23:59",
-   "found_at": "2026-09-07T16:24:42+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12039,6 +12073,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
    "date": "20261002",
    "found_at": "2026-09-18T03:03:11+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19816",
+   "date": "2026.10.06 15:00",
+   "found_at": "2026-09-18T05:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
+   "date": "2026.10.15 15:00",
+   "found_at": "2026-09-18T05:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
+   "date": "2026.10.15 15:00",
+   "found_at": "2026-09-18T05:00:51+00:00"
   }
  ]
 }

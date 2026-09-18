@@ -1,32 +1,48 @@
 {
- "at": "2026-09-18T03:03:11+00:00",
+ "at": "2026-09-18T05:00:51+00:00",
  "checked": 5,
  "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 09-21 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 09-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 9,
   "alerts": 0,
   "since": "2026-09-18T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35301543192",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35309116909",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 100,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19816",
+     "date": "2026.10.06 15:00"
+    },
+    {
+     "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
+     "date": "2026.10.15 15:00"
+    },
+    {
+     "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
+     "date": "2026.10.15 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -45,41 +61,24 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 102,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262034",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 87,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 의전안내 (아산공장)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=212",
-     "date": "20261002"
-    },
-    {
-     "title": "[계약직] 예비군중대 사무원 (아산공장)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
-     "date": "20261002"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
