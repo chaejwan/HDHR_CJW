@@ -1,7 +1,7 @@
 {
- "at": "2026-09-18T01:00:43+00:00",
- "checked": 5,
- "new_total": 3,
+ "at": "2026-09-18T01:19:14+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,84 +14,6 @@
   "since": "2026-09-18T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35293545743",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 100,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 24,
-   "method": "links",
-   "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 101,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "SK실트론 설비기술(사무직) 수시 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 85,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
-   "item_count": 9,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "삼성증권 경력사원 채용(M&A, 유선 고객상담, 콘텐츠 PD)",
-     "url": "https://www.samsungcareers.com/hr/?no=23207",
-     "date": "2026.09.18 ~ 2026.09.28"
-    },
-    {
-     "title": "삼성웰스토리 경력사원 채용(IT 인프라 운영, 보건관리자, 안전관리자, 운영지원, 단체식 영양사, 단체식 조리사)",
-     "url": "https://www.samsungcareers.com/hr/?no=23212",
-     "date": "2026.09.18 ~ 2026.09.28"
-    }
-   ]
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35294828791",
+ "results": []
 }
