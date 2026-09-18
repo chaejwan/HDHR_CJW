@@ -826,15 +826,25 @@
      "first_seen": "2026-09-17T23:00:37+00:00"
     }
    },
-   "last_check": "2026-09-18T01:00:34+00:00",
+   "last_check": "2026-09-18T03:00:36+00:00",
    "last_success": "2026-09-18T01:00:34+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 100,
    "fingerprint": "826acede1f2484ff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T03:00:36+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T01:00:34+00:00",
      "status": "ok",
@@ -1230,20 +1240,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T15:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "신입/경력직 채용_재무팀",
     "경력직 채용_HR팀 (총무담당 시니어)",
@@ -2659,8 +2659,8 @@
      "first_seen": "2026-09-17T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T01:00:35+00:00",
-   "last_success": "2026-09-18T01:00:35+00:00",
+   "last_check": "2026-09-18T03:03:04+00:00",
+   "last_success": "2026-09-18T03:03:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2668,6 +2668,16 @@
    "fingerprint": "3257961f0d84f685",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T03:03:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-18T01:00:35+00:00",
      "status": "ok",
@@ -2962,16 +2972,6 @@
      "item_count": 24,
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T15:00:43+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 160건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -4180,17 +4180,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262001",
      "date": "",
      "first_seen": "2026-09-18T01:00:38+00:00"
+    },
+    "cf9e1ff878ebc873": {
+     "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262034",
+     "date": "",
+     "first_seen": "2026-09-18T03:03:07+00:00"
     }
    },
-   "last_check": "2026-09-18T01:00:38+00:00",
-   "last_success": "2026-09-18T01:00:38+00:00",
+   "last_check": "2026-09-18T03:03:07+00:00",
+   "last_success": "2026-09-18T03:03:07+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 101,
-   "fingerprint": "9324a1ce3ba114e6",
+   "item_count": 102,
+   "fingerprint": "809ea37e0e6ecd53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T03:03:07+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 102,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262034",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-18T01:00:38+00:00",
      "status": "new",
@@ -4591,16 +4613,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T15:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4617,7 +4629,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-18T01:00:38+00:00"
+   "last_new_at": "2026-09-18T03:03:07+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6168,17 +6180,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=210",
      "date": "20260928",
      "first_seen": "2026-09-17T09:00:40+00:00"
+    },
+    "b1a7ea869b155ff3": {
+     "title": "[계약직] 의전안내 (아산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=212",
+     "date": "20261002",
+     "first_seen": "2026-09-18T03:03:08+00:00"
+    },
+    "adb204d070128bfc": {
+     "title": "[계약직] 예비군중대 사무원 (아산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
+     "date": "20261002",
+     "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-18T01:00:39+00:00",
-   "last_success": "2026-09-18T01:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-18T03:03:08+00:00",
+   "last_success": "2026-09-18T03:03:08+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 85,
-   "fingerprint": "77f47b919b51e03b",
+   "item_count": 87,
+   "fingerprint": "2b1d777b86e4ac9d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T03:03:08+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 의전안내 (아산공장)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=212",
+       "date": "20261002"
+      },
+      {
+       "title": "[계약직] 예비군중대 사무원 (아산공장)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
+       "date": "20261002"
+      }
+     ]
+    },
     {
      "at": "2026-09-18T01:00:39+00:00",
      "status": "ok",
@@ -6496,16 +6541,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T15:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 80,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6522,7 +6557,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T09:00:40+00:00"
+   "last_new_at": "2026-09-18T03:03:08+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -7073,15 +7108,25 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T01:00:42+00:00",
-   "last_success": "2026-09-18T01:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-18T03:03:10+00:00",
+   "last_success": "2026-09-18T03:03:10+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 9,
    "fingerprint": "4bf65cd007110b93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T03:03:10+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T01:00:42+00:00",
      "status": "new",
@@ -7414,16 +7459,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T15:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7471,6 +7506,33 @@
     "url": "https://www.samsungcareers.com/hr/?no=23212",
     "date": "2026.09.18 ~ 2026.09.28",
     "found_at": "2026-09-18T01:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262034",
+    "date": "",
+    "found_at": "2026-09-18T03:03:11+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 의전안내 (아산공장)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=212",
+    "date": "20261002",
+    "found_at": "2026-09-18T03:03:11+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 예비군중대 사무원 (아산공장)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
+    "date": "20261002",
+    "found_at": "2026-09-18T03:03:11+00:00"
    }
   ],
   "alerts": [],
@@ -7478,33 +7540,6 @@
   "last_sent": "2026-09-17T23:00:48+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 화약류운반책임자 상시 인재 Pool",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18997",
-   "date": "2029.12.31 00:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 상시 인재 Pool",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18830",
-   "date": "2029.12.31 00:00",
-   "found_at": "2026-09-07T10:39:05+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 레이다연구소 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19709",
-   "date": "2026.09.27 23:59",
-   "found_at": "2026-09-07T16:24:42+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -11977,6 +12012,33 @@
    "url": "https://www.samsungcareers.com/hr/?no=23212",
    "date": "2026.09.18 ~ 2026.09.28",
    "found_at": "2026-09-18T01:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262034",
+   "date": "",
+   "found_at": "2026-09-18T03:03:11+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 의전안내 (아산공장)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=212",
+   "date": "20261002",
+   "found_at": "2026-09-18T03:03:11+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 예비군중대 사무원 (아산공장)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
+   "date": "20261002",
+   "found_at": "2026-09-18T03:03:11+00:00"
   }
  ]
 }
