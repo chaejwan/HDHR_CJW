@@ -1,20 +1,20 @@
 {
- "at": "2026-09-18T09:00:44+00:00",
+ "at": "2026-09-18T11:00:48+00:00",
  "checked": 5,
- "new_total": 7,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 09-21 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 09-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 19,
+  "items": 20,
   "alerts": 0,
   "since": "2026-09-18T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35327271114",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35337486053",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,19 +28,9 @@
    "error": "",
    "new_items": [
     {
-     "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
-     "date": "2026.10.01 23:59"
-    },
-    {
-     "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
-     "date": "2026.10.08 15:00"
-    },
-    {
-     "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
-     "date": "2026.10.08 15:00"
+     "title": "[한화솔루션 큐셀] 한국공장(진천) 셀장비팀 자동화(Automation)경력사원 모집",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19823",
+     "date": "2026.09.28 23:59"
     }
    ]
   },
@@ -61,33 +51,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 107,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262038",
-     "date": ""
-    },
-    {
-     "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262031",
-     "date": ""
-    },
-    {
-     "title": "DS 원액생산 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262037",
-     "date": ""
-    },
-    {
-     "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262039",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
