@@ -854,17 +854,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
      "date": "2026.10.05 23:59",
      "first_seen": "2026-09-18T07:00:36+00:00"
+    },
+    "34b6ad8fbf725f45": {
+     "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
+     "date": "2026.10.01 23:59",
+     "first_seen": "2026-09-18T09:00:36+00:00"
+    },
+    "d8e5be0ddfd6245c": {
+     "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
+     "date": "2026.10.08 15:00",
+     "first_seen": "2026-09-18T09:00:36+00:00"
+    },
+    "940032016dcb4c4a": {
+     "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
+     "date": "2026.10.08 15:00",
+     "first_seen": "2026-09-18T09:00:36+00:00"
     }
    },
-   "last_check": "2026-09-18T07:00:36+00:00",
-   "last_success": "2026-09-18T07:00:36+00:00",
+   "last_check": "2026-09-18T09:00:36+00:00",
+   "last_success": "2026-09-18T09:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 100,
-   "fingerprint": "e05b94a5372a253f",
+   "fingerprint": "37c9e8bfad7b088e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T09:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
+       "date": "2026.10.01 23:59"
+      },
+      {
+       "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
+       "date": "2026.10.08 15:00"
+      },
+      {
+       "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
+       "date": "2026.10.08 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-18T07:00:36+00:00",
      "status": "new",
@@ -1287,16 +1331,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1313,7 +1347,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-18T07:00:36+00:00"
+   "last_new_at": "2026-09-18T09:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -2716,8 +2750,8 @@
      "first_seen": "2026-09-17T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T07:00:37+00:00",
-   "last_success": "2026-09-18T07:00:37+00:00",
+   "last_check": "2026-09-18T09:00:37+00:00",
+   "last_success": "2026-09-18T09:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2725,6 +2759,16 @@
    "fingerprint": "3257961f0d84f685",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T09:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-18T07:00:37+00:00",
      "status": "ok",
@@ -3013,16 +3057,6 @@
     },
     {
      "at": "2026-09-15T23:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T21:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4249,17 +4283,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262032",
      "date": "",
      "first_seen": "2026-09-18T07:00:40+00:00"
+    },
+    "516121d61b698ebc": {
+     "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262038",
+     "date": "",
+     "first_seen": "2026-09-18T09:00:39+00:00"
+    },
+    "3fc23753aab8de1a": {
+     "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262031",
+     "date": "",
+     "first_seen": "2026-09-18T09:00:39+00:00"
+    },
+    "b0261ca7c345a25e": {
+     "title": "DS 원액생산 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262037",
+     "date": "",
+     "first_seen": "2026-09-18T09:00:39+00:00"
+    },
+    "c6278a195ceb07ac": {
+     "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262039",
+     "date": "",
+     "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-18T07:00:40+00:00",
-   "last_success": "2026-09-18T07:00:40+00:00",
+   "last_check": "2026-09-18T09:00:39+00:00",
+   "last_success": "2026-09-18T09:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 103,
-   "fingerprint": "1d611cfa3fce9a31",
+   "item_count": 107,
+   "fingerprint": "ecf35bb63e0db8f4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T09:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262038",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262031",
+       "date": ""
+      },
+      {
+       "title": "DS 원액생산 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262037",
+       "date": ""
+      },
+      {
+       "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262039",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-18T07:00:40+00:00",
      "status": "new",
@@ -4672,16 +4761,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-15T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4698,7 +4777,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-18T07:00:40+00:00"
+   "last_new_at": "2026-09-18T09:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6263,15 +6342,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-18T07:00:41+00:00",
-   "last_success": "2026-09-18T07:00:41+00:00",
+   "last_check": "2026-09-18T09:00:40+00:00",
+   "last_success": "2026-09-18T09:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "3d3bd556fb48b4c3",
+   "fingerprint": "24f6d8371a30d5d0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T07:00:41+00:00",
      "status": "ok",
@@ -6593,16 +6682,6 @@
     },
     {
      "at": "2026-09-15T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 80,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-15T21:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7177,8 +7256,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-18T07:00:44+00:00",
-   "last_success": "2026-09-18T07:00:44+00:00",
+   "last_check": "2026-09-18T09:00:42+00:00",
+   "last_success": "2026-09-18T09:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7186,6 +7265,16 @@
    "fingerprint": "4bf65cd007110b93",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-18T09:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-18T07:00:44+00:00",
      "status": "ok",
@@ -7518,16 +7607,6 @@
      "error": "",
      "note": "이전에 기억하던 82건과 겹치는 공고가 없어, 지금 1건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
-    },
-    {
-     "at": "2026-09-15T21:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7656,6 +7735,69 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262032",
     "date": "",
     "found_at": "2026-09-18T07:00:45+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
+    "date": "2026.10.01 23:59",
+    "found_at": "2026-09-18T09:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
+    "date": "2026.10.08 15:00",
+    "found_at": "2026-09-18T09:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
+    "date": "2026.10.08 15:00",
+    "found_at": "2026-09-18T09:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262038",
+    "date": "",
+    "found_at": "2026-09-18T09:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262031",
+    "date": "",
+    "found_at": "2026-09-18T09:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "DS 원액생산 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262037",
+    "date": "",
+    "found_at": "2026-09-18T09:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262039",
+    "date": "",
+    "found_at": "2026-09-18T09:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -7663,69 +7805,6 @@
   "last_sent": "2026-09-17T23:00:48+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "윤리경영 담당(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261539",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "해외법무 담당(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261540",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "IT보안 전문가 영입 (계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261671",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "IT 네트워크 전문가 영입 (계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261707",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Facility Engineering 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261870",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 9월 SK핀크스 식음서비스팀 채용공고",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261882",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 9월 SK핀크스 기획 채용공고",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261883",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12162,6 +12241,69 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262032",
    "date": "",
    "found_at": "2026-09-18T07:00:45+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
+   "date": "2026.10.01 23:59",
+   "found_at": "2026-09-18T09:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
+   "date": "2026.10.08 15:00",
+   "found_at": "2026-09-18T09:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
+   "date": "2026.10.08 15:00",
+   "found_at": "2026-09-18T09:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262038",
+   "date": "",
+   "found_at": "2026-09-18T09:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262031",
+   "date": "",
+   "found_at": "2026-09-18T09:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "DS 원액생산 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262037",
+   "date": "",
+   "found_at": "2026-09-18T09:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262039",
+   "date": "",
+   "found_at": "2026-09-18T09:00:44+00:00"
   }
  ]
 }
