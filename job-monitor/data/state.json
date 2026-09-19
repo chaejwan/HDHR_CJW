@@ -880,8 +880,8 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T13:00:38+00:00",
-   "last_success": "2026-09-19T13:00:38+00:00",
+   "last_check": "2026-09-19T15:00:36+00:00",
+   "last_success": "2026-09-19T15:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -889,6 +889,16 @@
    "fingerprint": "37adfdb5b65d47f0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T15:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T13:00:38+00:00",
      "status": "ok",
@@ -1262,16 +1272,6 @@
        "date": "2026.09.28 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-17T03:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2833,17 +2833,171 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/200596",
      "date": "",
      "first_seen": "2026-09-18T15:00:43+00:00"
+    },
+    "27950a1e099eb134": {
+     "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "0a413ef379905573": {
+     "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "4f5fe26b34c6738f": {
+     "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "12ba19e30467926c": {
+     "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "426a719a0bd78180": {
+     "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "9e5543a10afdf87c": {
+     "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "d02b75e87518d028": {
+     "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-10",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "f3273e8508fb6efd": {
+     "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-7",
+     "url": "https://recruit-hanwhaocean.com/ko/o/237145",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "190e27eacf5ea490": {
+     "title": "[상선사업부] 설계 경력사원 채용경력상선사업부설계구조기본설계외경력 5년 이상정규직서울외2026. 09. 27, 14:59까지D-7",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236576",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "a7ba31aac343385a": {
+     "title": "[상선사업부] 영업, 기획 경력사원 채용경력상선사업부기획외원가관리외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-7",
+     "url": "https://recruit-hanwhaocean.com/ko/o/227594",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "e41bc0e10c8088b5": {
+     "title": "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-8",
+     "url": "https://recruit-hanwhaocean.com/ko/o/234988",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "959cc0bceb818e5d": {
+     "title": "[경영지원] 총무구매지원(계약직) 채용경력경영지원경영지원구매경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232450",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "697032f4b1aabefc": {
+     "title": "[제조총괄] 사내 간호사(계약직) 채용경력제조총괄생산/품질/HSE/공무HSE경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232453",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "7f1561d28795259a": {
+     "title": "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "86f649874f8d025b": {
+     "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용경력경영지원경영지원해외인력지원경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/231099",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "713031db7aef21f0": {
+     "title": "[재무실] 자금집행/관리 경력사원 채용 (육아휴직 대체, 계약직)경력경영지원경영지원재무/회계경력 1년 이상계약직서울2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/228068",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "f9dc6911b69f48bb": {
+     "title": "[제조총괄] 안전팀 경력사원(계약직) 채용경력제조총괄생산/품질/HSE/공무안전/환경/보건경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/227363",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "b1d62274217e94e4": {
+     "title": "[경영지원] 노사관리/운영 경력사원 채용경력경영지원경영지원노사관리/개별 근로관계법 운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/220500",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "c954657f2b449743": {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용경력특수선사업부경영지원외구매외경력 5년 이상외정규직거제외2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/219887",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "2f7b6ce318abfa7b": {
+     "title": "[경영지원] 국내법무팀장 채용경력경영지원경영지원국내법무경력 10년 이상정규직서울2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/217485",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "974f6337fa016212": {
+     "title": "[제품전략기술원] 플랜트설계(공정개발) 경력사원 채용경력제품전략기술원설계배관설계외경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/214146",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "96b1115c73040195": {
+     "title": "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/207059",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "defe92df5767edb5": {
+     "title": "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200604",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
+    },
+    "45f01e96f4d7c958": {
+     "title": "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-102",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200596",
+     "date": "",
+     "first_seen": "2026-09-19T15:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T13:00:39+00:00",
-   "last_success": "2026-09-19T13:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-19T15:00:37+00:00",
+   "last_success": "2026-09-19T15:00:37+00:00",
+   "last_status": "baseline",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
-   "fingerprint": "25430ecf1da9f4b9",
+   "fingerprint": "c291cfef3bdd4ed3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T15:00:37+00:00",
+     "status": "baseline",
+     "reset": true,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 257건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-19T13:00:39+00:00",
      "status": "ok",
@@ -3133,37 +3287,21 @@
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-17T03:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": [
-      {
-       "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매상선SCM외경력 5년 이상정규직거제외2026. 09. 27, 14:59까지D-10",
-       "url": "https://recruit-hanwhaocean.com/ko/o/237145",
-       "date": ""
-      }
-     ]
     }
    ],
-   "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
+   "last_note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 257건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-11",
-    "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-11",
-    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-11",
-    "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-11",
-    "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-11"
+    "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-10",
+    "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-10",
+    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-10",
+    "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-10",
+    "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-10"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-19T15:00:37+00:00"
    },
    "last_new_at": "2026-09-17T03:00:42+00:00"
   },
@@ -4394,15 +4532,25 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-19T13:00:43+00:00",
-   "last_success": "2026-09-19T13:00:43+00:00",
+   "last_check": "2026-09-19T15:00:39+00:00",
+   "last_success": "2026-09-19T15:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 106,
-   "fingerprint": "573e9e8c5db9bd91",
+   "fingerprint": "638427537dcb7fe3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T13:00:43+00:00",
      "status": "ok",
@@ -4750,27 +4898,6 @@
       {
        "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262022",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-17T03:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 99,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "26년 울산 현장 기술사원 모집(계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262009",
-       "date": ""
-      },
-      {
-       "title": "시스템 (서버) 전문가 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262011",
        "date": ""
       }
      ]
@@ -6355,15 +6482,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-19T13:00:44+00:00",
-   "last_success": "2026-09-19T13:00:44+00:00",
+   "last_check": "2026-09-19T15:00:40+00:00",
+   "last_success": "2026-09-19T15:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 86,
-   "fingerprint": "bd9d6b4970b16623",
+   "fingerprint": "b357cecca83c7519",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T15:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T13:00:44+00:00",
      "status": "ok",
@@ -6670,32 +6807,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T03:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 84,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 시화하이테크센터 파츠딜리버리",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=208",
-       "date": "20260927"
-      },
-      {
-       "title": "[계약직] 서부산하이테크센터 고객응대 및 수납",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=207",
-       "date": "20260927"
-      },
-      {
-       "title": "[계약직] 고양하이테크센터 드라이버",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
-       "date": "20260927"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7263,15 +7374,25 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-19T13:00:46+00:00",
-   "last_success": "2026-09-19T13:00:46+00:00",
+   "last_check": "2026-09-19T15:00:42+00:00",
+   "last_success": "2026-09-19T15:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 9,
-   "fingerprint": "71e37c4caf5fe88c",
+   "fingerprint": "f882b57d52ed7d51",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T15:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T13:00:46+00:00",
      "status": "ok",
@@ -7572,16 +7693,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T03:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 7,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7804,6 +7915,16 @@
     "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
     "detail": "다시 정상으로 확인됐습니다.",
     "recovered": true
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "recovered": false
    }
   ],
   "since": "2026-09-18T01:00:43+00:00",
