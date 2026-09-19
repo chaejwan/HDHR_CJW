@@ -880,8 +880,8 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T19:00:36+00:00",
-   "last_success": "2026-09-19T19:00:36+00:00",
+   "last_check": "2026-09-19T21:00:35+00:00",
+   "last_success": "2026-09-19T21:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -889,6 +889,16 @@
    "fingerprint": "37adfdb5b65d47f0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T21:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T19:00:36+00:00",
      "status": "ok",
@@ -1239,22 +1249,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T09:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화솔루션 큐셀] 개발품질 경력직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19811",
-       "date": "2026.10.13 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -2962,8 +2956,8 @@
      "first_seen": "2026-09-19T15:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T19:00:37+00:00",
-   "last_success": "2026-09-19T19:00:37+00:00",
+   "last_check": "2026-09-19T21:00:36+00:00",
+   "last_success": "2026-09-19T21:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2971,6 +2965,16 @@
    "fingerprint": "c291cfef3bdd4ed3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T21:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-19T19:00:37+00:00",
      "status": "ok",
@@ -3253,16 +3257,6 @@
     },
     {
      "at": "2026-09-17T11:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-17T09:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4515,8 +4509,8 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-19T19:00:40+00:00",
-   "last_success": "2026-09-19T19:00:40+00:00",
+   "last_check": "2026-09-19T21:00:41+00:00",
+   "last_success": "2026-09-19T21:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4524,6 +4518,16 @@
    "fingerprint": "638427537dcb7fe3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T21:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T19:00:40+00:00",
      "status": "ok",
@@ -4852,32 +4856,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T09:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 103,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "전표 처리 및 행정 업무 지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262023",
-       "date": ""
-      },
-      {
-       "title": "채용 담당자 경력 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262026",
-       "date": ""
-      },
-      {
-       "title": "회계 지원 담당자 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262027",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6459,15 +6437,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-19T19:00:41+00:00",
-   "last_success": "2026-09-19T19:00:41+00:00",
+   "last_check": "2026-09-19T21:00:42+00:00",
+   "last_success": "2026-09-19T21:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 86,
-   "fingerprint": "6ff5d4e8a3f0047f",
+   "fingerprint": "a90f8c5324d1575d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T21:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T19:00:41+00:00",
      "status": "ok",
@@ -6768,22 +6756,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T09:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 울산공장 퇴직연금 운영 담당 채용",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=210",
-       "date": "20260928"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7351,8 +7323,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-19T19:00:43+00:00",
-   "last_success": "2026-09-19T19:00:43+00:00",
+   "last_check": "2026-09-19T21:00:45+00:00",
+   "last_success": "2026-09-19T21:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7360,6 +7332,16 @@
    "fingerprint": "f882b57d52ed7d51",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T21:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T19:00:43+00:00",
      "status": "ok",
@@ -7653,16 +7635,6 @@
     },
     {
      "at": "2026-09-17T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 7,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-17T09:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
