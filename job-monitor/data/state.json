@@ -880,8 +880,8 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T15:00:36+00:00",
-   "last_success": "2026-09-19T15:00:36+00:00",
+   "last_check": "2026-09-19T17:00:35+00:00",
+   "last_success": "2026-09-19T17:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -889,6 +889,16 @@
    "fingerprint": "37adfdb5b65d47f0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T17:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T15:00:36+00:00",
      "status": "ok",
@@ -1254,22 +1264,6 @@
        "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19810",
        "date": "2026.09.30 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-17T05:00:34+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 HR실 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19765",
-       "date": "2026.09.28 23:59"
       }
      ]
     }
@@ -2979,15 +2973,25 @@
      "first_seen": "2026-09-19T15:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T15:00:37+00:00",
-   "last_success": "2026-09-19T15:00:37+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-19T17:00:36+00:00",
+   "last_success": "2026-09-19T17:00:36+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 24,
    "fingerprint": "c291cfef3bdd4ed3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T17:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-19T15:00:37+00:00",
      "status": "baseline",
@@ -3277,19 +3281,9 @@
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-17T05:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 257건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-10",
@@ -3299,9 +3293,9 @@
     "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-10"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-19T15:00:37+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
    "last_new_at": "2026-09-17T03:00:42+00:00"
   },
@@ -4532,8 +4526,8 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-19T15:00:39+00:00",
-   "last_success": "2026-09-19T15:00:39+00:00",
+   "last_check": "2026-09-19T17:00:42+00:00",
+   "last_success": "2026-09-19T17:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4541,6 +4535,16 @@
    "fingerprint": "638427537dcb7fe3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T17:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T15:00:39+00:00",
      "status": "ok",
@@ -4885,22 +4889,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T05:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262022",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6482,15 +6470,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-19T15:00:40+00:00",
-   "last_success": "2026-09-19T15:00:40+00:00",
+   "last_check": "2026-09-19T17:00:43+00:00",
+   "last_success": "2026-09-19T17:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 86,
-   "fingerprint": "b357cecca83c7519",
+   "fingerprint": "6ff5d4e8a3f0047f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T17:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T15:00:40+00:00",
      "status": "ok",
@@ -6790,16 +6788,6 @@
     },
     {
      "at": "2026-09-17T07:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 84,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-17T05:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7374,8 +7362,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-19T15:00:42+00:00",
-   "last_success": "2026-09-19T15:00:42+00:00",
+   "last_check": "2026-09-19T17:00:46+00:00",
+   "last_success": "2026-09-19T17:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7383,6 +7371,16 @@
    "fingerprint": "f882b57d52ed7d51",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T17:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T15:00:42+00:00",
      "status": "ok",
@@ -7683,16 +7681,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T05:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 7,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7925,6 +7913,16 @@
     "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
     "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
     "recovered": false
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
    }
   ],
   "since": "2026-09-18T01:00:43+00:00",
