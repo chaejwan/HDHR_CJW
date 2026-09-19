@@ -880,8 +880,8 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-19T11:00:34+00:00",
-   "last_success": "2026-09-19T11:00:34+00:00",
+   "last_check": "2026-09-19T13:00:38+00:00",
+   "last_success": "2026-09-19T13:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -889,6 +889,16 @@
    "fingerprint": "37adfdb5b65d47f0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T13:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T11:00:34+00:00",
      "status": "ok",
@@ -1262,22 +1272,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T01:00:32+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19805",
-       "date": "2026.09.27 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -2841,8 +2835,8 @@
      "first_seen": "2026-09-18T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-19T11:00:35+00:00",
-   "last_success": "2026-09-19T11:00:35+00:00",
+   "last_check": "2026-09-19T13:00:39+00:00",
+   "last_success": "2026-09-19T13:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -2850,6 +2844,16 @@
    "fingerprint": "25430ecf1da9f4b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T13:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-19T11:00:35+00:00",
      "status": "ok",
@@ -3145,16 +3149,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-17T01:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
     }
    ],
    "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
@@ -4400,8 +4394,8 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-19T11:00:38+00:00",
-   "last_success": "2026-09-19T11:00:38+00:00",
+   "last_check": "2026-09-19T13:00:43+00:00",
+   "last_success": "2026-09-19T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4409,6 +4403,16 @@
    "fingerprint": "573e9e8c5db9bd91",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T11:00:38+00:00",
      "status": "ok",
@@ -4767,27 +4771,6 @@
       {
        "title": "시스템 (서버) 전문가 영입 (계약직)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262011",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-17T01:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262019",
-       "date": ""
-      },
-      {
-       "title": "LLMOps Engineer",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262015",
        "date": ""
       }
      ]
@@ -6372,15 +6355,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-19T11:00:39+00:00",
-   "last_success": "2026-09-19T11:00:39+00:00",
+   "last_check": "2026-09-19T13:00:44+00:00",
+   "last_success": "2026-09-19T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 86,
-   "fingerprint": "0fc8adf2646d7003",
+   "fingerprint": "bd9d6b4970b16623",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T11:00:39+00:00",
      "status": "ok",
@@ -6703,16 +6696,6 @@
        "date": "20260927"
       }
      ]
-    },
-    {
-     "at": "2026-09-17T01:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7280,8 +7263,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-19T11:00:41+00:00",
-   "last_success": "2026-09-19T11:00:41+00:00",
+   "last_check": "2026-09-19T13:00:46+00:00",
+   "last_success": "2026-09-19T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7289,6 +7272,16 @@
    "fingerprint": "71e37c4caf5fe88c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-19T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-19T11:00:41+00:00",
      "status": "ok",
@@ -7589,27 +7582,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-17T01:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 7,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-       "url": "https://www.samsungcareers.com/hr/?no=23208",
-       "date": "2026.09.17 ~ 2026.09.28"
-      },
-      {
-       "title": "제일기획 경력사원 채용(데이터, 디지털, 경영지원)",
-       "url": "https://www.samsungcareers.com/hr/?no=22861",
-       "date": "2026.09.17 ~ 2026.09.23"
-      }
-     ]
     }
    ],
    "last_note": "",
