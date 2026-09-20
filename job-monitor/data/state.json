@@ -880,8 +880,8 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-20T17:00:36+00:00",
-   "last_success": "2026-09-20T17:00:36+00:00",
+   "last_check": "2026-09-20T19:00:36+00:00",
+   "last_success": "2026-09-20T19:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -889,6 +889,16 @@
    "fingerprint": "4ddac68bbdc54a5d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T19:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T17:00:36+00:00",
      "status": "ok",
@@ -1198,27 +1208,6 @@
        "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
        "date": "2026.10.08 15:00"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-18T07:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
-       "date": "2026.10.05 23:00"
-      },
-      {
-       "title": "스마트팩토리 운영 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
-       "date": "2026.10.05 23:59"
       }
      ]
     }
@@ -3072,8 +3061,8 @@
      "first_seen": "2026-09-20T15:00:35+00:00"
     }
    },
-   "last_check": "2026-09-20T17:00:38+00:00",
-   "last_success": "2026-09-20T17:00:38+00:00",
+   "last_check": "2026-09-20T19:00:37+00:00",
+   "last_success": "2026-09-20T19:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3081,6 +3070,16 @@
    "fingerprint": "65a846166c32509e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T19:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-20T17:00:38+00:00",
      "status": "ok",
@@ -3363,16 +3362,6 @@
     },
     {
      "at": "2026-09-18T09:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T07:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4625,8 +4614,8 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-20T17:00:40+00:00",
-   "last_success": "2026-09-20T17:00:40+00:00",
+   "last_check": "2026-09-20T19:00:40+00:00",
+   "last_success": "2026-09-20T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4634,6 +4623,16 @@
    "fingerprint": "991d12902a7391d1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T17:00:40+00:00",
      "status": "ok",
@@ -4941,22 +4940,6 @@
       {
        "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262039",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-18T07:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 103,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "인사정보시스템 개발자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262032",
        "date": ""
       }
      ]
@@ -6541,15 +6524,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-20T17:00:41+00:00",
-   "last_success": "2026-09-20T17:00:41+00:00",
+   "last_check": "2026-09-20T19:00:41+00:00",
+   "last_success": "2026-09-20T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "2950c72ef448ff4b",
+   "fingerprint": "d6c2138e8adb312c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T17:00:41+00:00",
      "status": "ok",
@@ -6832,16 +6825,6 @@
     },
     {
      "at": "2026-09-18T09:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T07:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7416,8 +7399,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-20T17:00:43+00:00",
-   "last_success": "2026-09-20T17:00:43+00:00",
+   "last_check": "2026-09-20T19:00:43+00:00",
+   "last_success": "2026-09-20T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7425,6 +7408,16 @@
    "fingerprint": "1ef36da74a1b91e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T17:00:43+00:00",
      "status": "ok",
@@ -7707,16 +7700,6 @@
     },
     {
      "at": "2026-09-18T09:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T07:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
