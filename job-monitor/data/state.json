@@ -880,8 +880,8 @@
      "first_seen": "2026-09-18T11:00:37+00:00"
     }
    },
-   "last_check": "2026-09-20T21:00:37+00:00",
-   "last_success": "2026-09-20T21:00:37+00:00",
+   "last_check": "2026-09-20T23:00:33+00:00",
+   "last_success": "2026-09-20T23:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -889,6 +889,16 @@
    "fingerprint": "4ddac68bbdc54a5d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T23:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T21:00:37+00:00",
      "status": "ok",
@@ -1178,22 +1188,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T11:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화솔루션 큐셀] 한국공장(진천) 셀장비팀 자동화(Automation)경력사원 모집",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19823",
-       "date": "2026.09.28 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -3045,8 +3039,8 @@
      "first_seen": "2026-09-20T15:00:35+00:00"
     }
    },
-   "last_check": "2026-09-20T21:00:38+00:00",
-   "last_success": "2026-09-20T21:00:38+00:00",
+   "last_check": "2026-09-20T23:00:34+00:00",
+   "last_success": "2026-09-20T23:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3054,6 +3048,16 @@
    "fingerprint": "65a846166c32509e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T23:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-20T21:00:38+00:00",
      "status": "ok",
@@ -3336,16 +3340,6 @@
     },
     {
      "at": "2026-09-18T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T11:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4598,8 +4592,8 @@
      "first_seen": "2026-09-18T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-20T21:00:44+00:00",
-   "last_success": "2026-09-20T21:00:44+00:00",
+   "last_check": "2026-09-20T23:00:39+00:00",
+   "last_success": "2026-09-20T23:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4607,6 +4601,16 @@
    "fingerprint": "991d12902a7391d1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T23:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T21:00:44+00:00",
      "status": "ok",
@@ -4889,16 +4893,6 @@
     },
     {
      "at": "2026-09-18T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 107,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T11:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6487,15 +6481,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-20T21:00:45+00:00",
-   "last_success": "2026-09-20T21:00:45+00:00",
+   "last_check": "2026-09-20T23:00:40+00:00",
+   "last_success": "2026-09-20T23:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "d6c2138e8adb312c",
+   "fingerprint": "26e3a7021b258c45",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T23:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T21:00:45+00:00",
      "status": "ok",
@@ -6778,16 +6782,6 @@
     },
     {
      "at": "2026-09-18T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7362,8 +7356,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-20T21:00:47+00:00",
-   "last_success": "2026-09-20T21:00:47+00:00",
+   "last_check": "2026-09-20T23:00:43+00:00",
+   "last_success": "2026-09-20T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7371,6 +7365,16 @@
    "fingerprint": "1ef36da74a1b91e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-20T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-20T21:00:47+00:00",
      "status": "ok",
@@ -7660,16 +7664,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7690,252 +7684,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 설비기술(사무직) 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-    "date": "",
-    "found_at": "2026-09-18T01:00:43+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성증권 경력사원 채용(M&A, 유선 고객상담, 콘텐츠 PD)",
-    "url": "https://www.samsungcareers.com/hr/?no=23207",
-    "date": "2026.09.18 ~ 2026.09.28",
-    "found_at": "2026-09-18T01:00:43+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성웰스토리 경력사원 채용(IT 인프라 운영, 보건관리자, 안전관리자, 운영지원, 단체식 영양사, 단체식 조리사)",
-    "url": "https://www.samsungcareers.com/hr/?no=23212",
-    "date": "2026.09.18 ~ 2026.09.28",
-    "found_at": "2026-09-18T01:00:43+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262034",
-    "date": "",
-    "found_at": "2026-09-18T03:03:11+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 의전안내 (아산공장)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=212",
-    "date": "20261002",
-    "found_at": "2026-09-18T03:03:11+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 예비군중대 사무원 (아산공장)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=211",
-    "date": "20261002",
-    "found_at": "2026-09-18T03:03:11+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19816",
-    "date": "2026.10.06 15:00",
-    "found_at": "2026-09-18T05:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
-    "date": "2026.10.15 15:00",
-    "found_at": "2026-09-18T05:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
-    "date": "2026.10.15 15:00",
-    "found_at": "2026-09-18T05:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
-    "date": "2026.10.05 23:00",
-    "found_at": "2026-09-18T07:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "스마트팩토리 운영 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-18T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "인사정보시스템 개발자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262032",
-    "date": "",
-    "found_at": "2026-09-18T07:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
-    "date": "2026.10.01 23:59",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
-    "date": "2026.10.08 15:00",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
-    "date": "2026.10.08 15:00",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262038",
-    "date": "",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262031",
-    "date": "",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "DS 원액생산 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262037",
-    "date": "",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262039",
-    "date": "",
-    "found_at": "2026-09-18T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화솔루션 큐셀] 한국공장(진천) 셀장비팀 자동화(Automation)경력사원 모집",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19823",
-    "date": "2026.09.28 23:59",
-    "found_at": "2026-09-18T11:00:48+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-18T01:00:43+00:00",
-  "last_sent": "2026-09-17T23:00:48+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-20T23:00:50+00:00"
  },
  "archive": [
   {
