@@ -1,38 +1,32 @@
 {
- "at": "2026-09-21T03:00:48+00:00",
+ "at": "2026-09-21T05:00:45+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 09-22 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 09-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 4,
+  "items": 6,
   "alerts": 0,
   "since": "2026-09-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35556021997",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35562936243",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 84,
+   "status": "ok",
+   "item_count": 83,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
-     "date": "2026.10.04 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,14 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 94,
+   "item_count": 95,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+     "title": "SK에코엔지니어링 공무(전기) 경력 채용(촉탁직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262020",
      "date": ""
     }
    ]
@@ -69,12 +63,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 84,
+   "status": "new",
+   "item_count": 85,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 수원하이테크센터 드라이버",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=213",
+     "date": "20260928"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
