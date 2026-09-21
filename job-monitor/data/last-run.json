@@ -1,11 +1,11 @@
 {
- "at": "2026-09-21T15:00:52+00:00",
+ "at": "2026-09-21T17:00:50+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 1건). 09-22 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 2건). 09-22 08:00 에 보냅니다."
  },
  "alerts": [
   {
@@ -15,17 +15,17 @@
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
    "kind": "relisted",
    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-   "recovered": false
+   "detail": "다시 정상으로 확인됐습니다.",
+   "recovered": true
   }
  ],
  "pending": {
   "items": 14,
-  "alerts": 1,
+  "alerts": 2,
   "since": "2026-09-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35615997453",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35629232480",
  "results": [
   {
    "site_id": "hanwhain",
@@ -44,10 +44,10 @@
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "baseline",
+   "status": "ok",
    "item_count": 24,
    "method": "links",
-   "note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 305건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
+   "note": "32개 중 필터를 통과한 24개를 사용합니다.",
    "error": "",
    "new_items": []
   },
@@ -56,18 +56,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 96,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SAP 모듈 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262047",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
