@@ -878,17 +878,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19823",
      "date": "2026.09.28 23:59",
      "first_seen": "2026-09-18T11:00:37+00:00"
+    },
+    "f8da846db57fb42a": {
+     "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
+     "date": "2026.10.04 23:59",
+     "first_seen": "2026-09-21T03:00:36+00:00"
     }
    },
-   "last_check": "2026-09-21T01:00:31+00:00",
-   "last_success": "2026-09-21T01:00:31+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-21T03:00:36+00:00",
+   "last_success": "2026-09-21T03:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "4ddac68bbdc54a5d",
+   "item_count": 84,
+   "fingerprint": "e20411a6bcec9ef9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T03:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
+       "date": "2026.10.04 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-21T01:00:31+00:00",
      "status": "ok",
@@ -1178,16 +1200,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1204,7 +1216,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-18T11:00:37+00:00"
+   "last_new_at": "2026-09-21T03:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -3039,8 +3051,8 @@
      "first_seen": "2026-09-20T15:00:35+00:00"
     }
    },
-   "last_check": "2026-09-21T01:00:32+00:00",
-   "last_success": "2026-09-21T01:00:32+00:00",
+   "last_check": "2026-09-21T03:00:37+00:00",
+   "last_success": "2026-09-21T03:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3048,6 +3060,16 @@
    "fingerprint": "65a846166c32509e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T03:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-21T01:00:32+00:00",
      "status": "ok",
@@ -3336,16 +3358,6 @@
      "item_count": 24,
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T15:00:43+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 233건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -4602,17 +4614,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262036",
      "date": "",
      "first_seen": "2026-09-21T01:00:44+00:00"
+    },
+    "df812b0d57abab1a": {
+     "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+     "date": "",
+     "first_seen": "2026-09-21T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-21T01:00:44+00:00",
-   "last_success": "2026-09-21T01:00:44+00:00",
+   "last_check": "2026-09-21T03:00:42+00:00",
+   "last_success": "2026-09-21T03:00:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 94,
-   "fingerprint": "5bbe27b21b574a6d",
+   "fingerprint": "0762aa80f452bd9a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T03:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-21T01:00:44+00:00",
      "status": "new",
@@ -4913,16 +4947,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T15:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4939,7 +4963,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-21T01:00:44+00:00"
+   "last_new_at": "2026-09-21T03:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6504,15 +6528,25 @@
      "first_seen": "2026-09-18T03:03:08+00:00"
     }
    },
-   "last_check": "2026-09-21T01:00:45+00:00",
-   "last_success": "2026-09-21T01:00:45+00:00",
+   "last_check": "2026-09-21T03:00:43+00:00",
+   "last_success": "2026-09-21T03:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 84,
-   "fingerprint": "a481d6b5e6a7f484",
+   "fingerprint": "a4765ffb78e0d974",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T03:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T01:00:45+00:00",
      "status": "ok",
@@ -6795,16 +6829,6 @@
     },
     {
      "at": "2026-09-18T17:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T15:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7379,8 +7403,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-21T01:00:48+00:00",
-   "last_success": "2026-09-21T01:00:48+00:00",
+   "last_check": "2026-09-21T03:00:46+00:00",
+   "last_success": "2026-09-21T03:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7388,6 +7412,16 @@
    "fingerprint": "1ef36da74a1b91e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T03:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T01:00:48+00:00",
      "status": "ok",
@@ -7677,16 +7711,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T15:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7725,6 +7749,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262036",
     "date": "",
     "found_at": "2026-09-21T01:00:49+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
+    "date": "2026.10.04 23:59",
+    "found_at": "2026-09-21T03:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+    "date": "",
+    "found_at": "2026-09-21T03:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -7732,24 +7774,6 @@
   "last_sent": "2026-09-20T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 기술영업/견적/설계분야 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261788",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261812",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12231,6 +12255,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262036",
    "date": "",
    "found_at": "2026-09-21T01:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
+   "date": "2026.10.04 23:59",
+   "found_at": "2026-09-21T03:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262001",
+   "date": "",
+   "found_at": "2026-09-21T03:00:48+00:00"
   }
  ]
 }
