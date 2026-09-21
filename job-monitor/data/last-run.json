@@ -1,31 +1,31 @@
 {
- "at": "2026-09-21T07:03:11+00:00",
+ "at": "2026-09-21T09:00:44+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 09-22 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 09-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 10,
   "alerts": 0,
   "since": "2026-09-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35570913973",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35580878472",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "ok",
+   "item_count": 75,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
+   "error": "",
    "new_items": []
   },
   {
@@ -46,14 +46,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 96,
+   "item_count": 99,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Data Platform Engineer",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262042",
+     "title": "2026년 하반기 Junior Talent 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262046",
+     "date": ""
+    },
+    {
+     "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262043",
+     "date": ""
+    },
+    {
+     "title": "영업관리/기획 담당",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262045",
      "date": ""
     }
    ]

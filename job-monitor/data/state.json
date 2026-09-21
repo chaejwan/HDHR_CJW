@@ -886,15 +886,25 @@
      "first_seen": "2026-09-21T03:00:36+00:00"
     }
    },
-   "last_check": "2026-09-21T07:00:35+00:00",
-   "last_success": "2026-09-21T05:00:34+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-21T09:00:36+00:00",
+   "last_success": "2026-09-21T09:00:36+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "cd949f183e206b82",
+   "item_count": 75,
+   "fingerprint": "069653fd4f968606",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T09:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T07:00:35+00:00",
      "status": "error",
@@ -1190,26 +1200,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T21:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
-    "미국/인니/베트남/중동 글로벌 사업 및 투자 전략 경력채용(과장~부장급/본사근무)",
-    "[한화생명] 급여·보상 사무직 채용",
-    "경력직 채용_RSP운용팀 (LDI 주식 운용)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(양산)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)"
+    "투자AI팀 'AI 모델링 엔지니어' 전문인력 채용(대리급)",
+    "[한화에너지] 2026 하반기 신입사원 공개채용",
+    "2026년 한화손해보험 임원 비서 채용",
+    "[한화모멘텀(주)] 해외영업(중국) 경력사원 채용",
+    "[한화생명] 사무직 채용(경리, 회계, 사무지원)"
    ],
    "health": {
     "issue": "",
@@ -3051,8 +3051,8 @@
      "first_seen": "2026-09-20T15:00:35+00:00"
     }
    },
-   "last_check": "2026-09-21T07:03:03+00:00",
-   "last_success": "2026-09-21T07:03:03+00:00",
+   "last_check": "2026-09-21T09:00:37+00:00",
+   "last_success": "2026-09-21T09:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3060,6 +3060,16 @@
    "fingerprint": "65a846166c32509e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T09:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-21T07:03:03+00:00",
      "status": "ok",
@@ -3342,16 +3352,6 @@
     },
     {
      "at": "2026-09-18T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T21:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4632,17 +4632,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262042",
      "date": "",
      "first_seen": "2026-09-21T07:03:06+00:00"
+    },
+    "4ee5eba5ca44b668": {
+     "title": "2026년 하반기 Junior Talent 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262046",
+     "date": "",
+     "first_seen": "2026-09-21T09:00:39+00:00"
+    },
+    "06a1cbe03179f6c3": {
+     "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262043",
+     "date": "",
+     "first_seen": "2026-09-21T09:00:39+00:00"
+    },
+    "58e72203627515c0": {
+     "title": "영업관리/기획 담당",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262045",
+     "date": "",
+     "first_seen": "2026-09-21T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-21T07:03:06+00:00",
-   "last_success": "2026-09-21T07:03:06+00:00",
+   "last_check": "2026-09-21T09:00:39+00:00",
+   "last_success": "2026-09-21T09:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 96,
-   "fingerprint": "ff9cb283dae706cb",
+   "item_count": 99,
+   "fingerprint": "d6df9567bdf3003c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T09:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 하반기 Junior Talent 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262046",
+       "date": ""
+      },
+      {
+       "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262043",
+       "date": ""
+      },
+      {
+       "title": "영업관리/기획 담당",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262045",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-21T07:03:06+00:00",
      "status": "new",
@@ -4961,16 +5005,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T21:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4987,7 +5021,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-21T07:03:06+00:00"
+   "last_new_at": "2026-09-21T09:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6558,15 +6592,25 @@
      "first_seen": "2026-09-21T05:00:40+00:00"
     }
    },
-   "last_check": "2026-09-21T07:03:08+00:00",
-   "last_success": "2026-09-21T07:03:08+00:00",
+   "last_check": "2026-09-21T09:00:40+00:00",
+   "last_success": "2026-09-21T09:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "70a7c8668b66d698",
+   "fingerprint": "64da53eb53a7cf8a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T07:03:08+00:00",
      "status": "ok",
@@ -6855,16 +6899,6 @@
     },
     {
      "at": "2026-09-18T23:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T21:00:53+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7439,8 +7473,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-21T07:03:10+00:00",
-   "last_success": "2026-09-21T07:03:10+00:00",
+   "last_check": "2026-09-21T09:00:42+00:00",
+   "last_success": "2026-09-21T09:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7448,6 +7482,16 @@
    "fingerprint": "1ef36da74a1b91e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T09:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T07:03:10+00:00",
      "status": "ok",
@@ -7737,16 +7781,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T21:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7830,6 +7864,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262042",
     "date": "",
     "found_at": "2026-09-21T07:03:11+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 Junior Talent 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262046",
+    "date": "",
+    "found_at": "2026-09-21T09:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262043",
+    "date": "",
+    "found_at": "2026-09-21T09:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "영업관리/기획 담당",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262045",
+    "date": "",
+    "found_at": "2026-09-21T09:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -7837,33 +7898,6 @@
   "last_sent": "2026-09-20T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어플러스] 배관 설계 엔지니어",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261819",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어플러스] 전기/계장 설계 엔지니어",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261821",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트/삼강에스앤씨] 장애인 구성원 모집(재택근무)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261851",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12336,6 +12370,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262042",
    "date": "",
    "found_at": "2026-09-21T07:03:11+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 Junior Talent 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262046",
+   "date": "",
+   "found_at": "2026-09-21T09:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262043",
+   "date": "",
+   "found_at": "2026-09-21T09:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "영업관리/기획 담당",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262045",
+   "date": "",
+   "found_at": "2026-09-21T09:00:44+00:00"
   }
  ]
 }
