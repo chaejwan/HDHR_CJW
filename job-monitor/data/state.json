@@ -884,17 +884,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
      "date": "2026.10.04 23:59",
      "first_seen": "2026-09-21T03:00:36+00:00"
+    },
+    "571c6fa7ca0e4840": {
+     "title": "경력직 채용_리스크관리팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19832",
+     "date": "2026.10.05 15:00",
+     "first_seen": "2026-09-21T11:00:38+00:00"
+    },
+    "90996e90cb7845a1": {
+     "title": "경력직 채용_기관컨설팅2센터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19831",
+     "date": "2026.10.05 15:00",
+     "first_seen": "2026-09-21T11:00:38+00:00"
+    },
+    "1d062eab464a4754": {
+     "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19830",
+     "date": "2026.10.05 15:00",
+     "first_seen": "2026-09-21T11:00:38+00:00"
     }
    },
-   "last_check": "2026-09-21T09:00:36+00:00",
-   "last_success": "2026-09-21T09:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-21T11:00:38+00:00",
+   "last_success": "2026-09-21T11:00:38+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "069653fd4f968606",
+   "item_count": 78,
+   "fingerprint": "4f3dabd94de818a6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T11:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "경력직 채용_리스크관리팀",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19832",
+       "date": "2026.10.05 15:00"
+      },
+      {
+       "title": "경력직 채용_기관컨설팅2센터",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19831",
+       "date": "2026.10.05 15:00"
+      },
+      {
+       "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19830",
+       "date": "2026.10.05 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-21T09:00:36+00:00",
      "status": "ok",
@@ -1190,16 +1234,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T23:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1216,7 +1250,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-21T03:00:36+00:00"
+   "last_new_at": "2026-09-21T11:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -3051,8 +3085,8 @@
      "first_seen": "2026-09-20T15:00:35+00:00"
     }
    },
-   "last_check": "2026-09-21T09:00:37+00:00",
-   "last_success": "2026-09-21T09:00:37+00:00",
+   "last_check": "2026-09-21T11:00:39+00:00",
+   "last_success": "2026-09-21T11:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3060,6 +3094,16 @@
    "fingerprint": "65a846166c32509e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-21T09:00:37+00:00",
      "status": "ok",
@@ -3342,16 +3386,6 @@
     },
     {
      "at": "2026-09-19T01:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T23:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4652,15 +4686,25 @@
      "first_seen": "2026-09-21T09:00:39+00:00"
     }
    },
-   "last_check": "2026-09-21T09:00:39+00:00",
-   "last_success": "2026-09-21T09:00:39+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-21T11:00:45+00:00",
+   "last_success": "2026-09-21T11:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 99,
    "fingerprint": "d6df9567bdf3003c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T11:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T09:00:39+00:00",
      "status": "new",
@@ -4988,16 +5032,6 @@
     },
     {
      "at": "2026-09-19T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T23:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6592,15 +6626,25 @@
      "first_seen": "2026-09-21T05:00:40+00:00"
     }
    },
-   "last_check": "2026-09-21T09:00:40+00:00",
-   "last_success": "2026-09-21T09:00:40+00:00",
+   "last_check": "2026-09-21T11:00:46+00:00",
+   "last_success": "2026-09-21T11:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "64da53eb53a7cf8a",
+   "fingerprint": "1800b7e4779c3958",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T09:00:40+00:00",
      "status": "ok",
@@ -6889,16 +6933,6 @@
     },
     {
      "at": "2026-09-19T01:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-18T23:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7473,8 +7507,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-21T09:00:42+00:00",
-   "last_success": "2026-09-21T09:00:42+00:00",
+   "last_check": "2026-09-21T11:00:49+00:00",
+   "last_success": "2026-09-21T11:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7482,6 +7516,16 @@
    "fingerprint": "1ef36da74a1b91e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T11:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T09:00:42+00:00",
      "status": "ok",
@@ -7771,16 +7815,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-18T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7891,6 +7925,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262045",
     "date": "",
     "found_at": "2026-09-21T09:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_리스크관리팀",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19832",
+    "date": "2026.10.05 15:00",
+    "found_at": "2026-09-21T11:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_기관컨설팅2센터",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19831",
+    "date": "2026.10.05 15:00",
+    "found_at": "2026-09-21T11:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19830",
+    "date": "2026.10.05 15:00",
+    "found_at": "2026-09-21T11:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -7898,33 +7959,6 @@
   "last_sent": "2026-09-20T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK키파운드리 정보보안 경력 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261867",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 SK가스 HR 평가/제도 운영 경력직 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261872",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK온 원소재구매 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261873",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12397,6 +12431,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262045",
    "date": "",
    "found_at": "2026-09-21T09:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_리스크관리팀",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19832",
+   "date": "2026.10.05 15:00",
+   "found_at": "2026-09-21T11:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_기관컨설팅2센터",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19831",
+   "date": "2026.10.05 15:00",
+   "found_at": "2026-09-21T11:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19830",
+   "date": "2026.10.05 15:00",
+   "found_at": "2026-09-21T11:00:51+00:00"
   }
  ]
 }
