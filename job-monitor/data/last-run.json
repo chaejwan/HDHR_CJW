@@ -1,20 +1,20 @@
 {
- "at": "2026-09-20T23:00:45+00:00",
+ "at": "2026-09-21T01:00:49+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 2,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 09-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 2,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35543337110",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35549475906",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,23 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 91,
+   "status": "new",
+   "item_count": 94,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[SK에어플러스] 프로젝트 현장 사무지원직(신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262041",
+     "date": ""
+    },
+    {
+     "title": "Red Team 화이트 해커",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262036",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -58,7 +69,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 85,
+   "item_count": 84,
    "method": "json",
    "note": "",
    "error": "",
