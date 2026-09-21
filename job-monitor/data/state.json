@@ -904,8 +904,8 @@
      "first_seen": "2026-09-21T11:00:38+00:00"
     }
    },
-   "last_check": "2026-09-21T21:00:37+00:00",
-   "last_success": "2026-09-21T21:00:37+00:00",
+   "last_check": "2026-09-21T23:00:36+00:00",
+   "last_success": "2026-09-21T23:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -913,6 +913,16 @@
    "fingerprint": "4a42fd9fd6444700",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T23:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T21:00:37+00:00",
      "status": "ok",
@@ -1217,16 +1227,6 @@
     },
     {
      "at": "2026-09-19T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T11:00:34+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3227,17 +3227,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/200596",
      "date": "",
      "first_seen": "2026-09-21T15:00:46+00:00"
+    },
+    "8fb1de7f2d40c2a9": {
+     "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-100",
+     "url": "https://recruit-hanwhaocean.com/ko/o/212833",
+     "date": "",
+     "first_seen": "2026-09-21T23:00:37+00:00"
     }
    },
-   "last_check": "2026-09-21T21:00:38+00:00",
-   "last_success": "2026-09-21T21:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-21T23:00:37+00:00",
+   "last_success": "2026-09-21T23:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 24,
-   "fingerprint": "fbe4f142ef846bed",
+   "item_count": 25,
+   "fingerprint": "f749c372fade839a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T23:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 25,
+     "error": "",
+     "note": "33개 중 필터를 통과한 25개를 사용합니다.",
+     "new": [
+      {
+       "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-100",
+       "url": "https://recruit-hanwhaocean.com/ko/o/212833",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-21T21:00:38+00:00",
      "status": "ok",
@@ -3527,19 +3549,9 @@
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-19T11:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
+   "last_note": "33개 중 필터를 통과한 25개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-8",
@@ -3553,7 +3565,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-17T03:00:42+00:00"
+   "last_new_at": "2026-09-21T23:00:37+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -4836,8 +4848,8 @@
      "first_seen": "2026-09-21T15:00:48+00:00"
     }
    },
-   "last_check": "2026-09-21T21:00:41+00:00",
-   "last_success": "2026-09-21T21:00:41+00:00",
+   "last_check": "2026-09-21T23:00:44+00:00",
+   "last_success": "2026-09-21T23:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -4845,6 +4857,16 @@
    "fingerprint": "ce35658417f7e456",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T23:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T21:00:41+00:00",
      "status": "ok",
@@ -5178,16 +5200,6 @@
     },
     {
      "at": "2026-09-19T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T11:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6782,15 +6794,25 @@
      "first_seen": "2026-09-21T05:00:40+00:00"
     }
    },
-   "last_check": "2026-09-21T21:00:42+00:00",
-   "last_success": "2026-09-21T21:00:42+00:00",
+   "last_check": "2026-09-21T23:00:45+00:00",
+   "last_success": "2026-09-21T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "c08f5495012e8517",
+   "fingerprint": "23d01e3b41c8b39e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T21:00:42+00:00",
      "status": "ok",
@@ -7079,16 +7101,6 @@
     },
     {
      "at": "2026-09-19T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T11:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7663,8 +7675,8 @@
      "first_seen": "2026-09-18T01:00:42+00:00"
     }
    },
-   "last_check": "2026-09-21T21:00:44+00:00",
-   "last_success": "2026-09-21T21:00:44+00:00",
+   "last_check": "2026-09-21T23:00:48+00:00",
+   "last_success": "2026-09-21T23:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7672,6 +7684,16 @@
    "fingerprint": "df5a1e90ed6983a7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-21T23:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-21T21:00:44+00:00",
      "status": "ok",
@@ -7961,16 +7983,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T11:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7991,169 +8003,12 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] 프로젝트 현장 사무지원직(신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262041",
-    "date": "",
-    "found_at": "2026-09-21T01:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Red Team 화이트 해커",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262036",
-    "date": "",
-    "found_at": "2026-09-21T01:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
-    "date": "2026.10.04 23:59",
-    "found_at": "2026-09-21T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-    "date": "",
-    "found_at": "2026-09-21T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK에코엔지니어링 공무(전기) 경력 채용(촉탁직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262020",
-    "date": "",
-    "found_at": "2026-09-21T05:00:45+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 수원하이테크센터 드라이버",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=213",
-    "date": "20260928",
-    "found_at": "2026-09-21T05:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Data Platform Engineer",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262042",
-    "date": "",
-    "found_at": "2026-09-21T07:03:11+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 하반기 Junior Talent 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262046",
-    "date": "",
-    "found_at": "2026-09-21T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262043",
-    "date": "",
-    "found_at": "2026-09-21T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "영업관리/기획 담당",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262045",
-    "date": "",
-    "found_at": "2026-09-21T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_리스크관리팀",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19832",
-    "date": "2026.10.05 15:00",
-    "found_at": "2026-09-21T11:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_기관컨설팅2센터",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19831",
-    "date": "2026.10.05 15:00",
-    "found_at": "2026-09-21T11:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19830",
-    "date": "2026.10.05 15:00",
-    "found_at": "2026-09-21T11:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SAP 모듈 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262047",
-    "date": "",
-    "found_at": "2026-09-21T15:00:52+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-21T01:00:49+00:00",
-  "last_sent": "2026-09-20T23:00:50+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-21T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261875",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12644,6 +12499,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262047",
    "date": "",
    "found_at": "2026-09-21T15:00:52+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-100",
+   "url": "https://recruit-hanwhaocean.com/ko/o/212833",
+   "date": "",
+   "found_at": "2026-09-21T23:00:50+00:00"
   }
  ]
 }
