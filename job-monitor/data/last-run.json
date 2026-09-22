@@ -1,43 +1,32 @@
 {
- "at": "2026-09-22T11:00:50+00:00",
+ "at": "2026-09-22T13:00:51+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 34건 · 점검 0건). 09-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 35건 · 점검 0건). 09-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 34,
+  "items": 35,
   "alerts": 0,
   "since": "2026-09-22T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35719059844",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35730685181",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 94,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화시스템 구매(대금지급관리) 계약직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
-     "date": "2026.09.28 23:59"
-    },
-    {
-     "title": "한화시스템 근태담당자 계약직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
-     "date": "2026.10.05 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -56,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 101,
+   "status": "new",
+   "item_count": 102,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "반도체 Hi-Tech 사업개발 전문가 영입 (R&D·MIS 영역)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262058",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
