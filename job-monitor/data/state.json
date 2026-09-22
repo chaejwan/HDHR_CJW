@@ -908,17 +908,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19833",
      "date": "2026.11.01 23:55",
      "first_seen": "2026-09-22T01:00:39+00:00"
+    },
+    "10f6d70e0dcc5ab2": {
+     "title": "한화시스템 화약류 안전관리자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19834",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-22T03:00:39+00:00"
     }
    },
-   "last_check": "2026-09-22T01:00:39+00:00",
-   "last_success": "2026-09-22T01:00:39+00:00",
+   "last_check": "2026-09-22T03:00:39+00:00",
+   "last_success": "2026-09-22T03:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 77,
-   "fingerprint": "c96d0557ed865a97",
+   "item_count": 78,
+   "fingerprint": "69e4ca4eb5180576",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T03:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 화약류 안전관리자 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19834",
+       "date": "2026.10.05 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-22T01:00:39+00:00",
      "status": "new",
@@ -1236,16 +1258,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T15:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1262,7 +1274,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T01:00:39+00:00"
+   "last_new_at": "2026-09-22T03:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -3247,8 +3259,8 @@
      "first_seen": "2026-09-21T23:00:37+00:00"
     }
    },
-   "last_check": "2026-09-22T01:00:40+00:00",
-   "last_success": "2026-09-22T01:00:40+00:00",
+   "last_check": "2026-09-22T03:00:41+00:00",
+   "last_success": "2026-09-22T03:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3256,6 +3268,16 @@
    "fingerprint": "f749c372fade839a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T03:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 25,
+     "error": "",
+     "note": "33개 중 필터를 통과한 25개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-22T01:00:40+00:00",
      "status": "ok",
@@ -3550,16 +3572,6 @@
      "item_count": 24,
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T15:00:37+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 257건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -4858,17 +4870,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262047",
      "date": "",
      "first_seen": "2026-09-21T15:00:48+00:00"
+    },
+    "d196dcca5d834faf": {
+     "title": "[SK오션플랜트] 조선∙해양 방식설계(도장) 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262048",
+     "date": "",
+     "first_seen": "2026-09-22T03:00:46+00:00"
     }
    },
-   "last_check": "2026-09-22T01:00:42+00:00",
-   "last_success": "2026-09-22T01:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-22T03:00:46+00:00",
+   "last_success": "2026-09-22T03:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 96,
-   "fingerprint": "ce35658417f7e456",
+   "item_count": 97,
+   "fingerprint": "6390a9a4dabdc596",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T03:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK오션플랜트] 조선∙해양 방식설계(도장) 구성원 모집(경력/신입)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262048",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-22T01:00:42+00:00",
      "status": "ok",
@@ -5209,16 +5243,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T15:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5235,7 +5259,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-21T15:00:48+00:00"
+   "last_new_at": "2026-09-22T03:00:46+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6804,17 +6828,83 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=213",
      "date": "20260928",
      "first_seen": "2026-09-21T05:00:40+00:00"
+    },
+    "f495246273a90bd4": {
+     "title": "[계약직] 울산공장 산업간호사",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=214",
+     "date": "20260930",
+     "first_seen": "2026-09-22T03:00:47+00:00"
+    },
+    "a0e497f7b9469680": {
+     "title": "달 탐사 모빌리티 체계종합 엔지니어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=364",
+     "date": "20261231",
+     "first_seen": "2026-09-22T03:00:47+00:00"
+    },
+    "2d052b8500651872": {
+     "title": "달 탐사 모빌리티 제품보증(PA) 엔지니어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=365",
+     "date": "20261231",
+     "first_seen": "2026-09-22T03:00:47+00:00"
+    },
+    "322999f33f4cff7c": {
+     "title": "달 탐사 모빌리티 자율주행 소프트웨어 엔지니어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
+     "date": "20261231",
+     "first_seen": "2026-09-22T03:00:47+00:00"
+    },
+    "ff64a0a760919fb6": {
+     "title": "달 탐사 모빌리티 열제어 시스템 엔지니어",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=363",
+     "date": "20261231",
+     "first_seen": "2026-09-22T03:00:47+00:00"
     }
    },
-   "last_check": "2026-09-22T01:00:43+00:00",
-   "last_success": "2026-09-22T01:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-22T03:00:47+00:00",
+   "last_success": "2026-09-22T03:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "2658118ff8ab7dd3",
+   "item_count": 85,
+   "fingerprint": "04f8a88ee14634fb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T03:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 울산공장 산업간호사",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=214",
+       "date": "20260930"
+      },
+      {
+       "title": "달 탐사 모빌리티 체계종합 엔지니어",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=364",
+       "date": "20261231"
+      },
+      {
+       "title": "달 탐사 모빌리티 제품보증(PA) 엔지니어",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=365",
+       "date": "20261231"
+      },
+      {
+       "title": "달 탐사 모빌리티 자율주행 소프트웨어 엔지니어",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
+       "date": "20261231"
+      },
+      {
+       "title": "달 탐사 모빌리티 열제어 시스템 엔지니어",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=363",
+       "date": "20261231"
+      }
+     ]
+    },
     {
      "at": "2026-09-22T01:00:43+00:00",
      "status": "ok",
@@ -7110,16 +7200,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T15:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7136,7 +7216,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-21T05:00:40+00:00"
+   "last_new_at": "2026-09-22T03:00:47+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -7693,15 +7773,25 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-22T01:00:45+00:00",
-   "last_success": "2026-09-22T01:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-22T03:00:49+00:00",
+   "last_success": "2026-09-22T03:00:49+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 10,
    "fingerprint": "81c8f2b784241e72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T03:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-22T01:00:45+00:00",
      "status": "new",
@@ -7997,16 +8087,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T15:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8045,6 +8125,69 @@
     "url": "https://www.samsungcareers.com/hr/?no=23215",
     "date": "2026.09.22 ~ 2026.10.12",
     "found_at": "2026-09-22T01:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 화약류 안전관리자 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19834",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-22T03:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 조선∙해양 방식설계(도장) 구성원 모집(경력/신입)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262048",
+    "date": "",
+    "found_at": "2026-09-22T03:00:52+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 울산공장 산업간호사",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=214",
+    "date": "20260930",
+    "found_at": "2026-09-22T03:00:52+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "달 탐사 모빌리티 체계종합 엔지니어",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=364",
+    "date": "20261231",
+    "found_at": "2026-09-22T03:00:52+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "달 탐사 모빌리티 제품보증(PA) 엔지니어",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=365",
+    "date": "20261231",
+    "found_at": "2026-09-22T03:00:52+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "달 탐사 모빌리티 자율주행 소프트웨어 엔지니어",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
+    "date": "20261231",
+    "found_at": "2026-09-22T03:00:52+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "달 탐사 모빌리티 열제어 시스템 엔지니어",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=363",
+    "date": "20261231",
+    "found_at": "2026-09-22T03:00:52+00:00"
    }
   ],
   "alerts": [],
@@ -8052,69 +8195,6 @@
   "last_sent": "2026-09-21T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] Data Scientist(데이터 분석/AI 모델링) 경력 인재 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261892",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 품질관리(QC) 신입(전환형 인턴) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261899",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "청주공장 의약품 포장공정 계약직 채용 (신입/경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261904",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 임상개발 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261906",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 개발전략 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261907",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[아이지이] SHE 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261909",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "청주공장 회계 계약직 채용 (신입/경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261914",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12551,6 +12631,69 @@
    "url": "https://www.samsungcareers.com/hr/?no=23215",
    "date": "2026.09.22 ~ 2026.10.12",
    "found_at": "2026-09-22T01:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 화약류 안전관리자 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19834",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-22T03:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 조선∙해양 방식설계(도장) 구성원 모집(경력/신입)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262048",
+   "date": "",
+   "found_at": "2026-09-22T03:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 울산공장 산업간호사",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=214",
+   "date": "20260930",
+   "found_at": "2026-09-22T03:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "달 탐사 모빌리티 체계종합 엔지니어",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=364",
+   "date": "20261231",
+   "found_at": "2026-09-22T03:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "달 탐사 모빌리티 제품보증(PA) 엔지니어",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=365",
+   "date": "20261231",
+   "found_at": "2026-09-22T03:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "달 탐사 모빌리티 자율주행 소프트웨어 엔지니어",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
+   "date": "20261231",
+   "found_at": "2026-09-22T03:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "달 탐사 모빌리티 열제어 시스템 엔지니어",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=363",
+   "date": "20261231",
+   "found_at": "2026-09-22T03:00:52+00:00"
   }
  ]
 }
