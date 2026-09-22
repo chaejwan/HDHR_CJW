@@ -1,31 +1,20 @@
 {
- "at": "2026-09-22T17:01:09+00:00",
+ "at": "2026-09-22T19:00:59+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
   "skipped": "모아 두는 중입니다 (새 공고 36건 · 점검 2건). 09-23 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "kind": "relisted",
-   "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  }
- ],
+ "alerts": [],
  "pending": {
   "items": 36,
   "alerts": 2,
   "since": "2026-09-22T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35757852678",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35770951828",
  "results": [
   {
    "site_id": "hanwhain",
@@ -56,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 102,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "인사총무 담당 채용 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262059",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
