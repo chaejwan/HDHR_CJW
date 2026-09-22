@@ -1,50 +1,50 @@
 {
- "at": "2026-09-21T23:00:50+00:00",
+ "at": "2026-09-22T01:00:47+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 2,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 09-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 2,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-22T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35665505742",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35674164039",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 76,
+   "status": "new",
+   "item_count": 77,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19833",
+     "date": "2026.11.01 23:55"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "new",
+   "status": "ok",
    "item_count": 25,
    "method": "links",
    "note": "33개 중 필터를 통과한 25개를 사용합니다.",
    "error": "",
-   "new_items": [
-    {
-     "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-100",
-     "url": "https://recruit-hanwhaocean.com/ko/o/212833",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "sk-sk-careers",
@@ -75,12 +75,18 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 9,
+   "status": "new",
+   "item_count": 10,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성글로벌리서치 분야별 연구원 채용",
+     "url": "https://www.samsungcareers.com/hr/?no=23215",
+     "date": "2026.09.22 ~ 2026.10.12"
+    }
+   ]
   }
  ]
 }
