@@ -922,15 +922,25 @@
      "first_seen": "2026-09-22T05:00:34+00:00"
     }
    },
-   "last_check": "2026-09-22T05:00:34+00:00",
-   "last_success": "2026-09-22T05:00:34+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-22T07:00:37+00:00",
+   "last_success": "2026-09-22T07:00:37+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 79,
-   "fingerprint": "c59382336edc6399",
+   "item_count": 78,
+   "fingerprint": "cc311c2393532f9b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-22T05:00:34+00:00",
      "status": "new",
@@ -1260,26 +1270,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T19:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "2026년 한화손해보험 임원 비서 채용",
     "[한화모멘텀(주)] 해외영업(중국) 경력사원 채용",
     "[한화생명] 사무직 채용(경리, 회계, 사무지원)",
     "한화솔루션 인사이트 PLS사업부 마케팅 경력",
-    "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용"
+    "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
+    "(주)한화 글로벌부문 케미칼소재 R&D 분석 연구원 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -3269,17 +3269,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/212833",
      "date": "",
      "first_seen": "2026-09-21T23:00:37+00:00"
+    },
+    "840d23c2c8b1bcfc": {
+     "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-100",
+     "url": "https://recruit-hanwhaocean.com/ko/o/235776",
+     "date": "",
+     "first_seen": "2026-09-22T07:00:39+00:00"
     }
    },
-   "last_check": "2026-09-22T05:00:36+00:00",
-   "last_success": "2026-09-22T05:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-22T07:00:39+00:00",
+   "last_success": "2026-09-22T07:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 25,
-   "fingerprint": "f749c372fade839a",
+   "item_count": 26,
+   "fingerprint": "f22c693f277e6665",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": [
+      {
+       "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-100",
+       "url": "https://recruit-hanwhaocean.com/ko/o/235776",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-22T05:00:36+00:00",
      "status": "ok",
@@ -3575,19 +3597,9 @@
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-19T19:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "33개 중 필터를 통과한 25개를 사용합니다.",
+   "last_note": "34개 중 필터를 통과한 26개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-8",
@@ -3601,7 +3613,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-21T23:00:37+00:00"
+   "last_new_at": "2026-09-22T07:00:39+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -4888,17 +4900,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262048",
      "date": "",
      "first_seen": "2026-09-22T03:00:46+00:00"
+    },
+    "285c7036ae95c5c0": {
+     "title": "[SK케미칼(GC)] 계약직 비서 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262053",
+     "date": "",
+     "first_seen": "2026-09-22T07:00:44+00:00"
+    },
+    "51532737d2995678": {
+     "title": "[SK에어코어] 전기/계장 보전 엔니지어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262051",
+     "date": "",
+     "first_seen": "2026-09-22T07:00:44+00:00"
     }
    },
-   "last_check": "2026-09-22T05:00:40+00:00",
-   "last_success": "2026-09-22T05:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-22T07:00:44+00:00",
+   "last_success": "2026-09-22T07:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "6390a9a4dabdc596",
+   "item_count": 99,
+   "fingerprint": "299695bd05274c27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T07:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK케미칼(GC)] 계약직 비서 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262053",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 전기/계장 보전 엔니지어",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262051",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-22T05:00:40+00:00",
      "status": "ok",
@@ -5245,16 +5290,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5271,7 +5306,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T03:00:46+00:00"
+   "last_new_at": "2026-09-22T07:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -6870,17 +6905,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=363",
      "date": "20261231",
      "first_seen": "2026-09-22T03:00:47+00:00"
+    },
+    "c17110153c875f43": {
+     "title": "[아르바이트] 채용지원(남양)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=88",
+     "date": "20261005",
+     "first_seen": "2026-09-22T07:00:45+00:00"
     }
    },
-   "last_check": "2026-09-22T05:00:41+00:00",
-   "last_success": "2026-09-22T05:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-22T07:00:45+00:00",
+   "last_success": "2026-09-22T07:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 85,
-   "fingerprint": "76ceeb2f3997063a",
+   "item_count": 87,
+   "fingerprint": "bb5f48dbe3c5bce2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T07:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아르바이트] 채용지원(남양)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=88",
+       "date": "20261005"
+      }
+     ]
+    },
     {
      "at": "2026-09-22T05:00:41+00:00",
      "status": "ok",
@@ -7202,16 +7259,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7228,7 +7275,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T03:00:47+00:00"
+   "last_new_at": "2026-09-22T07:00:45+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -7785,8 +7832,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-22T05:00:43+00:00",
-   "last_success": "2026-09-22T05:00:43+00:00",
+   "last_check": "2026-09-22T07:00:47+00:00",
+   "last_success": "2026-09-22T07:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7794,6 +7841,16 @@
    "fingerprint": "81c8f2b784241e72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T07:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-22T05:00:43+00:00",
      "status": "ok",
@@ -8089,16 +8146,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8209,6 +8256,42 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19827",
     "date": "2026.10.07 15:00",
     "found_at": "2026-09-22T05:00:46+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-100",
+    "url": "https://recruit-hanwhaocean.com/ko/o/235776",
+    "date": "",
+    "found_at": "2026-09-22T07:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼(GC)] 계약직 비서 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262053",
+    "date": "",
+    "found_at": "2026-09-22T07:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 전기/계장 보전 엔니지어",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262051",
+    "date": "",
+    "found_at": "2026-09-22T07:00:49+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[아르바이트] 채용지원(남양)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=88",
+    "date": "20261005",
+    "found_at": "2026-09-22T07:00:49+00:00"
    }
   ],
   "alerts": [],
@@ -8216,42 +8299,6 @@
   "last_sent": "2026-09-21T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "디앤디프라퍼티솔루션 정보보호담당자 모집의 건",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261918",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "보안 아키텍트 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261706",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK에코엔지니어링 품질관리자 경력 채용(촉탁직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261887",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -12715,6 +12762,42 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19827",
    "date": "2026.10.07 15:00",
    "found_at": "2026-09-22T05:00:46+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-100",
+   "url": "https://recruit-hanwhaocean.com/ko/o/235776",
+   "date": "",
+   "found_at": "2026-09-22T07:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼(GC)] 계약직 비서 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262053",
+   "date": "",
+   "found_at": "2026-09-22T07:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 전기/계장 보전 엔니지어",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262051",
+   "date": "",
+   "found_at": "2026-09-22T07:00:49+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[아르바이트] 채용지원(남양)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=88",
+   "date": "20261005",
+   "found_at": "2026-09-22T07:00:49+00:00"
   }
  ]
 }
