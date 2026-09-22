@@ -1010,17 +1010,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19835",
      "date": "2026.10.05 23:59",
      "first_seen": "2026-09-22T09:01:15+00:00"
+    },
+    "6429aee206df2dfd": {
+     "title": "한화시스템 구매(대금지급관리) 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
+     "date": "2026.09.28 23:59",
+     "first_seen": "2026-09-22T11:00:39+00:00"
+    },
+    "0ac348dbf69a237e": {
+     "title": "한화시스템 근태담당자 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-22T11:00:39+00:00"
     }
    },
-   "last_check": "2026-09-22T09:01:15+00:00",
-   "last_success": "2026-09-22T09:01:15+00:00",
+   "last_check": "2026-09-22T11:00:39+00:00",
+   "last_success": "2026-09-22T11:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "087b9dc3291f9c61",
+   "item_count": 94,
+   "fingerprint": "f7aef2a6333cd3fe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T11:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 구매(대금지급관리) 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
+       "date": "2026.09.28 23:59"
+      },
+      {
+       "title": "한화시스템 근태담당자 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
+       "date": "2026.10.05 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-22T09:01:15+00:00",
      "status": "new",
@@ -1426,16 +1459,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-19T23:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1452,7 +1475,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T09:01:15+00:00"
+   "last_new_at": "2026-09-22T11:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -3443,8 +3466,8 @@
      "first_seen": "2026-09-22T07:00:39+00:00"
     }
    },
-   "last_check": "2026-09-22T09:01:16+00:00",
-   "last_success": "2026-09-22T09:01:16+00:00",
+   "last_check": "2026-09-22T11:00:41+00:00",
+   "last_success": "2026-09-22T11:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3452,6 +3475,16 @@
    "fingerprint": "f22c693f277e6665",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T11:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-22T09:01:16+00:00",
      "status": "ok",
@@ -3746,16 +3779,6 @@
     },
     {
      "at": "2026-09-20T01:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T23:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5092,15 +5115,25 @@
      "first_seen": "2026-09-22T09:01:21+00:00"
     }
    },
-   "last_check": "2026-09-22T09:01:21+00:00",
-   "last_success": "2026-09-22T09:01:21+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-22T11:00:45+00:00",
+   "last_success": "2026-09-22T11:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
    "fingerprint": "78eb6902cebf5132",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T11:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-22T09:01:21+00:00",
      "status": "new",
@@ -5462,16 +5495,6 @@
     },
     {
      "at": "2026-09-20T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 106,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T23:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7108,15 +7131,25 @@
      "first_seen": "2026-09-22T09:01:22+00:00"
     }
    },
-   "last_check": "2026-09-22T09:01:22+00:00",
-   "last_success": "2026-09-22T09:01:22+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-22T11:00:46+00:00",
+   "last_success": "2026-09-22T11:00:46+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "872108965443c66d",
+   "fingerprint": "3b29b56c04b98f1a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-22T09:01:22+00:00",
      "status": "new",
@@ -7443,16 +7476,6 @@
     },
     {
      "at": "2026-09-20T01:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T23:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8033,8 +8056,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-22T09:01:25+00:00",
-   "last_success": "2026-09-22T09:01:25+00:00",
+   "last_check": "2026-09-22T11:00:48+00:00",
+   "last_success": "2026-09-22T11:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8042,6 +8065,16 @@
    "fingerprint": "81c8f2b784241e72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-22T11:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-22T09:01:25+00:00",
      "status": "ok",
@@ -8330,16 +8363,6 @@
     },
     {
      "at": "2026-09-20T01:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-19T23:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8655,6 +8678,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=218",
     "date": "20261006",
     "found_at": "2026-09-22T09:01:28+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 구매(대금지급관리) 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
+    "date": "2026.09.28 23:59",
+    "found_at": "2026-09-22T11:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 근태담당자 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-22T11:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -8662,24 +8703,6 @@
   "last_sent": "2026-09-21T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] H/W개발 (회로 및 전장 설계) 경력 인재 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261894",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK온 New Application소재개발팀 기술감독직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261910",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -13161,6 +13184,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=218",
    "date": "20261006",
    "found_at": "2026-09-22T09:01:28+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 구매(대금지급관리) 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19758",
+   "date": "2026.09.28 23:59",
+   "found_at": "2026-09-22T11:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 근태담당자 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-22T11:00:50+00:00"
   }
  ]
 }
