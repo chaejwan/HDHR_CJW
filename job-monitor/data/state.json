@@ -1022,17 +1022,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
      "date": "2026.10.05 23:59",
      "first_seen": "2026-09-22T11:00:39+00:00"
+    },
+    "24edd27dfd081cfe": {
+     "title": "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19859",
+     "date": "2026.10.04 23:59",
+     "first_seen": "2026-09-23T05:00:34+00:00"
+    },
+    "069fc91b6e739333": {
+     "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19858",
+     "date": "2026.10.06 23:59",
+     "first_seen": "2026-09-23T05:00:34+00:00"
     }
    },
-   "last_check": "2026-09-23T03:00:37+00:00",
-   "last_success": "2026-09-23T03:00:37+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-23T05:00:34+00:00",
+   "last_success": "2026-09-23T05:00:34+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "67632b4f06c8345a",
+   "item_count": 95,
+   "fingerprint": "c1e3f63be9ad82e5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T05:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19859",
+       "date": "2026.10.04 23:59"
+      },
+      {
+       "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19858",
+       "date": "2026.10.06 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-23T03:00:37+00:00",
      "status": "ok",
@@ -1449,16 +1482,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T17:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1475,7 +1498,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T11:00:39+00:00"
+   "last_new_at": "2026-09-23T05:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -3622,8 +3645,8 @@
      "first_seen": "2026-09-22T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-23T03:00:38+00:00",
-   "last_success": "2026-09-23T03:00:38+00:00",
+   "last_check": "2026-09-23T05:00:35+00:00",
+   "last_success": "2026-09-23T05:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3631,6 +3654,16 @@
    "fingerprint": "f04db1f0106e15d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-23T03:00:38+00:00",
      "status": "ok",
@@ -3925,16 +3958,6 @@
     },
     {
      "at": "2026-09-20T19:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-20T17:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5325,15 +5348,25 @@
      "first_seen": "2026-09-23T03:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T03:00:41+00:00",
-   "last_success": "2026-09-23T03:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-23T05:00:38+00:00",
+   "last_success": "2026-09-23T05:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 110,
    "fingerprint": "87e33119afbb3c0f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T05:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 110,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T03:00:41+00:00",
      "status": "new",
@@ -5744,16 +5777,6 @@
     },
     {
      "at": "2026-09-20T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-20T17:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7408,15 +7431,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T03:00:42+00:00",
-   "last_success": "2026-09-23T03:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-23T05:00:39+00:00",
+   "last_success": "2026-09-23T05:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 90,
-   "fingerprint": "973d700e27872f6d",
+   "fingerprint": "430977739558040a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T03:00:42+00:00",
      "status": "new",
@@ -7767,16 +7800,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T17:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7786,7 +7809,7 @@
     "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
     "제네시스 비스포크 컨설턴트",
     "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
-    "[계약직] 고양하이테크센터 드라이버"
+    "[계약직] 중고차 상품안내 (군산인증중고차센터)"
    ],
    "health": {
     "issue": "",
@@ -8350,8 +8373,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-23T03:00:44+00:00",
-   "last_success": "2026-09-23T03:00:44+00:00",
+   "last_check": "2026-09-23T05:00:41+00:00",
+   "last_success": "2026-09-23T05:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8359,6 +8382,16 @@
    "fingerprint": "74308fd975413afc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T05:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T03:00:44+00:00",
      "status": "ok",
@@ -8654,16 +8687,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T17:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8774,6 +8797,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
     "date": "20261006",
     "found_at": "2026-09-23T03:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19859",
+    "date": "2026.10.04 23:59",
+    "found_at": "2026-09-23T05:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19858",
+    "date": "2026.10.06 23:59",
+    "found_at": "2026-09-23T05:00:43+00:00"
    }
   ],
   "alerts": [],
@@ -8781,24 +8822,6 @@
   "last_sent": "2026-09-22T23:03:16+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "보안침해위협 분석/대응 및 AI 기반 탐지 고도화 전문가",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261898",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "통합 구매 담당 (8~13년차)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261726",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -13280,6 +13303,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
    "date": "20261006",
    "found_at": "2026-09-23T03:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19859",
+   "date": "2026.10.04 23:59",
+   "found_at": "2026-09-23T05:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19858",
+   "date": "2026.10.06 23:59",
+   "found_at": "2026-09-23T05:00:43+00:00"
   }
  ]
 }
