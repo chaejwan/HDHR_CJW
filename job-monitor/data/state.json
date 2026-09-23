@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T19:00:39+00:00",
-   "last_success": "2026-09-23T19:00:39+00:00",
+   "last_check": "2026-09-23T21:00:39+00:00",
+   "last_success": "2026-09-23T21:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T21:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T19:00:39+00:00",
      "status": "ok",
@@ -1502,16 +1512,6 @@
        "date": "2026.10.05 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-09-21T09:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3831,8 +3831,8 @@
      "first_seen": "2026-09-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T19:00:40+00:00",
-   "last_success": "2026-09-23T19:00:40+00:00",
+   "last_check": "2026-09-23T21:00:39+00:00",
+   "last_success": "2026-09-23T21:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3840,6 +3840,16 @@
    "fingerprint": "9577b513e58eb276",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T21:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-23T19:00:40+00:00",
      "status": "ok",
@@ -4134,16 +4144,6 @@
     },
     {
      "at": "2026-09-21T11:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T09:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5576,8 +5576,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T19:00:45+00:00",
-   "last_success": "2026-09-23T19:00:45+00:00",
+   "last_check": "2026-09-23T21:00:50+00:00",
+   "last_success": "2026-09-23T21:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5585,6 +5585,16 @@
    "fingerprint": "c05c532cbfdfed72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T21:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T19:00:45+00:00",
      "status": "ok",
@@ -5993,32 +6003,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-21T09:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 99,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 하반기 Junior Talent 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262046",
-       "date": ""
-      },
-      {
-       "title": "전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262043",
-       "date": ""
-      },
-      {
-       "title": "영업관리/기획 담당",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262045",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7666,8 +7650,8 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T19:00:47+00:00",
-   "last_success": "2026-09-23T19:00:47+00:00",
+   "last_check": "2026-09-23T21:00:51+00:00",
+   "last_success": "2026-09-23T21:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7675,6 +7659,16 @@
    "fingerprint": "dd2bcc1d9ac2f3dc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T21:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T19:00:47+00:00",
      "status": "ok",
@@ -8012,16 +8006,6 @@
     },
     {
      "at": "2026-09-21T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T09:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8602,8 +8586,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-23T19:00:49+00:00",
-   "last_success": "2026-09-23T19:00:49+00:00",
+   "last_check": "2026-09-23T21:00:54+00:00",
+   "last_success": "2026-09-23T21:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8611,6 +8595,16 @@
    "fingerprint": "0bc4caab9b3f50fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T21:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T19:00:49+00:00",
      "status": "ok",
@@ -8899,16 +8893,6 @@
     },
     {
      "at": "2026-09-21T11:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T09:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
