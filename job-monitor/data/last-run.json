@@ -1,20 +1,20 @@
 {
- "at": "2026-09-23T07:00:48+00:00",
+ "at": "2026-09-23T09:00:45+00:00",
  "checked": 5,
- "new_total": 8,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 09-24 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 0건). 09-24 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 20,
+  "items": 21,
   "alerts": 0,
   "since": "2026-09-23T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35829473088",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35840385853",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,9 +28,9 @@
    "error": "",
    "new_items": [
     {
-     "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(엔지니어•영업 직군)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19856",
-     "date": "2026.10.11 23:59"
+     "title": "경영지원(자금,경리) 담당자 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
+     "date": "2026.10.05 23:59"
     }
    ]
   },
@@ -51,48 +51,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 117,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "L HOUSE 완제생산실(이물검사) 신입/경력 계약직 사원 3차 채용 공고",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262071",
-     "date": ""
-    },
-    {
-     "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 4차 채용 공고",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262029",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 종합설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262072",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 구조설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262073",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 선체설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262074",
-     "date": ""
-    },
-    {
-     "title": "[SK인텔릭스] 데이터 분석 인턴 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262075",
-     "date": ""
-    },
-    {
-     "title": "AI Research Engineer 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262060",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -100,7 +64,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 90,
+   "item_count": 89,
    "method": "json",
    "note": "",
    "error": "",
@@ -112,7 +76,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 10,
+   "item_count": 9,
    "method": "pattern",
    "note": "",
    "error": "",

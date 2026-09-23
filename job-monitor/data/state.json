@@ -1040,17 +1040,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19856",
      "date": "2026.10.11 23:59",
      "first_seen": "2026-09-23T07:00:37+00:00"
+    },
+    "7cb0b7e858bdf340": {
+     "title": "경영지원(자금,경리) 담당자 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-23T09:00:35+00:00"
     }
    },
-   "last_check": "2026-09-23T07:00:37+00:00",
-   "last_success": "2026-09-23T07:00:37+00:00",
+   "last_check": "2026-09-23T09:00:35+00:00",
+   "last_success": "2026-09-23T09:00:35+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "e315460b528ce982",
+   "fingerprint": "04bf73f81a1197bd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T09:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "경영지원(자금,경리) 담당자 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
+       "date": "2026.10.05 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-23T07:00:37+00:00",
      "status": "new",
@@ -1484,33 +1506,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화솔루션 인사이트 PLS사업부 마케팅 경력",
     "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
     "(주)한화 글로벌부문 케미칼소재 R&D 분석 연구원 경력사원 채용",
     "(주)한화 글로벌부문 반도체소재 영업 경력사원 채용",
-    "26년 하반기 한화솔루션 재무 신입사원 채용"
+    "26년 하반기 한화솔루션 재무 신입사원 채용",
+    "[한화토탈에너지스] 2026년 PP공장 생산운전 전문직 경력사원 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-23T07:00:37+00:00"
+   "last_new_at": "2026-09-23T09:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -3657,8 +3669,8 @@
      "first_seen": "2026-09-22T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-23T07:00:38+00:00",
-   "last_success": "2026-09-23T07:00:38+00:00",
+   "last_check": "2026-09-23T09:00:36+00:00",
+   "last_success": "2026-09-23T09:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3666,6 +3678,16 @@
    "fingerprint": "f04db1f0106e15d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T09:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-23T07:00:38+00:00",
      "status": "ok",
@@ -3960,16 +3982,6 @@
     },
     {
      "at": "2026-09-20T23:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-20T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5402,15 +5414,25 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T07:00:41+00:00",
-   "last_success": "2026-09-23T07:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-23T09:00:39+00:00",
+   "last_success": "2026-09-23T09:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 117,
    "fingerprint": "d82857bd2abbed05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T07:00:41+00:00",
      "status": "new",
@@ -5857,16 +5879,6 @@
     },
     {
      "at": "2026-09-20T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-20T21:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7521,15 +7533,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T07:00:43+00:00",
-   "last_success": "2026-09-23T07:00:43+00:00",
+   "last_check": "2026-09-23T09:00:40+00:00",
+   "last_success": "2026-09-23T09:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 90,
-   "fingerprint": "b8e2bd3a7a7fd182",
+   "item_count": 89,
+   "fingerprint": "b76e73119ae96205",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T07:00:43+00:00",
      "status": "ok",
@@ -7880,26 +7902,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "[계약직] 사상하이테크센터 고객응대 및 수납",
-    "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
     "제네시스 비스포크 컨설턴트",
     "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
-    "[계약직] 중고차 상품안내 (군산인증중고차센터)"
+    "[계약직] 중고차 상품안내 (군산인증중고차센터)",
+    "[계약직] 수원하이테크센터 드라이버"
    ],
    "health": {
     "issue": "",
@@ -8463,15 +8475,25 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-23T07:00:45+00:00",
-   "last_success": "2026-09-23T07:00:45+00:00",
+   "last_check": "2026-09-23T09:00:43+00:00",
+   "last_success": "2026-09-23T09:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 10,
-   "fingerprint": "74308fd975413afc",
+   "item_count": 9,
+   "fingerprint": "6af9f1c623335447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T09:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T07:00:45+00:00",
      "status": "ok",
@@ -8767,16 +8789,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T21:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8786,7 +8798,7 @@
     "삼성증권 경력사원 채용(M&A, 유선 고객상담, 콘텐츠 PD)",
     "삼성웰스토리 경력사원 채용(IT 인프라 운영, 보건관리자, 안전관리자, 운영지원, 단체식 영양사, 단체식 조리사)",
     "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-    "제일기획 경력사원 채용(데이터, 디지털, 경영지원)"
+    "삼성전자 DX부문 경력사원 채용(가스안전관리)"
    ],
    "health": {
     "issue": "",
@@ -8977,6 +8989,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262060",
     "date": "",
     "found_at": "2026-09-23T07:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경영지원(자금,경리) 담당자 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-23T09:00:45+00:00"
    }
   ],
   "alerts": [],
@@ -8984,15 +9005,6 @@
   "last_sent": "2026-09-22T23:03:16+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "API/SDK 상품운영 및 기술지원 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261531",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -13483,6 +13495,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262060",
    "date": "",
    "found_at": "2026-09-23T07:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경영지원(자금,경리) 담당자 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-23T09:00:45+00:00"
   }
  ]
 }
