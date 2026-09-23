@@ -1024,8 +1024,8 @@
      "first_seen": "2026-09-22T11:00:39+00:00"
     }
    },
-   "last_check": "2026-09-23T01:00:37+00:00",
-   "last_success": "2026-09-23T01:00:37+00:00",
+   "last_check": "2026-09-23T03:00:37+00:00",
+   "last_success": "2026-09-23T03:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1033,6 +1033,16 @@
    "fingerprint": "67632b4f06c8345a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T03:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T01:00:37+00:00",
      "status": "ok",
@@ -1442,16 +1452,6 @@
     },
     {
      "at": "2026-09-20T17:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-20T15:00:34+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -3622,8 +3622,8 @@
      "first_seen": "2026-09-22T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-23T01:00:38+00:00",
-   "last_success": "2026-09-23T01:00:38+00:00",
+   "last_check": "2026-09-23T03:00:38+00:00",
+   "last_success": "2026-09-23T03:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3631,6 +3631,16 @@
    "fingerprint": "f04db1f0106e15d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T03:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-23T01:00:38+00:00",
      "status": "ok",
@@ -3931,16 +3941,6 @@
      "item_count": 24,
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-20T15:00:35+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다. 이전에 기억하던 281건과 겹치는 공고가 없어, 지금 24건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -5293,17 +5293,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262056",
      "date": "",
      "first_seen": "2026-09-23T01:00:41+00:00"
+    },
+    "d6bf42e5828f44fb": {
+     "title": "파운데이션 모델 데이터 업무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+     "date": "",
+     "first_seen": "2026-09-23T03:00:41+00:00"
+    },
+    "bdd76dce1396dbb9": {
+     "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262062",
+     "date": "",
+     "first_seen": "2026-09-23T03:00:41+00:00"
+    },
+    "45f39d979bd40b65": {
+     "title": "[SK오션플랜트] 전장자동화∙항해/통신설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262063",
+     "date": "",
+     "first_seen": "2026-09-23T03:00:41+00:00"
+    },
+    "70aa8fc5472f2f46": {
+     "title": "[SK오션플랜트] 선장철의설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262064",
+     "date": "",
+     "first_seen": "2026-09-23T03:00:41+00:00"
+    },
+    "efaf720f7c1861f2": {
+     "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262065",
+     "date": "",
+     "first_seen": "2026-09-23T03:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T01:00:41+00:00",
-   "last_success": "2026-09-23T01:00:41+00:00",
+   "last_check": "2026-09-23T03:00:41+00:00",
+   "last_success": "2026-09-23T03:00:41+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 105,
-   "fingerprint": "9313871f5716deb2",
+   "item_count": 110,
+   "fingerprint": "87e33119afbb3c0f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T03:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 110,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "파운데이션 모델 데이터 업무 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+       "date": ""
+      },
+      {
+       "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262062",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 전장자동화∙항해/통신설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262063",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 선장철의설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262064",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262065",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-23T01:00:41+00:00",
      "status": "new",
@@ -5695,16 +5761,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T15:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5721,7 +5777,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-23T01:00:41+00:00"
+   "last_new_at": "2026-09-23T03:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -7344,17 +7400,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=216",
      "date": "20261007",
      "first_seen": "2026-09-23T01:00:43+00:00"
+    },
+    "540e4d210c7d5118": {
+     "title": "[계약직] 전주공장 의전안내",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
+     "date": "20261006",
+     "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T01:00:43+00:00",
-   "last_success": "2026-09-23T01:00:43+00:00",
+   "last_check": "2026-09-23T03:00:42+00:00",
+   "last_success": "2026-09-23T03:00:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 89,
-   "fingerprint": "9beae9602f1b4773",
+   "item_count": 90,
+   "fingerprint": "973d700e27872f6d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T03:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 전주공장 의전안내",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
+       "date": "20261006"
+      }
+     ]
+    },
     {
      "at": "2026-09-23T01:00:43+00:00",
      "status": "new",
@@ -7699,16 +7777,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7717,15 +7785,15 @@
     "[계약직] 사상하이테크센터 고객응대 및 수납",
     "[계약직] 사무 보조 및 행정 지원 (장애인 제한경쟁)",
     "제네시스 비스포크 컨설턴트",
-    "[계약직] 시화하이테크센터 파츠딜리버리",
-    "[계약직] 서부산하이테크센터 고객응대 및 수납"
+    "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
+    "[계약직] 고양하이테크센터 드라이버"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-23T01:00:43+00:00"
+   "last_new_at": "2026-09-23T03:00:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -8282,8 +8350,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-23T01:00:45+00:00",
-   "last_success": "2026-09-23T01:00:45+00:00",
+   "last_check": "2026-09-23T03:00:44+00:00",
+   "last_success": "2026-09-23T03:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8291,6 +8359,16 @@
    "fingerprint": "74308fd975413afc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T03:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T01:00:45+00:00",
      "status": "ok",
@@ -8586,16 +8664,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-20T15:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8652,6 +8720,60 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=216",
     "date": "20261007",
     "found_at": "2026-09-23T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "파운데이션 모델 데이터 업무 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+    "date": "",
+    "found_at": "2026-09-23T03:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262062",
+    "date": "",
+    "found_at": "2026-09-23T03:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 전장자동화∙항해/통신설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262063",
+    "date": "",
+    "found_at": "2026-09-23T03:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 선장철의설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262064",
+    "date": "",
+    "found_at": "2026-09-23T03:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262065",
+    "date": "",
+    "found_at": "2026-09-23T03:00:46+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 전주공장 의전안내",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
+    "date": "20261006",
+    "found_at": "2026-09-23T03:00:46+00:00"
    }
   ],
   "alerts": [],
@@ -8659,60 +8781,6 @@
   "last_sent": "2026-09-22T23:03:16+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어코어] 토목건축 엔지니어",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261924",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R260015",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R260017",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R260356",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 SK에코플랜트 보건관리자 경력직(계약직) 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R260357",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "전기차 충전기 소프트웨어(SW) 개발 및 보안 담당",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261474",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -13158,6 +13226,60 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=216",
    "date": "20261007",
    "found_at": "2026-09-23T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "파운데이션 모델 데이터 업무 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+   "date": "",
+   "found_at": "2026-09-23T03:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262062",
+   "date": "",
+   "found_at": "2026-09-23T03:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 전장자동화∙항해/통신설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262063",
+   "date": "",
+   "found_at": "2026-09-23T03:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 선장철의설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262064",
+   "date": "",
+   "found_at": "2026-09-23T03:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262065",
+   "date": "",
+   "found_at": "2026-09-23T03:00:46+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 전주공장 의전안내",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
+   "date": "20261006",
+   "found_at": "2026-09-23T03:00:46+00:00"
   }
  ]
 }

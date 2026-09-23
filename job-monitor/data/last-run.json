@@ -1,19 +1,112 @@
 {
- "at": "2026-09-23T01:33:19+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-09-23T03:00:46+00:00",
+ "checked": 5,
+ "new_total": 6,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 09-24 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 09-24 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 4,
+  "items": 10,
   "alerts": 0,
   "since": "2026-09-23T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35806753895",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/35812605654",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "ok",
+   "item_count": 93,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 26,
+   "method": "links",
+   "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 110,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "파운데이션 모델 데이터 업무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+     "date": ""
+    },
+    {
+     "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262062",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 전장자동화∙항해/통신설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262063",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 선장철의설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262064",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262065",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "new",
+   "item_count": 90,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[계약직] 전주공장 의전안내",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
+     "date": "20261006"
+    }
+   ]
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 10,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }
