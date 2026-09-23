@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T17:00:41+00:00",
-   "last_success": "2026-09-23T17:00:41+00:00",
+   "last_check": "2026-09-23T19:00:39+00:00",
+   "last_success": "2026-09-23T19:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T19:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T17:00:41+00:00",
      "status": "ok",
@@ -1500,16 +1510,6 @@
      "new_count": 0,
      "item_count": 75,
      "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T07:00:35+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
     }
@@ -3831,8 +3831,8 @@
      "first_seen": "2026-09-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T17:00:42+00:00",
-   "last_success": "2026-09-23T17:00:42+00:00",
+   "last_check": "2026-09-23T19:00:40+00:00",
+   "last_success": "2026-09-23T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3840,6 +3840,16 @@
    "fingerprint": "9577b513e58eb276",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-23T17:00:42+00:00",
      "status": "ok",
@@ -4134,16 +4144,6 @@
     },
     {
      "at": "2026-09-21T09:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T07:03:03+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5576,8 +5576,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T17:00:45+00:00",
-   "last_success": "2026-09-23T17:00:45+00:00",
+   "last_check": "2026-09-23T19:00:45+00:00",
+   "last_success": "2026-09-23T19:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5585,6 +5585,16 @@
    "fingerprint": "c05c532cbfdfed72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T19:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T17:00:45+00:00",
      "status": "ok",
@@ -6006,22 +6016,6 @@
       {
        "title": "영업관리/기획 담당",
        "url": "https://www.skcareers.com/Recruit/Detail/R262045",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-21T07:03:06+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "Data Platform Engineer",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262042",
        "date": ""
       }
      ]
@@ -7672,15 +7666,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T17:00:46+00:00",
-   "last_success": "2026-09-23T17:00:46+00:00",
+   "last_check": "2026-09-23T19:00:47+00:00",
+   "last_success": "2026-09-23T19:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "e394cc10f9d0cd02",
+   "fingerprint": "dd2bcc1d9ac2f3dc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T19:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T17:00:46+00:00",
      "status": "ok",
@@ -8018,16 +8022,6 @@
     },
     {
      "at": "2026-09-21T09:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T07:03:08+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8608,8 +8602,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-23T17:00:48+00:00",
-   "last_success": "2026-09-23T17:00:48+00:00",
+   "last_check": "2026-09-23T19:00:49+00:00",
+   "last_success": "2026-09-23T19:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8617,6 +8611,16 @@
    "fingerprint": "0bc4caab9b3f50fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T19:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T17:00:48+00:00",
      "status": "ok",
@@ -8905,16 +8909,6 @@
     },
     {
      "at": "2026-09-21T09:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T07:03:10+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
