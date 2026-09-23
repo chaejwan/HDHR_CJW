@@ -1048,8 +1048,8 @@
      "first_seen": "2026-09-23T09:00:35+00:00"
     }
    },
-   "last_check": "2026-09-23T11:00:39+00:00",
-   "last_success": "2026-09-23T11:00:39+00:00",
+   "last_check": "2026-09-23T13:00:42+00:00",
+   "last_success": "2026-09-23T13:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1057,6 +1057,16 @@
    "fingerprint": "04bf73f81a1197bd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T13:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T11:00:39+00:00",
      "status": "ok",
@@ -1496,16 +1506,6 @@
        "date": "2026.10.04 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-21T01:00:31+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3669,8 +3669,8 @@
      "first_seen": "2026-09-22T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-23T11:00:40+00:00",
-   "last_success": "2026-09-23T11:00:40+00:00",
+   "last_check": "2026-09-23T13:00:43+00:00",
+   "last_success": "2026-09-23T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3678,6 +3678,16 @@
    "fingerprint": "f04db1f0106e15d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-23T11:00:40+00:00",
      "status": "ok",
@@ -3972,16 +3982,6 @@
     },
     {
      "at": "2026-09-21T03:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T01:00:32+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5414,8 +5414,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-23T11:00:43+00:00",
-   "last_success": "2026-09-23T11:00:43+00:00",
+   "last_check": "2026-09-23T13:00:46+00:00",
+   "last_success": "2026-09-23T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5423,6 +5423,16 @@
    "fingerprint": "d82857bd2abbed05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T11:00:43+00:00",
      "status": "ok",
@@ -5862,27 +5872,6 @@
       {
        "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-21T01:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK에어플러스] 프로젝트 현장 사무지원직(신입)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262041",
-       "date": ""
-      },
-      {
-       "title": "Red Team 화이트 해커",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262036",
        "date": ""
       }
      ]
@@ -7533,15 +7522,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-23T11:00:43+00:00",
-   "last_success": "2026-09-23T11:00:43+00:00",
+   "last_check": "2026-09-23T13:00:47+00:00",
+   "last_success": "2026-09-23T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 89,
-   "fingerprint": "80e329cba59b0351",
+   "fingerprint": "1ce641b9835b369f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T11:00:43+00:00",
      "status": "ok",
@@ -7885,16 +7884,6 @@
     },
     {
      "at": "2026-09-21T03:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 84,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T01:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8475,8 +8464,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-23T11:00:45+00:00",
-   "last_success": "2026-09-23T11:00:45+00:00",
+   "last_check": "2026-09-23T13:00:50+00:00",
+   "last_success": "2026-09-23T13:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8484,6 +8473,16 @@
    "fingerprint": "6af9f1c623335447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-23T13:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-23T11:00:45+00:00",
      "status": "ok",
@@ -8772,16 +8771,6 @@
     },
     {
      "at": "2026-09-21T03:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-21T01:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
