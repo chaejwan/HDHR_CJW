@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-24T19:00:43+00:00",
-   "last_success": "2026-09-24T19:00:43+00:00",
+   "last_check": "2026-09-24T21:00:39+00:00",
+   "last_success": "2026-09-24T21:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T21:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T19:00:43+00:00",
      "status": "ok",
@@ -1389,92 +1399,6 @@
       {
        "title": "한화시스템 근태담당자 계약직 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19853",
-       "date": "2026.10.05 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-22T09:01:15+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 15,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "영업지원 담당자 경력사원 채용 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19849",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "제조 대외영업 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19848",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19847",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19846",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "AX 전략기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19845",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "VLM Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19844",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "금융프로젝트 PM(프로젝트매니저) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19843",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "SWA 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19842",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "AI Agent Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19841",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "ERP 컨설턴트 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19840",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19839",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "제조서비스 인프라 운영 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19838",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "MRO 해외영업 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19837",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19836",
-       "date": "2026.10.05 23:59"
-      },
-      {
-       "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19835",
        "date": "2026.10.05 23:59"
       }
      ]
@@ -3953,8 +3877,8 @@
      "first_seen": "2026-09-24T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-24T19:00:44+00:00",
-   "last_success": "2026-09-24T19:00:44+00:00",
+   "last_check": "2026-09-24T21:00:40+00:00",
+   "last_success": "2026-09-24T21:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3962,6 +3886,16 @@
    "fingerprint": "afc5ba2bd0aec85b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T21:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-24T19:00:44+00:00",
      "status": "ok",
@@ -4244,16 +4178,6 @@
     },
     {
      "at": "2026-09-22T11:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-22T09:01:16+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5686,8 +5610,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-24T19:00:48+00:00",
-   "last_success": "2026-09-24T19:00:48+00:00",
+   "last_check": "2026-09-24T21:00:47+00:00",
+   "last_success": "2026-09-24T21:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5695,6 +5619,16 @@
    "fingerprint": "633bf71c9c680db8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T21:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T19:00:48+00:00",
      "status": "ok",
@@ -6069,27 +6003,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-22T09:01:21+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 101,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK키파운드리 Implant 분야 장비 Maintenance 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262055",
-       "date": ""
-      },
-      {
-       "title": "전기차 충전기 제품 인증 취득 담당 (경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262057",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7737,15 +7650,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-24T19:00:49+00:00",
-   "last_success": "2026-09-24T19:00:49+00:00",
+   "last_check": "2026-09-24T21:00:49+00:00",
+   "last_success": "2026-09-24T21:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "b469c92d39a58ded",
+   "fingerprint": "dba99ba8ff052d33",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T21:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T19:00:49+00:00",
      "status": "ok",
@@ -8052,22 +7975,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-22T09:01:22+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] Recruiting Coordinator (글로벌 인재 채용 운영)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=218",
-       "date": "20261006"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -8641,8 +8548,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-24T19:00:51+00:00",
-   "last_success": "2026-09-24T19:00:51+00:00",
+   "last_check": "2026-09-24T21:00:51+00:00",
+   "last_success": "2026-09-24T21:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8650,6 +8557,16 @@
    "fingerprint": "7dca574c10f5e924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T21:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T19:00:51+00:00",
      "status": "ok",
@@ -8932,16 +8849,6 @@
     },
     {
      "at": "2026-09-22T11:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-22T09:01:25+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
