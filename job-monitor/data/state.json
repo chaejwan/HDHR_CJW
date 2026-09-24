@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-24T17:00:40+00:00",
-   "last_success": "2026-09-24T17:00:40+00:00",
+   "last_check": "2026-09-24T19:00:43+00:00",
+   "last_success": "2026-09-24T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T17:00:40+00:00",
      "status": "ok",
@@ -1468,16 +1478,6 @@
        "date": "2026.10.05 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-09-22T07:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3953,8 +3953,8 @@
      "first_seen": "2026-09-24T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-24T17:00:41+00:00",
-   "last_success": "2026-09-24T17:00:41+00:00",
+   "last_check": "2026-09-24T19:00:44+00:00",
+   "last_success": "2026-09-24T19:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3962,6 +3962,16 @@
    "fingerprint": "afc5ba2bd0aec85b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T19:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-24T17:00:41+00:00",
      "status": "ok",
@@ -4251,22 +4261,6 @@
      "error": "",
      "note": "34개 중 필터를 통과한 26개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-22T07:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": [
-      {
-       "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-100",
-       "url": "https://recruit-hanwhaocean.com/ko/o/235776",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "34개 중 필터를 통과한 26개를 사용합니다.",
@@ -5692,8 +5686,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-24T17:00:44+00:00",
-   "last_success": "2026-09-24T17:00:44+00:00",
+   "last_check": "2026-09-24T19:00:48+00:00",
+   "last_success": "2026-09-24T19:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5701,6 +5695,16 @@
    "fingerprint": "633bf71c9c680db8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T19:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T17:00:44+00:00",
      "status": "ok",
@@ -6083,27 +6087,6 @@
       {
        "title": "전기차 충전기 제품 인증 취득 담당 (경력)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262057",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-22T07:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 99,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK케미칼(GC)] 계약직 비서 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262053",
-       "date": ""
-      },
-      {
-       "title": "[SK에어코어] 전기/계장 보전 엔니지어",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262051",
        "date": ""
       }
      ]
@@ -7754,15 +7737,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-24T17:00:46+00:00",
-   "last_success": "2026-09-24T17:00:46+00:00",
+   "last_check": "2026-09-24T19:00:49+00:00",
+   "last_success": "2026-09-24T19:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "765aa19208e07d05",
+   "fingerprint": "b469c92d39a58ded",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T19:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T17:00:46+00:00",
      "status": "ok",
@@ -8073,22 +8066,6 @@
        "title": "[계약직] Recruiting Coordinator (글로벌 인재 채용 운영)",
        "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=218",
        "date": "20261006"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-22T07:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아르바이트] 채용지원(남양)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=88",
-       "date": "20261005"
       }
      ]
     }
@@ -8664,8 +8641,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-24T17:00:48+00:00",
-   "last_success": "2026-09-24T17:00:48+00:00",
+   "last_check": "2026-09-24T19:00:51+00:00",
+   "last_success": "2026-09-24T19:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8673,6 +8650,16 @@
    "fingerprint": "7dca574c10f5e924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-24T19:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-24T17:00:48+00:00",
      "status": "ok",
@@ -8955,16 +8942,6 @@
     },
     {
      "at": "2026-09-22T09:01:25+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-22T07:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
