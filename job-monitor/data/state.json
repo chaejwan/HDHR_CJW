@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-25T09:00:36+00:00",
-   "last_success": "2026-09-25T09:00:36+00:00",
+   "last_check": "2026-09-25T11:00:39+00:00",
+   "last_success": "2026-09-25T11:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T09:00:36+00:00",
      "status": "ok",
@@ -1379,16 +1389,6 @@
      "new_count": 0,
      "item_count": 93,
      "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-22T23:00:37+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
     }
@@ -3866,8 +3866,8 @@
      "first_seen": "2026-09-24T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-25T09:00:37+00:00",
-   "last_success": "2026-09-25T09:00:37+00:00",
+   "last_check": "2026-09-25T11:00:40+00:00",
+   "last_success": "2026-09-25T11:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3875,6 +3875,16 @@
    "fingerprint": "afc5ba2bd0aec85b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T11:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-25T09:00:37+00:00",
      "status": "ok",
@@ -4157,16 +4167,6 @@
     },
     {
      "at": "2026-09-23T01:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-22T23:03:04+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5599,8 +5599,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-25T09:00:42+00:00",
-   "last_success": "2026-09-25T09:00:42+00:00",
+   "last_check": "2026-09-25T11:00:43+00:00",
+   "last_success": "2026-09-25T11:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5608,6 +5608,16 @@
    "fingerprint": "633bf71c9c680db8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T11:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T09:00:42+00:00",
      "status": "ok",
@@ -5970,16 +5980,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-22T23:03:07+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 102,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7627,15 +7627,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-25T09:00:43+00:00",
-   "last_success": "2026-09-25T09:00:43+00:00",
+   "last_check": "2026-09-25T11:00:44+00:00",
+   "last_success": "2026-09-25T11:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 87,
-   "fingerprint": "ba2d81dd0d85fa3c",
+   "fingerprint": "f2e973e2ebdacaeb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T11:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T09:00:43+00:00",
      "status": "ok",
@@ -7942,16 +7952,6 @@
        "date": "20261007"
       }
      ]
-    },
-    {
-     "at": "2026-09-22T23:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8525,8 +8525,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-25T09:00:46+00:00",
-   "last_success": "2026-09-25T09:00:46+00:00",
+   "last_check": "2026-09-25T11:00:46+00:00",
+   "last_success": "2026-09-25T11:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8534,6 +8534,16 @@
    "fingerprint": "7dca574c10f5e924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T09:00:46+00:00",
      "status": "ok",
@@ -8816,16 +8826,6 @@
     },
     {
      "at": "2026-09-23T01:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-22T23:03:10+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
