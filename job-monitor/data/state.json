@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-25T17:00:40+00:00",
-   "last_success": "2026-09-25T17:00:40+00:00",
+   "last_check": "2026-09-25T19:00:40+00:00",
+   "last_success": "2026-09-25T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T17:00:40+00:00",
      "status": "ok",
@@ -1362,22 +1372,6 @@
        "title": "경영지원(자금,경리) 담당자 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
        "date": "2026.10.05 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-23T07:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(엔지니어•영업 직군)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19856",
-       "date": "2026.10.11 23:59"
       }
      ]
     }
@@ -4011,8 +4005,8 @@
      "first_seen": "2026-09-25T15:00:43+00:00"
     }
    },
-   "last_check": "2026-09-25T17:00:41+00:00",
-   "last_success": "2026-09-25T17:00:41+00:00",
+   "last_check": "2026-09-25T19:00:41+00:00",
+   "last_success": "2026-09-25T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4020,6 +4014,16 @@
    "fingerprint": "4ecbae66afedfd94",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-25T17:00:41+00:00",
      "status": "ok",
@@ -4302,16 +4306,6 @@
     },
     {
      "at": "2026-09-23T09:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-23T07:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5744,8 +5738,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-25T17:00:46+00:00",
-   "last_success": "2026-09-25T17:00:46+00:00",
+   "last_check": "2026-09-25T19:00:45+00:00",
+   "last_success": "2026-09-25T19:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5753,6 +5747,16 @@
    "fingerprint": "e2f61883ce2e7728",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T19:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T17:00:46+00:00",
      "status": "ok",
@@ -6042,52 +6046,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-23T07:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 7,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "L HOUSE 완제생산실(이물검사) 신입/경력 계약직 사원 3차 채용 공고",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262071",
-       "date": ""
-      },
-      {
-       "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 4차 채용 공고",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262029",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 종합설계 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262072",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 구조설계 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262073",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 선체설계 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262074",
-       "date": ""
-      },
-      {
-       "title": "[SK인텔릭스] 데이터 분석 인턴 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262075",
-       "date": ""
-      },
-      {
-       "title": "AI Research Engineer 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262060",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7735,8 +7693,8 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-25T17:00:47+00:00",
-   "last_success": "2026-09-25T17:00:47+00:00",
+   "last_check": "2026-09-25T19:00:46+00:00",
+   "last_success": "2026-09-25T19:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7744,6 +7702,16 @@
    "fingerprint": "f82554e4853d4027",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T19:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T17:00:47+00:00",
      "status": "ok",
@@ -8030,16 +7998,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-23T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
      "error": "",
      "note": "",
      "new": []
@@ -8616,8 +8574,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-25T17:00:50+00:00",
-   "last_success": "2026-09-25T17:00:50+00:00",
+   "last_check": "2026-09-25T19:00:49+00:00",
+   "last_success": "2026-09-25T19:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8625,6 +8583,16 @@
    "fingerprint": "f660ad39ff8ba1c2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T19:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T17:00:50+00:00",
      "status": "ok",
@@ -8911,16 +8879,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-23T07:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
      "error": "",
      "note": "",
      "new": []
