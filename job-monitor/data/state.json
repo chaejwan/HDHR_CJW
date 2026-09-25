@@ -1054,15 +1054,25 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-25T11:00:39+00:00",
+   "last_check": "2026-09-25T13:00:38+00:00",
    "last_success": "2026-09-25T11:00:39+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 95,
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T13:00:38+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T11:00:39+00:00",
      "status": "ok",
@@ -1381,20 +1391,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-23T01:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "(주)한화 글로벌부문 케미칼소재 R&D 분석 연구원 경력사원 채용",
     "(주)한화 글로벌부문 반도체소재 영업 경력사원 채용",
@@ -3866,8 +3866,8 @@
      "first_seen": "2026-09-24T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-25T11:00:40+00:00",
-   "last_success": "2026-09-25T11:00:40+00:00",
+   "last_check": "2026-09-25T13:03:05+00:00",
+   "last_success": "2026-09-25T13:03:05+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -3875,6 +3875,16 @@
    "fingerprint": "afc5ba2bd0aec85b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T13:03:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-25T11:00:40+00:00",
      "status": "ok",
@@ -4157,16 +4167,6 @@
     },
     {
      "at": "2026-09-23T03:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-23T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5599,8 +5599,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-25T11:00:43+00:00",
-   "last_success": "2026-09-25T11:00:43+00:00",
+   "last_check": "2026-09-25T13:03:08+00:00",
+   "last_success": "2026-09-25T13:03:08+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5608,6 +5608,16 @@
    "fingerprint": "633bf71c9c680db8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T13:03:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 117,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T11:00:43+00:00",
      "status": "ok",
@@ -5956,27 +5966,6 @@
       {
        "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262065",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-09-23T01:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 105,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[O&M] 발전소 기술전문직군 신입사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262054",
-       "date": ""
-      },
-      {
-       "title": "[O&M] 여주사업소 Chemist 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262056",
        "date": ""
       }
      ]
@@ -7627,8 +7616,8 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-25T11:00:44+00:00",
-   "last_success": "2026-09-25T11:00:44+00:00",
+   "last_check": "2026-09-25T13:03:09+00:00",
+   "last_success": "2026-09-25T13:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7636,6 +7625,16 @@
    "fingerprint": "f2e973e2ebdacaeb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T13:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T11:00:44+00:00",
      "status": "ok",
@@ -7929,27 +7928,6 @@
        "title": "[계약직] 전주공장 의전안내",
        "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
        "date": "20261006"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-23T01:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 이동식 안전체험관 운영 및 보조",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=217",
-       "date": "20261007"
-      },
-      {
-       "title": "[계약직] 응급구조사 (울산공장)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=216",
-       "date": "20261007"
       }
      ]
     }
@@ -8525,8 +8503,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-25T11:00:46+00:00",
-   "last_success": "2026-09-25T11:00:46+00:00",
+   "last_check": "2026-09-25T13:03:12+00:00",
+   "last_success": "2026-09-25T13:03:12+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8534,6 +8512,16 @@
    "fingerprint": "7dca574c10f5e924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-25T13:03:12+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-25T11:00:46+00:00",
      "status": "ok",
@@ -8816,16 +8804,6 @@
     },
     {
      "at": "2026-09-23T03:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-23T01:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
