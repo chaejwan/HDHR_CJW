@@ -1054,8 +1054,8 @@
      "first_seen": "2026-09-23T15:00:41+00:00"
     }
    },
-   "last_check": "2026-09-26T15:00:36+00:00",
-   "last_success": "2026-09-26T15:00:36+00:00",
+   "last_check": "2026-09-26T17:00:36+00:00",
+   "last_success": "2026-09-26T17:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1063,6 +1063,16 @@
    "fingerprint": "824e07d4e086b900",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-26T17:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-26T15:00:36+00:00",
      "status": "ok",
@@ -1345,16 +1355,6 @@
     },
     {
      "at": "2026-09-24T07:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-24T05:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4149,15 +4149,25 @@
      "first_seen": "2026-09-26T15:00:38+00:00"
     }
    },
-   "last_check": "2026-09-26T15:00:38+00:00",
-   "last_success": "2026-09-26T15:00:38+00:00",
-   "last_status": "baseline",
+   "last_check": "2026-09-26T17:00:37+00:00",
+   "last_success": "2026-09-26T17:00:37+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 26,
    "fingerprint": "43cda549d037caea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-26T17:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 26,
+     "error": "",
+     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-26T15:00:38+00:00",
      "status": "baseline",
@@ -4447,19 +4457,9 @@
      "error": "",
      "note": "34개 중 필터를 통과한 26개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-24T05:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "34개 중 필터를 통과한 26개를 사용합니다. 이전에 기억하던 435건과 겹치는 공고가 없어, 지금 26건을 기준으로 다시 저장했습니다(알림 없음).",
+   "last_note": "34개 중 필터를 통과한 26개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-3",
@@ -4469,9 +4469,9 @@
     "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-3"
    ],
    "health": {
-    "issue": "relisted",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "since": "2026-09-26T15:00:38+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
    "last_new_at": "2026-09-22T07:00:39+00:00"
   },
@@ -5882,8 +5882,8 @@
      "first_seen": "2026-09-23T07:00:41+00:00"
     }
    },
-   "last_check": "2026-09-26T15:00:43+00:00",
-   "last_success": "2026-09-26T15:00:43+00:00",
+   "last_check": "2026-09-26T17:00:41+00:00",
+   "last_success": "2026-09-26T17:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -5891,6 +5891,16 @@
    "fingerprint": "fbfe0889c66b5f6e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-26T17:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 115,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-26T15:00:43+00:00",
      "status": "ok",
@@ -6173,16 +6183,6 @@
     },
     {
      "at": "2026-09-24T07:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-24T05:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7837,8 +7837,8 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-26T15:00:44+00:00",
-   "last_success": "2026-09-26T15:00:44+00:00",
+   "last_check": "2026-09-26T17:00:42+00:00",
+   "last_success": "2026-09-26T17:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7846,6 +7846,16 @@
    "fingerprint": "b348ef15dd9ff6c0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-26T17:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-26T15:00:44+00:00",
      "status": "ok",
@@ -8128,16 +8138,6 @@
     },
     {
      "at": "2026-09-24T07:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-24T05:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8718,8 +8718,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-26T15:00:47+00:00",
-   "last_success": "2026-09-26T15:00:47+00:00",
+   "last_check": "2026-09-26T17:00:44+00:00",
+   "last_success": "2026-09-26T17:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8727,6 +8727,16 @@
    "fingerprint": "6dbbd3c32fe6437e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-26T17:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-26T15:00:47+00:00",
      "status": "ok",
@@ -9016,16 +9026,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-24T05:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9077,6 +9077,16 @@
     "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
     "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
     "recovered": false
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
    }
   ],
   "since": "2026-09-25T15:00:51+00:00",
