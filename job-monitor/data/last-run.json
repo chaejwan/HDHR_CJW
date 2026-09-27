@@ -1,5 +1,5 @@
 {
- "at": "2026-09-27T09:00:43+00:00",
+ "at": "2026-09-27T11:00:49+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -14,7 +14,7 @@
   "since": "2026-09-25T15:00:51+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36307983230",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36314339712",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,7 +22,7 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "ok",
-   "item_count": 95,
+   "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
