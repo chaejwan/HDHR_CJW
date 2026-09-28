@@ -1078,15 +1078,25 @@
      "first_seen": "2026-09-28T03:00:37+00:00"
     }
    },
-   "last_check": "2026-09-28T03:00:37+00:00",
-   "last_success": "2026-09-28T03:00:37+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-28T05:00:33+00:00",
+   "last_success": "2026-09-28T05:00:33+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 84,
    "fingerprint": "b1b33396b49eb56f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T05:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T03:00:37+00:00",
      "status": "new",
@@ -1392,16 +1402,6 @@
     },
     {
      "at": "2026-09-25T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T17:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4340,8 +4340,8 @@
      "first_seen": "2026-09-28T01:00:35+00:00"
     }
    },
-   "last_check": "2026-09-28T03:00:39+00:00",
-   "last_success": "2026-09-28T03:00:39+00:00",
+   "last_check": "2026-09-28T05:00:35+00:00",
+   "last_success": "2026-09-28T05:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4349,6 +4349,16 @@
    "fingerprint": "8b5c81acf7267eff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-28T03:00:39+00:00",
      "status": "ok",
@@ -4637,16 +4647,6 @@
     },
     {
      "at": "2026-09-25T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T17:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6095,17 +6095,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262013",
      "date": "",
      "first_seen": "2026-09-28T01:00:37+00:00"
+    },
+    "cffaf630fbff7bd6": {
+     "title": "5G무선통신망 구축 현장 안전관리자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262069",
+     "date": "",
+     "first_seen": "2026-09-28T05:00:41+00:00"
     }
    },
-   "last_check": "2026-09-28T03:00:43+00:00",
-   "last_success": "2026-09-28T03:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-28T05:00:41+00:00",
+   "last_success": "2026-09-28T05:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "59bd10c9c06690b0",
+   "item_count": 96,
+   "fingerprint": "5805fa044bc674df",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T05:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "5G무선통신망 구축 현장 안전관리자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262069",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-28T03:00:43+00:00",
      "status": "ok",
@@ -6412,16 +6434,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-25T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6438,7 +6450,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-28T01:00:37+00:00"
+   "last_new_at": "2026-09-28T05:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8069,15 +8081,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-28T03:00:44+00:00",
-   "last_success": "2026-09-28T03:00:44+00:00",
+   "last_check": "2026-09-28T05:00:42+00:00",
+   "last_success": "2026-09-28T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "45d3fc783c11a253",
+   "fingerprint": "6ce3eb62ad35c33d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T03:00:44+00:00",
      "status": "ok",
@@ -8360,16 +8382,6 @@
     },
     {
      "at": "2026-09-25T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T17:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8950,8 +8962,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-28T03:00:47+00:00",
-   "last_success": "2026-09-28T03:00:47+00:00",
+   "last_check": "2026-09-28T05:00:46+00:00",
+   "last_success": "2026-09-28T05:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8959,6 +8971,16 @@
    "fingerprint": "cec9d85f4e6ea19c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T05:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T03:00:47+00:00",
      "status": "ok",
@@ -9248,16 +9270,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-25T17:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9332,6 +9344,15 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19870",
     "date": "2026.10.11 23:59",
     "found_at": "2026-09-28T03:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "5G무선통신망 구축 현장 안전관리자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262069",
+    "date": "",
+    "found_at": "2026-09-28T05:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -9339,15 +9360,6 @@
   "last_sent": "2026-09-27T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "노무관리 (울산)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=313",
-   "date": "20260913",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -13838,6 +13850,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19870",
    "date": "2026.10.11 23:59",
    "found_at": "2026-09-28T03:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "5G무선통신망 구축 현장 안전관리자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262069",
+   "date": "",
+   "found_at": "2026-09-28T05:00:47+00:00"
   }
  ]
 }
