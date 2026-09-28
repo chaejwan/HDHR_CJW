@@ -1058,17 +1058,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19809",
      "date": "2026.10.14 15:00",
      "first_seen": "2026-09-27T15:00:37+00:00"
+    },
+    "d72acf6bffe5c425": {
+     "title": "(주)한화 전략부문 재무회계 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
+     "date": "2026.10.11 23:59",
+     "first_seen": "2026-09-28T01:00:35+00:00"
+    },
+    "28218d8cfdbf37e1": {
+     "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
+     "date": "2026.10.11 23:59",
+     "first_seen": "2026-09-28T01:00:35+00:00"
     }
    },
-   "last_check": "2026-09-27T23:00:35+00:00",
-   "last_success": "2026-09-27T23:00:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-28T01:00:35+00:00",
+   "last_success": "2026-09-28T01:00:35+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "8003a57002ebec48",
+   "item_count": 83,
+   "fingerprint": "1c1d77174f417cd2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T01:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 전략부문 재무회계 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
+       "date": "2026.10.11 23:59"
+      },
+      {
+       "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
+       "date": "2026.10.11 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-27T23:00:35+00:00",
      "status": "ok",
@@ -1364,16 +1397,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-25T13:00:38+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1390,7 +1413,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-27T15:00:37+00:00"
+   "last_new_at": "2026-09-28T01:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -4297,17 +4320,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/200596",
      "date": "",
      "first_seen": "2026-09-27T15:00:38+00:00"
+    },
+    "55d82699a341132d": {
+     "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-13",
+     "url": "https://recruit-hanwhaocean.com/ko/o/237687",
+     "date": "",
+     "first_seen": "2026-09-28T01:00:35+00:00"
     }
    },
-   "last_check": "2026-09-27T23:00:36+00:00",
-   "last_success": "2026-09-27T23:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-28T01:00:35+00:00",
+   "last_success": "2026-09-28T01:00:35+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 23,
-   "fingerprint": "b85a880f792e29a3",
+   "item_count": 24,
+   "fingerprint": "8b5c81acf7267eff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T01:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": [
+      {
+       "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-13",
+       "url": "https://recruit-hanwhaocean.com/ko/o/237687",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-27T23:00:36+00:00",
      "status": "ok",
@@ -4597,19 +4642,9 @@
      "error": "",
      "note": "34개 중 필터를 통과한 26개를 사용합니다. 이전에 기억하던 409건과 겹치는 공고가 없어, 지금 26건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
-    },
-    {
-     "at": "2026-09-25T13:03:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "31개 중 필터를 통과한 23개를 사용합니다.",
+   "last_note": "32개 중 필터를 통과한 24개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-2",
@@ -4623,7 +4658,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T07:00:39+00:00"
+   "last_new_at": "2026-09-28T01:00:35+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -6036,17 +6071,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262013",
      "date": "",
      "first_seen": "2026-09-27T15:00:45+00:00"
+    },
+    "5e8f9804c7a744de": {
+     "title": "[아이지이] SHE 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262061",
+     "date": "",
+     "first_seen": "2026-09-28T01:00:37+00:00"
+    },
+    "e344b8f571f978f0": {
+     "title": "Pre-SKALA 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+     "date": "",
+     "first_seen": "2026-09-28T01:00:37+00:00"
     }
    },
-   "last_check": "2026-09-27T23:00:42+00:00",
-   "last_success": "2026-09-27T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-28T01:00:37+00:00",
+   "last_success": "2026-09-28T01:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "1ee02cfc7a16302d",
+   "item_count": 96,
+   "fingerprint": "b01871bcccd5099f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T01:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아이지이] SHE 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262061",
+       "date": ""
+      },
+      {
+       "title": "Pre-SKALA 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-27T23:00:42+00:00",
      "status": "ok",
@@ -6342,16 +6410,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-25T13:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6368,7 +6426,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-27T15:00:45+00:00"
+   "last_new_at": "2026-09-28T01:00:37+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -7999,15 +8057,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-27T23:00:43+00:00",
-   "last_success": "2026-09-27T23:00:43+00:00",
+   "last_check": "2026-09-28T01:00:38+00:00",
+   "last_success": "2026-09-28T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 85,
-   "fingerprint": "3a7de9b1896d3241",
+   "fingerprint": "bbb13f86cf33b60f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-27T23:00:43+00:00",
      "status": "ok",
@@ -8290,16 +8358,6 @@
     },
     {
      "at": "2026-09-25T15:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T13:03:09+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8880,8 +8938,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-27T23:00:46+00:00",
-   "last_success": "2026-09-27T23:00:46+00:00",
+   "last_check": "2026-09-28T01:00:40+00:00",
+   "last_success": "2026-09-28T01:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -8889,6 +8947,16 @@
    "fingerprint": "cec9d85f4e6ea19c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T01:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-27T23:00:46+00:00",
      "status": "ok",
@@ -9178,16 +9246,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-25T13:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9208,57 +9266,58 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 전략부문 재무회계 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
+    "date": "2026.10.11 23:59",
+    "found_at": "2026-09-28T01:00:42+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
+    "date": "2026.10.11 23:59",
+    "found_at": "2026-09-28T01:00:42+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-13",
+    "url": "https://recruit-hanwhaocean.com/ko/o/237687",
+    "date": "",
+    "found_at": "2026-09-28T01:00:42+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[아이지이] SHE 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262061",
+    "date": "",
+    "found_at": "2026-09-28T01:00:42+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Pre-SKALA 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+    "date": "",
+    "found_at": "2026-09-28T01:00:42+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-28T01:00:42+00:00",
   "last_sent": "2026-09-27T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "AI Agent TPM (Technical Project Manager)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261800",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "AUTO QE (리더)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261822",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Automotive Test Manager",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261864",
-   "date": "",
-   "found_at": "2026-09-08T04:08:33+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 중고차 상품안내 (군산인증중고차센터)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=184",
-   "date": "20260909",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "에너지 산업/시장 전략 수립 및 신사업 기획",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=301",
-   "date": "20260913",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -13713,6 +13772,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262013",
    "date": "",
    "found_at": "2026-09-27T15:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 전략부문 재무회계 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
+   "date": "2026.10.11 23:59",
+   "found_at": "2026-09-28T01:00:42+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
+   "date": "2026.10.11 23:59",
+   "found_at": "2026-09-28T01:00:42+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-13",
+   "url": "https://recruit-hanwhaocean.com/ko/o/237687",
+   "date": "",
+   "found_at": "2026-09-28T01:00:42+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[아이지이] SHE 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262061",
+   "date": "",
+   "found_at": "2026-09-28T01:00:42+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Pre-SKALA 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+   "date": "",
+   "found_at": "2026-09-28T01:00:42+00:00"
   }
  ]
 }
