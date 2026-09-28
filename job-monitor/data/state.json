@@ -1084,8 +1084,8 @@
      "first_seen": "2026-09-28T07:00:38+00:00"
     }
    },
-   "last_check": "2026-09-28T17:00:43+00:00",
-   "last_success": "2026-09-28T17:00:43+00:00",
+   "last_check": "2026-09-28T19:00:40+00:00",
+   "last_success": "2026-09-28T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1093,6 +1093,16 @@
    "fingerprint": "389ce39cf2b727ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 64,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T17:00:43+00:00",
      "status": "ok",
@@ -1404,16 +1414,6 @@
     },
     {
      "at": "2026-09-26T09:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T07:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4490,8 +4490,8 @@
      "first_seen": "2026-09-28T15:00:45+00:00"
     }
    },
-   "last_check": "2026-09-28T17:00:45+00:00",
-   "last_success": "2026-09-28T17:00:45+00:00",
+   "last_check": "2026-09-28T19:00:41+00:00",
+   "last_success": "2026-09-28T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4499,6 +4499,16 @@
    "fingerprint": "521115c1d86a4f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-28T17:00:45+00:00",
      "status": "ok",
@@ -4787,16 +4797,6 @@
     },
     {
      "at": "2026-09-26T09:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T07:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6265,8 +6265,8 @@
      "first_seen": "2026-09-28T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-28T17:00:49+00:00",
-   "last_success": "2026-09-28T17:00:49+00:00",
+   "last_check": "2026-09-28T19:00:47+00:00",
+   "last_success": "2026-09-28T19:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6274,6 +6274,16 @@
    "fingerprint": "ff74998de8bc0fc7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T19:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T17:00:49+00:00",
      "status": "ok",
@@ -6590,16 +6600,6 @@
     },
     {
      "at": "2026-09-26T09:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T07:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8254,8 +8254,8 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-28T17:00:50+00:00",
-   "last_success": "2026-09-28T17:00:50+00:00",
+   "last_check": "2026-09-28T19:00:48+00:00",
+   "last_success": "2026-09-28T19:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8263,6 +8263,16 @@
    "fingerprint": "56ca54521feab5fe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T19:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T17:00:50+00:00",
      "status": "ok",
@@ -8545,16 +8555,6 @@
     },
     {
      "at": "2026-09-26T09:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T07:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9135,8 +9135,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-28T17:00:53+00:00",
-   "last_success": "2026-09-28T17:00:53+00:00",
+   "last_check": "2026-09-28T19:00:51+00:00",
+   "last_success": "2026-09-28T19:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9144,6 +9144,16 @@
    "fingerprint": "9f6bca1d6d22b973",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T19:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T17:00:53+00:00",
      "status": "ok",
@@ -9433,16 +9443,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9454,9 +9454,9 @@
     "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
    ],
    "health": {
-    "issue": "drop",
-    "detail": "평소 9건에서 4건으로 줄었습니다.",
-    "since": "2026-09-28T09:00:45+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
    "last_new_at": "2026-09-22T01:00:45+00:00"
   }
@@ -9582,6 +9582,16 @@
     "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
     "kind": "relisted",
     "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_url": "https://www.samsungcareers.com/hr/list.data",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "kind": "drop",
+    "label": "항목 수가 갑자기 크게 줄었습니다",
     "detail": "다시 정상으로 확인됐습니다.",
     "recovered": true
    }
