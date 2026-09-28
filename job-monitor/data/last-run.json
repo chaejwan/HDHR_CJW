@@ -1,32 +1,38 @@
 {
- "at": "2026-09-28T05:00:47+00:00",
+ "at": "2026-09-28T07:00:51+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 09-29 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 09-29 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 10,
   "alerts": 0,
   "since": "2026-09-28T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36380045675",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36389325540",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 84,
+   "status": "new",
+   "item_count": 77,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화생명]인프라운영팀 '건축전기' 전문인력 경력채용(과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19871",
+     "date": "2026.10.12 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,14 +52,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 96,
+   "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "5G무선통신망 구축 현장 안전관리자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262069",
+     "title": "회계 및 서무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262079",
+     "date": ""
+    },
+    {
+     "title": "국방사업 컨설팅 및 딜리버리 지원 전문가",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262082",
      "date": ""
     }
    ]
