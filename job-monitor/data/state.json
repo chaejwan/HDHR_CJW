@@ -1084,15 +1084,25 @@
      "first_seen": "2026-09-28T07:00:38+00:00"
     }
    },
-   "last_check": "2026-09-28T07:00:38+00:00",
-   "last_success": "2026-09-28T07:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-28T09:00:37+00:00",
+   "last_success": "2026-09-28T09:00:37+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 77,
    "fingerprint": "96d17a5d124be654",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T09:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T07:00:38+00:00",
      "status": "new",
@@ -1409,16 +1419,6 @@
      "new_count": 0,
      "item_count": 0,
      "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
      "note": "",
      "new": []
     }
@@ -4352,8 +4352,8 @@
      "first_seen": "2026-09-28T01:00:35+00:00"
     }
    },
-   "last_check": "2026-09-28T07:00:39+00:00",
-   "last_success": "2026-09-28T07:00:39+00:00",
+   "last_check": "2026-09-28T09:00:39+00:00",
+   "last_success": "2026-09-28T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4361,6 +4361,16 @@
    "fingerprint": "8b5c81acf7267eff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 24,
+     "error": "",
+     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-28T07:00:39+00:00",
      "status": "ok",
@@ -4649,16 +4659,6 @@
     },
     {
      "at": "2026-09-25T23:03:04+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T21:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6127,15 +6127,25 @@
      "first_seen": "2026-09-28T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-28T07:00:46+00:00",
-   "last_success": "2026-09-28T07:00:46+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-28T09:00:42+00:00",
+   "last_success": "2026-09-28T09:00:42+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 98,
    "fingerprint": "7ade4d62ca8af6c9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T09:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T07:00:46+00:00",
      "status": "new",
@@ -6452,16 +6462,6 @@
     },
     {
      "at": "2026-09-25T23:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 117,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T21:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8116,15 +8116,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-28T07:00:47+00:00",
-   "last_success": "2026-09-28T07:00:47+00:00",
+   "last_check": "2026-09-28T09:00:43+00:00",
+   "last_success": "2026-09-28T09:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 85,
-   "fingerprint": "5d3114a0e4049338",
+   "item_count": 83,
+   "fingerprint": "31761a9a2f0c2c12",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T09:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T07:00:47+00:00",
      "status": "ok",
@@ -8407,16 +8417,6 @@
     },
     {
      "at": "2026-09-25T23:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-25T21:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8997,15 +8997,25 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-28T07:00:49+00:00",
-   "last_success": "2026-09-28T07:00:49+00:00",
+   "last_check": "2026-09-28T09:00:45+00:00",
+   "last_success": "2026-09-28T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 9,
-   "fingerprint": "cec9d85f4e6ea19c",
+   "item_count": 4,
+   "fingerprint": "3bc22935fdf13f80",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-28T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-28T07:00:49+00:00",
      "status": "ok",
@@ -9295,31 +9305,20 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-25T21:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "삼성글로벌리서치 분야별 연구원 채용",
-    "삼성증권 경력사원 채용(M&A, 유선 고객상담, 콘텐츠 PD)",
-    "삼성웰스토리 경력사원 채용(IT 인프라 운영, 보건관리자, 안전관리자, 운영지원, 단체식 영양사, 단체식 조리사)",
-    "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-    "삼성전자 DX부문 경력사원 채용(가스안전관리)"
+    "삼성전기 경력사원 채용(MLCCㆍ패키지 부문)",
+    "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
+    "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "drop",
+    "detail": "평소 9건에서 4건으로 줄었습니다.",
+    "since": "2026-09-28T09:00:45+00:00"
    },
    "last_new_at": "2026-09-22T01:00:45+00:00"
   }
@@ -9417,7 +9416,18 @@
     "found_at": "2026-09-28T07:00:51+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_url": "https://www.samsungcareers.com/hr/list.data",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "kind": "drop",
+    "label": "항목 수가 갑자기 크게 줄었습니다",
+    "detail": "평소 9건에서 4건으로 줄었습니다.",
+    "recovered": false
+   }
+  ],
   "since": "2026-09-28T01:00:42+00:00",
   "last_sent": "2026-09-27T23:00:52+00:00"
  },
