@@ -1,7 +1,7 @@
 {
- "at": "2026-09-28T01:00:42+00:00",
- "checked": 5,
- "new_total": 5,
+ "at": "2026-09-28T01:45:36+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,95 +14,6 @@
   "since": "2026-09-28T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36364304013",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 83,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 전략부문 재무회계 계약직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
-     "date": "2026.10.11 23:59"
-    },
-    {
-     "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
-     "date": "2026.10.11 23:59"
-    }
-   ]
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "new",
-   "item_count": 24,
-   "method": "links",
-   "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-13",
-     "url": "https://recruit-hanwhaocean.com/ko/o/237687",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 96,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[아이지이] SHE 경력 구성원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262061",
-     "date": ""
-    },
-    {
-     "title": "Pre-SKALA 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262013",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 85,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 9,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36367204009",
+ "results": []
 }
