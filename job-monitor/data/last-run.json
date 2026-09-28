@@ -1,5 +1,5 @@
 {
- "at": "2026-09-28T19:00:53+00:00",
+ "at": "2026-09-28T21:00:44+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -7,25 +7,14 @@
   "error": "",
   "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 4건). 09-29 08:00 에 보냅니다."
  },
- "alerts": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "kind": "drop",
-   "label": "항목 수가 갑자기 크게 줄었습니다",
-   "detail": "다시 정상으로 확인됐습니다.",
-   "recovered": true
-  }
- ],
+ "alerts": [],
  "pending": {
   "items": 10,
   "alerts": 4,
   "since": "2026-09-28T01:00:42+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36469207488",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36483165200",
  "results": [
   {
    "site_id": "hanwhain",
