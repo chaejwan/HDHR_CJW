@@ -1090,15 +1090,25 @@
      "first_seen": "2026-09-29T05:00:34+00:00"
     }
    },
-   "last_check": "2026-09-29T05:00:34+00:00",
-   "last_success": "2026-09-29T05:00:34+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-29T07:00:37+00:00",
+   "last_success": "2026-09-29T07:00:37+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 65,
-   "fingerprint": "05a6127487ff18d0",
+   "item_count": 64,
+   "fingerprint": "97337ce2d9134f14",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 64,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T05:00:34+00:00",
      "status": "new",
@@ -1423,26 +1433,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T19:00:37+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "조직도입마케터",
     "경력직 채용_채널연금2센터",
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "2026 하반기 한화오션 신입사원 채용 (접수기간 : 9/14~30)",
-    "[한화세미텍] 재무 담당 채용 (과~차장급)"
+    "[한화세미텍] 재무 담당 채용 (과~차장급)",
+    "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용"
    ],
    "health": {
     "issue": "",
@@ -4502,8 +4502,8 @@
      "first_seen": "2026-09-28T15:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T05:00:35+00:00",
-   "last_success": "2026-09-29T05:00:35+00:00",
+   "last_check": "2026-09-29T07:00:39+00:00",
+   "last_success": "2026-09-29T07:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4511,6 +4511,16 @@
    "fingerprint": "521115c1d86a4f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-29T05:00:35+00:00",
      "status": "ok",
@@ -4799,16 +4809,6 @@
     },
     {
      "at": "2026-09-26T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T19:03:03+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6307,15 +6307,25 @@
      "first_seen": "2026-09-29T05:00:38+00:00"
     }
    },
-   "last_check": "2026-09-29T05:00:38+00:00",
-   "last_success": "2026-09-29T05:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-29T07:00:45+00:00",
+   "last_success": "2026-09-29T07:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 89,
    "fingerprint": "018b757dd03129df",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T07:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T05:00:38+00:00",
      "status": "new",
@@ -6660,16 +6670,6 @@
     },
     {
      "at": "2026-09-26T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T19:03:08+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8322,17 +8322,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
      "date": "20261006",
      "first_seen": "2026-09-23T03:00:42+00:00"
+    },
+    "6453500827d9e6ee": {
+     "title": "[계약직] 울산공장 의전 운영 지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
+     "date": "20261008",
+     "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-29T05:00:39+00:00",
-   "last_success": "2026-09-29T05:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-29T07:00:46+00:00",
+   "last_success": "2026-09-29T07:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "2cb7c39db4facf48",
+   "item_count": 82,
+   "fingerprint": "165a63f06e561db4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T07:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 울산공장 의전 운영 지원",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
+       "date": "20261008"
+      }
+     ]
+    },
     {
      "at": "2026-09-29T05:00:39+00:00",
      "status": "ok",
@@ -8622,16 +8644,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T19:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8648,7 +8660,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-23T03:00:42+00:00"
+   "last_new_at": "2026-09-29T07:00:46+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -9205,8 +9217,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T05:00:41+00:00",
-   "last_success": "2026-09-29T05:00:41+00:00",
+   "last_check": "2026-09-29T07:00:49+00:00",
+   "last_success": "2026-09-29T07:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9214,6 +9226,16 @@
    "fingerprint": "9f6bca1d6d22b973",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T07:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T05:00:41+00:00",
      "status": "ok",
@@ -9503,16 +9525,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T19:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9586,6 +9598,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262089",
     "date": "",
     "found_at": "2026-09-29T05:00:43+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 울산공장 의전 운영 지원",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
+    "date": "20261008",
+    "found_at": "2026-09-29T07:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -9593,15 +9614,6 @@
   "last_sent": "2026-09-28T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "현대/제네시스 디자인 전략/CQM (Color Quality Management)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=176",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14092,6 +14104,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262089",
    "date": "",
    "found_at": "2026-09-29T05:00:43+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 울산공장 의전 운영 지원",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
+   "date": "20261008",
+   "found_at": "2026-09-29T07:00:51+00:00"
   }
  ]
 }
