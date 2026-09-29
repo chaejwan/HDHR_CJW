@@ -1,20 +1,20 @@
 {
- "at": "2026-09-28T23:00:44+00:00",
+ "at": "2026-09-29T01:00:46+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 2,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 09-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 2,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-29T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36495642156",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36505819318",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,23 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 85,
+   "status": "new",
+   "item_count": 86,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK키파운드리 정보보안(취약점 진단) 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R261867",
+     "date": ""
+    },
+    {
+     "title": "청주공장 인사/급여 계약직 채용(신입/경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262090",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
