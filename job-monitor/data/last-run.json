@@ -1,20 +1,20 @@
 {
- "at": "2026-09-29T09:00:48+00:00",
+ "at": "2026-09-29T11:00:48+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 09-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 0건). 09-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 12,
+  "items": 14,
   "alerts": 0,
   "since": "2026-09-29T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36546343353",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36559067060",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,29 +22,19 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 69,
+   "item_count": 70,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19876",
+     "title": "한화시스템 레이다 양산사업 프로젝트계약직 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19884",
      "date": "2026.10.11 23:59"
     },
     {
-     "title": "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19881",
-     "date": "2026.10.13 17:30"
-    },
-    {
-     "title": "[한화생명] 마케팅추진팀 GA 운영전략 직무 경력채용(대리~과장급)",
+     "title": "[한화생명] 마케팅추진팀 'GA 운영전략 담당' 경력채용(대리~과장급)",
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
-     "date": "2026.10.16 15:00"
-    },
-    {
-     "title": "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19880",
      "date": "2026.10.16 15:00"
     }
    ]
@@ -66,18 +56,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 89,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "미래전략/CR정책/투자전략 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262099",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
