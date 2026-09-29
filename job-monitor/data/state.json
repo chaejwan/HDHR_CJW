@@ -1088,17 +1088,72 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19873",
      "date": "2027.10.31 23:59",
      "first_seen": "2026-09-29T05:00:34+00:00"
+    },
+    "b1d4c472b794bd46": {
+     "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19876",
+     "date": "2026.10.11 23:59",
+     "first_seen": "2026-09-29T09:00:36+00:00"
+    },
+    "13b0e882e9e5039b": {
+     "title": "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19881",
+     "date": "2026.10.13 17:30",
+     "first_seen": "2026-09-29T09:00:36+00:00"
+    },
+    "fd921aadffe978fc": {
+     "title": "[한화생명] 마케팅추진팀 GA 운영전략 직무 경력채용(대리~과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
+     "date": "2026.10.16 15:00",
+     "first_seen": "2026-09-29T09:00:36+00:00"
+    },
+    "9c5970c57605bc52": {
+     "title": "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19880",
+     "date": "2026.10.16 15:00",
+     "first_seen": "2026-09-29T09:00:36+00:00"
     }
    },
-   "last_check": "2026-09-29T07:00:37+00:00",
-   "last_success": "2026-09-29T07:00:37+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-29T09:00:36+00:00",
+   "last_success": "2026-09-29T09:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 64,
-   "fingerprint": "97337ce2d9134f14",
+   "item_count": 69,
+   "fingerprint": "91a613a8a6ff8114",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T09:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19876",
+       "date": "2026.10.11 23:59"
+      },
+      {
+       "title": "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19881",
+       "date": "2026.10.13 17:30"
+      },
+      {
+       "title": "[한화생명] 마케팅추진팀 GA 운영전략 직무 경력채용(대리~과장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
+       "date": "2026.10.16 15:00"
+      },
+      {
+       "title": "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19880",
+       "date": "2026.10.16 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-29T07:00:37+00:00",
      "status": "ok",
@@ -1423,16 +1478,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1449,7 +1494,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T05:00:34+00:00"
+   "last_new_at": "2026-09-29T09:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -4502,8 +4547,8 @@
      "first_seen": "2026-09-28T15:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T07:00:39+00:00",
-   "last_success": "2026-09-29T07:00:39+00:00",
+   "last_check": "2026-09-29T09:00:37+00:00",
+   "last_success": "2026-09-29T09:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4511,6 +4556,16 @@
    "fingerprint": "521115c1d86a4f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T09:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-29T07:00:39+00:00",
      "status": "ok",
@@ -4799,16 +4854,6 @@
     },
     {
      "at": "2026-09-26T23:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6305,17 +6350,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262089",
      "date": "",
      "first_seen": "2026-09-29T05:00:38+00:00"
+    },
+    "1690d3eb0eb48473": {
+     "title": "미래전략/CR정책/투자전략 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262099",
+     "date": "",
+     "first_seen": "2026-09-29T09:00:43+00:00"
     }
    },
-   "last_check": "2026-09-29T07:00:45+00:00",
-   "last_success": "2026-09-29T07:00:45+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-29T09:00:43+00:00",
+   "last_success": "2026-09-29T09:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 89,
-   "fingerprint": "018b757dd03129df",
+   "fingerprint": "66c7cea539835e44",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T09:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "미래전략/CR정책/투자전략 경력 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262099",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-29T07:00:45+00:00",
      "status": "ok",
@@ -6667,33 +6734,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[9월] 월간 hy-way(경력)",
     "파운데이션 모델 데이터 업무 담당자",
     "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
     "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
-    "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용"
+    "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용",
+    "2026년 SK에코플랜트 보건관리자 경력직(계약직) 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T05:00:38+00:00"
+   "last_new_at": "2026-09-29T09:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8330,15 +8387,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-29T07:00:46+00:00",
-   "last_success": "2026-09-29T07:00:46+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-29T09:00:44+00:00",
+   "last_success": "2026-09-29T09:00:44+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 82,
-   "fingerprint": "165a63f06e561db4",
+   "item_count": 65,
+   "fingerprint": "df79d35ca59ed0e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T09:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T07:00:46+00:00",
      "status": "new",
@@ -8634,26 +8701,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "중장기 사업 전략 수립",
-    "전고체배터리 개발",
-    "인포테인먼트 시스템 검증 및 법규 인증",
-    "완성차 사업 전략 기획",
-    "배터리 품질 기술 개발"
+    "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
+    "[계약직] 울산공장 산업간호사",
+    "[계약직] 고양하이테크센터 드라이버",
+    "[계약직] 의전안내 (아산공장)",
+    "[계약직] 예비군중대 사무원 (아산공장)"
    ],
    "health": {
     "issue": "",
@@ -9217,8 +9274,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T07:00:49+00:00",
-   "last_success": "2026-09-29T07:00:49+00:00",
+   "last_check": "2026-09-29T09:00:47+00:00",
+   "last_success": "2026-09-29T09:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9226,6 +9283,16 @@
    "fingerprint": "9f6bca1d6d22b973",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T09:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T07:00:49+00:00",
      "status": "ok",
@@ -9515,16 +9582,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T21:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9607,6 +9664,51 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
     "date": "20261008",
     "found_at": "2026-09-29T07:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19876",
+    "date": "2026.10.11 23:59",
+    "found_at": "2026-09-29T09:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19881",
+    "date": "2026.10.13 17:30",
+    "found_at": "2026-09-29T09:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 마케팅추진팀 GA 운영전략 직무 경력채용(대리~과장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
+    "date": "2026.10.16 15:00",
+    "found_at": "2026-09-29T09:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19880",
+    "date": "2026.10.16 15:00",
+    "found_at": "2026-09-29T09:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "미래전략/CR정책/투자전략 경력 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262099",
+    "date": "",
+    "found_at": "2026-09-29T09:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -9614,51 +9716,6 @@
   "last_sent": "2026-09-28T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "항공파워트레인 기획/개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=132",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "필드 안전품질",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=103",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "플랜트 운영 (전주공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=135",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "플랜트 운영 (울산공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=139",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "플랜트 운영 (아산공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=130",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14113,6 +14170,51 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
    "date": "20261008",
    "found_at": "2026-09-29T07:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19876",
+   "date": "2026.10.11 23:59",
+   "found_at": "2026-09-29T09:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19881",
+   "date": "2026.10.13 17:30",
+   "found_at": "2026-09-29T09:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 마케팅추진팀 GA 운영전략 직무 경력채용(대리~과장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
+   "date": "2026.10.16 15:00",
+   "found_at": "2026-09-29T09:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19880",
+   "date": "2026.10.16 15:00",
+   "found_at": "2026-09-29T09:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "미래전략/CR정책/투자전략 경력 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262099",
+   "date": "",
+   "found_at": "2026-09-29T09:00:48+00:00"
   }
  ]
 }
