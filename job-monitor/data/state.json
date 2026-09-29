@@ -1126,8 +1126,8 @@
      "first_seen": "2026-09-29T11:00:36+00:00"
     }
    },
-   "last_check": "2026-09-29T13:00:39+00:00",
-   "last_success": "2026-09-29T13:00:39+00:00",
+   "last_check": "2026-09-29T15:00:41+00:00",
+   "last_success": "2026-09-29T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1135,6 +1135,16 @@
    "fingerprint": "099710f9059bc82d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T13:00:39+00:00",
      "status": "ok",
@@ -1484,16 +1494,6 @@
     },
     {
      "at": "2026-09-27T05:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T03:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4568,17 +4568,165 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/200596",
      "date": "",
      "first_seen": "2026-09-28T15:00:45+00:00"
+    },
+    "8383c753d0af2a32": {
+     "title": "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236218",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "59d595977512663d": {
+     "title": "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236395",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "a363cb6af17be999": {
+     "title": "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236414",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "8aded0fb6b133371": {
+     "title": "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236417",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "567523073cbf15db": {
+     "title": "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236315",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "a5717b3e927b670b": {
+     "title": "[2026 하반기 신입 채용] 경영지원 직군신입경영지원경영지원ER신입정규직거제2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236418",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "8086c612a67ba4ed": {
+     "title": "[2026 하반기 신입 채용] 레디오션 전형 모집신입상선사업부외설계외의장설계(기장/선장/배관)외신입인턴거제외2026. 09. 30, 14:59까지D-day",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236432",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "1fa98bc1f1afeaf8": {
+     "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-11",
+     "url": "https://recruit-hanwhaocean.com/ko/o/237687",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "4fe3bdedf9913ee0": {
+     "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용경력경영지원경영지원해외인력지원경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/231099",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "958b96a884e4da42": {
+     "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/235776",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "134389bd04064d54": {
+     "title": "[제조총괄] 사내 간호사(계약직) 채용경력제조총괄생산/품질/HSE/공무HSE경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232453",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "44854feffe5d8d55": {
+     "title": "[경영지원] 총무구매지원(계약직) 채용경력경영지원경영지원구매경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232450",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "76c9d85104f05e0e": {
+     "title": "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "162f4f48a1abfc26": {
+     "title": "[재무실] 자금집행/관리 경력사원 채용 (육아휴직 대체, 계약직)경력경영지원경영지원재무/회계경력 1년 이상계약직서울2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/228068",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "7d956445499f6ba4": {
+     "title": "[제조총괄] 안전팀 경력사원(계약직) 채용경력제조총괄생산/품질/HSE/공무안전/환경/보건경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/227363",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "b5e99520166d70ce": {
+     "title": "[경영지원] 노사관리/운영 경력사원 채용경력경영지원경영지원노사관리/개별 근로관계법 운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/220500",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "3ae2084ed607585d": {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용경력특수선사업부경영지원외구매외경력 5년 이상외정규직거제외2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/219887",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "d492f62abe8ecbcf": {
+     "title": "[경영지원] 국내법무팀장 채용경력경영지원경영지원국내법무경력 10년 이상정규직서울2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/217485",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "0f5d089768efb1f8": {
+     "title": "[제품전략기술원] 플랜트설계(공정개발) 경력사원 채용경력제품전략기술원설계배관설계외경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/214146",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "ecaaba13cbbc6d3b": {
+     "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/212833",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "ea24ecfa21b1f7a9": {
+     "title": "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/207059",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "f91c85bdb9f8abda": {
+     "title": "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200604",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
+    },
+    "bd5387c09d59dc54": {
+     "title": "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-92",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200596",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-29T13:00:40+00:00",
-   "last_success": "2026-09-29T13:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-29T15:00:42+00:00",
+   "last_success": "2026-09-29T15:00:42+00:00",
+   "last_status": "baseline",
    "last_error": "",
    "last_method": "links",
    "item_count": 23,
-   "fingerprint": "521115c1d86a4f65",
+   "fingerprint": "b7bc2375c4f5d79e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T15:00:42+00:00",
+     "status": "baseline",
+     "reset": true,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다. 이전에 기억하던 508건과 겹치는 공고가 없어, 지금 23건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-09-29T13:00:40+00:00",
      "status": "ok",
@@ -4874,31 +5022,21 @@
      "error": "",
      "note": "34개 중 필터를 통과한 26개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-27T03:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "31개 중 필터를 통과한 23개를 사용합니다.",
+   "last_note": "31개 중 필터를 통과한 23개를 사용합니다. 이전에 기억하던 508건과 겹치는 공고가 없어, 지금 23건을 기준으로 다시 저장했습니다(알림 없음).",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-1",
-    "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-1",
-    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-1",
-    "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-1",
-    "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-1"
+    "[2026 하반기 신입 채용] 설계 직군신입상선사업부외설계기본설계외신입정규직서울외2026. 09. 30, 14:59까지D-day",
+    "[2026 하반기 신입 채용] 생산관리 직군신입제조총괄생산관리생산관리외신입정규직거제2026. 09. 30, 14:59까지D-day",
+    "[2026 하반기 신입 채용] AX 직군신입AX사업부외AX경영관리지능화외신입정규직거제외2026. 09. 30, 14:59까지D-day",
+    "[2026 하반기 신입 채용] 연구개발 직군신입제품전략기술원R&D도장공정연구외신입정규직거제외2026. 09. 30, 14:59까지D-day",
+    "[2026 하반기 신입 채용] 영업/사업관리/구매 직군신입상선사업부외영업/구매/사업관리구매외신입정규직거제외2026. 09. 30, 14:59까지D-day"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-09-29T15:00:42+00:00"
    },
    "last_new_at": "2026-09-28T01:00:35+00:00"
   },
@@ -6379,17 +6517,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262099",
      "date": "",
      "first_seen": "2026-09-29T09:00:43+00:00"
+    },
+    "80f0170e27f1ee5f": {
+     "title": "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262085",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:47+00:00"
+    },
+    "3c225e6eec51f685": {
+     "title": "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262086",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:47+00:00"
+    },
+    "f3c037056c5252f9": {
+     "title": "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262087",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:47+00:00"
+    },
+    "7e3e44964003728d": {
+     "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262088",
+     "date": "",
+     "first_seen": "2026-09-29T15:00:47+00:00"
     }
    },
-   "last_check": "2026-09-29T13:00:51+00:00",
-   "last_success": "2026-09-29T13:00:51+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-29T15:00:47+00:00",
+   "last_success": "2026-09-29T15:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 89,
-   "fingerprint": "66c7cea539835e44",
+   "item_count": 92,
+   "fingerprint": "bd21504f1ad98381",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T15:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262085",
+       "date": ""
+      },
+      {
+       "title": "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262086",
+       "date": ""
+      },
+      {
+       "title": "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262087",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262088",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-29T13:00:51+00:00",
      "status": "ok",
@@ -6747,33 +6940,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T03:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "파운데이션 모델 데이터 업무 담당자",
     "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
     "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
     "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용",
-    "2026년 SK에코플랜트 보건관리자 경력직(계약직) 채용"
+    "2026년 SK에코플랜트 보건관리자 경력직(계약직) 채용",
+    "전기차 충전기 소프트웨어(SW) 개발 및 보안 담당"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T09:00:43+00:00"
+   "last_new_at": "2026-09-29T15:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8410,15 +8593,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-29T13:00:53+00:00",
-   "last_success": "2026-09-29T13:00:53+00:00",
+   "last_check": "2026-09-29T15:00:48+00:00",
+   "last_success": "2026-09-29T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 65,
-   "fingerprint": "d244ee58ff64800e",
+   "fingerprint": "bc94c2fa106c0fff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T13:00:53+00:00",
      "status": "ok",
@@ -8707,16 +8900,6 @@
     },
     {
      "at": "2026-09-27T05:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T03:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9297,15 +9480,25 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T13:00:55+00:00",
-   "last_success": "2026-09-29T13:00:55+00:00",
+   "last_check": "2026-09-29T15:00:51+00:00",
+   "last_success": "2026-09-29T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "9f6bca1d6d22b973",
+   "fingerprint": "f89ce00c62f20150",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T13:00:55+00:00",
      "status": "ok",
@@ -9595,16 +9788,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T03:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9750,49 +9933,60 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
     "date": "2026.10.16 15:00",
     "found_at": "2026-09-29T11:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262085",
+    "date": "",
+    "found_at": "2026-09-29T15:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262086",
+    "date": "",
+    "found_at": "2026-09-29T15:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262087",
+    "date": "",
+    "found_at": "2026-09-29T15:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262088",
+    "date": "",
+    "found_at": "2026-09-29T15:00:52+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "recovered": false
+   }
+  ],
   "since": "2026-09-29T01:00:46+00:00",
   "last_sent": "2026-09-28T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "차량제어 SW 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=179",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "차량 시스템 설계/시험",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=166",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "중국사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=141",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "제네시스사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=146",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14256,6 +14450,42 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
    "date": "2026.10.16 15:00",
    "found_at": "2026-09-29T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262085",
+   "date": "",
+   "found_at": "2026-09-29T15:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262086",
+   "date": "",
+   "found_at": "2026-09-29T15:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262087",
+   "date": "",
+   "found_at": "2026-09-29T15:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262088",
+   "date": "",
+   "found_at": "2026-09-29T15:00:52+00:00"
   }
  ]
 }
