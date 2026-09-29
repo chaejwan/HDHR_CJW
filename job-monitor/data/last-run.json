@@ -1,31 +1,31 @@
 {
- "at": "2026-09-29T01:00:46+00:00",
+ "at": "2026-09-29T02:38:55+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 09-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 09-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 2,
+  "items": 4,
   "alerts": 0,
   "since": "2026-09-29T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36505819318",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36513370338",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 64,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {
@@ -46,19 +46,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 86,
+   "item_count": 88,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK키파운드리 정보보안(취약점 진단) 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261867",
+     "title": "컨설턴트 (전환형 인턴)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262092",
      "date": ""
     },
     {
-     "title": "청주공장 인사/급여 계약직 채용(신입/경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262090",
+     "title": "OT보안 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262093",
      "date": ""
     }
    ]

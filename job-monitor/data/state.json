@@ -1084,15 +1084,25 @@
      "first_seen": "2026-09-28T07:00:38+00:00"
     }
    },
-   "last_check": "2026-09-29T01:00:37+00:00",
+   "last_check": "2026-09-29T02:36:19+00:00",
    "last_success": "2026-09-29T01:00:37+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 64,
    "fingerprint": "389ce39cf2b727ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T02:36:19+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T01:00:37+00:00",
      "status": "ok",
@@ -1411,20 +1421,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T15:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "조직도입마케터",
     "경력직 채용_채널연금2센터",
@@ -4490,8 +4490,8 @@
      "first_seen": "2026-09-28T15:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T01:00:39+00:00",
-   "last_success": "2026-09-29T01:00:39+00:00",
+   "last_check": "2026-09-29T02:38:47+00:00",
+   "last_success": "2026-09-29T02:38:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4499,6 +4499,16 @@
    "fingerprint": "521115c1d86a4f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T02:38:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-29T01:00:39+00:00",
      "status": "ok",
@@ -4793,16 +4803,6 @@
      "item_count": 26,
      "error": "",
      "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T15:00:38+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다. 이전에 기억하던 435건과 겹치는 공고가 없어, 지금 26건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -6275,17 +6275,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262090",
      "date": "",
      "first_seen": "2026-09-29T01:00:41+00:00"
+    },
+    "8c4fbedc1b821ba1": {
+     "title": "컨설턴트 (전환형 인턴)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262092",
+     "date": "",
+     "first_seen": "2026-09-29T02:38:50+00:00"
+    },
+    "5911067d5d54f88d": {
+     "title": "OT보안 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262093",
+     "date": "",
+     "first_seen": "2026-09-29T02:38:50+00:00"
     }
    },
-   "last_check": "2026-09-29T01:00:41+00:00",
-   "last_success": "2026-09-29T01:00:41+00:00",
+   "last_check": "2026-09-29T02:38:50+00:00",
+   "last_success": "2026-09-29T02:38:50+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 86,
-   "fingerprint": "6f3560f2debd5c57",
+   "item_count": 88,
+   "fingerprint": "1e81d508f1f82350",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T02:38:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "컨설턴트 (전환형 인턴)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262092",
+       "date": ""
+      },
+      {
+       "title": "OT보안 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262093",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-29T01:00:41+00:00",
      "status": "new",
@@ -6620,33 +6653,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T15:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "[9월] 월간 hy-way(경력)",
-    "5G무선통신망 구축 현장 안전관리자",
     "파운데이션 모델 데이터 업무 담당자",
     "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
-    "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용"
+    "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
+    "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T01:00:41+00:00"
+   "last_new_at": "2026-09-29T02:38:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8277,15 +8300,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-29T01:00:43+00:00",
-   "last_success": "2026-09-29T01:00:43+00:00",
+   "last_check": "2026-09-29T02:38:51+00:00",
+   "last_success": "2026-09-29T02:38:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "f7cc4abeb89d4fb9",
+   "fingerprint": "901e70d619318b22",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T02:38:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T01:00:43+00:00",
      "status": "ok",
@@ -8568,16 +8601,6 @@
     },
     {
      "at": "2026-09-26T17:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9158,8 +9181,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T01:00:45+00:00",
-   "last_success": "2026-09-29T01:00:45+00:00",
+   "last_check": "2026-09-29T02:38:53+00:00",
+   "last_success": "2026-09-29T02:38:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9167,6 +9190,16 @@
    "fingerprint": "9f6bca1d6d22b973",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T02:38:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T01:00:45+00:00",
      "status": "ok",
@@ -9456,16 +9489,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T15:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9503,6 +9526,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262090",
     "date": "",
     "found_at": "2026-09-29T01:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "컨설턴트 (전환형 인턴)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262092",
+    "date": "",
+    "found_at": "2026-09-29T02:38:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "OT보안 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262093",
+    "date": "",
+    "found_at": "2026-09-29T02:38:55+00:00"
    }
   ],
   "alerts": [],
@@ -9510,24 +9551,6 @@
   "last_sent": "2026-09-28T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[제조로보틱스] 로봇 작업 정책 학습 데이터 생성 파이프라인 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
-   "date": "20260913",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 울산공장 영상 크리에이터",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=201",
-   "date": "20260913",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14009,6 +14032,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262090",
    "date": "",
    "found_at": "2026-09-29T01:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "컨설턴트 (전환형 인턴)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262092",
+   "date": "",
+   "found_at": "2026-09-29T02:38:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "OT보안 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262093",
+   "date": "",
+   "found_at": "2026-09-29T02:38:55+00:00"
   }
  ]
 }
