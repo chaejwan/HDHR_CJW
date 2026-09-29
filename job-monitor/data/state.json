@@ -1082,17 +1082,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19871",
      "date": "2026.10.12 15:00",
      "first_seen": "2026-09-28T07:00:38+00:00"
+    },
+    "61af1a3e47749f62": {
+     "title": "[한국공장] 모듈 생산/장비/공정/품질 전문직(계약직) 상시모집",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19873",
+     "date": "2027.10.31 23:59",
+     "first_seen": "2026-09-29T05:00:34+00:00"
     }
    },
-   "last_check": "2026-09-29T02:36:19+00:00",
-   "last_success": "2026-09-29T01:00:37+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-29T05:00:34+00:00",
+   "last_success": "2026-09-29T05:00:34+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 64,
-   "fingerprint": "389ce39cf2b727ee",
+   "item_count": 65,
+   "fingerprint": "05a6127487ff18d0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T05:00:34+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한국공장] 모듈 생산/장비/공정/품질 전문직(계약직) 상시모집",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19873",
+       "date": "2027.10.31 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-09-29T02:36:19+00:00",
      "status": "error",
@@ -1411,20 +1433,10 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T17:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "조직도입마케터",
     "경력직 채용_채널연금2센터",
@@ -1437,7 +1449,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-28T07:00:38+00:00"
+   "last_new_at": "2026-09-29T05:00:34+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -4490,8 +4502,8 @@
      "first_seen": "2026-09-28T15:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T02:38:47+00:00",
-   "last_success": "2026-09-29T02:38:47+00:00",
+   "last_check": "2026-09-29T05:00:35+00:00",
+   "last_success": "2026-09-29T05:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4499,6 +4511,16 @@
    "fingerprint": "521115c1d86a4f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-29T02:38:47+00:00",
      "status": "ok",
@@ -4787,16 +4809,6 @@
     },
     {
      "at": "2026-09-26T19:03:03+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T17:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6287,17 +6299,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262093",
      "date": "",
      "first_seen": "2026-09-29T02:38:50+00:00"
+    },
+    "bfce0775be15eec4": {
+     "title": "Global Business Development 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262089",
+     "date": "",
+     "first_seen": "2026-09-29T05:00:38+00:00"
     }
    },
-   "last_check": "2026-09-29T02:38:50+00:00",
-   "last_success": "2026-09-29T02:38:50+00:00",
+   "last_check": "2026-09-29T05:00:38+00:00",
+   "last_success": "2026-09-29T05:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 88,
-   "fingerprint": "1e81d508f1f82350",
+   "item_count": 89,
+   "fingerprint": "018b757dd03129df",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T05:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Global Business Development 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262089",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-29T02:38:50+00:00",
      "status": "new",
@@ -6643,16 +6677,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T17:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6669,7 +6693,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T02:38:50+00:00"
+   "last_new_at": "2026-09-29T05:00:38+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8300,15 +8324,25 @@
      "first_seen": "2026-09-23T03:00:42+00:00"
     }
    },
-   "last_check": "2026-09-29T02:38:51+00:00",
-   "last_success": "2026-09-29T02:38:51+00:00",
+   "last_check": "2026-09-29T05:00:39+00:00",
+   "last_success": "2026-09-29T05:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "901e70d619318b22",
+   "fingerprint": "2cb7c39db4facf48",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T02:38:51+00:00",
      "status": "ok",
@@ -8591,16 +8625,6 @@
     },
     {
      "at": "2026-09-26T19:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-26T17:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9181,8 +9205,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T02:38:53+00:00",
-   "last_success": "2026-09-29T02:38:53+00:00",
+   "last_check": "2026-09-29T05:00:41+00:00",
+   "last_success": "2026-09-29T05:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9190,6 +9214,16 @@
    "fingerprint": "9f6bca1d6d22b973",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-29T05:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T02:38:53+00:00",
      "status": "ok",
@@ -9479,16 +9513,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-26T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9544,6 +9568,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262093",
     "date": "",
     "found_at": "2026-09-29T02:38:55+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한국공장] 모듈 생산/장비/공정/품질 전문직(계약직) 상시모집",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19873",
+    "date": "2027.10.31 23:59",
+    "found_at": "2026-09-29T05:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Global Business Development 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262089",
+    "date": "",
+    "found_at": "2026-09-29T05:00:43+00:00"
    }
   ],
   "alerts": [],
@@ -9551,24 +9593,6 @@
   "last_sent": "2026-09-28T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[SDF] SDF Transformation Officer",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=311",
-   "date": "20260913",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] 채용 및 조직·인력운영",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=304",
-   "date": "20260913",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14050,6 +14074,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262093",
    "date": "",
    "found_at": "2026-09-29T02:38:55+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한국공장] 모듈 생산/장비/공정/품질 전문직(계약직) 상시모집",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19873",
+   "date": "2027.10.31 23:59",
+   "found_at": "2026-09-29T05:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Global Business Development 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262089",
+   "date": "",
+   "found_at": "2026-09-29T05:00:43+00:00"
   }
  ]
 }
