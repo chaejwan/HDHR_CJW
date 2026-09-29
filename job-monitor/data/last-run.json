@@ -1,7 +1,7 @@
 {
- "at": "2026-09-29T11:00:48+00:00",
+ "at": "2026-09-29T13:00:57+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,30 +14,19 @@
   "since": "2026-09-29T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36559067060",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36572003647",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 70,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화시스템 레이다 양산사업 프로젝트계약직 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19884",
-     "date": "2026.10.11 23:59"
-    },
-    {
-     "title": "[한화생명] 마케팅추진팀 'GA 운영전략 담당' 경력채용(대리~과장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
-     "date": "2026.10.16 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
