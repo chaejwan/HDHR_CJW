@@ -1156,8 +1156,8 @@
      "first_seen": "2026-09-30T09:00:35+00:00"
     }
    },
-   "last_check": "2026-09-30T11:00:39+00:00",
-   "last_success": "2026-09-30T11:00:39+00:00",
+   "last_check": "2026-09-30T13:00:39+00:00",
+   "last_success": "2026-09-30T13:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1165,6 +1165,16 @@
    "fingerprint": "67acfa6ce1fe3b2c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T13:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 74,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T11:00:39+00:00",
      "status": "ok",
@@ -1528,27 +1538,6 @@
       {
        "title": "(주)한화 전략부문 회계(재무회계/원가회계) 경력직 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19870",
-       "date": "2026.10.11 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-28T01:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "(주)한화 전략부문 재무회계 계약직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
-       "date": "2026.10.11 23:59"
-      },
-      {
-       "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
        "date": "2026.10.11 23:59"
       }
      ]
@@ -4759,8 +4748,8 @@
      "first_seen": "2026-09-29T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-30T11:00:40+00:00",
-   "last_success": "2026-09-30T11:00:40+00:00",
+   "last_check": "2026-09-30T13:00:40+00:00",
+   "last_success": "2026-09-30T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4768,6 +4757,16 @@
    "fingerprint": "b7bc2375c4f5d79e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-30T11:00:40+00:00",
      "status": "ok",
@@ -5057,22 +5056,6 @@
      "error": "",
      "note": "32개 중 필터를 통과한 24개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-09-28T01:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": [
-      {
-       "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-13",
-       "url": "https://recruit-hanwhaocean.com/ko/o/237687",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "31개 중 필터를 통과한 23개를 사용합니다.",
@@ -6636,8 +6619,8 @@
      "first_seen": "2026-09-30T05:00:39+00:00"
     }
    },
-   "last_check": "2026-09-30T11:00:43+00:00",
-   "last_success": "2026-09-30T11:00:43+00:00",
+   "last_check": "2026-09-30T13:00:43+00:00",
+   "last_success": "2026-09-30T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6645,6 +6628,16 @@
    "fingerprint": "98961369876cd293",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T11:00:43+00:00",
      "status": "ok",
@@ -7043,27 +7036,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T01:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아이지이] SHE 경력 구성원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262061",
-       "date": ""
-      },
-      {
-       "title": "Pre-SKALA 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262013",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -8717,8 +8689,8 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-30T11:00:44+00:00",
-   "last_success": "2026-09-30T11:00:44+00:00",
+   "last_check": "2026-09-30T13:00:43+00:00",
+   "last_success": "2026-09-30T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8726,6 +8698,16 @@
    "fingerprint": "c1dfd25fb366e6dc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T11:00:44+00:00",
      "status": "ok",
@@ -9014,16 +8996,6 @@
     },
     {
      "at": "2026-09-28T03:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9604,8 +9576,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-30T11:00:46+00:00",
-   "last_success": "2026-09-30T11:00:46+00:00",
+   "last_check": "2026-09-30T13:00:45+00:00",
+   "last_success": "2026-09-30T13:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9613,6 +9585,16 @@
    "fingerprint": "c82b13626f8ddf34",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T11:00:46+00:00",
      "status": "ok",
@@ -9895,16 +9877,6 @@
     },
     {
      "at": "2026-09-28T03:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T01:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
