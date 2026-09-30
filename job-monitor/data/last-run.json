@@ -1,32 +1,53 @@
 {
- "at": "2026-09-30T07:03:13+00:00",
+ "at": "2026-09-30T09:00:44+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-01 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-01 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 12,
   "alerts": 0,
   "since": "2026-09-30T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36681271166",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36693300697",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 74,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "RX(Robot Transformation) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
+     "date": "2026.10.05 23:59"
+    },
+    {
+     "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
+     "date": "2026.10.11 23:59"
+    },
+    {
+     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19887",
+     "date": "2026.10.13 15:00"
+    },
+    {
+     "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
+     "date": "2026.10.14 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -58,7 +79,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 66,
+   "item_count": 65,
    "method": "json",
    "note": "",
    "error": "",
@@ -70,7 +91,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 4,
+   "item_count": 3,
    "method": "pattern",
    "note": "",
    "error": "",

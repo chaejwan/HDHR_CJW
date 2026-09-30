@@ -1130,17 +1130,72 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19886",
      "date": "2026.10.11 23:59",
      "first_seen": "2026-09-30T05:00:34+00:00"
+    },
+    "0a7bc06f2e0cc195": {
+     "title": "RX(Robot Transformation) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
+     "date": "2026.10.05 23:59",
+     "first_seen": "2026-09-30T09:00:35+00:00"
+    },
+    "6a63577db36278a0": {
+     "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
+     "date": "2026.10.11 23:59",
+     "first_seen": "2026-09-30T09:00:35+00:00"
+    },
+    "e9a9e98e87fd9d8e": {
+     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19887",
+     "date": "2026.10.13 15:00",
+     "first_seen": "2026-09-30T09:00:35+00:00"
+    },
+    "8a75e813e07672d1": {
+     "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
+     "date": "2026.10.14 15:00",
+     "first_seen": "2026-09-30T09:00:35+00:00"
     }
    },
-   "last_check": "2026-09-30T07:00:35+00:00",
-   "last_success": "2026-09-30T05:00:34+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-09-30T09:00:35+00:00",
+   "last_success": "2026-09-30T09:00:35+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 71,
-   "fingerprint": "bcd8a7a8d1662bb9",
+   "item_count": 74,
+   "fingerprint": "67acfa6ce1fe3b2c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T09:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 74,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "RX(Robot Transformation) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
+       "date": "2026.10.05 23:59"
+      },
+      {
+       "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
+       "date": "2026.10.11 23:59"
+      },
+      {
+       "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19887",
+       "date": "2026.10.13 15:00"
+      },
+      {
+       "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
+       "date": "2026.10.14 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-09-30T07:00:35+00:00",
      "status": "error",
@@ -1497,33 +1552,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T21:00:36+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
-    "경력직 채용_채널연금2센터",
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "2026 하반기 한화오션 신입사원 채용 (접수기간 : 9/14~30)",
     "[한화세미텍] 재무 담당 채용 (과~차장급)",
-    "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용"
+    "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
+    "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-30T05:00:34+00:00"
+   "last_new_at": "2026-09-30T09:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -4714,8 +4759,8 @@
      "first_seen": "2026-09-29T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-30T07:03:03+00:00",
-   "last_success": "2026-09-30T07:03:03+00:00",
+   "last_check": "2026-09-30T09:00:36+00:00",
+   "last_success": "2026-09-30T09:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4723,6 +4768,16 @@
    "fingerprint": "b7bc2375c4f5d79e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T09:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-30T07:03:03+00:00",
      "status": "ok",
@@ -5011,16 +5066,6 @@
     },
     {
      "at": "2026-09-27T23:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T21:03:03+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6591,8 +6636,8 @@
      "first_seen": "2026-09-30T05:00:39+00:00"
     }
    },
-   "last_check": "2026-09-30T07:03:08+00:00",
-   "last_success": "2026-09-30T07:03:08+00:00",
+   "last_check": "2026-09-30T09:00:39+00:00",
+   "last_success": "2026-09-30T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6600,6 +6645,16 @@
    "fingerprint": "98961369876cd293",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T07:03:08+00:00",
      "status": "ok",
@@ -7002,16 +7057,6 @@
     },
     {
      "at": "2026-09-27T23:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T21:03:06+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8672,15 +8717,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-30T07:03:10+00:00",
-   "last_success": "2026-09-30T07:03:10+00:00",
+   "last_check": "2026-09-30T09:00:40+00:00",
+   "last_success": "2026-09-30T09:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 66,
-   "fingerprint": "395ab5397c860460",
+   "item_count": 65,
+   "fingerprint": "6653316584478c41",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T07:03:10+00:00",
      "status": "ok",
@@ -8976,26 +9031,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T21:03:07+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
     "[계약직] 울산공장 산업간호사",
     "[계약직] 고양하이테크센터 드라이버",
     "[아르바이트] 채용지원(남양)",
-    "[계약직] 행정지원 (장애인 제한경쟁)"
+    "[계약직] 행정지원 (장애인 제한경쟁)",
+    "[계약직] 울산공장 퇴직연금 운영 담당 채용"
    ],
    "health": {
     "issue": "",
@@ -9559,15 +9604,25 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-30T07:03:12+00:00",
-   "last_success": "2026-09-30T07:03:12+00:00",
+   "last_check": "2026-09-30T09:00:42+00:00",
+   "last_success": "2026-09-30T09:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 4,
-   "fingerprint": "f89ce00c62f20150",
+   "item_count": 3,
+   "fingerprint": "c82b13626f8ddf34",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T09:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T07:03:12+00:00",
      "status": "ok",
@@ -9857,23 +9912,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T21:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "삼성글로벌리서치 분야별 연구원 채용",
-    "삼성전기 경력사원 채용(MLCCㆍ패키지 부문)",
     "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
     "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
    ],
@@ -9958,6 +10002,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262105",
     "date": "",
     "found_at": "2026-09-30T05:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "RX(Robot Transformation) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
+    "date": "2026.10.05 23:59",
+    "found_at": "2026-09-30T09:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
+    "date": "2026.10.11 23:59",
+    "found_at": "2026-09-30T09:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19887",
+    "date": "2026.10.13 15:00",
+    "found_at": "2026-09-30T09:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
+    "date": "2026.10.14 15:00",
+    "found_at": "2026-09-30T09:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -9965,42 +10045,6 @@
   "last_sent": "2026-09-29T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "자율주행 검증",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=175",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "인포테인먼트 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=180",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "에너지 & 수소연료전지 사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=91",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "안전품질 전략",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=124",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14464,6 +14508,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262105",
    "date": "",
    "found_at": "2026-09-30T05:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "RX(Robot Transformation) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
+   "date": "2026.10.05 23:59",
+   "found_at": "2026-09-30T09:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
+   "date": "2026.10.11 23:59",
+   "found_at": "2026-09-30T09:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19887",
+   "date": "2026.10.13 15:00",
+   "found_at": "2026-09-30T09:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
+   "date": "2026.10.14 15:00",
+   "found_at": "2026-09-30T09:00:44+00:00"
   }
  ]
 }
