@@ -1,7 +1,7 @@
 {
- "at": "2026-09-30T05:00:44+00:00",
+ "at": "2026-09-30T07:03:13+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-09-30T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36671420968",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36681271166",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 71,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 전략부문 자금운영 계약직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19886",
-     "date": "2026.10.11 23:59"
-    }
-   ]
+   "error": "응답 시간 초과 (45초) (3회 시도)",
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,33 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 99,
+   "status": "ok",
+   "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK케미칼 울산공장 기계설비 계약직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262100",
-     "date": ""
-    },
-    {
-     "title": "[SK에어플러스] 기계/배관 설계 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261823",
-     "date": ""
-    },
-    {
-     "title": "[엔솔브] 발전소 시설물 유지보수 담당 구성원 채용 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262106",
-     "date": ""
-    },
-    {
-     "title": "SAP FI Module 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262105",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -85,7 +58,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 65,
+   "item_count": 66,
    "method": "json",
    "note": "",
    "error": "",
