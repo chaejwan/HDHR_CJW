@@ -1126,8 +1126,8 @@
      "first_seen": "2026-09-29T11:00:36+00:00"
     }
    },
-   "last_check": "2026-09-29T23:00:38+00:00",
-   "last_success": "2026-09-29T23:00:38+00:00",
+   "last_check": "2026-09-30T01:00:33+00:00",
+   "last_success": "2026-09-30T01:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1135,6 +1135,16 @@
    "fingerprint": "099710f9059bc82d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T01:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T23:00:38+00:00",
      "status": "ok",
@@ -1491,16 +1501,6 @@
        "date": "2026.10.14 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-09-27T13:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -4708,8 +4708,8 @@
      "first_seen": "2026-09-29T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-29T23:00:39+00:00",
-   "last_success": "2026-09-29T23:00:39+00:00",
+   "last_check": "2026-09-30T01:00:35+00:00",
+   "last_success": "2026-09-30T01:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4717,6 +4717,16 @@
    "fingerprint": "b7bc2375c4f5d79e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T01:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-29T23:00:39+00:00",
      "status": "ok",
@@ -5011,16 +5021,6 @@
      "item_count": 23,
      "error": "",
      "note": "31개 중 필터를 통과한 23개를 사용합니다. 이전에 기억하던 461건과 겹치는 공고가 없어, 지금 23건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 26,
-     "error": "",
-     "note": "34개 중 필터를 통과한 26개를 사용합니다.",
      "new": []
     }
    ],
@@ -6541,17 +6541,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262088",
      "date": "",
      "first_seen": "2026-09-29T15:00:47+00:00"
+    },
+    "1d50d90902d08127": {
+     "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262095",
+     "date": "",
+     "first_seen": "2026-09-30T01:00:40+00:00"
+    },
+    "4837bb1fdb44e989": {
+     "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262094",
+     "date": "",
+     "first_seen": "2026-09-30T01:00:40+00:00"
+    },
+    "ec2a356dc4f343fc": {
+     "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262101",
+     "date": "",
+     "first_seen": "2026-09-30T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-29T23:00:42+00:00",
-   "last_success": "2026-09-29T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-09-30T01:00:40+00:00",
+   "last_success": "2026-09-30T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 92,
-   "fingerprint": "bd21504f1ad98381",
+   "item_count": 95,
+   "fingerprint": "df46a8f7cdf9dedd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262095",
+       "date": ""
+      },
+      {
+       "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262094",
+       "date": ""
+      },
+      {
+       "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262101",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-09-29T23:00:42+00:00",
      "status": "ok",
@@ -6930,16 +6974,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-27T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6956,7 +6990,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T15:00:47+00:00"
+   "last_new_at": "2026-09-30T01:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8593,15 +8627,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-29T23:00:43+00:00",
-   "last_success": "2026-09-29T23:00:43+00:00",
+   "last_check": "2026-09-30T01:00:41+00:00",
+   "last_success": "2026-09-30T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 65,
-   "fingerprint": "f7a802458ee181bc",
+   "fingerprint": "aa16f1664de37379",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T23:00:43+00:00",
      "status": "ok",
@@ -8890,16 +8934,6 @@
     },
     {
      "at": "2026-09-27T15:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T13:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9480,8 +9514,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-29T23:00:45+00:00",
-   "last_success": "2026-09-29T23:00:45+00:00",
+   "last_check": "2026-09-30T01:00:44+00:00",
+   "last_success": "2026-09-30T01:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9489,6 +9523,16 @@
    "fingerprint": "f89ce00c62f20150",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T01:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-29T23:00:45+00:00",
      "status": "ok",
@@ -9778,16 +9822,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9807,39 +9841,40 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262095",
+    "date": "",
+    "found_at": "2026-09-30T01:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262094",
+    "date": "",
+    "found_at": "2026-09-30T01:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262101",
+    "date": "",
+    "found_at": "2026-09-30T01:00:45+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-09-30T01:00:45+00:00",
   "last_sent": "2026-09-29T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "정보보안",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=108",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "전동화 에너지 개발 (연료전지/배터리)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=167",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "전동화 PT/PE 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=169",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14312,6 +14347,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262088",
    "date": "",
    "found_at": "2026-09-29T15:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262095",
+   "date": "",
+   "found_at": "2026-09-30T01:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262094",
+   "date": "",
+   "found_at": "2026-09-30T01:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262101",
+   "date": "",
+   "found_at": "2026-09-30T01:00:45+00:00"
   }
  ]
 }

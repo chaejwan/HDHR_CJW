@@ -1,20 +1,20 @@
 {
- "at": "2026-09-29T23:00:46+00:00",
+ "at": "2026-09-30T01:00:45+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 3,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 10-01 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 3,
   "alerts": 0,
-  "since": "",
+  "since": "2026-09-30T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36642823065",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36653027901",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 92,
+   "status": "new",
+   "item_count": 95,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262095",
+     "date": ""
+    },
+    {
+     "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262094",
+     "date": ""
+    },
+    {
+     "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262101",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
