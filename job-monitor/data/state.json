@@ -1156,8 +1156,8 @@
      "first_seen": "2026-09-30T09:00:35+00:00"
     }
    },
-   "last_check": "2026-09-30T21:00:36+00:00",
-   "last_success": "2026-09-30T21:00:36+00:00",
+   "last_check": "2026-09-30T23:00:35+00:00",
+   "last_success": "2026-09-30T23:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1165,6 +1165,16 @@
    "fingerprint": "860a6f29db42cf6d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T23:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T21:00:36+00:00",
      "status": "ok",
@@ -1517,16 +1527,6 @@
      "new_count": 0,
      "item_count": 77,
      "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T11:00:39+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
     }
@@ -4832,8 +4832,8 @@
      "first_seen": "2026-09-30T15:00:44+00:00"
     }
    },
-   "last_check": "2026-09-30T21:00:37+00:00",
-   "last_success": "2026-09-30T21:00:37+00:00",
+   "last_check": "2026-09-30T23:00:36+00:00",
+   "last_success": "2026-09-30T23:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4841,6 +4841,16 @@
    "fingerprint": "c2a55a3f57f9340a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T23:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-30T21:00:37+00:00",
      "status": "ok",
@@ -5123,16 +5133,6 @@
     },
     {
      "at": "2026-09-28T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T11:03:06+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6709,8 +6709,8 @@
      "first_seen": "2026-09-30T15:00:49+00:00"
     }
    },
-   "last_check": "2026-09-30T21:00:42+00:00",
-   "last_success": "2026-09-30T21:00:42+00:00",
+   "last_check": "2026-09-30T23:00:43+00:00",
+   "last_success": "2026-09-30T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6718,6 +6718,16 @@
    "fingerprint": "39ea6c45ba02f497",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T21:00:42+00:00",
      "status": "ok",
@@ -7098,16 +7108,6 @@
     },
     {
      "at": "2026-09-28T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T11:03:09+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8768,8 +8768,8 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-30T21:00:44+00:00",
-   "last_success": "2026-09-30T21:00:44+00:00",
+   "last_check": "2026-09-30T23:00:44+00:00",
+   "last_success": "2026-09-30T23:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8777,6 +8777,16 @@
    "fingerprint": "9b308f9373d9c1ae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T23:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T21:00:44+00:00",
      "status": "ok",
@@ -9065,16 +9075,6 @@
     },
     {
      "at": "2026-09-28T13:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T11:03:10+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9655,8 +9655,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-30T21:00:46+00:00",
-   "last_success": "2026-09-30T21:00:46+00:00",
+   "last_check": "2026-09-30T23:00:48+00:00",
+   "last_success": "2026-09-30T23:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9664,6 +9664,16 @@
    "fingerprint": "5eb58698286b3afe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T23:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T21:00:46+00:00",
      "status": "ok",
@@ -9953,16 +9963,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T11:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9981,149 +9981,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262095",
-    "date": "",
-    "found_at": "2026-09-30T01:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262094",
-    "date": "",
-    "found_at": "2026-09-30T01:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262101",
-    "date": "",
-    "found_at": "2026-09-30T01:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 전략부문 자금운영 계약직 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19886",
-    "date": "2026.10.11 23:59",
-    "found_at": "2026-09-30T05:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK케미칼 울산공장 기계설비 계약직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262100",
-    "date": "",
-    "found_at": "2026-09-30T05:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] 기계/배관 설계 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261823",
-    "date": "",
-    "found_at": "2026-09-30T05:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[엔솔브] 발전소 시설물 유지보수 담당 구성원 채용 (경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262106",
-    "date": "",
-    "found_at": "2026-09-30T05:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SAP FI Module 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262105",
-    "date": "",
-    "found_at": "2026-09-30T05:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "RX(Robot Transformation) 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
-    "date": "2026.10.05 23:59",
-    "found_at": "2026-09-30T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
-    "date": "2026.10.11 23:59",
-    "found_at": "2026-09-30T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19887",
-    "date": "2026.10.13 15:00",
-    "found_at": "2026-09-30T09:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
-    "date": "2026.10.14 15:00",
-    "found_at": "2026-09-30T09:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "'26년 10월 건축사업 공정관리, 공사(건축/전기/설비) 경력직(촉탁직) 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262030",
-    "date": "",
-    "found_at": "2026-09-30T15:00:52+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-09-30T01:00:45+00:00",
-  "last_sent": "2026-09-29T23:00:53+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-09-30T23:00:55+00:00"
  },
  "archive": [
   {

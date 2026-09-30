@@ -1,20 +1,20 @@
 {
- "at": "2026-09-30T21:00:48+00:00",
+ "at": "2026-09-30T23:00:49+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 2건). 10-01 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 13,
-  "alerts": 2,
-  "since": "2026-09-30T01:00:45+00:00",
+  "items": 0,
+  "alerts": 0,
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36776553483",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36788764591",
  "results": [
   {
    "site_id": "hanwhain",
