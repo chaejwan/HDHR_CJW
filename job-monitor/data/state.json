@@ -1126,8 +1126,8 @@
      "first_seen": "2026-09-29T11:00:36+00:00"
     }
    },
-   "last_check": "2026-09-30T01:00:33+00:00",
-   "last_success": "2026-09-30T01:00:33+00:00",
+   "last_check": "2026-09-30T02:11:16+00:00",
+   "last_success": "2026-09-30T02:11:16+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1135,6 +1135,16 @@
    "fingerprint": "099710f9059bc82d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T02:11:16+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T01:00:33+00:00",
      "status": "ok",
@@ -1485,22 +1495,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T15:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "'26년 하반기 신입사원(엔지니어/R&D) 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19809",
-       "date": "2026.10.14 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -4708,8 +4702,8 @@
      "first_seen": "2026-09-29T15:00:42+00:00"
     }
    },
-   "last_check": "2026-09-30T01:00:35+00:00",
-   "last_success": "2026-09-30T01:00:35+00:00",
+   "last_check": "2026-09-30T02:11:18+00:00",
+   "last_success": "2026-09-30T02:11:18+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4717,6 +4711,16 @@
    "fingerprint": "b7bc2375c4f5d79e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T02:11:18+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-30T01:00:35+00:00",
      "status": "ok",
@@ -5011,16 +5015,6 @@
      "item_count": 23,
      "error": "",
      "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T15:00:38+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다. 이전에 기억하던 461건과 겹치는 공고가 없어, 지금 23건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -6561,15 +6555,25 @@
      "first_seen": "2026-09-30T01:00:40+00:00"
     }
    },
-   "last_check": "2026-09-30T01:00:40+00:00",
-   "last_success": "2026-09-30T01:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-09-30T02:11:24+00:00",
+   "last_success": "2026-09-30T02:11:24+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
    "fingerprint": "df46a8f7cdf9dedd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T02:11:24+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T01:00:40+00:00",
      "status": "new",
@@ -6958,22 +6962,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T15:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "Pre-SKALA with AI해커톤 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262013",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -8627,15 +8615,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-30T01:00:41+00:00",
-   "last_success": "2026-09-30T01:00:41+00:00",
+   "last_check": "2026-09-30T02:11:25+00:00",
+   "last_success": "2026-09-30T02:11:25+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 65,
-   "fingerprint": "aa16f1664de37379",
+   "fingerprint": "e68949e48873cd47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T02:11:25+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 65,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T01:00:41+00:00",
      "status": "ok",
@@ -8931,16 +8929,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-27T15:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8949,8 +8937,8 @@
     "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
     "[계약직] 울산공장 산업간호사",
     "[계약직] 고양하이테크센터 드라이버",
-    "[계약직] 의전안내 (아산공장)",
-    "[계약직] 예비군중대 사무원 (아산공장)"
+    "[아르바이트] 채용지원(남양)",
+    "[계약직] 행정지원 (장애인 제한경쟁)"
    ],
    "health": {
     "issue": "",
@@ -9514,8 +9502,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-30T01:00:44+00:00",
-   "last_success": "2026-09-30T01:00:44+00:00",
+   "last_check": "2026-09-30T02:11:32+00:00",
+   "last_success": "2026-09-30T02:11:32+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9523,6 +9511,16 @@
    "fingerprint": "f89ce00c62f20150",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T02:11:32+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T01:00:44+00:00",
      "status": "ok",
@@ -9805,16 +9803,6 @@
     },
     {
      "at": "2026-09-27T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-27T15:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
