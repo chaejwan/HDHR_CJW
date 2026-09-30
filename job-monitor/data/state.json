@@ -1156,8 +1156,8 @@
      "first_seen": "2026-09-30T09:00:35+00:00"
     }
    },
-   "last_check": "2026-09-30T19:00:40+00:00",
-   "last_success": "2026-09-30T19:00:40+00:00",
+   "last_check": "2026-09-30T21:00:36+00:00",
+   "last_success": "2026-09-30T21:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1165,6 +1165,16 @@
    "fingerprint": "860a6f29db42cf6d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T21:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T19:00:40+00:00",
      "status": "ok",
@@ -1517,16 +1527,6 @@
      "new_count": 0,
      "item_count": 0,
      "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T09:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
      "note": "",
      "new": []
     }
@@ -4832,8 +4832,8 @@
      "first_seen": "2026-09-30T15:00:44+00:00"
     }
    },
-   "last_check": "2026-09-30T19:00:41+00:00",
-   "last_success": "2026-09-30T19:00:41+00:00",
+   "last_check": "2026-09-30T21:00:37+00:00",
+   "last_success": "2026-09-30T21:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4841,6 +4841,16 @@
    "fingerprint": "c2a55a3f57f9340a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T21:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-09-30T19:00:41+00:00",
      "status": "ok",
@@ -5123,16 +5133,6 @@
     },
     {
      "at": "2026-09-28T11:03:06+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 24,
-     "error": "",
-     "note": "32개 중 필터를 통과한 24개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T09:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6709,8 +6709,8 @@
      "first_seen": "2026-09-30T15:00:49+00:00"
     }
    },
-   "last_check": "2026-09-30T19:00:43+00:00",
-   "last_success": "2026-09-30T19:00:43+00:00",
+   "last_check": "2026-09-30T21:00:42+00:00",
+   "last_success": "2026-09-30T21:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6718,6 +6718,16 @@
    "fingerprint": "39ea6c45ba02f497",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T21:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T19:00:43+00:00",
      "status": "ok",
@@ -7098,16 +7108,6 @@
     },
     {
      "at": "2026-09-28T11:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T09:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8768,8 +8768,8 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-09-30T19:00:44+00:00",
-   "last_success": "2026-09-30T19:00:44+00:00",
+   "last_check": "2026-09-30T21:00:44+00:00",
+   "last_success": "2026-09-30T21:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8777,6 +8777,16 @@
    "fingerprint": "9b308f9373d9c1ae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T21:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T19:00:44+00:00",
      "status": "ok",
@@ -9065,16 +9075,6 @@
     },
     {
      "at": "2026-09-28T11:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T09:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9655,8 +9655,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-09-30T19:00:46+00:00",
-   "last_success": "2026-09-30T19:00:46+00:00",
+   "last_check": "2026-09-30T21:00:46+00:00",
+   "last_success": "2026-09-30T21:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9664,6 +9664,16 @@
    "fingerprint": "5eb58698286b3afe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-09-30T21:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-09-30T19:00:46+00:00",
      "status": "ok",
@@ -9946,16 +9956,6 @@
     },
     {
      "at": "2026-09-28T11:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T09:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
