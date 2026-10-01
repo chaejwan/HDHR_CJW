@@ -1,7 +1,7 @@
 {
- "at": "2026-10-01T09:00:51+00:00",
+ "at": "2026-10-01T11:00:49+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-10-01T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36839927347",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36852648962",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,56 +45,24 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 99,
+   "status": "ok",
+   "item_count": 100,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262124",
-     "date": ""
-    },
-    {
-     "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262125",
-     "date": ""
-    },
-    {
-     "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262126",
-     "date": ""
-    },
-    {
-     "title": "Quality Assurance 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262123",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 66,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 포항하이테크센터 파츠딜리버리",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
-     "date": "20261011"
-    },
-    {
-     "title": "[계약직] 남부하이테크센터 파츠딜리버리",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
-     "date": "20261011"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
