@@ -1186,8 +1186,8 @@
      "first_seen": "2026-10-01T15:00:40+00:00"
     }
    },
-   "last_check": "2026-10-01T21:00:45+00:00",
-   "last_success": "2026-10-01T21:00:45+00:00",
+   "last_check": "2026-10-01T23:00:47+00:00",
+   "last_success": "2026-10-01T23:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1195,6 +1195,16 @@
    "fingerprint": "a6eabcf1ea56dbce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T23:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T21:00:45+00:00",
      "status": "ok",
@@ -1539,27 +1549,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T11:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 레이다 양산사업 프로젝트계약직 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19884",
-       "date": "2026.10.11 23:59"
-      },
-      {
-       "title": "[한화생명] 마케팅추진팀 'GA 운영전략 담당' 경력채용(대리~과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
-       "date": "2026.10.16 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -4959,8 +4948,8 @@
      "first_seen": "2026-10-01T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-01T21:00:46+00:00",
-   "last_success": "2026-10-01T21:00:46+00:00",
+   "last_check": "2026-10-01T23:00:48+00:00",
+   "last_success": "2026-10-01T23:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4968,6 +4957,16 @@
    "fingerprint": "b780c55d7568d950",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T23:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-01T21:00:46+00:00",
      "status": "ok",
@@ -5250,16 +5249,6 @@
     },
     {
      "at": "2026-09-29T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6890,8 +6879,8 @@
      "first_seen": "2026-10-01T09:00:46+00:00"
     }
    },
-   "last_check": "2026-10-01T21:00:50+00:00",
-   "last_success": "2026-10-01T21:00:50+00:00",
+   "last_check": "2026-10-01T23:00:49+00:00",
+   "last_success": "2026-10-01T23:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6899,6 +6888,16 @@
    "fingerprint": "0f2d7b985df8f70b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T23:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T21:00:50+00:00",
      "status": "ok",
@@ -7295,16 +7294,6 @@
     },
     {
      "at": "2026-09-29T13:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8977,8 +8966,8 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-01T21:00:52+00:00",
-   "last_success": "2026-10-01T21:00:52+00:00",
+   "last_check": "2026-10-01T23:00:50+00:00",
+   "last_success": "2026-10-01T23:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8986,6 +8975,16 @@
    "fingerprint": "377f77f78dedc9f5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T23:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T21:00:52+00:00",
      "status": "ok",
@@ -9279,16 +9278,6 @@
     },
     {
      "at": "2026-09-29T13:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9869,8 +9858,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-01T21:00:54+00:00",
-   "last_success": "2026-10-01T21:00:54+00:00",
+   "last_check": "2026-10-01T23:00:52+00:00",
+   "last_success": "2026-10-01T23:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9878,6 +9867,16 @@
    "fingerprint": "c1d2de7c4f913fd5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T23:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T21:00:54+00:00",
      "status": "ok",
@@ -10167,16 +10166,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10195,176 +10184,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "기술운영/시운전 Part (경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262112",
-    "date": "",
-    "found_at": "2026-10-01T01:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[품질보증실] 대전/순천 사업장 전문직 채용(인턴)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
-    "date": "2026.10.11 12:59",
-    "found_at": "2026-10-01T02:13:27+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[HR실] 해외 주재원 Payroll 담당자 채용(계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19890",
-    "date": "2026.10.11 23:59",
-    "found_at": "2026-10-01T02:13:27+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[신입] SK바이오텍 품질관리 실험원 신입사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262110",
-    "date": "",
-    "found_at": "2026-10-01T02:13:27+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 품질관리원(QC) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262111",
-    "date": "",
-    "found_at": "2026-10-01T02:13:27+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262116",
-    "date": "",
-    "found_at": "2026-10-01T05:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
-    "date": "2026.10.11 12:59",
-    "found_at": "2026-10-01T07:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "MSSQL DBA 경력사원 채용 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
-    "date": "2026.10.18 23:59",
-    "found_at": "2026-10-01T07:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262119",
-    "date": "",
-    "found_at": "2026-10-01T07:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262124",
-    "date": "",
-    "found_at": "2026-10-01T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262125",
-    "date": "",
-    "found_at": "2026-10-01T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262126",
-    "date": "",
-    "found_at": "2026-10-01T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Quality Assurance 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262123",
-    "date": "",
-    "found_at": "2026-10-01T09:00:51+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 포항하이테크센터 파츠딜리버리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
-    "date": "20261011",
-    "found_at": "2026-10-01T09:00:51+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 남부하이테크센터 파츠딜리버리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
-    "date": "20261011",
-    "found_at": "2026-10-01T09:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 관리회계 담당 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19893",
-    "date": "2026.10.18 23:59",
-    "found_at": "2026-10-01T15:00:53+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-10-01T01:00:50+00:00",
-  "last_sent": "2026-09-30T23:00:55+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-10-01T23:00:59+00:00"
  },
  "archive": [
   {
