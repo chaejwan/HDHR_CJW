@@ -1,32 +1,43 @@
 {
- "at": "2026-10-01T01:00:50+00:00",
+ "at": "2026-10-01T02:13:27+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 10-02 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-02 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 1,
+  "items": 5,
   "alerts": 0,
   "since": "2026-10-01T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36798983126",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36804791060",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 70,
+   "status": "new",
+   "item_count": 72,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[품질보증실] 대전/순천 사업장 전문직 채용(인턴)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
+     "date": "2026.10.11 12:59"
+    },
+    {
+     "title": "[HR실] 해외 주재원 Payroll 담당자 채용(계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19890",
+     "date": "2026.10.11 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,14 +57,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 92,
+   "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "기술운영/시운전 Part (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262112",
+     "title": "[신입] SK바이오텍 품질관리 실험원 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262110",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 품질관리원(QC) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262111",
      "date": ""
     }
    ]
