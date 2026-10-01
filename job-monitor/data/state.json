@@ -1180,15 +1180,25 @@
      "first_seen": "2026-10-01T07:00:33+00:00"
     }
    },
-   "last_check": "2026-10-01T07:00:33+00:00",
-   "last_success": "2026-10-01T07:00:33+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-01T09:00:40+00:00",
+   "last_success": "2026-10-01T09:00:40+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
    "fingerprint": "39a361903ad7d496",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T07:00:33+00:00",
      "status": "new",
@@ -1558,16 +1568,6 @@
     },
     {
      "at": "2026-09-28T23:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 64,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T21:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4878,8 +4878,8 @@
      "first_seen": "2026-09-30T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-01T07:00:34+00:00",
-   "last_success": "2026-10-01T07:00:34+00:00",
+   "last_check": "2026-10-01T09:00:41+00:00",
+   "last_success": "2026-10-01T09:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4887,6 +4887,16 @@
    "fingerprint": "c2a55a3f57f9340a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T09:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-01T07:00:34+00:00",
      "status": "ok",
@@ -5169,16 +5179,6 @@
     },
     {
      "at": "2026-09-28T23:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6783,17 +6783,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262119",
      "date": "",
      "first_seen": "2026-10-01T07:00:39+00:00"
+    },
+    "6d83e40a2cbbf063": {
+     "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262124",
+     "date": "",
+     "first_seen": "2026-10-01T09:00:46+00:00"
+    },
+    "62a7758b5b0b1c16": {
+     "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262125",
+     "date": "",
+     "first_seen": "2026-10-01T09:00:46+00:00"
+    },
+    "73d5a5e8f9b7bf14": {
+     "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262126",
+     "date": "",
+     "first_seen": "2026-10-01T09:00:46+00:00"
+    },
+    "9858d06f8483f3ec": {
+     "title": "Quality Assurance 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262123",
+     "date": "",
+     "first_seen": "2026-10-01T09:00:46+00:00"
     }
    },
-   "last_check": "2026-10-01T07:00:39+00:00",
-   "last_success": "2026-10-01T07:00:39+00:00",
+   "last_check": "2026-10-01T09:00:46+00:00",
+   "last_success": "2026-10-01T09:00:46+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "4609fd530d7f67f7",
+   "item_count": 99,
+   "fingerprint": "bf0f6a91f5049f59",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T09:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262124",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262125",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262126",
+       "date": ""
+      },
+      {
+       "title": "Quality Assurance 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262123",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-01T07:00:39+00:00",
      "status": "new",
@@ -7210,16 +7265,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7236,7 +7281,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T07:00:39+00:00"
+   "last_new_at": "2026-10-01T09:00:46+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8871,17 +8916,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
      "date": "20261008",
      "first_seen": "2026-09-29T07:00:46+00:00"
+    },
+    "eba4c8d019a4eff0": {
+     "title": "[계약직] 포항하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
+     "date": "20261011",
+     "first_seen": "2026-10-01T09:00:47+00:00"
+    },
+    "5c1fe61598d93eb1": {
+     "title": "[계약직] 남부하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
+     "date": "20261011",
+     "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-01T07:00:40+00:00",
-   "last_success": "2026-10-01T07:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-01T09:00:47+00:00",
+   "last_success": "2026-10-01T09:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 64,
-   "fingerprint": "cfc6358d8430c959",
+   "item_count": 66,
+   "fingerprint": "52825edc033a636b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T09:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 포항하이테크센터 파츠딜리버리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
+       "date": "20261011"
+      },
+      {
+       "title": "[계약직] 남부하이테크센터 파츠딜리버리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
+       "date": "20261011"
+      }
+     ]
+    },
     {
      "at": "2026-10-01T07:00:40+00:00",
      "status": "ok",
@@ -9177,16 +9255,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9203,7 +9271,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-29T07:00:46+00:00"
+   "last_new_at": "2026-10-01T09:00:47+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -9760,8 +9828,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-01T07:00:43+00:00",
-   "last_success": "2026-10-01T07:00:43+00:00",
+   "last_check": "2026-10-01T09:00:49+00:00",
+   "last_success": "2026-10-01T09:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9769,6 +9837,16 @@
    "fingerprint": "5eb58698286b3afe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T09:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T07:00:43+00:00",
      "status": "ok",
@@ -10058,16 +10136,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10167,6 +10235,60 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262119",
     "date": "",
     "found_at": "2026-10-01T07:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262124",
+    "date": "",
+    "found_at": "2026-10-01T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262125",
+    "date": "",
+    "found_at": "2026-10-01T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262126",
+    "date": "",
+    "found_at": "2026-10-01T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Quality Assurance 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262123",
+    "date": "",
+    "found_at": "2026-10-01T09:00:51+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 포항하이테크센터 파츠딜리버리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
+    "date": "20261011",
+    "found_at": "2026-10-01T09:00:51+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 남부하이테크센터 파츠딜리버리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
+    "date": "20261011",
+    "found_at": "2026-10-01T09:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -10174,60 +10296,6 @@
   "last_sent": "2026-09-30T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "생산기술 (남양연구소)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=153",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "상품전략/MI (Market Intelligence)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=134",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "상품기획/운영",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=140",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "상용차 시작/파이롯트 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=178",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "상용차 부품 구매/개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=177",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "상용 특장 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=150",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14673,6 +14741,60 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262119",
    "date": "",
    "found_at": "2026-10-01T07:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262124",
+   "date": "",
+   "found_at": "2026-10-01T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262125",
+   "date": "",
+   "found_at": "2026-10-01T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262126",
+   "date": "",
+   "found_at": "2026-10-01T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Quality Assurance 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262123",
+   "date": "",
+   "found_at": "2026-10-01T09:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 포항하이테크센터 파츠딜리버리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
+   "date": "20261011",
+   "found_at": "2026-10-01T09:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 남부하이테크센터 파츠딜리버리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
+   "date": "20261011",
+   "found_at": "2026-10-01T09:00:51+00:00"
   }
  ]
 }
