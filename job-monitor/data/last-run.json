@@ -1,32 +1,43 @@
 {
- "at": "2026-10-01T05:00:44+00:00",
+ "at": "2026-10-01T07:00:44+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 10-02 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 10-02 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 9,
   "alerts": 0,
   "since": "2026-10-01T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36817744439",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36827860948",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 72,
+   "status": "new",
+   "item_count": 73,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
+     "date": "2026.10.11 12:59"
+    },
+    {
+     "title": "MSSQL DBA 경력사원 채용 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
+     "date": "2026.10.18 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,8 +63,8 @@
    "error": "",
    "new_items": [
     {
-     "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262116",
+     "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262119",
      "date": ""
     }
    ]
@@ -64,7 +75,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 63,
+   "item_count": 64,
    "method": "json",
    "note": "",
    "error": "",

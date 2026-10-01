@@ -1166,17 +1166,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19890",
      "date": "2026.10.11 23:59",
      "first_seen": "2026-10-01T02:13:20+00:00"
+    },
+    "f62928bdae732e13": {
+     "title": "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
+     "date": "2026.10.11 12:59",
+     "first_seen": "2026-10-01T07:00:33+00:00"
+    },
+    "6229616b83e60a1e": {
+     "title": "MSSQL DBA 경력사원 채용 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-01T07:00:33+00:00"
     }
    },
-   "last_check": "2026-10-01T05:00:35+00:00",
-   "last_success": "2026-10-01T05:00:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-01T07:00:33+00:00",
+   "last_success": "2026-10-01T07:00:33+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 72,
-   "fingerprint": "91353c8db5a30306",
+   "item_count": 73,
+   "fingerprint": "39a361903ad7d496",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T07:00:33+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
+       "date": "2026.10.11 12:59"
+      },
+      {
+       "title": "MSSQL DBA 경력사원 채용 (계약직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
+       "date": "2026.10.18 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-01T05:00:35+00:00",
      "status": "ok",
@@ -1542,16 +1575,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 64,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1568,7 +1591,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T02:13:20+00:00"
+   "last_new_at": "2026-10-01T07:00:33+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -4855,8 +4878,8 @@
      "first_seen": "2026-09-30T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-01T05:00:36+00:00",
-   "last_success": "2026-10-01T05:00:36+00:00",
+   "last_check": "2026-10-01T07:00:34+00:00",
+   "last_success": "2026-10-01T07:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4864,6 +4887,16 @@
    "fingerprint": "c2a55a3f57f9340a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T07:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-01T05:00:36+00:00",
      "status": "ok",
@@ -5146,16 +5179,6 @@
     },
     {
      "at": "2026-09-28T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T19:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6754,17 +6777,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262116",
      "date": "",
      "first_seen": "2026-10-01T05:00:39+00:00"
+    },
+    "fb313fe562a33209": {
+     "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262119",
+     "date": "",
+     "first_seen": "2026-10-01T07:00:39+00:00"
     }
    },
-   "last_check": "2026-10-01T05:00:39+00:00",
-   "last_success": "2026-10-01T05:00:39+00:00",
+   "last_check": "2026-10-01T07:00:39+00:00",
+   "last_success": "2026-10-01T07:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "8581bafe4b221769",
+   "fingerprint": "4609fd530d7f67f7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262119",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-01T05:00:39+00:00",
      "status": "new",
@@ -7175,33 +7220,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
     "보안침해위협 분석/대응 및 AI 기반 탐지 고도화 전문가",
     "L HOUSE 완제생산실(이물검사) 신입/경력 계약직 사원 3차 채용 공고",
     "제조 AI 컨설턴트 (경력)",
-    "PI 컨설턴트 (경력)"
+    "PI 컨설턴트 (경력)",
+    "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 4차 채용 공고"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T05:00:39+00:00"
+   "last_new_at": "2026-10-01T07:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8838,15 +8873,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-10-01T05:00:40+00:00",
-   "last_success": "2026-10-01T05:00:40+00:00",
+   "last_check": "2026-10-01T07:00:40+00:00",
+   "last_success": "2026-10-01T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 63,
-   "fingerprint": "4db31a8831b943d8",
+   "item_count": 64,
+   "fingerprint": "cfc6358d8430c959",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 64,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T05:00:40+00:00",
      "status": "ok",
@@ -9135,16 +9180,6 @@
     },
     {
      "at": "2026-09-28T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T19:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9725,8 +9760,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-01T05:00:42+00:00",
-   "last_success": "2026-10-01T05:00:42+00:00",
+   "last_check": "2026-10-01T07:00:43+00:00",
+   "last_success": "2026-10-01T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9734,6 +9769,16 @@
    "fingerprint": "5eb58698286b3afe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T05:00:42+00:00",
      "status": "ok",
@@ -10023,16 +10068,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T19:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10105,6 +10140,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262116",
     "date": "",
     "found_at": "2026-10-01T05:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
+    "date": "2026.10.11 12:59",
+    "found_at": "2026-10-01T07:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "MSSQL DBA 경력사원 채용 (계약직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-01T07:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262119",
+    "date": "",
+    "found_at": "2026-10-01T07:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -10112,33 +10174,6 @@
   "last_sent": "2026-09-30T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "생산기술 (의왕연구소)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=154",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "생산기술 (울산공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=145",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "생산기술 (아산공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=148",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14611,6 +14646,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262116",
    "date": "",
    "found_at": "2026-10-01T05:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19877",
+   "date": "2026.10.11 12:59",
+   "found_at": "2026-10-01T07:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "MSSQL DBA 경력사원 채용 (계약직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-01T07:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262119",
+   "date": "",
+   "found_at": "2026-10-01T07:00:44+00:00"
   }
  ]
 }
