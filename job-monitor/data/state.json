@@ -1168,15 +1168,25 @@
      "first_seen": "2026-10-01T02:13:20+00:00"
     }
    },
-   "last_check": "2026-10-01T02:13:20+00:00",
-   "last_success": "2026-10-01T02:13:20+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-01T05:00:35+00:00",
+   "last_success": "2026-10-01T05:00:35+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 72,
    "fingerprint": "91353c8db5a30306",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T02:13:20+00:00",
      "status": "new",
@@ -1535,16 +1545,6 @@
     },
     {
      "at": "2026-09-28T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 64,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T17:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -4855,8 +4855,8 @@
      "first_seen": "2026-09-30T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-01T02:13:21+00:00",
-   "last_success": "2026-10-01T02:13:21+00:00",
+   "last_check": "2026-10-01T05:00:36+00:00",
+   "last_success": "2026-10-01T05:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4864,6 +4864,16 @@
    "fingerprint": "c2a55a3f57f9340a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T05:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-01T02:13:21+00:00",
      "status": "ok",
@@ -5146,16 +5156,6 @@
     },
     {
      "at": "2026-09-28T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T17:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6748,17 +6748,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262111",
      "date": "",
      "first_seen": "2026-10-01T02:13:23+00:00"
+    },
+    "15b1fa7ed15f58a2": {
+     "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262116",
+     "date": "",
+     "first_seen": "2026-10-01T05:00:39+00:00"
     }
    },
-   "last_check": "2026-10-01T02:13:23+00:00",
-   "last_success": "2026-10-01T02:13:23+00:00",
+   "last_check": "2026-10-01T05:00:39+00:00",
+   "last_success": "2026-10-01T05:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "91d735714f989676",
+   "item_count": 95,
+   "fingerprint": "8581bafe4b221769",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T05:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262116",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-01T02:13:23+00:00",
      "status": "new",
@@ -7163,16 +7185,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 85,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7189,7 +7201,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T02:13:23+00:00"
+   "last_new_at": "2026-10-01T05:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8826,15 +8838,25 @@
      "first_seen": "2026-09-29T07:00:46+00:00"
     }
    },
-   "last_check": "2026-10-01T02:13:24+00:00",
-   "last_success": "2026-10-01T02:13:24+00:00",
+   "last_check": "2026-10-01T05:00:40+00:00",
+   "last_success": "2026-10-01T05:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 63,
-   "fingerprint": "daf280507cf999ff",
+   "fingerprint": "4db31a8831b943d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T05:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T02:13:24+00:00",
      "status": "ok",
@@ -9123,16 +9145,6 @@
     },
     {
      "at": "2026-09-28T19:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-28T17:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9713,8 +9725,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-01T02:13:26+00:00",
-   "last_success": "2026-10-01T02:13:26+00:00",
+   "last_check": "2026-10-01T05:00:42+00:00",
+   "last_success": "2026-10-01T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9722,6 +9734,16 @@
    "fingerprint": "5eb58698286b3afe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T02:13:26+00:00",
      "status": "ok",
@@ -10011,16 +10033,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-28T17:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10084,6 +10096,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262111",
     "date": "",
     "found_at": "2026-10-01T02:13:27+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262116",
+    "date": "",
+    "found_at": "2026-10-01T05:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -10091,15 +10112,6 @@
   "last_sent": "2026-09-30T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "생산기술 (전주공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=152",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14590,6 +14602,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262111",
    "date": "",
    "found_at": "2026-10-01T02:13:27+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262116",
+   "date": "",
+   "found_at": "2026-10-01T05:00:44+00:00"
   }
  ]
 }
