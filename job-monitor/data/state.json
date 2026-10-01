@@ -1186,8 +1186,8 @@
      "first_seen": "2026-10-01T15:00:40+00:00"
     }
    },
-   "last_check": "2026-10-01T19:00:42+00:00",
-   "last_success": "2026-10-01T19:00:42+00:00",
+   "last_check": "2026-10-01T21:00:45+00:00",
+   "last_success": "2026-10-01T21:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1195,6 +1195,16 @@
    "fingerprint": "a6eabcf1ea56dbce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T21:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T19:00:42+00:00",
      "status": "ok",
@@ -1547,37 +1557,6 @@
       {
        "title": "[한화생명] 마케팅추진팀 'GA 운영전략 담당' 경력채용(대리~과장급)",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
-       "date": "2026.10.16 15:00"
-      }
-     ]
-    },
-    {
-     "at": "2026-09-29T09:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 69,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19876",
-       "date": "2026.10.11 23:59"
-      },
-      {
-       "title": "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19881",
-       "date": "2026.10.13 17:30"
-      },
-      {
-       "title": "[한화생명] 마케팅추진팀 GA 운영전략 직무 경력채용(대리~과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19882",
-       "date": "2026.10.16 15:00"
-      },
-      {
-       "title": "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19880",
        "date": "2026.10.16 15:00"
       }
      ]
@@ -4980,8 +4959,8 @@
      "first_seen": "2026-10-01T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-01T19:00:43+00:00",
-   "last_success": "2026-10-01T19:00:43+00:00",
+   "last_check": "2026-10-01T21:00:46+00:00",
+   "last_success": "2026-10-01T21:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4989,6 +4968,16 @@
    "fingerprint": "b780c55d7568d950",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T21:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-01T19:00:43+00:00",
      "status": "ok",
@@ -5271,16 +5260,6 @@
     },
     {
      "at": "2026-09-29T11:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T09:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6911,8 +6890,8 @@
      "first_seen": "2026-10-01T09:00:46+00:00"
     }
    },
-   "last_check": "2026-10-01T19:00:45+00:00",
-   "last_success": "2026-10-01T19:00:45+00:00",
+   "last_check": "2026-10-01T21:00:50+00:00",
+   "last_success": "2026-10-01T21:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6920,6 +6899,16 @@
    "fingerprint": "0f2d7b985df8f70b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T21:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T19:00:45+00:00",
      "status": "ok",
@@ -7323,22 +7312,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T09:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "미래전략/CR정책/투자전략 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262099",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9004,8 +8977,8 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-01T19:00:46+00:00",
-   "last_success": "2026-10-01T19:00:46+00:00",
+   "last_check": "2026-10-01T21:00:52+00:00",
+   "last_success": "2026-10-01T21:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9013,6 +8986,16 @@
    "fingerprint": "377f77f78dedc9f5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T21:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T19:00:46+00:00",
      "status": "ok",
@@ -9306,16 +9289,6 @@
     },
     {
      "at": "2026-09-29T11:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T09:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9896,8 +9869,8 @@
      "first_seen": "2026-09-22T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-01T19:00:48+00:00",
-   "last_success": "2026-10-01T19:00:48+00:00",
+   "last_check": "2026-10-01T21:00:54+00:00",
+   "last_success": "2026-10-01T21:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9905,6 +9878,16 @@
    "fingerprint": "c1d2de7c4f913fd5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-01T21:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T19:00:48+00:00",
      "status": "ok",
@@ -10187,16 +10170,6 @@
     },
     {
      "at": "2026-09-29T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T09:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
