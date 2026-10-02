@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-02T11:00:38+00:00",
-   "last_success": "2026-10-02T11:00:38+00:00",
+   "last_check": "2026-10-02T13:00:39+00:00",
+   "last_success": "2026-10-02T13:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "62c768cebf2277b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T13:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T11:00:38+00:00",
      "status": "ok",
@@ -1578,16 +1588,6 @@
     },
     {
      "at": "2026-09-30T02:11:16+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-30T01:00:33+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5000,8 +5000,8 @@
      "first_seen": "2026-10-02T07:00:37+00:00"
     }
    },
-   "last_check": "2026-10-02T11:00:39+00:00",
-   "last_success": "2026-10-02T11:00:39+00:00",
+   "last_check": "2026-10-02T13:00:40+00:00",
+   "last_success": "2026-10-02T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5009,6 +5009,16 @@
    "fingerprint": "60dd946dd6af2f99",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-02T11:00:39+00:00",
      "status": "ok",
@@ -5297,16 +5307,6 @@
     },
     {
      "at": "2026-09-30T02:11:18+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-30T01:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6979,8 +6979,8 @@
      "first_seen": "2026-10-02T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-02T11:00:44+00:00",
-   "last_success": "2026-10-02T11:00:44+00:00",
+   "last_check": "2026-10-02T13:00:42+00:00",
+   "last_success": "2026-10-02T13:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -6988,6 +6988,16 @@
    "fingerprint": "60afbed679b89df0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T13:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 110,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T11:00:44+00:00",
      "status": "ok",
@@ -7394,32 +7404,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-30T01:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262095",
-       "date": ""
-      },
-      {
-       "title": "DC(데이터센터) 운용 기계 전문가 영입 (울산)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262094",
-       "date": ""
-      },
-      {
-       "title": "사업개발 담당자 - 자동차 부문/TMAP 인포테인먼트",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262101",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9085,8 +9069,8 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-02T11:00:45+00:00",
-   "last_success": "2026-10-02T11:00:45+00:00",
+   "last_check": "2026-10-02T13:00:43+00:00",
+   "last_success": "2026-10-02T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9094,6 +9078,16 @@
    "fingerprint": "e80034a7532ac153",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T11:00:45+00:00",
      "status": "ok",
@@ -9387,16 +9381,6 @@
     },
     {
      "at": "2026-09-30T02:11:25+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-30T01:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9989,8 +9973,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-02T11:00:47+00:00",
-   "last_success": "2026-10-02T11:00:47+00:00",
+   "last_check": "2026-10-02T13:00:45+00:00",
+   "last_success": "2026-10-02T13:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9998,6 +9982,16 @@
    "fingerprint": "358aec5b8b1e1c30",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T11:00:47+00:00",
      "status": "ok",
@@ -10291,16 +10285,6 @@
     },
     {
      "at": "2026-09-30T02:11:32+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-30T01:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
