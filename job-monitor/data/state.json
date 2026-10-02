@@ -1184,17 +1184,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19893",
      "date": "2026.10.18 23:59",
      "first_seen": "2026-10-01T15:00:40+00:00"
+    },
+    "b2718800dbaed1d7": {
+     "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
+     "date": "2026.10.15 23:59",
+     "first_seen": "2026-10-02T01:00:35+00:00"
+    },
+    "3cf1e5262a45fe6e": {
+     "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-02T01:00:35+00:00"
+    },
+    "87304ad13914e624": {
+     "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-02T01:00:35+00:00"
     }
    },
-   "last_check": "2026-10-01T23:00:47+00:00",
-   "last_success": "2026-10-01T23:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-02T01:00:35+00:00",
+   "last_success": "2026-10-02T01:00:35+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 73,
-   "fingerprint": "a6eabcf1ea56dbce",
+   "item_count": 76,
+   "fingerprint": "458fe2629a197cfb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T01:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
+       "date": "2026.10.15 23:59"
+      },
+      {
+       "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
+       "date": "2026.10.18 23:59"
+      },
+      {
+       "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
+       "date": "2026.10.18 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-01T23:00:47+00:00",
      "status": "ok",
@@ -1539,16 +1583,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1565,7 +1599,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T15:00:40+00:00"
+   "last_new_at": "2026-10-02T01:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -4948,8 +4982,8 @@
      "first_seen": "2026-10-01T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-01T23:00:48+00:00",
-   "last_success": "2026-10-01T23:00:48+00:00",
+   "last_check": "2026-10-02T01:00:36+00:00",
+   "last_success": "2026-10-02T01:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4957,6 +4991,16 @@
    "fingerprint": "b780c55d7568d950",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T01:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-01T23:00:48+00:00",
      "status": "ok",
@@ -5245,16 +5289,6 @@
      "item_count": 23,
      "error": "",
      "note": "31개 중 필터를 통과한 23개를 사용합니다. 이전에 기억하던 508건과 겹치는 공고가 없어, 지금 23건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
      "new": []
     }
    ],
@@ -6877,17 +6911,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262123",
      "date": "",
      "first_seen": "2026-10-01T09:00:46+00:00"
+    },
+    "17292ebc5653de8f": {
+     "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262128",
+     "date": "",
+     "first_seen": "2026-10-02T01:00:39+00:00"
     }
    },
-   "last_check": "2026-10-01T23:00:49+00:00",
-   "last_success": "2026-10-01T23:00:49+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-02T01:00:39+00:00",
+   "last_success": "2026-10-02T01:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 99,
-   "fingerprint": "0f2d7b985df8f70b",
+   "item_count": 104,
+   "fingerprint": "48294c684fb09b5d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T01:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 104,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262128",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-01T23:00:49+00:00",
      "status": "ok",
@@ -7291,16 +7347,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-09-29T13:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7317,7 +7363,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T09:00:46+00:00"
+   "last_new_at": "2026-10-02T01:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -8966,15 +9012,25 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-01T23:00:50+00:00",
-   "last_success": "2026-10-01T23:00:50+00:00",
+   "last_check": "2026-10-02T01:00:40+00:00",
+   "last_success": "2026-10-02T01:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 66,
-   "fingerprint": "377f77f78dedc9f5",
+   "fingerprint": "a57604657f0dcc4f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T01:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-01T23:00:50+00:00",
      "status": "ok",
@@ -9268,16 +9324,6 @@
     },
     {
      "at": "2026-09-29T15:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T13:00:53+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9856,17 +9902,50 @@
      "url": "https://www.samsungcareers.com/hr/?no=23215",
      "date": "2026.09.22 ~ 2026.10.12",
      "first_seen": "2026-09-22T01:00:45+00:00"
+    },
+    "e7c6d160f5a872a0": {
+     "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
+     "url": "https://www.samsungcareers.com/hr/?no=23284",
+     "date": "2026.10.02 ~ 2026.10.12",
+     "first_seen": "2026-10-02T01:00:42+00:00"
+    },
+    "f5fa4f1d38962ca5": {
+     "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
+     "url": "https://www.samsungcareers.com/hr/?no=23263",
+     "date": "2026.10.02 ~ 2026.10.15",
+     "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-01T23:00:52+00:00",
-   "last_success": "2026-10-01T23:00:52+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-02T01:00:42+00:00",
+   "last_success": "2026-10-02T01:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 3,
-   "fingerprint": "c1d2de7c4f913fd5",
+   "item_count": 5,
+   "fingerprint": "b5f1992f6b12ee41",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T01:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
+       "url": "https://www.samsungcareers.com/hr/?no=23284",
+       "date": "2026.10.02 ~ 2026.10.12"
+      },
+      {
+       "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
+       "url": "https://www.samsungcareers.com/hr/?no=23263",
+       "date": "2026.10.02 ~ 2026.10.15"
+      }
+     ]
+    },
     {
      "at": "2026-10-01T23:00:52+00:00",
      "status": "ok",
@@ -10156,21 +10235,13 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T13:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
+    "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
     "삼성글로벌리서치 분야별 연구원 채용",
     "삼성중공업 프로젝트계약직 경력사원 채용(하이테크시공, 안전, 품질, 설계, 지원)",
     "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
@@ -10180,70 +10251,71 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-09-22T01:00:45+00:00"
+   "last_new_at": "2026-10-02T01:00:42+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
+    "date": "2026.10.15 23:59",
+    "found_at": "2026-10-02T01:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-02T01:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-02T01:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262128",
+    "date": "",
+    "found_at": "2026-10-02T01:00:43+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
+    "url": "https://www.samsungcareers.com/hr/?no=23284",
+    "date": "2026.10.02 ~ 2026.10.12",
+    "found_at": "2026-10-02T01:00:43+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
+    "url": "https://www.samsungcareers.com/hr/?no=23263",
+    "date": "2026.10.02 ~ 2026.10.15",
+    "found_at": "2026-10-02T01:00:43+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-02T01:00:43+00:00",
   "last_sent": "2026-10-01T23:00:59+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "브랜드마케팅/디자인 및 아트기획",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=106",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "미래사업전략 기획/개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=113",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "모빌리티 플랫폼 개발/UX/사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=161",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "로보틱스 기술 및 사업 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=158",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "대외협력",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=90",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "기아 컨텍스트 디자인/엔지니어링 솔루션",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=181",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14689,6 +14761,60 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19893",
    "date": "2026.10.18 23:59",
    "found_at": "2026-10-01T15:00:53+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
+   "date": "2026.10.15 23:59",
+   "found_at": "2026-10-02T01:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-02T01:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-02T01:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262128",
+   "date": "",
+   "found_at": "2026-10-02T01:00:43+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
+   "url": "https://www.samsungcareers.com/hr/?no=23284",
+   "date": "2026.10.02 ~ 2026.10.12",
+   "found_at": "2026-10-02T01:00:43+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
+   "url": "https://www.samsungcareers.com/hr/?no=23263",
+   "date": "2026.10.02 ~ 2026.10.15",
+   "found_at": "2026-10-02T01:00:43+00:00"
   }
  ]
 }
