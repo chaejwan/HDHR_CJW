@@ -1,48 +1,32 @@
 {
- "at": "2026-10-02T01:00:43+00:00",
+ "at": "2026-10-02T02:19:29+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 10-05 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 10-05 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 7,
   "alerts": 0,
   "since": "2026-10-02T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36948822742",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/36955071132",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 76,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
-     "date": "2026.10.15 23:59"
-    },
-    {
-     "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
-     "date": "2026.10.18 23:59"
-    },
-    {
-     "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
-     "date": "2026.10.18 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -62,14 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 104,
+   "item_count": 105,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262128",
+     "title": "3D 디자인 텔레오퍼레이터",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262078",
      "date": ""
     }
    ]
@@ -80,7 +64,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 66,
+   "item_count": 65,
    "method": "json",
    "note": "",
    "error": "",
@@ -91,23 +75,12 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
+   "status": "ok",
    "item_count": 5,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
-     "url": "https://www.samsungcareers.com/hr/?no=23284",
-     "date": "2026.10.02 ~ 2026.10.12"
-    },
-    {
-     "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
-     "url": "https://www.samsungcareers.com/hr/?no=23263",
-     "date": "2026.10.02 ~ 2026.10.15"
-    }
-   ]
+   "new_items": []
   }
  ]
 }
