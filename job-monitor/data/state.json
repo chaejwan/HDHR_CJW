@@ -1204,15 +1204,25 @@
      "first_seen": "2026-10-02T01:00:35+00:00"
     }
    },
-   "last_check": "2026-10-02T02:19:20+00:00",
+   "last_check": "2026-10-02T05:00:34+00:00",
    "last_success": "2026-10-02T02:19:20+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 76,
    "fingerprint": "458fe2629a197cfb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T05:00:34+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T02:19:20+00:00",
      "status": "ok",
@@ -1573,20 +1583,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T17:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
     "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
@@ -4982,8 +4982,8 @@
      "first_seen": "2026-10-01T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-02T02:19:21+00:00",
-   "last_success": "2026-10-02T02:19:21+00:00",
+   "last_check": "2026-10-02T05:03:01+00:00",
+   "last_success": "2026-10-02T05:03:01+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -4991,6 +4991,16 @@
    "fingerprint": "b780c55d7568d950",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T05:03:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-02T02:19:21+00:00",
      "status": "ok",
@@ -5273,16 +5283,6 @@
     },
     {
      "at": "2026-09-29T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T17:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6923,17 +6923,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262078",
      "date": "",
      "first_seen": "2026-10-02T02:19:24+00:00"
+    },
+    "6b94977ae71f4d86": {
+     "title": "[SK케미칼] 의약품 생산공정관리 담당자 경력 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262113",
+     "date": "",
+     "first_seen": "2026-10-02T05:03:06+00:00"
     }
    },
-   "last_check": "2026-10-02T02:19:24+00:00",
-   "last_success": "2026-10-02T02:19:24+00:00",
+   "last_check": "2026-10-02T05:03:06+00:00",
+   "last_success": "2026-10-02T05:03:06+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 105,
-   "fingerprint": "9cd3a160d67b2811",
+   "item_count": 106,
+   "fingerprint": "a93ae84e540d05c1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T05:03:06+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK케미칼] 의약품 생산공정관리 담당자 경력 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262113",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-02T02:19:24+00:00",
      "status": "new",
@@ -7328,16 +7350,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7354,7 +7366,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-02T02:19:24+00:00"
+   "last_new_at": "2026-10-02T05:03:06+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9003,15 +9015,25 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-02T02:19:25+00:00",
-   "last_success": "2026-10-02T02:19:25+00:00",
+   "last_check": "2026-10-02T05:03:07+00:00",
+   "last_success": "2026-10-02T05:03:07+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 65,
-   "fingerprint": "67fcac855340e4ab",
+   "item_count": 66,
+   "fingerprint": "b68b5e3cddc5f2b4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T05:03:07+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T02:19:25+00:00",
      "status": "ok",
@@ -9305,16 +9327,6 @@
     },
     {
      "at": "2026-09-29T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-09-29T17:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9907,8 +9919,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-02T02:19:27+00:00",
-   "last_success": "2026-10-02T02:19:27+00:00",
+   "last_check": "2026-10-02T05:03:13+00:00",
+   "last_success": "2026-10-02T05:03:13+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -9916,6 +9928,16 @@
    "fingerprint": "b5f1992f6b12ee41",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-02T05:03:13+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-02T02:19:27+00:00",
      "status": "ok",
@@ -10216,16 +10238,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-09-29T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10309,6 +10321,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262078",
     "date": "",
     "found_at": "2026-10-02T02:19:29+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼] 의약품 생산공정관리 담당자 경력 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262113",
+    "date": "",
+    "found_at": "2026-10-02T05:03:15+00:00"
    }
   ],
   "alerts": [],
@@ -10316,15 +10337,6 @@
   "last_sent": "2026-10-01T23:00:59+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "글로벌사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=123",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14815,6 +14827,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262078",
    "date": "",
    "found_at": "2026-10-02T02:19:29+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼] 의약품 생산공정관리 담당자 경력 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262113",
+   "date": "",
+   "found_at": "2026-10-02T05:03:15+00:00"
   }
  ]
 }
