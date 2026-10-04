@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-04T19:00:34+00:00",
-   "last_success": "2026-10-04T19:00:34+00:00",
+   "last_check": "2026-10-04T21:00:37+00:00",
+   "last_success": "2026-10-04T21:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "8ee64ed710ed7d11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T21:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T19:00:34+00:00",
      "status": "ok",
@@ -1508,22 +1518,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T09:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "MSSQL/Oracle DBA 경력사원 채용 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
-       "date": "2026.10.18 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -5235,8 +5229,8 @@
      "first_seen": "2026-10-04T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-04T19:00:36+00:00",
-   "last_success": "2026-10-04T19:00:36+00:00",
+   "last_check": "2026-10-04T21:00:38+00:00",
+   "last_success": "2026-10-04T21:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5244,6 +5238,16 @@
    "fingerprint": "cc383f5b0ed0637d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T21:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-04T19:00:36+00:00",
      "status": "ok",
@@ -5526,16 +5530,6 @@
     },
     {
      "at": "2026-10-02T11:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T09:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7226,8 +7220,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-04T19:00:40+00:00",
-   "last_success": "2026-10-04T19:00:40+00:00",
+   "last_check": "2026-10-04T21:00:44+00:00",
+   "last_success": "2026-10-04T21:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7235,6 +7229,16 @@
    "fingerprint": "95675a994ee253da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T21:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T19:00:40+00:00",
      "status": "ok",
@@ -7540,32 +7544,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T09:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 110,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 하반기 SKALA 신입사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262104",
-       "date": ""
-      },
-      {
-       "title": "정보보안 운영 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262135",
-       "date": ""
-      },
-      {
-       "title": "네트워크 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262136",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9231,8 +9209,8 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-04T19:00:42+00:00",
-   "last_success": "2026-10-04T19:00:42+00:00",
+   "last_check": "2026-10-04T21:00:45+00:00",
+   "last_success": "2026-10-04T21:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9240,6 +9218,16 @@
    "fingerprint": "0bece4555517790a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T21:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T19:00:42+00:00",
      "status": "ok",
@@ -9522,16 +9510,6 @@
     },
     {
      "at": "2026-10-02T11:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T09:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10124,8 +10102,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-04T19:00:44+00:00",
-   "last_success": "2026-10-04T19:00:44+00:00",
+   "last_check": "2026-10-04T21:00:48+00:00",
+   "last_success": "2026-10-04T21:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10133,6 +10111,16 @@
    "fingerprint": "873753b5961b44f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T21:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T19:00:44+00:00",
      "status": "ok",
@@ -10415,16 +10403,6 @@
     },
     {
      "at": "2026-10-02T11:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T09:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
