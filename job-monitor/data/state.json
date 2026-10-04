@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-04T11:00:34+00:00",
-   "last_success": "2026-10-04T11:00:34+00:00",
+   "last_check": "2026-10-04T13:00:36+00:00",
+   "last_success": "2026-10-04T13:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "62c768cebf2277b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T13:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T11:00:34+00:00",
      "status": "ok",
@@ -1514,32 +1524,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T01:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 76,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
-       "date": "2026.10.15 23:59"
-      },
-      {
-       "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
-       "date": "2026.10.18 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -5149,8 +5133,8 @@
      "first_seen": "2026-10-03T15:00:36+00:00"
     }
    },
-   "last_check": "2026-10-04T11:00:36+00:00",
-   "last_success": "2026-10-04T11:00:36+00:00",
+   "last_check": "2026-10-04T13:00:37+00:00",
+   "last_success": "2026-10-04T13:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5158,6 +5142,16 @@
    "fingerprint": "1f80c3ebd6c4b7ae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T13:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-04T11:00:36+00:00",
      "status": "ok",
@@ -5446,16 +5440,6 @@
     },
     {
      "at": "2026-10-02T02:19:21+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T01:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7146,8 +7130,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-04T11:00:42+00:00",
-   "last_success": "2026-10-04T11:00:42+00:00",
+   "last_check": "2026-10-04T13:00:39+00:00",
+   "last_success": "2026-10-04T13:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7155,6 +7139,16 @@
    "fingerprint": "d74b9f2941ea9676",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T13:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 112,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T11:00:42+00:00",
      "status": "ok",
@@ -7491,22 +7485,6 @@
       {
        "title": "3D 디자인 텔레오퍼레이터",
        "url": "https://www.skcareers.com/Recruit/Detail/R262078",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-02T01:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 104,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262128",
        "date": ""
       }
      ]
@@ -9175,15 +9153,25 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-04T11:00:43+00:00",
-   "last_success": "2026-10-04T11:00:43+00:00",
+   "last_check": "2026-10-04T13:00:40+00:00",
+   "last_success": "2026-10-04T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 66,
-   "fingerprint": "20cb7a0da4854b2f",
+   "fingerprint": "08192898619ac018",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T11:00:43+00:00",
      "status": "ok",
@@ -9470,16 +9458,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T01:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
      "error": "",
      "note": "",
      "new": []
@@ -10068,8 +10046,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-04T11:00:46+00:00",
-   "last_success": "2026-10-04T11:00:46+00:00",
+   "last_check": "2026-10-04T13:00:42+00:00",
+   "last_success": "2026-10-04T13:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10077,6 +10055,16 @@
    "fingerprint": "12d4283ba6045764",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T13:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T11:00:46+00:00",
      "status": "ok",
@@ -10366,27 +10354,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T01:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
-       "url": "https://www.samsungcareers.com/hr/?no=23284",
-       "date": "2026.10.02 ~ 2026.10.12"
-      },
-      {
-       "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
-       "url": "https://www.samsungcareers.com/hr/?no=23263",
-       "date": "2026.10.02 ~ 2026.10.15"
-      }
-     ]
     }
    ],
    "last_note": "",
