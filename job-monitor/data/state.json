@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-04T17:00:35+00:00",
-   "last_success": "2026-10-04T17:00:35+00:00",
+   "last_check": "2026-10-04T19:00:34+00:00",
+   "last_success": "2026-10-04T19:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "8ee64ed710ed7d11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T19:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T17:00:35+00:00",
      "status": "ok",
@@ -1514,16 +1524,6 @@
        "date": "2026.10.18 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-02T07:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -5235,8 +5235,8 @@
      "first_seen": "2026-10-04T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-04T17:00:37+00:00",
-   "last_success": "2026-10-04T17:00:37+00:00",
+   "last_check": "2026-10-04T19:00:36+00:00",
+   "last_success": "2026-10-04T19:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5244,6 +5244,16 @@
    "fingerprint": "cc383f5b0ed0637d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T19:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-04T17:00:37+00:00",
      "status": "ok",
@@ -5533,22 +5543,6 @@
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-10-02T07:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": [
-      {
-       "title": "[경영지원] 정보보호 경력사원 채용경력경영지원보안정보보호경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-90",
-       "url": "https://recruit-hanwhaocean.com/ko/o/239417",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "25개 중 필터를 통과한 17개를 사용합니다.",
@@ -7232,8 +7226,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-04T17:00:40+00:00",
-   "last_success": "2026-10-04T17:00:40+00:00",
+   "last_check": "2026-10-04T19:00:40+00:00",
+   "last_success": "2026-10-04T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7241,6 +7235,16 @@
    "fingerprint": "95675a994ee253da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T17:00:40+00:00",
      "status": "ok",
@@ -7559,22 +7563,6 @@
       {
        "title": "네트워크 전문가 영입",
        "url": "https://www.skcareers.com/Recruit/Detail/R262136",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-02T07:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 107,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK케미칼] QC 담당자 경력 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262134",
        "date": ""
       }
      ]
@@ -9243,8 +9231,8 @@
      "first_seen": "2026-10-01T09:00:47+00:00"
     }
    },
-   "last_check": "2026-10-04T17:00:41+00:00",
-   "last_success": "2026-10-04T17:00:41+00:00",
+   "last_check": "2026-10-04T19:00:42+00:00",
+   "last_success": "2026-10-04T19:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9252,6 +9240,16 @@
    "fingerprint": "0bece4555517790a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T19:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T17:00:41+00:00",
      "status": "ok",
@@ -9534,16 +9532,6 @@
     },
     {
      "at": "2026-10-02T09:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T07:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10136,8 +10124,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-04T17:00:43+00:00",
-   "last_success": "2026-10-04T17:00:43+00:00",
+   "last_check": "2026-10-04T19:00:44+00:00",
+   "last_success": "2026-10-04T19:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10145,6 +10133,16 @@
    "fingerprint": "873753b5961b44f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-04T19:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T17:00:43+00:00",
      "status": "ok",
@@ -10431,16 +10429,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T07:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
      "error": "",
      "note": "",
      "new": []
