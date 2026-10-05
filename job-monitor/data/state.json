@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-05T07:00:38+00:00",
-   "last_success": "2026-10-05T07:00:38+00:00",
+   "last_check": "2026-10-05T09:00:38+00:00",
+   "last_success": "2026-10-05T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "b5ed21f7f9080f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T07:00:38+00:00",
      "status": "ok",
@@ -1506,16 +1516,6 @@
      "new_count": 0,
      "item_count": 77,
      "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T21:00:37+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
     }
@@ -5229,8 +5229,8 @@
      "first_seen": "2026-10-04T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-05T07:00:39+00:00",
-   "last_success": "2026-10-05T07:00:39+00:00",
+   "last_check": "2026-10-05T09:00:39+00:00",
+   "last_success": "2026-10-05T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5238,6 +5238,16 @@
    "fingerprint": "cc383f5b0ed0637d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-05T07:00:39+00:00",
      "status": "ok",
@@ -5520,16 +5530,6 @@
     },
     {
      "at": "2026-10-02T23:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T21:03:05+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7220,8 +7220,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-05T07:00:43+00:00",
-   "last_success": "2026-10-05T07:00:43+00:00",
+   "last_check": "2026-10-05T09:00:45+00:00",
+   "last_success": "2026-10-05T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7229,6 +7229,16 @@
    "fingerprint": "95675a994ee253da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T07:00:43+00:00",
      "status": "ok",
@@ -7511,16 +7521,6 @@
     },
     {
      "at": "2026-10-02T23:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 113,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T21:03:08+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9199,15 +9199,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-05T07:00:44+00:00",
-   "last_success": "2026-10-05T07:00:44+00:00",
+   "last_check": "2026-10-05T09:00:46+00:00",
+   "last_success": "2026-10-05T09:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 67,
-   "fingerprint": "7db3c94349ba9d33",
+   "item_count": 66,
+   "fingerprint": "556613c1e503da81",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T09:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T07:00:44+00:00",
      "status": "ok",
@@ -9503,16 +9513,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T21:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9521,8 +9521,8 @@
     "[아르바이트] 채용지원(남양)",
     "[계약직] 행정지원 (장애인 제한경쟁)",
     "[계약직] 울산공장 퇴직연금 운영 담당 채용",
-    "[계약직] 예비군중대 사무원 (아산공장)",
-    "[계약직] 시화하이테크센터 파츠딜리버리"
+    "[계약직] 시화하이테크센터 파츠딜리버리",
+    "[계약직] 서부산하이테크센터 고객응대 및 수납"
    ],
    "health": {
     "issue": "",
@@ -10098,8 +10098,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-05T07:00:45+00:00",
-   "last_success": "2026-10-05T07:00:45+00:00",
+   "last_check": "2026-10-05T09:00:49+00:00",
+   "last_success": "2026-10-05T09:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10107,6 +10107,16 @@
    "fingerprint": "873753b5961b44f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T09:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T07:00:45+00:00",
      "status": "ok",
@@ -10389,16 +10399,6 @@
     },
     {
      "at": "2026-10-02T23:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T21:03:11+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
