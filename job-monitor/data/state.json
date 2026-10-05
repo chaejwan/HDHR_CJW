@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-05T01:00:33+00:00",
-   "last_success": "2026-10-05T01:00:33+00:00",
+   "last_check": "2026-10-05T02:06:22+00:00",
+   "last_success": "2026-10-05T02:06:22+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "8ee64ed710ed7d11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T02:06:22+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T01:00:33+00:00",
      "status": "ok",
@@ -1501,16 +1511,6 @@
     },
     {
      "at": "2026-10-02T17:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T15:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5229,8 +5229,8 @@
      "first_seen": "2026-10-04T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-05T01:00:34+00:00",
-   "last_success": "2026-10-05T01:00:34+00:00",
+   "last_check": "2026-10-05T02:06:23+00:00",
+   "last_success": "2026-10-05T02:06:23+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5238,6 +5238,16 @@
    "fingerprint": "cc383f5b0ed0637d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T02:06:23+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-05T01:00:34+00:00",
      "status": "ok",
@@ -5526,16 +5536,6 @@
      "item_count": 17,
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T15:00:42+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 564건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -7220,8 +7220,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-05T01:00:39+00:00",
-   "last_success": "2026-10-05T01:00:39+00:00",
+   "last_check": "2026-10-05T02:06:29+00:00",
+   "last_success": "2026-10-05T02:06:29+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7229,6 +7229,16 @@
    "fingerprint": "95675a994ee253da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T02:06:29+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T01:00:39+00:00",
      "status": "ok",
@@ -7518,32 +7528,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T15:00:48+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 113,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 10월 SK핀크스 기획 채용공고",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262129",
-       "date": ""
-      },
-      {
-       "title": "2026년 10월 SK핀크스 SHE(안전·보건·환경) 채용공고",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262130",
-       "date": ""
-      },
-      {
-       "title": "2026년 10월 SK핀크스 식음서비스팀 채용공고",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262131",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9215,15 +9199,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-05T01:00:41+00:00",
-   "last_success": "2026-10-05T01:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-05T02:06:31+00:00",
+   "last_success": "2026-10-05T02:06:31+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 67,
-   "fingerprint": "1b0ffc201d31273b",
+   "fingerprint": "11a4cc8011e7dbfe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T02:06:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 67,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T01:00:41+00:00",
      "status": "new",
@@ -9512,16 +9506,6 @@
     },
     {
      "at": "2026-10-02T17:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T15:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10114,8 +10098,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-05T01:00:43+00:00",
-   "last_success": "2026-10-05T01:00:43+00:00",
+   "last_check": "2026-10-05T02:06:33+00:00",
+   "last_success": "2026-10-05T02:06:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10123,6 +10107,16 @@
    "fingerprint": "873753b5961b44f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T02:06:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T01:00:43+00:00",
      "status": "ok",
@@ -10405,16 +10399,6 @@
     },
     {
      "at": "2026-10-02T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T15:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
