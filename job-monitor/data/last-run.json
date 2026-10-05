@@ -1,20 +1,20 @@
 {
- "at": "2026-10-04T23:00:42+00:00",
+ "at": "2026-10-05T01:00:44+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 10-06 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 1,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-05T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37242143435",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37249682815",
  "results": [
   {
    "site_id": "hanwhain",
@@ -57,12 +57,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 66,
+   "status": "new",
+   "item_count": 67,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 울산공장 산업보건센터 의사 (일반의)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
+     "date": "20261019"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",

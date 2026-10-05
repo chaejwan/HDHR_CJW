@@ -1210,8 +1210,8 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-04T23:00:33+00:00",
-   "last_success": "2026-10-04T23:00:33+00:00",
+   "last_check": "2026-10-05T01:00:33+00:00",
+   "last_success": "2026-10-05T01:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1219,6 +1219,16 @@
    "fingerprint": "8ee64ed710ed7d11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T01:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T23:00:33+00:00",
      "status": "ok",
@@ -1501,16 +1511,6 @@
     },
     {
      "at": "2026-10-02T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T13:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5229,8 +5229,8 @@
      "first_seen": "2026-10-04T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-04T23:00:34+00:00",
-   "last_success": "2026-10-04T23:00:34+00:00",
+   "last_check": "2026-10-05T01:00:34+00:00",
+   "last_success": "2026-10-05T01:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5238,6 +5238,16 @@
    "fingerprint": "cc383f5b0ed0637d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T01:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-04T23:00:34+00:00",
      "status": "ok",
@@ -5526,16 +5536,6 @@
      "item_count": 17,
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 564건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
     }
    ],
@@ -7220,8 +7220,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-04T23:00:37+00:00",
-   "last_success": "2026-10-04T23:00:37+00:00",
+   "last_check": "2026-10-05T01:00:39+00:00",
+   "last_success": "2026-10-05T01:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7229,6 +7229,16 @@
    "fingerprint": "95675a994ee253da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T01:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T23:00:37+00:00",
      "status": "ok",
@@ -7534,16 +7544,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-02T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 110,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9207,17 +9207,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
      "date": "20261011",
      "first_seen": "2026-10-01T09:00:47+00:00"
+    },
+    "ba3305a247af98cf": {
+     "title": "[계약직] 울산공장 산업보건센터 의사 (일반의)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
+     "date": "20261019",
+     "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-04T23:00:38+00:00",
-   "last_success": "2026-10-04T23:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-05T01:00:41+00:00",
+   "last_success": "2026-10-05T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 66,
-   "fingerprint": "89f706315f6bf12a",
+   "item_count": 67,
+   "fingerprint": "1b0ffc201d31273b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 67,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 울산공장 산업보건센터 의사 (일반의)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
+       "date": "20261019"
+      }
+     ]
+    },
     {
      "at": "2026-10-04T23:00:38+00:00",
      "status": "ok",
@@ -9507,16 +9529,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9533,7 +9545,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-01T09:00:47+00:00"
+   "last_new_at": "2026-10-05T01:00:41+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -10102,8 +10114,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-04T23:00:40+00:00",
-   "last_success": "2026-10-04T23:00:40+00:00",
+   "last_check": "2026-10-05T01:00:43+00:00",
+   "last_success": "2026-10-05T01:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10111,6 +10123,16 @@
    "fingerprint": "873753b5961b44f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T01:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-04T23:00:40+00:00",
      "status": "ok",
@@ -10400,16 +10422,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10429,21 +10441,22 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 울산공장 산업보건센터 의사 (일반의)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
+    "date": "20261019",
+    "found_at": "2026-10-05T01:00:44+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-05T01:00:44+00:00",
   "last_sent": "2026-10-04T23:00:45+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "경영연구",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=95",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -14934,6 +14947,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262131",
    "date": "",
    "found_at": "2026-10-02T15:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 울산공장 산업보건센터 의사 (일반의)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
+   "date": "20261019",
+   "found_at": "2026-10-05T01:00:44+00:00"
   }
  ]
 }
