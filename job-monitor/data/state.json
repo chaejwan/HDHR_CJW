@@ -1210,15 +1210,25 @@
      "first_seen": "2026-10-02T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-05T05:00:37+00:00",
-   "last_success": "2026-10-05T05:00:37+00:00",
+   "last_check": "2026-10-05T07:00:38+00:00",
+   "last_success": "2026-10-05T07:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "8ee64ed710ed7d11",
+   "item_count": 72,
+   "fingerprint": "b5ed21f7f9080f65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T07:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T05:00:37+00:00",
      "status": "ok",
@@ -1508,26 +1518,16 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-02T19:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "경력직 채용_리스크관리팀",
-    "경력직 채용_기관컨설팅2센터",
-    "경력직 채용_기관컨설팅1센터 (단기 계약직)",
     "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
-    "RX(Robot Transformation) 경력사원 채용"
+    "RX(Robot Transformation) 경력사원 채용",
+    "경영지원(자금,경리) 담당자 채용",
+    "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
+    "한화시스템 근태담당자 계약직 채용"
    ],
    "health": {
     "issue": "",
@@ -5229,8 +5229,8 @@
      "first_seen": "2026-10-04T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-05T05:00:38+00:00",
-   "last_success": "2026-10-05T05:00:38+00:00",
+   "last_check": "2026-10-05T07:00:39+00:00",
+   "last_success": "2026-10-05T07:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5238,6 +5238,16 @@
    "fingerprint": "cc383f5b0ed0637d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-05T05:00:38+00:00",
      "status": "ok",
@@ -5520,16 +5530,6 @@
     },
     {
      "at": "2026-10-02T21:03:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T19:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7220,8 +7220,8 @@
      "first_seen": "2026-10-02T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-05T05:00:42+00:00",
-   "last_success": "2026-10-05T05:00:42+00:00",
+   "last_check": "2026-10-05T07:00:43+00:00",
+   "last_success": "2026-10-05T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7229,6 +7229,16 @@
    "fingerprint": "95675a994ee253da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T05:00:42+00:00",
      "status": "ok",
@@ -7511,16 +7521,6 @@
     },
     {
      "at": "2026-10-02T21:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 113,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T19:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9199,8 +9199,8 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-05T05:00:44+00:00",
-   "last_success": "2026-10-05T05:00:44+00:00",
+   "last_check": "2026-10-05T07:00:44+00:00",
+   "last_success": "2026-10-05T07:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9208,6 +9208,16 @@
    "fingerprint": "7db3c94349ba9d33",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 67,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T05:00:44+00:00",
      "status": "ok",
@@ -9496,16 +9506,6 @@
     },
     {
      "at": "2026-10-02T21:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T19:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10098,8 +10098,8 @@
      "first_seen": "2026-10-02T01:00:42+00:00"
     }
    },
-   "last_check": "2026-10-05T05:00:46+00:00",
-   "last_success": "2026-10-05T05:00:46+00:00",
+   "last_check": "2026-10-05T07:00:45+00:00",
+   "last_success": "2026-10-05T07:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10107,6 +10107,16 @@
    "fingerprint": "873753b5961b44f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-05T07:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T05:00:46+00:00",
      "status": "ok",
@@ -10389,16 +10399,6 @@
     },
     {
      "at": "2026-10-02T21:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-02T19:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
