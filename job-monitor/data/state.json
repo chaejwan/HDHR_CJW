@@ -1214,17 +1214,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19888",
      "date": "2026.10.19 23:59",
      "first_seen": "2026-10-05T23:00:35+00:00"
+    },
+    "7bb7d152a0bd431c": {
+     "title": "[한화투자증권] 고객지원파트 상담원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
+     "date": "2026.10.15 23:59",
+     "first_seen": "2026-10-06T01:00:33+00:00"
     }
    },
-   "last_check": "2026-10-05T23:00:35+00:00",
-   "last_success": "2026-10-05T23:00:35+00:00",
+   "last_check": "2026-10-06T01:00:33+00:00",
+   "last_success": "2026-10-06T01:00:33+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 47,
-   "fingerprint": "1e09e61000fa9f04",
+   "item_count": 48,
+   "fingerprint": "5ece64af2f059d6f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T01:00:33+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 48,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] 고객지원파트 상담원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
+       "date": "2026.10.15 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-05T23:00:35+00:00",
      "status": "new",
@@ -1520,16 +1542,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T13:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1546,7 +1558,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-05T23:00:35+00:00"
+   "last_new_at": "2026-10-06T01:00:33+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -5343,8 +5355,8 @@
      "first_seen": "2026-10-05T15:00:56+00:00"
     }
    },
-   "last_check": "2026-10-05T23:00:36+00:00",
-   "last_success": "2026-10-05T23:00:36+00:00",
+   "last_check": "2026-10-06T01:00:34+00:00",
+   "last_success": "2026-10-06T01:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5352,6 +5364,16 @@
    "fingerprint": "2b2b576ddc12730d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T01:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-05T23:00:36+00:00",
      "status": "ok",
@@ -5640,16 +5662,6 @@
      "item_count": 17,
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 581건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T13:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
     }
    ],
@@ -7340,15 +7352,25 @@
      "first_seen": "2026-10-05T15:00:59+00:00"
     }
    },
-   "last_check": "2026-10-05T23:00:39+00:00",
-   "last_success": "2026-10-05T23:00:39+00:00",
+   "last_check": "2026-10-06T01:00:37+00:00",
+   "last_success": "2026-10-06T01:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 92,
-   "fingerprint": "980ee26fcb2af0a8",
+   "item_count": 93,
+   "fingerprint": "db26b1127781e324",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T01:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T23:00:39+00:00",
      "status": "ok",
@@ -7641,16 +7663,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 113,
      "error": "",
      "note": "",
      "new": []
@@ -9325,8 +9337,8 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-05T23:00:40+00:00",
-   "last_success": "2026-10-05T23:00:40+00:00",
+   "last_check": "2026-10-06T01:00:38+00:00",
+   "last_success": "2026-10-06T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9334,6 +9346,16 @@
    "fingerprint": "b5092df9ab06dc59",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 61,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-05T23:00:40+00:00",
      "status": "ok",
@@ -9622,16 +9644,6 @@
     },
     {
      "at": "2026-10-03T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T13:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10222,17 +10234,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23263",
      "date": "2026.10.02 ~ 2026.10.15",
      "first_seen": "2026-10-02T01:00:42+00:00"
+    },
+    "cf19e172d7f6c404": {
+     "title": "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
+     "url": "https://www.samsungcareers.com/hr/?no=23285",
+     "date": "2026.10.06 ~ 2026.10.16",
+     "first_seen": "2026-10-06T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-05T23:00:42+00:00",
-   "last_success": "2026-10-05T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-06T01:00:40+00:00",
+   "last_success": "2026-10-06T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 4,
-   "fingerprint": "5051885073734d6b",
+   "item_count": 5,
+   "fingerprint": "b00d838a2caf42e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
+       "url": "https://www.samsungcareers.com/hr/?no=23285",
+       "date": "2026.10.06 ~ 2026.10.16"
+      }
+     ]
+    },
     {
      "at": "2026-10-05T23:00:42+00:00",
      "status": "ok",
@@ -10522,21 +10556,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
     "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
     "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
     "삼성글로벌리서치 분야별 연구원 채용",
@@ -10547,34 +10572,35 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-02T01:00:42+00:00"
+   "last_new_at": "2026-10-06T01:00:40+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 고객지원파트 상담원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
+    "date": "2026.10.15 23:59",
+    "found_at": "2026-10-06T01:00:41+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
+    "url": "https://www.samsungcareers.com/hr/?no=23285",
+    "date": "2026.10.06 ~ 2026.10.16",
+    "found_at": "2026-10-06T01:00:41+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-06T01:00:41+00:00",
   "last_sent": "2026-10-05T23:00:46+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] 품질보증 (남양연구소)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=105",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] 재경 (전주공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=142",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15056,6 +15082,24 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19888",
    "date": "2026.10.19 23:59",
    "found_at": "2026-10-05T23:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 고객지원파트 상담원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
+   "date": "2026.10.15 23:59",
+   "found_at": "2026-10-06T01:00:41+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
+   "url": "https://www.samsungcareers.com/hr/?no=23285",
+   "date": "2026.10.06 ~ 2026.10.16",
+   "found_at": "2026-10-06T01:00:41+00:00"
   }
  ]
 }

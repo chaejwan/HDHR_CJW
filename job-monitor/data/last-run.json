@@ -1,20 +1,20 @@
 {
- "at": "2026-10-05T23:00:43+00:00",
+ "at": "2026-10-06T01:00:41+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 2,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 10-07 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 2,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-06T01:00:41+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37385964877",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37396953498",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 47,
+   "item_count": 48,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "한화시스템 정보보호 인증 담당(CMMC) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19888",
-     "date": "2026.10.19 23:59"
+     "title": "[한화투자증권] 고객지원파트 상담원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
+     "date": "2026.10.15 23:59"
     }
    ]
   },
@@ -52,7 +52,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 92,
+   "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
@@ -75,12 +75,18 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 4,
+   "status": "new",
+   "item_count": 5,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
+     "url": "https://www.samsungcareers.com/hr/?no=23285",
+     "date": "2026.10.06 ~ 2026.10.16"
+    }
+   ]
   }
  ]
 }
