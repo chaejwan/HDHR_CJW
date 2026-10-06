@@ -1228,15 +1228,25 @@
      "first_seen": "2026-10-06T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-06T07:00:36+00:00",
-   "last_success": "2026-10-06T07:00:36+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-06T09:00:38+00:00",
+   "last_success": "2026-10-06T09:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 48,
-   "fingerprint": "24e0d3382dbea519",
+   "item_count": 49,
+   "fingerprint": "94d676f036b8d015",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 49,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T07:00:36+00:00",
      "status": "new",
@@ -1537,16 +1547,6 @@
     },
     {
      "at": "2026-10-03T23:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T21:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5367,8 +5367,8 @@
      "first_seen": "2026-10-05T15:00:56+00:00"
     }
    },
-   "last_check": "2026-10-06T07:00:37+00:00",
-   "last_success": "2026-10-06T07:00:37+00:00",
+   "last_check": "2026-10-06T09:00:38+00:00",
+   "last_success": "2026-10-06T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5376,6 +5376,16 @@
    "fingerprint": "4ed76193feb525b3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "23개 중 필터를 통과한 15개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-06T07:00:37+00:00",
      "status": "ok",
@@ -5658,16 +5668,6 @@
     },
     {
      "at": "2026-10-03T23:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7416,17 +7416,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262067",
      "date": "",
      "first_seen": "2026-10-06T07:00:40+00:00"
+    },
+    "13c852e17a1e8634": {
+     "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262154",
+     "date": "",
+     "first_seen": "2026-10-06T09:00:43+00:00"
+    },
+    "9a0e38ad33ede9e0": {
+     "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262152",
+     "date": "",
+     "first_seen": "2026-10-06T09:00:43+00:00"
+    },
+    "6c337288cb3d9e9f": {
+     "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262158",
+     "date": "",
+     "first_seen": "2026-10-06T09:00:43+00:00"
+    },
+    "6d5339573e866fc8": {
+     "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262157",
+     "date": "",
+     "first_seen": "2026-10-06T09:00:43+00:00"
+    },
+    "986949a3ac7d2403": {
+     "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+     "date": "",
+     "first_seen": "2026-10-06T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-06T07:00:40+00:00",
-   "last_success": "2026-10-06T07:00:40+00:00",
+   "last_check": "2026-10-06T09:00:43+00:00",
+   "last_success": "2026-10-06T09:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 102,
-   "fingerprint": "7b085cd0833f6d89",
+   "item_count": 107,
+   "fingerprint": "56f6024fa59eb270",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T09:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262154",
+       "date": ""
+      },
+      {
+       "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262152",
+       "date": ""
+      },
+      {
+       "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262158",
+       "date": ""
+      },
+      {
+       "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262157",
+       "date": ""
+      },
+      {
+       "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-06T07:00:40+00:00",
      "status": "new",
@@ -7770,16 +7836,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7796,7 +7852,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-06T07:00:40+00:00"
+   "last_new_at": "2026-10-06T09:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9451,15 +9507,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-06T07:00:41+00:00",
-   "last_success": "2026-10-06T07:00:41+00:00",
+   "last_check": "2026-10-06T09:00:44+00:00",
+   "last_success": "2026-10-06T09:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 61,
-   "fingerprint": "1b177e9e338d8d77",
+   "item_count": 55,
+   "fingerprint": "f7bcfed6f26f91b0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T09:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T07:00:41+00:00",
      "status": "ok",
@@ -9755,26 +9821,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
-    "기업 법무",
-    "글로벌 에너지 사업 전략 수립",
-    "글로벌 관세대응 및 FTA, 통상업무",
-    "고객/임직원 공간 인테리어 디자인"
+    "[계약직] 응급구조사 (울산공장)",
+    "[계약직] 의전안내 (아산공장)",
+    "[계약직] 포항하이테크센터 파츠딜리버리",
+    "[계약직] 남부하이테크센터 파츠딜리버리",
+    "수소 충전 인프라 기술 개발"
    ],
    "health": {
     "issue": "",
@@ -10356,15 +10412,25 @@
      "first_seen": "2026-10-06T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-06T07:00:43+00:00",
-   "last_success": "2026-10-06T07:00:43+00:00",
+   "last_check": "2026-10-06T09:00:45+00:00",
+   "last_success": "2026-10-06T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 5,
-   "fingerprint": "b00d838a2caf42e4",
+   "item_count": 4,
+   "fingerprint": "ff67490c3e6184cd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T07:00:43+00:00",
      "status": "ok",
@@ -10660,16 +10726,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10678,8 +10734,7 @@
     "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
     "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
     "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
-    "삼성글로벌리서치 분야별 연구원 채용",
-    "삼성글로벌리서치 경력사원 채용(출판기획 및 편집)"
+    "삼성글로벌리서치 분야별 연구원 채용"
    ],
    "health": {
     "issue": "",
@@ -10798,6 +10853,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262067",
     "date": "",
     "found_at": "2026-10-06T07:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262154",
+    "date": "",
+    "found_at": "2026-10-06T09:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262152",
+    "date": "",
+    "found_at": "2026-10-06T09:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262158",
+    "date": "",
+    "found_at": "2026-10-06T09:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262157",
+    "date": "",
+    "found_at": "2026-10-06T09:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+    "date": "",
+    "found_at": "2026-10-06T09:00:49+00:00"
    }
   ],
   "alerts": [],
@@ -10805,51 +10905,6 @@
   "last_sent": "2026-10-05T23:00:46+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] 경영전략",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=100",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] PR",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=102",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 행정지원 (장애인 제한경쟁)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=196",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 연료교환",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=200",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "Security Engineering",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=104",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15304,6 +15359,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262067",
    "date": "",
    "found_at": "2026-10-06T07:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262154",
+   "date": "",
+   "found_at": "2026-10-06T09:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262152",
+   "date": "",
+   "found_at": "2026-10-06T09:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262158",
+   "date": "",
+   "found_at": "2026-10-06T09:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262157",
+   "date": "",
+   "found_at": "2026-10-06T09:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+   "date": "",
+   "found_at": "2026-10-06T09:00:49+00:00"
   }
  ]
 }

@@ -1,38 +1,32 @@
 {
- "at": "2026-10-06T07:00:44+00:00",
+ "at": "2026-10-06T09:00:49+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-07 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 17건 · 점검 0건). 10-07 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 12,
+  "items": 17,
   "alerts": 0,
   "since": "2026-10-06T01:00:41+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37427016096",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37439974705",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 48,
+   "status": "ok",
+   "item_count": 49,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
-     "date": "2026.10.13 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,19 +46,34 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 102,
+   "item_count": 107,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262153",
+     "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262154",
      "date": ""
     },
     {
-     "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262067",
+     "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262152",
+     "date": ""
+    },
+    {
+     "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262158",
+     "date": ""
+    },
+    {
+     "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262157",
+     "date": ""
+    },
+    {
+     "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262159",
      "date": ""
     }
    ]
@@ -75,7 +84,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 61,
+   "item_count": 55,
    "method": "json",
    "note": "",
    "error": "",
@@ -87,7 +96,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 5,
+   "item_count": 4,
    "method": "pattern",
    "note": "",
    "error": "",
