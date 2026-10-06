@@ -1220,17 +1220,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
      "date": "2026.10.15 23:59",
      "first_seen": "2026-10-06T01:00:33+00:00"
+    },
+    "9f27c926539fb6ab": {
+     "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
+     "date": "2026.10.13 15:00",
+     "first_seen": "2026-10-06T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-06T05:00:35+00:00",
-   "last_success": "2026-10-06T05:00:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-06T07:00:36+00:00",
+   "last_success": "2026-10-06T07:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 48,
-   "fingerprint": "5ece64af2f059d6f",
+   "fingerprint": "24e0d3382dbea519",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T07:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 48,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
+       "date": "2026.10.13 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-06T05:00:35+00:00",
      "status": "ok",
@@ -1532,33 +1554,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T19:00:36+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명] 투자관리팀 '투자 컴플라이언스' 경력채용(과장급)",
     "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
     "(주)한화 글로벌부문 안전보건 담당자 경력사원 채용",
     "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
-    "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)"
+    "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
+    "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-06T01:00:33+00:00"
+   "last_new_at": "2026-10-06T07:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -5355,8 +5367,8 @@
      "first_seen": "2026-10-05T15:00:56+00:00"
     }
    },
-   "last_check": "2026-10-06T05:00:36+00:00",
-   "last_success": "2026-10-06T05:00:36+00:00",
+   "last_check": "2026-10-06T07:00:37+00:00",
+   "last_success": "2026-10-06T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5364,6 +5376,16 @@
    "fingerprint": "4ed76193feb525b3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "23개 중 필터를 통과한 15개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-06T05:00:36+00:00",
      "status": "ok",
@@ -5646,16 +5668,6 @@
     },
     {
      "at": "2026-10-03T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T19:03:03+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7392,17 +7404,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262148",
      "date": "",
      "first_seen": "2026-10-06T05:00:42+00:00"
+    },
+    "96d61209de4c94c7": {
+     "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262153",
+     "date": "",
+     "first_seen": "2026-10-06T07:00:40+00:00"
+    },
+    "1ce39d60d43a7db1": {
+     "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262067",
+     "date": "",
+     "first_seen": "2026-10-06T07:00:40+00:00"
     }
    },
-   "last_check": "2026-10-06T05:00:42+00:00",
-   "last_success": "2026-10-06T05:00:42+00:00",
+   "last_check": "2026-10-06T07:00:40+00:00",
+   "last_success": "2026-10-06T07:00:40+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 100,
-   "fingerprint": "3d631add9d8a5725",
+   "item_count": 102,
+   "fingerprint": "7b085cd0833f6d89",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T07:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 102,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262153",
+       "date": ""
+      },
+      {
+       "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262067",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-06T05:00:42+00:00",
      "status": "new",
@@ -7735,16 +7780,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T19:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7761,7 +7796,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-06T05:00:42+00:00"
+   "last_new_at": "2026-10-06T07:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9416,15 +9451,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-06T05:00:43+00:00",
-   "last_success": "2026-10-06T05:00:43+00:00",
+   "last_check": "2026-10-06T07:00:41+00:00",
+   "last_success": "2026-10-06T07:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 61,
-   "fingerprint": "0794c94363d58af8",
+   "fingerprint": "1b177e9e338d8d77",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T07:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 61,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T05:00:43+00:00",
      "status": "ok",
@@ -9713,16 +9758,6 @@
     },
     {
      "at": "2026-10-03T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-03T19:03:10+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10321,8 +10356,8 @@
      "first_seen": "2026-10-06T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-06T05:00:45+00:00",
-   "last_success": "2026-10-06T05:00:45+00:00",
+   "last_check": "2026-10-06T07:00:43+00:00",
+   "last_success": "2026-10-06T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10330,6 +10365,16 @@
    "fingerprint": "b00d838a2caf42e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T05:00:45+00:00",
      "status": "ok",
@@ -10625,16 +10670,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-03T19:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10736,6 +10771,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262148",
     "date": "",
     "found_at": "2026-10-06T05:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
+    "date": "2026.10.13 15:00",
+    "found_at": "2026-10-06T07:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262153",
+    "date": "",
+    "found_at": "2026-10-06T07:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262067",
+    "date": "",
+    "found_at": "2026-10-06T07:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -10743,33 +10805,6 @@
   "last_sent": "2026-10-05T23:00:46+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] 글로벌 상용 & LCV 사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=114",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] 국내사업",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=155",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[장애인 신입 특별채용] 구매",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=143",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15242,6 +15277,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262148",
    "date": "",
    "found_at": "2026-10-06T05:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
+   "date": "2026.10.13 15:00",
+   "found_at": "2026-10-06T07:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262153",
+   "date": "",
+   "found_at": "2026-10-06T07:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262067",
+   "date": "",
+   "found_at": "2026-10-06T07:00:44+00:00"
   }
  ]
 }

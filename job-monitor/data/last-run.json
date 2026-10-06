@@ -1,32 +1,38 @@
 {
- "at": "2026-10-06T05:00:47+00:00",
+ "at": "2026-10-06T07:00:44+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 10-07 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-07 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 12,
   "alerts": 0,
   "since": "2026-10-06T01:00:41+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37416402540",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37427016096",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
+   "status": "new",
    "item_count": 48,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
+     "date": "2026.10.13 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,19 +52,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 100,
+   "item_count": 102,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "구매 시스템 운영 지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262146",
+     "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262153",
      "date": ""
     },
     {
-     "title": "IP Senior 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262148",
+     "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262067",
      "date": ""
     }
    ]
