@@ -1234,8 +1234,8 @@
      "first_seen": "2026-10-06T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-06T21:00:38+00:00",
-   "last_success": "2026-10-06T21:00:38+00:00",
+   "last_check": "2026-10-06T23:00:35+00:00",
+   "last_success": "2026-10-06T23:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1243,6 +1243,16 @@
    "fingerprint": "aad224dce8b34dfd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T23:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 49,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T21:00:38+00:00",
      "status": "ok",
@@ -1549,16 +1559,6 @@
     },
     {
      "at": "2026-10-04T13:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T11:00:34+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5469,8 +5469,8 @@
      "first_seen": "2026-10-06T15:00:39+00:00"
     }
    },
-   "last_check": "2026-10-06T21:00:39+00:00",
-   "last_success": "2026-10-06T21:00:39+00:00",
+   "last_check": "2026-10-06T23:00:36+00:00",
+   "last_success": "2026-10-06T23:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5478,6 +5478,16 @@
    "fingerprint": "7c23821f82f21956",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T23:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "23개 중 필터를 통과한 15개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-06T21:00:39+00:00",
      "status": "ok",
@@ -5760,16 +5770,6 @@
     },
     {
      "at": "2026-10-04T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T11:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7550,8 +7550,8 @@
      "first_seen": "2026-10-06T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-06T21:00:47+00:00",
-   "last_success": "2026-10-06T21:00:47+00:00",
+   "last_check": "2026-10-06T23:00:40+00:00",
+   "last_success": "2026-10-06T23:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -7559,6 +7559,16 @@
    "fingerprint": "b506fb012724be5c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T23:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 102,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T21:00:47+00:00",
      "status": "ok",
@@ -7921,16 +7931,6 @@
     },
     {
      "at": "2026-10-04T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T11:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9609,8 +9609,8 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-06T21:00:48+00:00",
-   "last_success": "2026-10-06T21:00:48+00:00",
+   "last_check": "2026-10-06T23:00:41+00:00",
+   "last_success": "2026-10-06T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9618,6 +9618,16 @@
    "fingerprint": "3d098cbc4fdfff03",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T21:00:48+00:00",
      "status": "ok",
@@ -9906,16 +9916,6 @@
     },
     {
      "at": "2026-10-04T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10514,8 +10514,8 @@
      "first_seen": "2026-10-06T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-06T21:00:50+00:00",
-   "last_success": "2026-10-06T21:00:50+00:00",
+   "last_check": "2026-10-06T23:00:43+00:00",
+   "last_success": "2026-10-06T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10523,6 +10523,16 @@
    "fingerprint": "1b90687f1abb2287",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-06T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T21:00:50+00:00",
      "status": "ok",
@@ -10818,16 +10828,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10847,194 +10847,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 고객지원파트 상담원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19903",
-    "date": "2026.10.15 23:59",
-    "found_at": "2026-10-06T01:00:41+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
-    "url": "https://www.samsungcareers.com/hr/?no=23285",
-    "date": "2026.10.06 ~ 2026.10.16",
-    "found_at": "2026-10-06T01:00:41+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI사업 운영 지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262145",
-    "date": "",
-    "found_at": "2026-10-06T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 Cell Validation 기술직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262127",
-    "date": "",
-    "found_at": "2026-10-06T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK케미칼] 26년 울산공장 현장 기술사원 모집(신입, 정규 전환형 계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262132",
-    "date": "",
-    "found_at": "2026-10-06T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK멀티유틸리티] 기술사원 신입채용(정규전환형)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262133",
-    "date": "",
-    "found_at": "2026-10-06T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262142",
-    "date": "",
-    "found_at": "2026-10-06T03:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "구매 시스템 운영 지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262146",
-    "date": "",
-    "found_at": "2026-10-06T05:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "IP Senior 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262148",
-    "date": "",
-    "found_at": "2026-10-06T05:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명]본사 건강검진센터 임상병리사 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19906",
-    "date": "2026.10.13 15:00",
-    "found_at": "2026-10-06T07:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 품질보증(QA) 신입(전환형 인턴) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262153",
-    "date": "",
-    "found_at": "2026-10-06T07:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262067",
-    "date": "",
-    "found_at": "2026-10-06T07:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262154",
-    "date": "",
-    "found_at": "2026-10-06T09:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI DC(데이터센터) 구축 전문가 (기계)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262152",
-    "date": "",
-    "found_at": "2026-10-06T09:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262158",
-    "date": "",
-    "found_at": "2026-10-06T09:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Digital Twin 사업 PM/PL 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262157",
-    "date": "",
-    "found_at": "2026-10-06T09:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262159",
-    "date": "",
-    "found_at": "2026-10-06T09:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19905",
-    "date": "2026.10.18 23:59",
-    "found_at": "2026-10-06T15:00:54+00:00"
-   }
-  ],
-  "alerts": [
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
-    "recovered": false
-   },
-   {
-    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-    "site_name": "한화오션",
-    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-    "kind": "relisted",
-    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
-    "detail": "다시 정상으로 확인됐습니다.",
-    "recovered": true
-   }
-  ],
-  "since": "2026-10-06T01:00:41+00:00",
-  "last_sent": "2026-10-05T23:00:46+00:00"
+  "items": [],
+  "alerts": [],
+  "since": "",
+  "last_sent": "2026-10-06T23:00:49+00:00"
  },
  "archive": [
   {
