@@ -1288,8 +1288,8 @@
      "first_seen": "2026-10-07T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-07T13:00:37+00:00",
-   "last_success": "2026-10-07T13:00:37+00:00",
+   "last_check": "2026-10-07T15:00:43+00:00",
+   "last_success": "2026-10-07T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1297,6 +1297,16 @@
    "fingerprint": "62769ff97c058f6a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T13:00:37+00:00",
      "status": "ok",
@@ -1651,16 +1661,6 @@
     },
     {
      "at": "2026-10-05T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T02:06:22+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5575,17 +5575,123 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/239579",
      "date": "",
      "first_seen": "2026-10-07T01:00:32+00:00"
+    },
+    "4a3050892e6aebd7": {
+     "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-3",
+     "url": "https://recruit-hanwhaocean.com/ko/o/237687",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "d5c2f0772b2b20f8": {
+     "title": "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "16eb89865ae8a675": {
+     "title": "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200596",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "4556e72ad893de01": {
+     "title": "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200604",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "b00e282a9a9afdc6": {
+     "title": "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/207059",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "e7ab71a4d126f1bf": {
+     "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/212833",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "c51e9d56fa484932": {
+     "title": "[제품전략기술원] 플랜트설계(공정개발) 경력사원 채용경력제품전략기술원설계배관설계외경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/214146",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "a30abfc402bb1775": {
+     "title": "[경영지원] 국내법무팀장 채용경력경영지원경영지원국내법무경력 10년 이상정규직서울2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/217485",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "0c0770e45b68b2da": {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용경력특수선사업부경영지원외구매외경력 5년 이상외정규직거제외2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/219887",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "0d878dd9286a1e46": {
+     "title": "[경영지원] 노사관리/운영 경력사원 채용경력경영지원경영지원노사관리/개별 근로관계법 운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/220500",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "592a3142f5d97dee": {
+     "title": "[제조총괄] 안전팀 경력사원(계약직) 채용경력제조총괄생산/품질/HSE/공무안전/환경/보건경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/227363",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "ab9513b60c5ca306": {
+     "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용경력경영지원경영지원해외인력지원경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/231099",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "2985226e5e44ced8": {
+     "title": "[경영지원] 총무구매지원(계약직) 채용경력경영지원경영지원구매경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/232450",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "a1e15b2980e8a301": {
+     "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용경력경영지원경영지원인사운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/235776",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "0e6f353bce84231c": {
+     "title": "[경영지원] 정보보호 경력사원 채용경력경영지원보안정보보호경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239417",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "1e05dfb904dfbfc1": {
+     "title": "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239579",
+     "date": "",
+     "first_seen": "2026-10-07T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-07T13:00:38+00:00",
-   "last_success": "2026-10-07T13:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-07T15:00:44+00:00",
+   "last_success": "2026-10-07T15:00:44+00:00",
+   "last_status": "baseline",
    "last_error": "",
    "last_method": "links",
    "item_count": 16,
-   "fingerprint": "830424b5d9e25a39",
+   "fingerprint": "52e1c2460c46180c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T15:00:44+00:00",
+     "status": "baseline",
+     "reset": true,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다. 이전에 기억하던 648건과 겹치는 공고가 없어, 지금 16건을 기준으로 다시 저장했습니다(알림 없음).",
+     "new": []
+    },
     {
      "at": "2026-10-07T13:00:38+00:00",
      "status": "ok",
@@ -5881,31 +5987,21 @@
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-10-05T02:06:23+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "24개 중 필터를 통과한 16개를 사용합니다.",
+   "last_note": "24개 중 필터를 통과한 16개를 사용합니다. 이전에 기억하던 648건과 겹치는 공고가 없어, 지금 16건을 기준으로 다시 저장했습니다(알림 없음).",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-4",
-    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-85",
-    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-85",
-    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-85",
-    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-85"
+    "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-3",
+    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
+    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-84",
+    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-84",
+    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-84"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "relisted",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "since": "2026-10-07T15:00:44+00:00"
    },
    "last_new_at": "2026-10-07T01:00:32+00:00"
   },
@@ -7754,15 +7850,25 @@
      "first_seen": "2026-10-07T09:00:42+00:00"
     }
    },
-   "last_check": "2026-10-07T13:00:40+00:00",
-   "last_success": "2026-10-07T13:00:40+00:00",
+   "last_check": "2026-10-07T15:00:52+00:00",
+   "last_success": "2026-10-07T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 118,
-   "fingerprint": "f10187e4664b2530",
+   "fingerprint": "1536882fa74f5b27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 118,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T13:00:40+00:00",
      "status": "ok",
@@ -8204,16 +8310,6 @@
     },
     {
      "at": "2026-10-05T05:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 107,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T02:06:29+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9892,15 +9988,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-07T13:00:41+00:00",
-   "last_success": "2026-10-07T13:00:41+00:00",
+   "last_check": "2026-10-07T15:00:53+00:00",
+   "last_success": "2026-10-07T15:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "fc6c0d17ebc769a4",
+   "fingerprint": "df693c129135a147",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T15:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T13:00:41+00:00",
      "status": "ok",
@@ -10183,16 +10289,6 @@
     },
     {
      "at": "2026-10-05T05:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 67,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T02:06:31+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10797,15 +10893,25 @@
      "first_seen": "2026-10-07T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-07T13:00:43+00:00",
-   "last_success": "2026-10-07T13:00:43+00:00",
+   "last_check": "2026-10-07T15:00:54+00:00",
+   "last_success": "2026-10-07T15:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "325560ddd78570ea",
+   "fingerprint": "506f36380a43bf76",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T15:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T13:00:43+00:00",
      "status": "ok",
@@ -11107,16 +11213,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T02:06:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11373,7 +11469,18 @@
     "found_at": "2026-10-07T09:00:46+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "kind": "relisted",
+    "label": "기억하던 공고와 지금 목록이 하나도 겹치지 않습니다",
+    "detail": "읽는 방식이 바뀐 것으로 보고 지금 목록을 기준으로 다시 저장했습니다. 설정을 바꾼 직후라면 정상입니다. 그런 적이 없다면 사이트 구조가 변경됐을 수 있으니 설정 화면에서 수집 예시를 확인해 주세요.",
+    "recovered": false
+   }
+  ],
   "since": "2026-10-07T01:00:41+00:00",
   "last_sent": "2026-10-06T23:00:49+00:00"
  },
