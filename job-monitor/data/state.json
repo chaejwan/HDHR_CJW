@@ -1232,17 +1232,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19905",
      "date": "2026.10.18 23:59",
      "first_seen": "2026-10-06T15:00:38+00:00"
+    },
+    "8bb2909507761d68": {
+     "title": "해양솔루션•드론 사업 경력사원 대규모 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
+     "date": "2026.10.28 23:59",
+     "first_seen": "2026-10-07T02:28:37+00:00"
     }
    },
-   "last_check": "2026-10-07T01:00:31+00:00",
-   "last_success": "2026-10-07T01:00:31+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-07T02:28:37+00:00",
+   "last_success": "2026-10-07T02:28:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 49,
-   "fingerprint": "aad224dce8b34dfd",
+   "item_count": 50,
+   "fingerprint": "400ba8e5f9109f60",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T02:28:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 50,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "해양솔루션•드론 사업 경력사원 대규모 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
+       "date": "2026.10.28 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-07T01:00:31+00:00",
      "status": "ok",
@@ -1556,16 +1578,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T15:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1582,7 +1594,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-06T15:00:38+00:00"
+   "last_new_at": "2026-10-07T02:28:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -5475,15 +5487,25 @@
      "first_seen": "2026-10-07T01:00:32+00:00"
     }
    },
-   "last_check": "2026-10-07T01:00:32+00:00",
-   "last_success": "2026-10-07T01:00:32+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-07T02:28:38+00:00",
+   "last_success": "2026-10-07T02:28:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 16,
    "fingerprint": "830424b5d9e25a39",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T02:28:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-07T01:00:32+00:00",
      "status": "new",
@@ -5778,16 +5800,6 @@
      "item_count": 17,
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T15:00:38+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 598건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -7590,17 +7602,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262161",
      "date": "",
      "first_seen": "2026-10-07T01:00:36+00:00"
+    },
+    "ba57771c0e8f53e9": {
+     "title": "SK플라즈마 품질보증(QA) 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262164",
+     "date": "",
+     "first_seen": "2026-10-07T02:28:40+00:00"
+    },
+    "f79ab763370ea4af": {
+     "title": "SK플라즈마 품질관리(QC) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262165",
+     "date": "",
+     "first_seen": "2026-10-07T02:28:40+00:00"
+    },
+    "268ee0b39f1c080f": {
+     "title": "사내 변호사",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262166",
+     "date": "",
+     "first_seen": "2026-10-07T02:28:40+00:00"
     }
    },
-   "last_check": "2026-10-07T01:00:36+00:00",
-   "last_success": "2026-10-07T01:00:36+00:00",
+   "last_check": "2026-10-07T02:28:40+00:00",
+   "last_success": "2026-10-07T02:28:40+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 107,
-   "fingerprint": "fe4d6e0d6655d1cd",
+   "item_count": 110,
+   "fingerprint": "855a6ddf102a84f7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T02:28:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 110,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 품질보증(QA) 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262164",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 품질관리(QC) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262165",
+       "date": ""
+      },
+      {
+       "title": "사내 변호사",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262166",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-07T01:00:36+00:00",
      "status": "new",
@@ -7996,16 +8052,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 107,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8022,7 +8068,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-07T01:00:36+00:00"
+   "last_new_at": "2026-10-07T02:28:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9677,15 +9723,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-07T01:00:37+00:00",
-   "last_success": "2026-10-07T01:00:37+00:00",
+   "last_check": "2026-10-07T02:28:41+00:00",
+   "last_success": "2026-10-07T02:28:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 56,
-   "fingerprint": "ee35e7a4f188bb5e",
+   "fingerprint": "26fa09014a6926f2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T02:28:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T01:00:37+00:00",
      "status": "ok",
@@ -9974,16 +10030,6 @@
     },
     {
      "at": "2026-10-04T17:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T15:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10588,15 +10634,25 @@
      "first_seen": "2026-10-07T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-07T01:00:40+00:00",
-   "last_success": "2026-10-07T01:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-07T02:28:43+00:00",
+   "last_success": "2026-10-07T02:28:43+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
    "fingerprint": "325560ddd78570ea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T02:28:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T01:00:40+00:00",
      "status": "new",
@@ -10898,16 +10954,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T15:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10991,6 +11037,42 @@
     "url": "https://www.samsungcareers.com/hr/?no=23283",
     "date": "2026.10.07 ~ 2026.10.20",
     "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "해양솔루션•드론 사업 경력사원 대규모 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
+    "date": "2026.10.28 23:59",
+    "found_at": "2026-10-07T02:28:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 품질보증(QA) 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262164",
+    "date": "",
+    "found_at": "2026-10-07T02:28:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 품질관리(QC) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262165",
+    "date": "",
+    "found_at": "2026-10-07T02:28:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "사내 변호사",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262166",
+    "date": "",
+    "found_at": "2026-10-07T02:28:44+00:00"
    }
   ],
   "alerts": [],
@@ -10998,42 +11080,6 @@
   "last_sent": "2026-10-06T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "IR",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=98",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "HRD 기획/운영",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=126",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "HR",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=136",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "Feature & SW 서비스 사업 기획/개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=160",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15497,6 +15543,42 @@
    "url": "https://www.samsungcareers.com/hr/?no=23283",
    "date": "2026.10.07 ~ 2026.10.20",
    "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "해양솔루션•드론 사업 경력사원 대규모 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
+   "date": "2026.10.28 23:59",
+   "found_at": "2026-10-07T02:28:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 품질보증(QA) 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262164",
+   "date": "",
+   "found_at": "2026-10-07T02:28:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 품질관리(QC) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262165",
+   "date": "",
+   "found_at": "2026-10-07T02:28:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "사내 변호사",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262166",
+   "date": "",
+   "found_at": "2026-10-07T02:28:44+00:00"
   }
  ]
 }
