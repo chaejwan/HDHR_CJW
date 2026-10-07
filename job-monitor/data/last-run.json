@@ -1,43 +1,32 @@
 {
- "at": "2026-10-07T07:00:49+00:00",
+ "at": "2026-10-07T09:00:46+00:00",
  "checked": 5,
- "new_total": 4,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 0건). 10-08 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 26건 · 점검 0건). 10-08 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 21,
+  "items": 26,
   "alerts": 0,
   "since": "2026-10-07T01:00:41+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37584714361",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37597610267",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 52,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[해양솔루션부문, 드론사업단] 경력사원 공개채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
-     "date": "2026.10.28 23:59"
-    },
-    {
-     "title": "[한화솔루션 큐셀] ES사업부 Embedded SW/FW Engineer 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19929",
-     "date": "2026.10.30 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,19 +46,34 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 113,
+   "item_count": 118,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Map SDK Engineer",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262168",
+     "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262147",
      "date": ""
     },
     {
-     "title": "Data Analytics (리더)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262169",
+     "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262151",
+     "date": ""
+    },
+    {
+     "title": "2026년 하반기 부산도시가스 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262167",
+     "date": ""
+    },
+    {
+     "title": "2026년 하반기 전남도시가스 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262170",
+     "date": ""
+    },
+    {
+     "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262171",
      "date": ""
     }
    ]
@@ -80,7 +84,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 56,
+   "item_count": 55,
    "method": "json",
    "note": "",
    "error": "",

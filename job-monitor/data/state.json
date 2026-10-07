@@ -1288,15 +1288,25 @@
      "first_seen": "2026-10-07T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-07T07:00:36+00:00",
-   "last_success": "2026-10-07T07:00:36+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-07T09:00:36+00:00",
+   "last_success": "2026-10-07T09:00:36+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 52,
    "fingerprint": "62769ff97c058f6a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T09:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T07:00:36+00:00",
      "status": "new",
@@ -1651,16 +1661,6 @@
     },
     {
      "at": "2026-10-04T23:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5577,8 +5577,8 @@
      "first_seen": "2026-10-07T01:00:32+00:00"
     }
    },
-   "last_check": "2026-10-07T07:00:37+00:00",
-   "last_success": "2026-10-07T07:00:37+00:00",
+   "last_check": "2026-10-07T09:00:38+00:00",
+   "last_success": "2026-10-07T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5586,6 +5586,16 @@
    "fingerprint": "830424b5d9e25a39",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-07T07:00:37+00:00",
      "status": "ok",
@@ -5874,16 +5884,6 @@
     },
     {
      "at": "2026-10-04T23:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7722,17 +7722,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262169",
      "date": "",
      "first_seen": "2026-10-07T07:00:43+00:00"
+    },
+    "975a91f47cb17e19": {
+     "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262147",
+     "date": "",
+     "first_seen": "2026-10-07T09:00:42+00:00"
+    },
+    "9e6152b2381af9fb": {
+     "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262151",
+     "date": "",
+     "first_seen": "2026-10-07T09:00:42+00:00"
+    },
+    "61e0fc17a461745d": {
+     "title": "2026년 하반기 부산도시가스 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262167",
+     "date": "",
+     "first_seen": "2026-10-07T09:00:42+00:00"
+    },
+    "4dee4d0562568d80": {
+     "title": "2026년 하반기 전남도시가스 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262170",
+     "date": "",
+     "first_seen": "2026-10-07T09:00:42+00:00"
+    },
+    "6bef0aa13e6374b6": {
+     "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262171",
+     "date": "",
+     "first_seen": "2026-10-07T09:00:42+00:00"
     }
    },
-   "last_check": "2026-10-07T07:00:43+00:00",
-   "last_success": "2026-10-07T07:00:43+00:00",
+   "last_check": "2026-10-07T09:00:42+00:00",
+   "last_success": "2026-10-07T09:00:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 113,
-   "fingerprint": "df66d9215118210b",
+   "item_count": 118,
+   "fingerprint": "f10187e4664b2530",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T09:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 118,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262147",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262151",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 부산도시가스 대졸 신입사원(G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262167",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 전남도시가스 대졸 신입사원(G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262170",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262171",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-07T07:00:43+00:00",
      "status": "new",
@@ -8155,16 +8221,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 107,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8181,7 +8237,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-07T07:00:43+00:00"
+   "last_new_at": "2026-10-07T09:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9836,15 +9892,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-07T07:00:44+00:00",
-   "last_success": "2026-10-07T07:00:44+00:00",
+   "last_check": "2026-10-07T09:00:43+00:00",
+   "last_success": "2026-10-07T09:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 56,
-   "fingerprint": "80f543a63fd7964e",
+   "item_count": 55,
+   "fingerprint": "fc6c0d17ebc769a4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T09:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T07:00:44+00:00",
      "status": "ok",
@@ -10140,26 +10206,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 응급구조사 (울산공장)",
     "[계약직] 의전안내 (아산공장)",
     "[계약직] 포항하이테크센터 파츠딜리버리",
     "[계약직] 남부하이테크센터 파츠딜리버리",
-    "수소 충전 인프라 기술 개발"
+    "수소 충전 인프라 기술 개발",
+    "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발"
    ],
    "health": {
     "issue": "",
@@ -10747,8 +10803,8 @@
      "first_seen": "2026-10-07T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-07T07:00:47+00:00",
-   "last_success": "2026-10-07T07:00:47+00:00",
+   "last_check": "2026-10-07T09:00:45+00:00",
+   "last_success": "2026-10-07T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -10756,6 +10812,16 @@
    "fingerprint": "325560ddd78570ea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T07:00:47+00:00",
      "status": "ok",
@@ -11057,16 +11123,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T21:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11276,6 +11332,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262169",
     "date": "",
     "found_at": "2026-10-07T07:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262147",
+    "date": "",
+    "found_at": "2026-10-07T09:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262151",
+    "date": "",
+    "found_at": "2026-10-07T09:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 부산도시가스 대졸 신입사원(G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262167",
+    "date": "",
+    "found_at": "2026-10-07T09:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 전남도시가스 대졸 신입사원(G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262170",
+    "date": "",
+    "found_at": "2026-10-07T09:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262171",
+    "date": "",
+    "found_at": "2026-10-07T09:00:46+00:00"
    }
   ],
   "alerts": [],
@@ -11283,51 +11384,6 @@
   "last_sent": "2026-10-06T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
-   "date": "20260928",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "차량 사이버보안 기술",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=231",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "신사업 기회 발굴 및 전략 리서치",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=27",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "달 탐사 (우주) 모빌리티 전력 시스템 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=279",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "달 탐사 (우주) 모빌리티 소프트웨어 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=280",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15782,6 +15838,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262169",
    "date": "",
    "found_at": "2026-10-07T07:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262147",
+   "date": "",
+   "found_at": "2026-10-07T09:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262151",
+   "date": "",
+   "found_at": "2026-10-07T09:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 부산도시가스 대졸 신입사원(G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262167",
+   "date": "",
+   "found_at": "2026-10-07T09:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 전남도시가스 대졸 신입사원(G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262170",
+   "date": "",
+   "found_at": "2026-10-07T09:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262171",
+   "date": "",
+   "found_at": "2026-10-07T09:00:46+00:00"
   }
  ]
 }
