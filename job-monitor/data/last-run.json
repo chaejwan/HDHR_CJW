@@ -1,7 +1,7 @@
 {
- "at": "2026-10-07T09:00:46+00:00",
+ "at": "2026-10-07T11:00:45+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-10-07T01:00:41+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37597610267",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37611157515",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,38 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 118,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262147",
-     "date": ""
-    },
-    {
-     "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262151",
-     "date": ""
-    },
-    {
-     "title": "2026년 하반기 부산도시가스 대졸 신입사원(G3) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262167",
-     "date": ""
-    },
-    {
-     "title": "2026년 하반기 전남도시가스 대졸 신입사원(G3) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262170",
-     "date": ""
-    },
-    {
-     "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262171",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
