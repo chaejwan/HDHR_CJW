@@ -1234,8 +1234,8 @@
      "first_seen": "2026-10-06T15:00:38+00:00"
     }
    },
-   "last_check": "2026-10-06T23:00:35+00:00",
-   "last_success": "2026-10-06T23:00:35+00:00",
+   "last_check": "2026-10-07T01:00:31+00:00",
+   "last_success": "2026-10-07T01:00:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1243,6 +1243,16 @@
    "fingerprint": "aad224dce8b34dfd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T01:00:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 49,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T23:00:35+00:00",
      "status": "ok",
@@ -1553,16 +1563,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T13:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
      "error": "",
      "note": "",
      "new": []
@@ -5467,17 +5467,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/239417",
      "date": "",
      "first_seen": "2026-10-06T15:00:39+00:00"
+    },
+    "496bd9bc98b34680": {
+     "title": "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-85",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239579",
+     "date": "",
+     "first_seen": "2026-10-07T01:00:32+00:00"
     }
    },
-   "last_check": "2026-10-06T23:00:36+00:00",
-   "last_success": "2026-10-06T23:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-07T01:00:32+00:00",
+   "last_success": "2026-10-07T01:00:32+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 15,
-   "fingerprint": "7c23821f82f21956",
+   "item_count": 16,
+   "fingerprint": "830424b5d9e25a39",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T01:00:32+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": [
+      {
+       "title": "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-85",
+       "url": "https://recruit-hanwhaocean.com/ko/o/239579",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-06T23:00:36+00:00",
      "status": "ok",
@@ -5767,19 +5789,9 @@
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 598건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
-    },
-    {
-     "at": "2026-10-04T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "23개 중 필터를 통과한 15개를 사용합니다.",
+   "last_note": "24개 중 필터를 통과한 16개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-4",
@@ -5793,7 +5805,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-02T07:00:37+00:00"
+   "last_new_at": "2026-10-07T01:00:32+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -7548,17 +7560,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262159",
      "date": "",
      "first_seen": "2026-10-06T09:00:43+00:00"
+    },
+    "0e5fb82958c6fd24": {
+     "title": "SK플라즈마 제조관리 약사 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262162",
+     "date": "",
+     "first_seen": "2026-10-07T01:00:36+00:00"
+    },
+    "f752e86c627bb751": {
+     "title": "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R250858",
+     "date": "",
+     "first_seen": "2026-10-07T01:00:36+00:00"
+    },
+    "0dd6e0e8cd1010a1": {
+     "title": "2026년 10월 SUSE 엔지니어 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262155",
+     "date": "",
+     "first_seen": "2026-10-07T01:00:36+00:00"
+    },
+    "98c1231ca3ca5fbc": {
+     "title": "2026년 10월 Solution CIC 사업기획 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262156",
+     "date": "",
+     "first_seen": "2026-10-07T01:00:36+00:00"
+    },
+    "c4d240447a8e57af": {
+     "title": "2026년 하반기 강원도시가스 대졸 신입사원(G3) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262161",
+     "date": "",
+     "first_seen": "2026-10-07T01:00:36+00:00"
     }
    },
-   "last_check": "2026-10-06T23:00:40+00:00",
-   "last_success": "2026-10-06T23:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-07T01:00:36+00:00",
+   "last_success": "2026-10-07T01:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 102,
-   "fingerprint": "b506fb012724be5c",
+   "item_count": 107,
+   "fingerprint": "fe4d6e0d6655d1cd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T01:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 107,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 제조관리 약사 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262162",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R250858",
+       "date": ""
+      },
+      {
+       "title": "2026년 10월 SUSE 엔지니어 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262155",
+       "date": ""
+      },
+      {
+       "title": "2026년 10월 Solution CIC 사업기획 담당자 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262156",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 강원도시가스 대졸 신입사원(G3) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262161",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-06T23:00:40+00:00",
      "status": "ok",
@@ -7928,16 +8006,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7954,7 +8022,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-06T09:00:43+00:00"
+   "last_new_at": "2026-10-07T01:00:36+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9609,15 +9677,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-06T23:00:41+00:00",
-   "last_success": "2026-10-06T23:00:41+00:00",
+   "last_check": "2026-10-07T01:00:37+00:00",
+   "last_success": "2026-10-07T01:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 56,
-   "fingerprint": "3d098cbc4fdfff03",
+   "fingerprint": "ee35e7a4f188bb5e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T01:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-06T23:00:41+00:00",
      "status": "ok",
@@ -9906,16 +9984,6 @@
     },
     {
      "at": "2026-10-04T15:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-04T13:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10512,17 +10580,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23285",
      "date": "2026.10.06 ~ 2026.10.16",
      "first_seen": "2026-10-06T01:00:40+00:00"
+    },
+    "f9421880674d9577": {
+     "title": "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
+     "url": "https://www.samsungcareers.com/hr/?no=23283",
+     "date": "2026.10.07 ~ 2026.10.20",
+     "first_seen": "2026-10-07T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-06T23:00:43+00:00",
-   "last_success": "2026-10-06T23:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-07T01:00:40+00:00",
+   "last_success": "2026-10-07T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 4,
-   "fingerprint": "1b90687f1abb2287",
+   "item_count": 5,
+   "fingerprint": "325560ddd78570ea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-07T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
+       "url": "https://www.samsungcareers.com/hr/?no=23283",
+       "date": "2026.10.07 ~ 2026.10.20"
+      }
+     ]
+    },
     {
      "at": "2026-10-06T23:00:43+00:00",
      "status": "ok",
@@ -10818,21 +10908,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-04T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
     "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
     "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
     "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
@@ -10843,79 +10924,80 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-06T01:00:40+00:00"
+   "last_new_at": "2026-10-07T01:00:40+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-85",
+    "url": "https://recruit-hanwhaocean.com/ko/o/239579",
+    "date": "",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 제조관리 약사 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262162",
+    "date": "",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R250858",
+    "date": "",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 10월 SUSE 엔지니어 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262155",
+    "date": "",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 10월 Solution CIC 사업기획 담당자 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262156",
+    "date": "",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 강원도시가스 대졸 신입사원(G3) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262161",
+    "date": "",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
+    "url": "https://www.samsungcareers.com/hr/?no=23283",
+    "date": "2026.10.07 ~ 2026.10.20",
+    "found_at": "2026-10-07T01:00:41+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-07T01:00:41+00:00",
   "last_sent": "2026-10-06T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "SW Development",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=101",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "SDV 플랫폼 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=163",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "SDV 통합검증",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=174",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "R&D 노무관리",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=168",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "R&D 기술경영",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=170",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "R&D 경영지원",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=171",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "Infra Engineering",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=97",
-   "date": "20260914",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15352,6 +15434,69 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19905",
    "date": "2026.10.18 23:59",
    "found_at": "2026-10-06T15:00:54+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-85",
+   "url": "https://recruit-hanwhaocean.com/ko/o/239579",
+   "date": "",
+   "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 제조관리 약사 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262162",
+   "date": "",
+   "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R250858",
+   "date": "",
+   "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 10월 SUSE 엔지니어 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262155",
+   "date": "",
+   "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 10월 Solution CIC 사업기획 담당자 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262156",
+   "date": "",
+   "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 강원도시가스 대졸 신입사원(G3) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262161",
+   "date": "",
+   "found_at": "2026-10-07T01:00:41+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
+   "url": "https://www.samsungcareers.com/hr/?no=23283",
+   "date": "2026.10.07 ~ 2026.10.20",
+   "found_at": "2026-10-07T01:00:41+00:00"
   }
  ]
 }
