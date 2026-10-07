@@ -1,20 +1,20 @@
 {
- "at": "2026-10-07T05:00:45+00:00",
+ "at": "2026-10-07T07:00:49+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 17건 · 점검 0건). 10-08 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 0건). 10-08 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 17,
+  "items": 21,
   "alerts": 0,
   "since": "2026-10-07T01:00:41+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37574191099",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37584714361",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,33 +28,13 @@
    "error": "",
    "new_items": [
     {
-     "title": "[한화솔루션 큐셀] ES사업부 개발품질 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19811",
-     "date": "2026.10.13 15:00"
-    },
-    {
-     "title": "[한화솔루션 큐셀] ES사업부 Embedded Software (일반) 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
-     "date": "2026.10.15 15:00"
-    },
-    {
-     "title": "[한화솔루션 큐셀] ES사업부 Embedded Software (BSP) 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
-     "date": "2026.10.15 15:00"
-    },
-    {
-     "title": "[한화솔루션 큐셀] ES사업부 Global EMS 구매담당 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19904",
-     "date": "2026.10.23 15:00"
-    },
-    {
-     "title": "[해양솔루션부문, 드론사업단] 경력사원 대규모 채용",
+     "title": "[해양솔루션부문, 드론사업단] 경력사원 공개채용",
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
      "date": "2026.10.28 23:59"
     },
     {
-     "title": "[한화솔루션 큐셀] ES사업부 Mobile Application Engineering 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19927",
+     "title": "[한화솔루션 큐셀] ES사업부 Embedded SW/FW Engineer 경력직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19929",
      "date": "2026.10.30 15:00"
     }
    ]
@@ -76,12 +56,23 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 110,
+   "status": "new",
+   "item_count": 113,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "Map SDK Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262168",
+     "date": ""
+    },
+    {
+     "title": "Data Analytics (리더)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262169",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
