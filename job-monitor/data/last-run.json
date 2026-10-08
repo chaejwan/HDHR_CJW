@@ -1,7 +1,7 @@
 {
- "at": "2026-10-08T02:44:34+00:00",
- "checked": 5,
- "new_total": 7,
+ "at": "2026-10-08T03:00:36+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,105 +14,6 @@
   "since": "2026-10-08T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37719332183",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 54,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[NES사업부] 사업기획 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19930",
-     "date": "2026.10.25 23:59"
-    },
-    {
-     "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19931",
-     "date": "2026.11.01 23:59"
-    }
-   ]
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "new",
-   "item_count": 17,
-   "method": "links",
-   "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
-     "url": "https://recruit-hanwhaocean.com/ko/o/239780",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 125,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262139",
-     "date": ""
-    },
-    {
-     "title": "2026 하반기 신입사원 채용 (품질보증(QA))",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262140",
-     "date": ""
-    },
-    {
-     "title": "2026 하반기 신입사원 채용 (품질관리(QC))",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262175",
-     "date": ""
-    },
-    {
-     "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262182",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 55,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 6,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37720639635",
+ "results": []
 }
