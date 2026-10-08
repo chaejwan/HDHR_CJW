@@ -680,6 +680,51 @@ class DigestTest(unittest.TestCase):
         monday = datetime(2026, 9, 14, 8, 30, tzinfo=kst)
         self.assertTrue(digest_mod.should_send(cfg, friday_8am, monday))
 
+    def test_found_and_queued_are_saved_together(self):
+        """'아는 공고' 기록과 '보낼 목록' 은 한 번에 저장돼야 한다.
+
+        따로 저장하면 그 사이에 실행이 끊겼을 때, 공고가 아는 것으로만 남고
+        메일에는 실리지 않아 영영 누락된다.
+        """
+        saves = []
+        original = self.monitor.save_state
+
+        def watch(state):
+            entry = (state.get("sites") or {}).get("s1") or {}
+            saves.append((len(entry.get("seen") or {}),
+                          len(store_mod.outbox(state)["items"])))
+            original(state)
+        self.monitor.save_state = watch
+
+        self._serve([self._item(1)])
+        self.monitor.run_check(notify=True)              # 첫 확인: 기준만 저장 (알릴 것 없음)
+
+        state = self.monitor.load_state()
+        store_mod.outbox(state)["last_sent"] = store_mod.now_iso()   # 아직 보낼 때가 아님
+        self.monitor.save_state(state)
+        saves.clear()
+
+        self._serve([self._item(1), self._item(2)])      # 새 공고 한 건 발견
+        self.monitor.run_check(notify=True)
+        self.assertTrue(saves, "확인 결과가 저장되지 않았습니다")
+        for seen_count, queued in saves:
+            # 새 공고를 기억한 저장에는 '보낼 목록' 도 이미 들어 있어야 한다
+            self.assertEqual((seen_count, queued), (2, 1),
+                             "기억만 하고 보낼 목록에는 없는 시점이 있습니다")
+
+    def test_same_run_findings_go_out_in_that_run(self):
+        """발송 시각에 찾은 공고는 그 회차 메일에 실려야 한다 (다음으로 밀리면 안 된다)."""
+        state = self.monitor.load_state()
+        store_mod.outbox(state)["last_sent"] = "2020-01-01T00:00:00+09:00"
+        self.monitor.save_state(state)
+        self._serve([self._item(7)])
+        self.monitor.run_check(notify=True)             # 첫 확인이라 기준만 저장
+        self._serve([self._item(7), self._item(8)])
+        self.monitor.run_check(notify=True)
+        self.assertEqual(len(self.sent), 1)
+        self.assertIn("공고 8", self.sent[0][1])         # 방금 찾은 것이 이번 메일에 있다
+        self.assertEqual(store_mod.outbox(self.monitor.load_state())["items"], [])
+
     def test_partial_failure_does_not_resend_what_already_went_out(self):
         """공고 메일은 나갔는데 점검 안내가 실패하면, 다음 확인 때 공고 메일이 또 나가면 안 된다."""
         state = self.monitor.load_state()
