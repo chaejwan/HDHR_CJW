@@ -1,20 +1,20 @@
 {
- "at": "2026-10-08T09:00:47+00:00",
+ "at": "2026-10-08T11:00:48+00:00",
  "checked": 5,
- "new_total": 9,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 50건 · 점검 0건). 10-09 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 54건 · 점검 0건). 10-09 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 50,
+  "items": 54,
   "alerts": 0,
   "since": "2026-10-08T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37753659789",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37767220625",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,25 +22,30 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 78,
+   "item_count": 82,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Private 클라우드 기획 및 운영 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945",
-     "date": "2026.10.18 23:59"
+     "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19948",
+     "date": "2026.10.25 23:59"
     },
     {
-     "title": "Data Scientist 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944",
-     "date": "2026.10.18 23:59"
+     "title": "[특수선사업부] R&D 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19947",
+     "date": "2026.10.25 23:59"
     },
     {
-     "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
-     "date": "2026.10.18 23:59"
+     "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19946",
+     "date": "2026.10.25 23:59"
+    },
+    {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
+     "date": "2026.12.31 23:59"
     }
    ]
   },
@@ -49,56 +54,24 @@
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "new",
+   "status": "ok",
    "item_count": 23,
    "method": "links",
    "note": "31개 중 필터를 통과한 23개를 사용합니다.",
    "error": "",
-   "new_items": [
-    {
-     "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용경력특수선사업부생산/품질/HSE/공무외원자력 품질보증(QA)외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
-     "url": "https://recruit-hanwhaocean.com/ko/o/239813",
-     "date": ""
-    },
-    {
-     "title": "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
-     "url": "https://recruit-hanwhaocean.com/ko/o/239805",
-     "date": ""
-    },
-    {
-     "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
-     "url": "https://recruit-hanwhaocean.com/ko/o/239802",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 130,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "수소충전소 O&M 담당 채용 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262186",
-     "date": ""
-    },
-    {
-     "title": "IR Manager 경력 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262187",
-     "date": ""
-    },
-    {
-     "title": "IR Manager 신입 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262188",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",

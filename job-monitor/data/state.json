@@ -1454,17 +1454,72 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
      "date": "2026.10.18 23:59",
      "first_seen": "2026-10-08T09:00:38+00:00"
+    },
+    "66b360fd54f80e81": {
+     "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19948",
+     "date": "2026.10.25 23:59",
+     "first_seen": "2026-10-08T11:00:37+00:00"
+    },
+    "9334205d00cf0d42": {
+     "title": "[특수선사업부] R&D 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19947",
+     "date": "2026.10.25 23:59",
+     "first_seen": "2026-10-08T11:00:37+00:00"
+    },
+    "3f92954b09f6d73e": {
+     "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19946",
+     "date": "2026.10.25 23:59",
+     "first_seen": "2026-10-08T11:00:37+00:00"
+    },
+    "4217e3d3ac549543": {
+     "title": "[인재풀 등록] 특수선사업부 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-08T09:00:38+00:00",
-   "last_success": "2026-10-08T09:00:38+00:00",
+   "last_check": "2026-10-08T11:00:37+00:00",
+   "last_success": "2026-10-08T11:00:37+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 78,
-   "fingerprint": "0b80b8aca1396ea4",
+   "item_count": 82,
+   "fingerprint": "767c13bea4a89447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T11:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19948",
+       "date": "2026.10.25 23:59"
+      },
+      {
+       "title": "[특수선사업부] R&D 분야 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19947",
+       "date": "2026.10.25 23:59"
+      },
+      {
+       "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19946",
+       "date": "2026.10.25 23:59"
+      },
+      {
+       "title": "[인재풀 등록] 특수선사업부 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
+       "date": "2026.12.31 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-08T09:00:38+00:00",
      "status": "new",
@@ -1963,22 +2018,6 @@
        "date": "2026.10.15 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-05T23:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 47,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 정보보호 인증 담당(CMMC) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19888",
-       "date": "2026.10.19 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -1995,7 +2034,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T09:00:38+00:00"
+   "last_new_at": "2026-10-08T11:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6032,15 +6071,25 @@
      "first_seen": "2026-10-08T09:00:39+00:00"
     }
    },
-   "last_check": "2026-10-08T09:00:39+00:00",
-   "last_success": "2026-10-08T09:00:39+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-08T11:00:38+00:00",
+   "last_success": "2026-10-08T11:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "links",
    "item_count": 23,
    "fingerprint": "9099e42de995b191",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T11:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-08T09:00:39+00:00",
      "status": "new",
@@ -6373,16 +6422,6 @@
     },
     {
      "at": "2026-10-06T01:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T23:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8331,15 +8370,25 @@
      "first_seen": "2026-10-08T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T09:00:41+00:00",
-   "last_success": "2026-10-08T09:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-08T11:00:41+00:00",
+   "last_success": "2026-10-08T11:00:41+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 130,
    "fingerprint": "38ab5928218a0bd8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T11:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T09:00:41+00:00",
      "status": "new",
@@ -8848,16 +8897,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 92,
      "error": "",
      "note": "",
      "new": []
@@ -10532,15 +10571,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T09:00:43+00:00",
-   "last_success": "2026-10-08T09:00:43+00:00",
+   "last_check": "2026-10-08T11:00:43+00:00",
+   "last_success": "2026-10-08T11:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 56,
-   "fingerprint": "49dd6fcedca61fae",
+   "fingerprint": "366d3860bebd2a37",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T11:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T09:00:43+00:00",
      "status": "ok",
@@ -10823,16 +10872,6 @@
     },
     {
      "at": "2026-10-06T01:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 61,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T23:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11443,8 +11482,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-08T09:00:45+00:00",
-   "last_success": "2026-10-08T09:00:45+00:00",
+   "last_check": "2026-10-08T11:00:46+00:00",
+   "last_success": "2026-10-08T11:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11452,6 +11491,16 @@
    "fingerprint": "14ebe20e23d93f0e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T09:00:45+00:00",
      "status": "ok",
@@ -11759,16 +11808,6 @@
        "date": "2026.10.06 ~ 2026.10.16"
       }
      ]
-    },
-    {
-     "at": "2026-10-05T23:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12239,6 +12278,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262188",
     "date": "",
     "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19948",
+    "date": "2026.10.25 23:59",
+    "found_at": "2026-10-08T11:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[특수선사업부] R&D 분야 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19947",
+    "date": "2026.10.25 23:59",
+    "found_at": "2026-10-08T11:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19946",
+    "date": "2026.10.25 23:59",
+    "found_at": "2026-10-08T11:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[인재풀 등록] 특수선사업부 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-08T11:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -12246,42 +12321,6 @@
   "last_sent": "2026-10-07T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성E&A 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23067",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성물산 건설부문 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=22965",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성물산 상사부문 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23001",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성물산 패션부문 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23090",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -16745,6 +16784,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262188",
    "date": "",
    "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19948",
+   "date": "2026.10.25 23:59",
+   "found_at": "2026-10-08T11:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[특수선사업부] R&D 분야 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19947",
+   "date": "2026.10.25 23:59",
+   "found_at": "2026-10-08T11:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19946",
+   "date": "2026.10.25 23:59",
+   "found_at": "2026-10-08T11:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[인재풀 등록] 특수선사업부 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-08T11:00:48+00:00"
   }
  ]
 }
