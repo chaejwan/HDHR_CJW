@@ -1300,15 +1300,25 @@
      "first_seen": "2026-10-08T02:44:27+00:00"
     }
    },
-   "last_check": "2026-10-08T02:44:27+00:00",
-   "last_success": "2026-10-08T02:44:27+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-08T05:00:35+00:00",
+   "last_success": "2026-10-08T05:00:35+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
    "fingerprint": "80f57cc5d40b5c80",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T02:44:27+00:00",
      "status": "new",
@@ -1674,16 +1684,6 @@
     },
     {
      "at": "2026-10-05T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 46,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T17:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -5700,17 +5700,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/239780",
      "date": "",
      "first_seen": "2026-10-08T02:44:28+00:00"
+    },
+    "8bc55a9846d6afd6": {
+     "title": "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
+     "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+     "date": "",
+     "first_seen": "2026-10-08T05:00:36+00:00"
     }
    },
-   "last_check": "2026-10-08T02:44:28+00:00",
-   "last_success": "2026-10-08T02:44:28+00:00",
+   "last_check": "2026-10-08T05:00:36+00:00",
+   "last_success": "2026-10-08T05:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "links",
    "item_count": 17,
-   "fingerprint": "e962415a01d4e4c6",
+   "fingerprint": "e2daecbb0199f1b3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T05:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": [
+      {
+       "title": "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
+       "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-08T02:44:28+00:00",
      "status": "new",
@@ -6012,16 +6034,6 @@
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-10-05T17:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
     }
    ],
    "last_note": "25개 중 필터를 통과한 17개를 사용합니다.",
@@ -6038,7 +6050,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T02:44:28+00:00"
+   "last_new_at": "2026-10-08T05:00:36+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -7927,15 +7939,25 @@
      "first_seen": "2026-10-08T02:44:30+00:00"
     }
    },
-   "last_check": "2026-10-08T02:44:30+00:00",
-   "last_success": "2026-10-08T02:44:30+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-08T05:00:39+00:00",
+   "last_success": "2026-10-08T05:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 125,
    "fingerprint": "aa62ae95da89fc1c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 125,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T02:44:30+00:00",
      "status": "new",
@@ -8408,16 +8430,6 @@
     },
     {
      "at": "2026-10-05T19:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T17:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10096,15 +10108,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T02:44:31+00:00",
-   "last_success": "2026-10-08T02:44:31+00:00",
+   "last_check": "2026-10-08T05:00:40+00:00",
+   "last_success": "2026-10-08T05:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "2fe850523daf5410",
+   "fingerprint": "a429d7faa8a5f2d3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T05:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T02:44:31+00:00",
      "status": "ok",
@@ -10387,16 +10409,6 @@
     },
     {
      "at": "2026-10-05T19:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 61,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T17:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11007,8 +11019,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-08T02:44:32+00:00",
-   "last_success": "2026-10-08T02:44:32+00:00",
+   "last_check": "2026-10-08T05:00:42+00:00",
+   "last_success": "2026-10-08T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11016,6 +11028,16 @@
    "fingerprint": "14ebe20e23d93f0e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T02:44:32+00:00",
      "status": "ok",
@@ -11323,16 +11345,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11452,6 +11464,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262182",
     "date": "",
     "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
+    "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+    "date": "",
+    "found_at": "2026-10-08T05:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -11459,15 +11480,6 @@
   "last_sent": "2026-10-07T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] Bi-manipulator 제어",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=327",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15958,6 +15970,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262182",
    "date": "",
    "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
+   "url": "https://recruit-hanwhaocean.com/ko/o/200507",
+   "date": "",
+   "found_at": "2026-10-08T05:00:44+00:00"
   }
  ]
 }
