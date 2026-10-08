@@ -539,12 +539,18 @@ def _stabilize_ids(items: list) -> None:
 
 
 def _finish(result: ExtractResult, site: dict) -> ExtractResult:
-    """식별자 안정화 · 필터 적용 · 중복 제거 · 최대 개수 제한."""
-    _stabilize_ids(result.items)
+    """필터 적용 · 식별자 안정화 · 중복 제거 · 최대 개수 제한.
+
+    순서가 중요하다. 식별자 안정화는 '항목마다 주소가 다른가' 를 보고 판단하는데,
+    메뉴·로고 링크처럼 필터로 걸러질 것까지 함께 세면 주소가 겹친다고 판단해
+    제목까지 식별에 쓰게 된다. 제목에 남은 일수(D-100)가 섞인 사이트에서는
+    그 때문에 자정마다 모든 공고가 새 공고로 보인다. 그래서 거르고 나서 판단한다.
+    """
     items, note = result.items, result.note
     if items:
         before = len(items)
         items = _apply_filters(items, site)
+        _stabilize_ids(items)
         deduped, seen = [], set()
         for item in items:
             if item["id"] in seen:
