@@ -74,19 +74,19 @@
       "title_pattern": "",
       "exclude_pattern": "",
       "max_items": 300,
-      "note": "공고 상세는 /ko/o/번호 형식입니다. 그 링크만 공고로 인정하도록 주소 필터를 걸었습니다.",
+      "note": "공고 카드에서 제목만 뽑아냅니다 (링크 글 전체를 쓰면 남은 일수 D-00 까지 섞입니다). 사이트가 개편돼 정규식이 안 맞으면 '목록을 하나도 읽지 못했습니다' 알림이 옵니다.",
       "method": "GET",
       "body": "",
       "headers": {},
       "selector": "",
       "pages": 1,
-      "item_pattern": "",
+      "item_pattern": "<a[^>]*data-testid=\"공고_아이템\"[^>]*href=\"(?P<path>/ko/o/\\d+)\"[\\s\\S]{0,600}?<span[^>]*data-variant=\"title-01\"[^>]*>(?P<title>[^<]*)</span>",
       "json": {
         "items_path": "",
         "id_field": "",
-        "title_field": "",
+        "title_field": "title",
         "url_field": "",
-        "url_template": "",
+        "url_template": "https://recruit-hanwhaocean.com{path}",
         "title_template": "",
         "date_field": ""
       }

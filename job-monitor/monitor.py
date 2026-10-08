@@ -63,6 +63,7 @@ def build_parser() -> argparse.ArgumentParser:
     diagnose = sub.add_parser("diagnose", help="주소에서 무엇이 추출되는지 점검")
     diagnose.add_argument("url", nargs="?", default="")
     diagnose.add_argument("--site-json", help="사이트 설정 JSON 파일로 점검 (url/mode/method/body/json 매핑)")
+    diagnose.add_argument("--find", default="", help="응답에서 이 말이 나오는 곳의 앞뒤를 보여 준다 (구조 파악용)")
     diagnose.add_argument("--browser", action="store_true", help="Playwright 로 렌더링해서 확인")
     diagnose.add_argument("--network", action="store_true",
                           help="렌더링 중 오간 JSON 응답까지 살펴 목록 API 를 찾는다 (--browser 필요)")
@@ -459,6 +460,21 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
             lines.append("")
             lines.append("응답 구조 개요:")
             lines.extend(_outline(data))
+
+    needle = (getattr(args, "find", "") or "").strip()
+    if needle:
+        lines.append("")
+        lines.append(f"'{needle}' 가 나오는 곳 (앞뒤 500자씩):")
+        found = 0
+        at = fetched.text.find(needle)
+        while at >= 0 and found < 3:
+            chunk = re.sub(r"\s+", " ", fetched.text[max(0, at - 500): at + 500])
+            lines.append(f"  [{found + 1}] …{chunk}…")
+            lines.append("")
+            found += 1
+            at = fetched.text.find(needle, at + 500)
+        if not found:
+            lines.append("  (응답에 그 말이 없습니다)")
 
     structure = getattr(fetched, "structure", None) or []
     if structure:

@@ -680,6 +680,51 @@ class DigestTest(unittest.TestCase):
         monday = datetime(2026, 9, 14, 8, 30, tzinfo=kst)
         self.assertTrue(digest_mod.should_send(cfg, friday_8am, monday))
 
+    def test_found_and_queued_are_saved_together(self):
+        """'아는 공고' 기록과 '보낼 목록' 은 한 번에 저장돼야 한다.
+
+        따로 저장하면 그 사이에 실행이 끊겼을 때, 공고가 아는 것으로만 남고
+        메일에는 실리지 않아 영영 누락된다.
+        """
+        saves = []
+        original = self.monitor.save_state
+
+        def watch(state):
+            entry = (state.get("sites") or {}).get("s1") or {}
+            saves.append((len(entry.get("seen") or {}),
+                          len(store_mod.outbox(state)["items"])))
+            original(state)
+        self.monitor.save_state = watch
+
+        self._serve([self._item(1)])
+        self.monitor.run_check(notify=True)              # 첫 확인: 기준만 저장 (알릴 것 없음)
+
+        state = self.monitor.load_state()
+        store_mod.outbox(state)["last_sent"] = store_mod.now_iso()   # 아직 보낼 때가 아님
+        self.monitor.save_state(state)
+        saves.clear()
+
+        self._serve([self._item(1), self._item(2)])      # 새 공고 한 건 발견
+        self.monitor.run_check(notify=True)
+        self.assertTrue(saves, "확인 결과가 저장되지 않았습니다")
+        for seen_count, queued in saves:
+            # 새 공고를 기억한 저장에는 '보낼 목록' 도 이미 들어 있어야 한다
+            self.assertEqual((seen_count, queued), (2, 1),
+                             "기억만 하고 보낼 목록에는 없는 시점이 있습니다")
+
+    def test_same_run_findings_go_out_in_that_run(self):
+        """발송 시각에 찾은 공고는 그 회차 메일에 실려야 한다 (다음으로 밀리면 안 된다)."""
+        state = self.monitor.load_state()
+        store_mod.outbox(state)["last_sent"] = "2020-01-01T00:00:00+09:00"
+        self.monitor.save_state(state)
+        self._serve([self._item(7)])
+        self.monitor.run_check(notify=True)             # 첫 확인이라 기준만 저장
+        self._serve([self._item(7), self._item(8)])
+        self.monitor.run_check(notify=True)
+        self.assertEqual(len(self.sent), 1)
+        self.assertIn("공고 8", self.sent[0][1])         # 방금 찾은 것이 이번 메일에 있다
+        self.assertEqual(store_mod.outbox(self.monitor.load_state())["items"], [])
+
     def test_partial_failure_does_not_resend_what_already_went_out(self):
         """공고 메일은 나갔는데 점검 안내가 실패하면, 다음 확인 때 공고 메일이 또 나가면 안 된다."""
         state = self.monitor.load_state()
@@ -813,6 +858,42 @@ class AccessGateTest(unittest.TestCase):
     def test_cannot_turn_on_without_a_password(self):
         cfg = config_mod.normalize({"access": {"enabled": True}})
         self.assertFalse(cfg["access"]["enabled"])
+
+
+class StableIdentityWithFiltersTest(unittest.TestCase):
+    """필터로 걸러질 링크 때문에 식별이 제목에 끌려가면 안 된다.
+
+    한화오션에서 매일 자정마다 '목록이 통째로 바뀌었다' 는 알림이 온 원인이다.
+    공고 제목 끝에 남은 일수(D-100)가 붙어 있어, 제목으로 식별하면 날마다 달라진다.
+    메뉴 링크(필터로 걸러짐)들이 같은 주소를 쓰는 바람에 '주소가 겹친다' 고 판단해
+    주소 기반 식별을 포기한 것이 원인이었다.
+    """
+
+    def _extract(self, dday):
+        site = config_mod.normalize({"sites": [{
+            "name": "한화오션", "url": "https://example.com/ko/intro",
+            "url_pattern": r"/ko/o/\d+",
+        }]})["sites"][0]
+        html = f"""
+        <a href="/ko/intro">채용 소개</a>
+        <a href="/ko/intro">회사 소개</a>
+        <a href="/ko/o/200507">인재풀 등록 … 2026. 12. 31, 14:59까지D-{dday}</a>
+        <a href="/ko/o/207059">법무 경력사원 채용 … 2026. 12. 31, 14:59까지D-{dday}</a>
+        """
+        fetched = FetchResult(url="https://example.com/ko/intro", status=200,
+                              text=html, content_type="text/html")
+        return extract_mod.extract(site, fetched)
+
+    def test_same_posting_keeps_its_id_as_the_countdown_ticks(self):
+        today = self._extract(100)
+        tomorrow = self._extract(99)          # 자정이 지나 남은 일수가 하루 줄었다
+        self.assertEqual(len(today.items), 2)         # 메뉴 링크는 걸러진다
+        self.assertEqual([i["id"] for i in today.items], [i["id"] for i in tomorrow.items],
+                         "남은 일수만 바뀌었는데 공고 식별자가 달라졌습니다")
+
+    def test_different_postings_still_differ(self):
+        self.assertEqual(len({i["id"] for i in self._extract(100).items}), 2)
+
 
 if __name__ == "__main__":
     unittest.main()
