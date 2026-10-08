@@ -1288,15 +1288,25 @@
      "first_seen": "2026-10-07T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-07T23:00:37+00:00",
-   "last_success": "2026-10-07T23:00:37+00:00",
+   "last_check": "2026-10-08T01:00:33+00:00",
+   "last_success": "2026-10-08T01:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 52,
-   "fingerprint": "62769ff97c058f6a",
+   "fingerprint": "2a149159b5324a74",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T01:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T23:00:37+00:00",
      "status": "ok",
@@ -1658,16 +1668,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1676,8 +1676,8 @@
     "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
     "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
     "[품질보증실] 대전/순천 사업장 전문직 채용(채용전환형 인턴)",
-    "[HR실] 해외 주재원 Payroll 담당자 채용(계약직)",
-    "2026 한화세미텍 신입사원 채용 (9/21~10/11)"
+    "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
+    "(주)한화 전략부문 자금운영 계약직 채용"
    ],
    "health": {
     "issue": "",
@@ -5673,8 +5673,8 @@
      "first_seen": "2026-10-07T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-07T23:00:37+00:00",
-   "last_success": "2026-10-07T23:00:37+00:00",
+   "last_check": "2026-10-08T01:00:34+00:00",
+   "last_success": "2026-10-08T01:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "links",
@@ -5682,6 +5682,16 @@
    "fingerprint": "52e1c2460c46180c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T01:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
+     "new": []
+    },
     {
      "at": "2026-10-07T23:00:37+00:00",
      "status": "ok",
@@ -5976,16 +5986,6 @@
      "item_count": 17,
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 615건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
     }
    ],
@@ -7848,17 +7848,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262171",
      "date": "",
      "first_seen": "2026-10-07T09:00:42+00:00"
+    },
+    "49f9714cdea8d6ec": {
+     "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262177",
+     "date": "",
+     "first_seen": "2026-10-08T01:00:41+00:00"
+    },
+    "7bcaeead5802bc77": {
+     "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262178",
+     "date": "",
+     "first_seen": "2026-10-08T01:00:41+00:00"
+    },
+    "080a3eae7c6ee5af": {
+     "title": "SK플라즈마 사업개발 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262179",
+     "date": "",
+     "first_seen": "2026-10-08T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-07T23:00:40+00:00",
-   "last_success": "2026-10-07T23:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-08T01:00:41+00:00",
+   "last_success": "2026-10-08T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 118,
-   "fingerprint": "1536882fa74f5b27",
+   "item_count": 121,
+   "fingerprint": "9c7a3e66f37ae5aa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 121,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262177",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262178",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 사업개발 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262179",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-07T23:00:40+00:00",
      "status": "ok",
@@ -8307,16 +8351,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-05T13:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 107,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8333,7 +8367,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-07T09:00:42+00:00"
+   "last_new_at": "2026-10-08T01:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -9988,15 +10022,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-07T23:00:41+00:00",
-   "last_success": "2026-10-07T23:00:41+00:00",
+   "last_check": "2026-10-08T01:00:42+00:00",
+   "last_success": "2026-10-08T01:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "3e73583ddb35e0d0",
+   "fingerprint": "2fe850523daf5410",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T01:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-07T23:00:41+00:00",
      "status": "ok",
@@ -10283,16 +10327,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 61,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
      "error": "",
      "note": "",
      "new": []
@@ -10891,17 +10925,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23283",
      "date": "2026.10.07 ~ 2026.10.20",
      "first_seen": "2026-10-07T01:00:40+00:00"
+    },
+    "885cc15f1d90b536": {
+     "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
+     "url": "https://www.samsungcareers.com/hr/?no=23287",
+     "date": "2026.10.08 ~ 2026.10.19",
+     "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-07T23:00:43+00:00",
-   "last_success": "2026-10-07T23:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-08T01:00:44+00:00",
+   "last_success": "2026-10-08T01:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 5,
-   "fingerprint": "506f36380a43bf76",
+   "item_count": 6,
+   "fingerprint": "14ebe20e23d93f0e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T01:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
+       "url": "https://www.samsungcareers.com/hr/?no=23287",
+       "date": "2026.10.08 ~ 2026.10.19"
+      }
+     ]
+    },
     {
      "at": "2026-10-07T23:00:43+00:00",
      "status": "ok",
@@ -11203,78 +11259,69 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T13:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
     "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
     "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
     "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
-    "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
-    "삼성글로벌리서치 분야별 연구원 채용"
+    "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-07T01:00:40+00:00"
+   "last_new_at": "2026-10-08T01:00:44+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262177",
+    "date": "",
+    "found_at": "2026-10-08T01:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262178",
+    "date": "",
+    "found_at": "2026-10-08T01:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 사업개발 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262179",
+    "date": "",
+    "found_at": "2026-10-08T01:00:46+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
+    "url": "https://www.samsungcareers.com/hr/?no=23287",
+    "date": "2026.10.08 ~ 2026.10.19",
+    "found_at": "2026-10-08T01:00:46+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-08T01:00:46+00:00",
   "last_sent": "2026-10-07T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "기아 외장 디자이너",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=398",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[통합보안] 보안점검(분석)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=266",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 모바일로봇 전장 시스템 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=323",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 모바일로봇 위치 추정 및 주행 제어",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=328",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15738,6 +15785,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262171",
    "date": "",
    "found_at": "2026-10-07T09:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262177",
+   "date": "",
+   "found_at": "2026-10-08T01:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262178",
+   "date": "",
+   "found_at": "2026-10-08T01:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 사업개발 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262179",
+   "date": "",
+   "found_at": "2026-10-08T01:00:46+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
+   "url": "https://www.samsungcareers.com/hr/?no=23287",
+   "date": "2026.10.08 ~ 2026.10.19",
+   "found_at": "2026-10-08T01:00:46+00:00"
   }
  ]
 }

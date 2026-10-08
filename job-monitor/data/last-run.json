@@ -1,20 +1,20 @@
 {
- "at": "2026-10-07T23:00:44+00:00",
+ "at": "2026-10-08T01:00:46+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 10-09 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 4,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-08T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37699694125",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/37710705680",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 118,
+   "status": "new",
+   "item_count": 121,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262177",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262178",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 사업개발 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262179",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -69,12 +85,18 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 5,
+   "status": "new",
+   "item_count": 6,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
+     "url": "https://www.samsungcareers.com/hr/?no=23287",
+     "date": "2026.10.08 ~ 2026.10.19"
+    }
+   ]
   }
  ]
 }
