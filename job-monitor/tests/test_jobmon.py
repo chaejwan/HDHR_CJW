@@ -415,6 +415,19 @@ class PatternExtractionTest(unittest.TestCase):
         self.assertEqual(items[0]["date"], "2026.09.08 ~ 2026.09.15")
         self.assertEqual(items[1]["url"], "https://example.com/hr/?no=989")
 
+    def test_html_entities_become_real_letters(self):
+        """정규식으로 잘라 온 값은 &amp; 같은 표기를 글자로 되돌려야 한다 (R&amp;D → R&D)."""
+        html = ('<a data-id="7&amp;x" href="/o/1?a=1&amp;b=2">'
+                '<h3 class="t">R&amp;D &lt;경력&gt; 채용 &#39;신규&#39;</h3></a>')
+        pattern = (r'<a[^>]*href="(?P<path>/o/[^"]+)"'
+                   r'[\s\S]{0,200}?<h3 class="t">(?P<title>[^<]*)</h3>')
+        items = extract_mod.items_from_pattern(
+            pattern, html, "https://example.com/", {
+                "title_field": "title", "url_template": "https://example.com{path}"})
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["title"], "R&D <경력> 채용 '신규'")
+        self.assertEqual(items[0]["url"], "https://example.com/o/1?a=1&b=2")
+
     def test_used_by_extract(self):
         site = config_mod.normalize({"sites": [{
             "name": "조각", "url": "https://example.com/hr/list.data", "mode": "html",
