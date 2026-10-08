@@ -27,6 +27,9 @@ on:
       body:
         description: "POST 로 보낼 본문 (예: page=1&size=50). 지정하면 브라우저 없이 그 요청만 보냅니다"
         required: false
+      find:
+        description: "응답에서 이 말이 나오는 곳의 앞뒤를 보여 주기 (HTML 구조 파악용)"
+        required: false
 
 permissions:
   contents: read
@@ -60,7 +63,7 @@ jobs:
             python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
           elif [ -n "${{ inputs.site_id }}" ]; then
             python3 job-monitor/tools/pick_site.py job-monitor/config.json "${{ inputs.site_id }}" /tmp/site.json
-            python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json
+            python3 job-monitor/monitor.py diagnose --site-json /tmp/site.json --find "${{ inputs.find }}"
           else
             python3 job-monitor/monitor.py diagnose "${{ inputs.url }}" \
               ${{ inputs.browser && '--browser' || ' ' }} \
