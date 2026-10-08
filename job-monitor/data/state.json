@@ -1436,17 +1436,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19932",
      "date": "2026.12.31 23:59",
      "first_seen": "2026-10-08T07:00:37+00:00"
+    },
+    "00ba70ca1fbb8174": {
+     "title": "Private 클라우드 기획 및 운영 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-08T09:00:38+00:00"
+    },
+    "5c925e9f3a0adc80": {
+     "title": "Data Scientist 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-08T09:00:38+00:00"
+    },
+    "487f941a4e1f21d1": {
+     "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-08T09:00:38+00:00"
     }
    },
-   "last_check": "2026-10-08T07:00:37+00:00",
-   "last_success": "2026-10-08T07:00:37+00:00",
+   "last_check": "2026-10-08T09:00:38+00:00",
+   "last_success": "2026-10-08T09:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "5ddf5eac915caf55",
+   "item_count": 78,
+   "fingerprint": "0b80b8aca1396ea4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T09:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Private 클라우드 기획 및 운영 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945",
+       "date": "2026.10.18 23:59"
+      },
+      {
+       "title": "Data Scientist 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944",
+       "date": "2026.10.18 23:59"
+      },
+      {
+       "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
+       "date": "2026.10.18 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-08T07:00:37+00:00",
      "status": "new",
@@ -1935,16 +1979,6 @@
        "date": "2026.10.19 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-05T21:10:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 46,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1961,7 +1995,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T07:00:37+00:00"
+   "last_new_at": "2026-10-08T09:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -5978,17 +6012,61 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/236576",
      "date": "",
      "first_seen": "2026-10-08T07:00:38+00:00"
+    },
+    "9535a1ba4c34bf11": {
+     "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용경력특수선사업부생산/품질/HSE/공무외원자력 품질보증(QA)외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239813",
+     "date": "",
+     "first_seen": "2026-10-08T09:00:39+00:00"
+    },
+    "7f6bd1b650d66c1d": {
+     "title": "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239805",
+     "date": "",
+     "first_seen": "2026-10-08T09:00:39+00:00"
+    },
+    "b8edbe02443721f5": {
+     "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239802",
+     "date": "",
+     "first_seen": "2026-10-08T09:00:39+00:00"
     }
    },
-   "last_check": "2026-10-08T07:00:38+00:00",
-   "last_success": "2026-10-08T07:00:38+00:00",
+   "last_check": "2026-10-08T09:00:39+00:00",
+   "last_success": "2026-10-08T09:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 20,
-   "fingerprint": "deac14f1d4be19c0",
+   "item_count": 23,
+   "fingerprint": "9099e42de995b191",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T09:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 23,
+     "error": "",
+     "note": "31개 중 필터를 통과한 23개를 사용합니다.",
+     "new": [
+      {
+       "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용경력특수선사업부생산/품질/HSE/공무외원자력 품질보증(QA)외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
+       "url": "https://recruit-hanwhaocean.com/ko/o/239813",
+       "date": ""
+      },
+      {
+       "title": "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
+       "url": "https://recruit-hanwhaocean.com/ko/o/239805",
+       "date": ""
+      },
+      {
+       "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
+       "url": "https://recruit-hanwhaocean.com/ko/o/239802",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-08T07:00:38+00:00",
      "status": "new",
@@ -6312,33 +6390,23 @@
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-10-05T21:10:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": []
     }
    ],
-   "last_note": "28개 중 필터를 통과한 20개를 사용합니다.",
+   "last_note": "31개 중 필터를 통과한 23개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-3",
-    "[상선사업부] 영업, 기획 경력사원 채용경력상선사업부기획외원가관리외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
-    "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
-    "[상선사업부] 구매 경력사원 채용경력상선사업부구매구매기획외경력 5년 이상정규직서울외2026. 10. 25, 14:59까지D-17",
-    "[상선사업부] 설계 경력사원 채용경력상선사업부설계구조기본설계외경력 5년 이상정규직서울외2026. 10. 25, 14:59까지D-17"
+    "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용경력특수선사업부생산/품질/HSE/공무외원자력 품질보증(QA)외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
+    "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
+    "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
+    "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T07:00:38+00:00"
+   "last_new_at": "2026-10-08T09:00:39+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -8243,17 +8311,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262150",
      "date": "",
      "first_seen": "2026-10-08T07:00:41+00:00"
+    },
+    "3395f08a37442a90": {
+     "title": "수소충전소 O&M 담당 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262186",
+     "date": "",
+     "first_seen": "2026-10-08T09:00:41+00:00"
+    },
+    "1d56bc85b3248145": {
+     "title": "IR Manager 경력 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262187",
+     "date": "",
+     "first_seen": "2026-10-08T09:00:41+00:00"
+    },
+    "dea6d3e79af25e3d": {
+     "title": "IR Manager 신입 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262188",
+     "date": "",
+     "first_seen": "2026-10-08T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T07:00:41+00:00",
-   "last_success": "2026-10-08T07:00:41+00:00",
+   "last_check": "2026-10-08T09:00:41+00:00",
+   "last_success": "2026-10-08T09:00:41+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 127,
-   "fingerprint": "1049674ef606535e",
+   "item_count": 130,
+   "fingerprint": "38ab5928218a0bd8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T09:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "수소충전소 O&M 담당 채용 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262186",
+       "date": ""
+      },
+      {
+       "title": "IR Manager 경력 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262187",
+       "date": ""
+      },
+      {
+       "title": "IR Manager 신입 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262188",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-08T07:00:41+00:00",
      "status": "new",
@@ -8749,16 +8861,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T21:10:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8775,7 +8877,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T07:00:41+00:00"
+   "last_new_at": "2026-10-08T09:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10430,15 +10532,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T07:00:43+00:00",
-   "last_success": "2026-10-08T07:00:43+00:00",
+   "last_check": "2026-10-08T09:00:43+00:00",
+   "last_success": "2026-10-08T09:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 55,
-   "fingerprint": "2ec33ed587914856",
+   "item_count": 56,
+   "fingerprint": "49dd6fcedca61fae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T09:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T07:00:43+00:00",
      "status": "ok",
@@ -10721,16 +10833,6 @@
     },
     {
      "at": "2026-10-05T23:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 61,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T21:10:55+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11341,8 +11443,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-08T07:00:45+00:00",
-   "last_success": "2026-10-08T07:00:45+00:00",
+   "last_check": "2026-10-08T09:00:45+00:00",
+   "last_success": "2026-10-08T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11350,6 +11452,16 @@
    "fingerprint": "14ebe20e23d93f0e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T07:00:45+00:00",
      "status": "ok",
@@ -11650,16 +11762,6 @@
     },
     {
      "at": "2026-10-05T23:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T21:10:56+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12056,6 +12158,87 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262150",
     "date": "",
     "found_at": "2026-10-08T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "Private 클라우드 기획 및 운영 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "Data Scientist 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용경력특수선사업부생산/품질/HSE/공무외원자력 품질보증(QA)외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
+    "url": "https://recruit-hanwhaocean.com/ko/o/239813",
+    "date": "",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
+    "url": "https://recruit-hanwhaocean.com/ko/o/239805",
+    "date": "",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
+    "url": "https://recruit-hanwhaocean.com/ko/o/239802",
+    "date": "",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "수소충전소 O&M 담당 채용 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262186",
+    "date": "",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "IR Manager 경력 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262187",
+    "date": "",
+    "found_at": "2026-10-08T09:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "IR Manager 신입 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262188",
+    "date": "",
+    "found_at": "2026-10-08T09:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -12063,87 +12246,6 @@
   "last_sent": "2026-10-07T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성SDS 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=22987",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성SDS Samsung Convergence SW Academy 모집 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=22975",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성바이오로직스 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23046",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성바이오에피스 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=22999",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성생명 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23041",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성화재 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23126",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성카드 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23085",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성증권 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23009",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성중공업 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23039",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -16562,6 +16664,87 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262150",
    "date": "",
    "found_at": "2026-10-08T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "Private 클라우드 기획 및 운영 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "Data Scientist 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용경력특수선사업부생산/품질/HSE/공무외원자력 품질보증(QA)외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
+   "url": "https://recruit-hanwhaocean.com/ko/o/239813",
+   "date": "",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
+   "url": "https://recruit-hanwhaocean.com/ko/o/239805",
+   "date": "",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
+   "url": "https://recruit-hanwhaocean.com/ko/o/239802",
+   "date": "",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "수소충전소 O&M 담당 채용 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262186",
+   "date": "",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "IR Manager 경력 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262187",
+   "date": "",
+   "found_at": "2026-10-08T09:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "IR Manager 신입 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262188",
+   "date": "",
+   "found_at": "2026-10-08T09:00:47+00:00"
   }
  ]
 }
