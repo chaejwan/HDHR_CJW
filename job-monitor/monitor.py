@@ -468,8 +468,8 @@ def cmd_diagnose(monitor: Monitor, args) -> int:
         found = 0
         at = fetched.text.find(needle)
         while at >= 0 and found < 3:
-            chunk = fetched.text[max(0, at - 500): at + 500]
-            lines.append(f"  [{found + 1}] …{re.sub(r'\s+', ' ', chunk)}…")
+            chunk = re.sub(r"\s+", " ", fetched.text[max(0, at - 500): at + 500])
+            lines.append(f"  [{found + 1}] …{chunk}…")
             lines.append("")
             found += 1
             at = fetched.text.find(needle, at + 500)
