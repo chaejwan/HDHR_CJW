@@ -17,6 +17,7 @@ import hashlib
 import json
 import re
 from dataclasses import dataclass, field
+import html as html_mod
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse, urlunparse
 
@@ -389,7 +390,9 @@ def items_from_pattern(pattern: str, text: str, base_url: str, mapping: dict) ->
         return []
     items = []
     for match in regex.finditer(text):
-        fields = {k: re.sub(r"\s+", " ", (v or "")).strip()
+        # HTML 그대로 잘라 온 값이므로 &amp; 같은 표기를 글자로 되돌린다 (R&amp;D → R&D).
+        # 링크 안의 &amp; 도 마찬가지로 풀어야 주소가 제대로 만들어진다.
+        fields = {k: html_mod.unescape(re.sub(r"\s+", " ", (v or "")).strip())
                   for k, v in (match.groupdict() or {}).items()}
         if not fields:
             continue
