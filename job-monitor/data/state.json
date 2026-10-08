@@ -1286,17 +1286,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19929",
      "date": "2026.10.30 15:00",
      "first_seen": "2026-10-07T07:00:36+00:00"
+    },
+    "87ed4056c9461e52": {
+     "title": "[NES사업부] 사업기획 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19930",
+     "date": "2026.10.25 23:59",
+     "first_seen": "2026-10-08T02:44:27+00:00"
+    },
+    "9c9e51fcfd4fd60e": {
+     "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19931",
+     "date": "2026.11.01 23:59",
+     "first_seen": "2026-10-08T02:44:27+00:00"
     }
    },
-   "last_check": "2026-10-08T01:00:33+00:00",
-   "last_success": "2026-10-08T01:00:33+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-08T02:44:27+00:00",
+   "last_success": "2026-10-08T02:44:27+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 52,
-   "fingerprint": "2a149159b5324a74",
+   "item_count": 54,
+   "fingerprint": "80f57cc5d40b5c80",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T02:44:27+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[NES사업부] 사업기획 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19930",
+       "date": "2026.10.25 23:59"
+      },
+      {
+       "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19931",
+       "date": "2026.11.01 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-08T01:00:33+00:00",
      "status": "ok",
@@ -1658,16 +1691,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T15:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 46,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1684,7 +1707,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-07T07:00:36+00:00"
+   "last_new_at": "2026-10-08T02:44:27+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -5671,17 +5694,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/239579",
      "date": "",
      "first_seen": "2026-10-07T15:00:44+00:00"
+    },
+    "56577ad5321ecd36": {
+     "title": "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
+     "url": "https://recruit-hanwhaocean.com/ko/o/239780",
+     "date": "",
+     "first_seen": "2026-10-08T02:44:28+00:00"
     }
    },
-   "last_check": "2026-10-08T01:00:34+00:00",
-   "last_success": "2026-10-08T01:00:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-08T02:44:28+00:00",
+   "last_success": "2026-10-08T02:44:28+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "links",
-   "item_count": 16,
-   "fingerprint": "52e1c2460c46180c",
+   "item_count": 17,
+   "fingerprint": "e962415a01d4e4c6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T02:44:28+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 17,
+     "error": "",
+     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
+     "new": [
+      {
+       "title": "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
+       "url": "https://recruit-hanwhaocean.com/ko/o/239780",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-08T01:00:34+00:00",
      "status": "ok",
@@ -5977,33 +6022,23 @@
      "error": "",
      "note": "25개 중 필터를 통과한 17개를 사용합니다.",
      "new": []
-    },
-    {
-     "at": "2026-10-05T15:00:56+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다. 이전에 기억하던 615건과 겹치는 공고가 없어, 지금 17건을 기준으로 다시 저장했습니다(알림 없음).",
-     "new": []
     }
    ],
-   "last_note": "24개 중 필터를 통과한 16개를 사용합니다.",
+   "last_note": "25개 중 필터를 통과한 17개를 사용합니다.",
    "consecutive_errors": 0,
    "sample_titles": [
     "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용신입제품전략기술원테크니션테크니션신입정규직시흥2026. 10. 11, 14:59까지D-3",
-    "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
-    "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-84",
-    "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-84",
-    "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-84"
+    "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
+    "[경영지원] 노사관리/운영 경력사원 채용경력경영지원경영지원노사관리/개별 근로관계법 운영경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-84",
+    "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-84",
+    "[경영지원] 정보보호 경력사원 채용경력경영지원보안정보보호경력 5년 이상정규직거제2026. 12. 31, 14:59까지D-84"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-07T01:00:32+00:00"
+   "last_new_at": "2026-10-08T02:44:28+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -7866,17 +7901,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262179",
      "date": "",
      "first_seen": "2026-10-08T01:00:41+00:00"
+    },
+    "62557f5936970975": {
+     "title": "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262139",
+     "date": "",
+     "first_seen": "2026-10-08T02:44:30+00:00"
+    },
+    "e9f8b8b5b1462865": {
+     "title": "2026 하반기 신입사원 채용 (품질보증(QA))",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262140",
+     "date": "",
+     "first_seen": "2026-10-08T02:44:30+00:00"
+    },
+    "f058da1dad893a44": {
+     "title": "2026 하반기 신입사원 채용 (품질관리(QC))",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262175",
+     "date": "",
+     "first_seen": "2026-10-08T02:44:30+00:00"
+    },
+    "ea0ed4edd61a0607": {
+     "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262182",
+     "date": "",
+     "first_seen": "2026-10-08T02:44:30+00:00"
     }
    },
-   "last_check": "2026-10-08T01:00:41+00:00",
-   "last_success": "2026-10-08T01:00:41+00:00",
+   "last_check": "2026-10-08T02:44:30+00:00",
+   "last_success": "2026-10-08T02:44:30+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 121,
-   "fingerprint": "9c7a3e66f37ae5aa",
+   "item_count": 125,
+   "fingerprint": "aa62ae95da89fc1c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T02:44:30+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 125,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262139",
+       "date": ""
+      },
+      {
+       "title": "2026 하반기 신입사원 채용 (품질보증(QA))",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262140",
+       "date": ""
+      },
+      {
+       "title": "2026 하반기 신입사원 채용 (품질관리(QC))",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262175",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262182",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-08T01:00:41+00:00",
      "status": "new",
@@ -8335,39 +8425,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T15:00:59+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262137",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
     "DS 원액생산 경력사원 채용",
     "Management Accounting(관리회계/경영분석) 경력사원 채용",
     "DC(데이터센터) 운용 전기 전문가 영입 (울산)",
-    "[SK에어플러스] 기계/배관 설계 엔지니어"
+    "[SK에어플러스] 기계/배관 설계 엔지니어",
+    "[삼강에스앤씨] Dock 운영 구성원 모집(Dock Master)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T01:00:41+00:00"
+   "last_new_at": "2026-10-08T02:44:30+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10022,8 +10096,8 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T01:00:42+00:00",
-   "last_success": "2026-10-08T01:00:42+00:00",
+   "last_check": "2026-10-08T02:44:31+00:00",
+   "last_success": "2026-10-08T02:44:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10031,6 +10105,16 @@
    "fingerprint": "2fe850523daf5410",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T02:44:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T01:00:42+00:00",
      "status": "ok",
@@ -10313,16 +10397,6 @@
     },
     {
      "at": "2026-10-05T17:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 61,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-05T15:01:00+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10933,15 +11007,25 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-08T01:00:44+00:00",
-   "last_success": "2026-10-08T01:00:44+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-08T02:44:32+00:00",
+   "last_success": "2026-10-08T02:44:32+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 6,
    "fingerprint": "14ebe20e23d93f0e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-08T02:44:32+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T01:00:44+00:00",
      "status": "new",
@@ -11249,16 +11333,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-05T15:01:02+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11315,6 +11389,69 @@
     "url": "https://www.samsungcareers.com/hr/?no=23287",
     "date": "2026.10.08 ~ 2026.10.19",
     "found_at": "2026-10-08T01:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[NES사업부] 사업기획 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19930",
+    "date": "2026.10.25 23:59",
+    "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19931",
+    "date": "2026.11.01 23:59",
+    "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
+    "url": "https://recruit-hanwhaocean.com/ko/o/239780",
+    "date": "",
+    "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262139",
+    "date": "",
+    "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026 하반기 신입사원 채용 (품질보증(QA))",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262140",
+    "date": "",
+    "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026 하반기 신입사원 채용 (품질관리(QC))",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262175",
+    "date": "",
+    "found_at": "2026-10-08T02:44:34+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262182",
+    "date": "",
+    "found_at": "2026-10-08T02:44:34+00:00"
    }
   ],
   "alerts": [],
@@ -11322,69 +11459,6 @@
   "last_sent": "2026-10-07T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 로봇 SW 품질 관리",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 관절로봇 회로 설계",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=325",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 관절로봇 양산개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=331",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 관절로봇 시스템 SW 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=326",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 관절로봇 기구설계 및 메커니즘 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=329",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] 관절로봇 SW 검증/평가",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=324",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[로보틱스랩] Perceptive AI 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=322",
-   "date": "20261231",
-   "found_at": "2026-09-08T04:08:34+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -15821,6 +15895,69 @@
    "url": "https://www.samsungcareers.com/hr/?no=23287",
    "date": "2026.10.08 ~ 2026.10.19",
    "found_at": "2026-10-08T01:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[NES사업부] 사업기획 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19930",
+   "date": "2026.10.25 23:59",
+   "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화모멘텀㈜] 시설관리(공무) 계약직 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19931",
+   "date": "2026.11.01 23:59",
+   "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[NES사업부] 사업기획 경력사원 채용경력NES사업부전략기획사업기획경력 5년 이상정규직서울2026. 10. 25, 14:59까지D-17",
+   "url": "https://recruit-hanwhaocean.com/ko/o/239780",
+   "date": "",
+   "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262139",
+   "date": "",
+   "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026 하반기 신입사원 채용 (품질보증(QA))",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262140",
+   "date": "",
+   "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026 하반기 신입사원 채용 (품질관리(QC))",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262175",
+   "date": "",
+   "found_at": "2026-10-08T02:44:34+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262182",
+   "date": "",
+   "found_at": "2026-10-08T02:44:34+00:00"
   }
  ]
 }
