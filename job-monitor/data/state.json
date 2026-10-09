@@ -1480,8 +1480,8 @@
      "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-08T23:00:35+00:00",
-   "last_success": "2026-10-08T23:00:35+00:00",
+   "last_check": "2026-10-09T01:00:35+00:00",
+   "last_success": "2026-10-09T01:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1489,6 +1489,16 @@
    "fingerprint": "767c13bea4a89447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-09T01:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T23:00:35+00:00",
      "status": "ok",
@@ -1990,22 +2000,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-06T15:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19905",
-       "date": "2026.10.18 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6197,8 +6191,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-08T23:00:35+00:00",
-   "last_success": "2026-10-08T23:00:35+00:00",
+   "last_check": "2026-10-09T01:00:35+00:00",
+   "last_success": "2026-10-09T01:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6206,6 +6200,16 @@
    "fingerprint": "1b526323ffa4a7ea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-09T01:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T23:00:35+00:00",
      "status": "ok",
@@ -6544,16 +6548,6 @@
      "item_count": 15,
      "error": "",
      "note": "23개 중 필터를 통과한 15개를 사용합니다.",
-     "new": []
-    },
-    {
-     "at": "2026-10-06T15:00:39+00:00",
-     "status": "baseline",
-     "reset": true,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "23개 중 필터를 통과한 15개를 사용합니다. 이전에 기억하던 632건과 겹치는 공고가 없어, 지금 15건을 기준으로 다시 저장했습니다(알림 없음).",
      "new": []
     }
    ],
@@ -8496,8 +8490,8 @@
      "first_seen": "2026-10-08T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T23:00:37+00:00",
-   "last_success": "2026-10-08T23:00:37+00:00",
+   "last_check": "2026-10-09T01:00:42+00:00",
+   "last_success": "2026-10-09T01:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8505,6 +8499,16 @@
    "fingerprint": "1e9d462dea3ff937",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-09T01:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 128,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T23:00:37+00:00",
      "status": "ok",
@@ -8935,16 +8939,6 @@
     },
     {
      "at": "2026-10-06T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 102,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-06T15:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10623,8 +10617,8 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-08T23:00:38+00:00",
-   "last_success": "2026-10-08T23:00:38+00:00",
+   "last_check": "2026-10-09T01:00:43+00:00",
+   "last_success": "2026-10-09T01:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10632,6 +10626,16 @@
    "fingerprint": "78de64956f3d4f0c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-09T01:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T23:00:38+00:00",
      "status": "ok",
@@ -10914,16 +10918,6 @@
     },
     {
      "at": "2026-10-06T17:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 56,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-06T15:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11534,8 +11528,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-08T23:00:40+00:00",
-   "last_success": "2026-10-08T23:00:40+00:00",
+   "last_check": "2026-10-09T01:00:45+00:00",
+   "last_success": "2026-10-09T01:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11543,6 +11537,16 @@
    "fingerprint": "9dbd4874fd5decb5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-09T01:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-08T23:00:40+00:00",
      "status": "ok",
@@ -11837,16 +11841,6 @@
     },
     {
      "at": "2026-10-06T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-06T15:00:53+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
