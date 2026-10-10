@@ -1480,8 +1480,8 @@
      "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-10T13:00:36+00:00",
-   "last_success": "2026-10-10T13:00:36+00:00",
+   "last_check": "2026-10-10T15:00:35+00:00",
+   "last_success": "2026-10-10T15:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1489,6 +1489,16 @@
    "fingerprint": "767c13bea4a89447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T15:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T13:00:36+00:00",
      "status": "ok",
@@ -1931,16 +1941,6 @@
        "date": "2026.12.31 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-08T05:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6132,15 +6132,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-10T13:00:38+00:00",
-   "last_success": "2026-10-10T13:00:38+00:00",
+   "last_check": "2026-10-10T15:00:36+00:00",
+   "last_success": "2026-10-10T15:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 23,
-   "fingerprint": "e3326eec71c5bb6c",
+   "fingerprint": "09ca100141c61e5b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T15:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T13:00:38+00:00",
      "status": "ok",
@@ -6459,22 +6469,6 @@
       {
        "title": "[상선사업부] 설계 경력사원 채용경력상선사업부설계구조기본설계외경력 5년 이상정규직서울외2026. 10. 25, 14:59까지D-17",
        "url": "https://recruit-hanwhaocean.com/ko/o/236576",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-08T05:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 17,
-     "error": "",
-     "note": "25개 중 필터를 통과한 17개를 사용합니다.",
-     "new": [
-      {
-       "title": "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-84",
-       "url": "https://recruit-hanwhaocean.com/ko/o/200507",
        "date": ""
       }
      ]
@@ -8419,15 +8413,25 @@
      "first_seen": "2026-10-08T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-10T13:00:42+00:00",
-   "last_success": "2026-10-10T13:00:42+00:00",
+   "last_check": "2026-10-10T15:00:39+00:00",
+   "last_success": "2026-10-10T15:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 128,
-   "fingerprint": "d108814a8373839e",
+   "fingerprint": "a77039cb5966cc8d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 128,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T13:00:42+00:00",
      "status": "ok",
@@ -8749,16 +8753,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-08T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 125,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10430,15 +10424,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-10T13:00:43+00:00",
-   "last_success": "2026-10-10T13:00:43+00:00",
+   "last_check": "2026-10-10T15:00:41+00:00",
+   "last_success": "2026-10-10T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "bd0f1cd5dc13c4f5",
+   "fingerprint": "c1fd9227afeb8b9c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T13:00:43+00:00",
      "status": "ok",
@@ -10721,16 +10725,6 @@
     },
     {
      "at": "2026-10-08T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-08T05:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11341,15 +11335,25 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-10T13:00:45+00:00",
-   "last_success": "2026-10-10T13:00:45+00:00",
+   "last_check": "2026-10-10T15:00:43+00:00",
+   "last_success": "2026-10-10T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 6,
-   "fingerprint": "954d8543b3ccd930",
+   "fingerprint": "a427e80d5f4a0273",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T13:00:45+00:00",
      "status": "ok",
@@ -11632,16 +11636,6 @@
     },
     {
      "at": "2026-10-08T07:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-08T05:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
