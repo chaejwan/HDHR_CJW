@@ -1480,8 +1480,8 @@
      "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-10T09:00:35+00:00",
-   "last_success": "2026-10-10T09:00:35+00:00",
+   "last_check": "2026-10-10T11:00:34+00:00",
+   "last_success": "2026-10-10T11:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1489,6 +1489,16 @@
    "fingerprint": "767c13bea4a89447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T11:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T09:00:35+00:00",
      "status": "ok",
@@ -1942,16 +1952,6 @@
        "date": "2026.11.01 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-08T01:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6143,8 +6143,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-10T09:00:36+00:00",
-   "last_success": "2026-10-10T09:00:36+00:00",
+   "last_check": "2026-10-10T11:00:35+00:00",
+   "last_success": "2026-10-10T11:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6152,6 +6152,16 @@
    "fingerprint": "e3326eec71c5bb6c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T11:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T09:00:36+00:00",
      "status": "ok",
@@ -6485,16 +6495,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-08T01:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "24개 중 필터를 통과한 16개를 사용합니다.",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8436,8 +8436,8 @@
      "first_seen": "2026-10-08T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-10T09:00:41+00:00",
-   "last_success": "2026-10-10T09:00:41+00:00",
+   "last_check": "2026-10-10T11:00:42+00:00",
+   "last_success": "2026-10-10T11:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8445,6 +8445,16 @@
    "fingerprint": "d108814a8373839e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T11:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 128,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T09:00:41+00:00",
      "status": "ok",
@@ -8784,32 +8794,6 @@
       {
        "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
        "url": "https://www.skcareers.com/Recruit/Detail/R262182",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-08T01:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 121,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262177",
-       "date": ""
-      },
-      {
-       "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262178",
-       "date": ""
-      },
-      {
-       "title": "SK플라즈마 사업개발 경력 구성원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262179",
        "date": ""
       }
      ]
@@ -10484,15 +10468,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-10T09:00:42+00:00",
-   "last_success": "2026-10-10T09:00:42+00:00",
+   "last_check": "2026-10-10T11:00:43+00:00",
+   "last_success": "2026-10-10T11:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "fd8dd2671b87ab9c",
+   "fingerprint": "bd0f1cd5dc13c4f5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T11:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T09:00:42+00:00",
      "status": "ok",
@@ -10775,16 +10769,6 @@
     },
     {
      "at": "2026-10-08T02:44:31+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-08T01:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11395,8 +11379,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-10T09:00:43+00:00",
-   "last_success": "2026-10-10T09:00:43+00:00",
+   "last_check": "2026-10-10T11:00:46+00:00",
+   "last_success": "2026-10-10T11:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11404,6 +11388,16 @@
    "fingerprint": "954d8543b3ccd930",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T09:00:43+00:00",
      "status": "ok",
@@ -11693,22 +11687,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-08T01:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
-       "url": "https://www.samsungcareers.com/hr/?no=23287",
-       "date": "2026.10.08 ~ 2026.10.19"
-      }
-     ]
     }
    ],
    "last_note": "",
