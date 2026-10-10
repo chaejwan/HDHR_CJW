@@ -1480,8 +1480,8 @@
      "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-10T15:00:35+00:00",
-   "last_success": "2026-10-10T15:00:35+00:00",
+   "last_check": "2026-10-10T17:00:36+00:00",
+   "last_success": "2026-10-10T17:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1489,6 +1489,16 @@
    "fingerprint": "767c13bea4a89447",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T17:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T15:00:35+00:00",
      "status": "ok",
@@ -1813,132 +1823,6 @@
        "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
        "date": "2026.10.18 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-10-08T07:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 23,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "영업지원 담당자 경력사원 채용 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19928",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "제조 대외영업 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19922",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "RX(Robot Transformation) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19921",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19920",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19919",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "AX 전략기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19918",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "VLM Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19917",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "SWA 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19915",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "AI Agent Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19914",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "ERP 컨설턴트 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19913",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19912",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "제조서비스 인프라 운영 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19911",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19910",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19909",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "[상선사업부] 영업 / 기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19940",
-       "date": "2026.10.25 23:59"
-      },
-      {
-       "title": "[상선사업부] 설계 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19939",
-       "date": "2026.10.25 23:59"
-      },
-      {
-       "title": "[상선사업부] 구매 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19938",
-       "date": "2026.10.25 23:59"
-      },
-      {
-       "title": "[HR실] 인사노무 관리(공인노무사) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[HR실] 인사행정 지원 사무직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[경영지원] 노사관리/운영 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19935",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[제조총괄] 안전팀 경력사원(계약직) 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19934",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[인재풀 등록] 상선사업부 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19933",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19932",
-       "date": "2026.12.31 23:59"
       }
      ]
     }
@@ -6132,8 +6016,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-10T15:00:36+00:00",
-   "last_success": "2026-10-10T15:00:36+00:00",
+   "last_check": "2026-10-10T17:00:37+00:00",
+   "last_success": "2026-10-10T17:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6141,6 +6025,16 @@
    "fingerprint": "09ca100141c61e5b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T17:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 23,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T15:00:36+00:00",
      "status": "ok",
@@ -6443,32 +6337,6 @@
       {
        "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
        "url": "https://recruit-hanwhaocean.com/ko/o/239802",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-08T07:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 20,
-     "error": "",
-     "note": "28개 중 필터를 통과한 20개를 사용합니다.",
-     "new": [
-      {
-       "title": "[상선사업부] 영업, 기획 경력사원 채용경력상선사업부기획외원가관리외경력 5년 이상정규직거제외2026. 10. 25, 14:59까지D-17",
-       "url": "https://recruit-hanwhaocean.com/ko/o/227594",
-       "date": ""
-      },
-      {
-       "title": "[상선사업부] 구매 경력사원 채용경력상선사업부구매구매기획외경력 5년 이상정규직서울외2026. 10. 25, 14:59까지D-17",
-       "url": "https://recruit-hanwhaocean.com/ko/o/237145",
-       "date": ""
-      },
-      {
-       "title": "[상선사업부] 설계 경력사원 채용경력상선사업부설계구조기본설계외경력 5년 이상정규직서울외2026. 10. 25, 14:59까지D-17",
-       "url": "https://recruit-hanwhaocean.com/ko/o/236576",
        "date": ""
       }
      ]
@@ -8413,8 +8281,8 @@
      "first_seen": "2026-10-08T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-10T15:00:39+00:00",
-   "last_success": "2026-10-10T15:00:39+00:00",
+   "last_check": "2026-10-10T17:00:40+00:00",
+   "last_success": "2026-10-10T17:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8422,6 +8290,16 @@
    "fingerprint": "a77039cb5966cc8d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T17:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 128,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T15:00:39+00:00",
      "status": "ok",
@@ -8724,32 +8602,6 @@
       {
        "title": "IR Manager 신입 구성원 영입",
        "url": "https://www.skcareers.com/Recruit/Detail/R262188",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-08T07:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 127,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK온 해외법무팀 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262176",
-       "date": ""
-      },
-      {
-       "title": "인프라 보안 관리 전문가 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262185",
-       "date": ""
-      },
-      {
-       "title": "Salesforce CRM 개발/운영 및 솔루션 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262150",
        "date": ""
       }
      ]
@@ -10424,15 +10276,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-10T15:00:41+00:00",
-   "last_success": "2026-10-10T15:00:41+00:00",
+   "last_check": "2026-10-10T17:00:41+00:00",
+   "last_success": "2026-10-10T17:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "c1fd9227afeb8b9c",
+   "fingerprint": "a7aab9deeb6a8aaf",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T17:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T15:00:41+00:00",
      "status": "ok",
@@ -10719,16 +10581,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 56,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-08T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
      "error": "",
      "note": "",
      "new": []
@@ -11335,8 +11187,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-10T15:00:43+00:00",
-   "last_success": "2026-10-10T15:00:43+00:00",
+   "last_check": "2026-10-10T17:00:42+00:00",
+   "last_success": "2026-10-10T17:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11344,6 +11196,16 @@
    "fingerprint": "a427e80d5f4a0273",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-10T17:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-10T15:00:43+00:00",
      "status": "ok",
@@ -11626,16 +11488,6 @@
     },
     {
      "at": "2026-10-08T09:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-08T07:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
