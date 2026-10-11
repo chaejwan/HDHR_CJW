@@ -1480,15 +1480,25 @@
      "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-11T13:00:35+00:00",
-   "last_success": "2026-10-11T13:00:35+00:00",
+   "last_check": "2026-10-11T15:00:37+00:00",
+   "last_success": "2026-10-11T15:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "70e20ed2fd29bb41",
+   "item_count": 70,
+   "fingerprint": "52d092eeaaae30e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-11T15:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T13:00:35+00:00",
      "status": "ok",
@@ -1778,26 +1788,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T02:58:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
-    "(주)한화 전략부문 자금운영 계약직 채용",
-    "한화시스템 레이다 양산사업 프로젝트계약직 경력사원 채용",
-    "(주)한화 글로벌부문 온산공장 공정 유지보수 경력사원 채용(계전)",
-    "(주)한화 전략부문 회계(재무회계/원가회계) 경력직 채용"
+    "[한화생명]인프라운영팀 '건축전기' 전문인력 경력채용(과장급)",
+    "[한화생명] 전략투자본부 '대체투자 자산배분' 경력채용(과장급)",
+    "한화시스템 화약류 안전관리자 경력사원 채용",
+    "[한화생명]본사 건강검진센터 임상병리사 채용",
+    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)"
    ],
    "health": {
     "issue": "",
@@ -5979,15 +5979,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-11T13:00:37+00:00",
-   "last_success": "2026-10-11T13:00:37+00:00",
+   "last_check": "2026-10-11T15:00:39+00:00",
+   "last_success": "2026-10-11T15:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 23,
-   "fingerprint": "09ca100141c61e5b",
+   "item_count": 22,
+   "fingerprint": "820484162d5ac76e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-11T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T13:00:37+00:00",
      "status": "ok",
@@ -6277,26 +6287,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T02:58:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
     "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
     "[특수선사업부] R&D 분야 경력사원 채용",
     "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
-    "[NES사업부] 사업기획 경력사원 채용"
+    "[NES사업부] 사업기획 경력사원 채용",
+    "[상선사업부] 구매 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -8226,17 +8226,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262188",
      "date": "",
      "first_seen": "2026-10-08T09:00:41+00:00"
+    },
+    "acd2e187cd334af8": {
+     "title": "2026년 하반기 부산도시가스 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262174",
+     "date": "",
+     "first_seen": "2026-10-11T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-11T13:00:40+00:00",
-   "last_success": "2026-10-11T13:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-11T15:00:43+00:00",
+   "last_success": "2026-10-11T15:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 127,
-   "fingerprint": "483c8e81ca212e1e",
+   "item_count": 113,
+   "fingerprint": "9d7589373db7812d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-11T15:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 113,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 하반기 부산도시가스 신입사원(G2) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262174",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-11T13:00:40+00:00",
      "status": "ok",
@@ -8526,33 +8548,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T02:58:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[SK에어플러스] 기계/배관 설계 엔지니어",
-    "[삼강에스앤씨] Dock 운영 구성원 모집(Dock Master)",
-    "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
-    "2026년 하반기 Junior Talent 채용",
-    "인사총무 담당 채용 (경력)"
+    "SK키파운드리 정보보안(취약점 진단) 경력 채용",
+    "국방사업 컨설팅 및 딜리버리 지원 전문가",
+    "Global Business Development 경력사원 채용",
+    "[신입] SK바이오텍 품질관리 실험원 신입사원 모집",
+    "2026년 10월 SK핀크스 기획 채용공고"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T09:00:41+00:00"
+   "last_new_at": "2026-10-11T15:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10207,15 +10219,25 @@
      "first_seen": "2026-10-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-11T13:00:41+00:00",
-   "last_success": "2026-10-11T13:00:41+00:00",
+   "last_check": "2026-10-11T15:00:44+00:00",
+   "last_success": "2026-10-11T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 55,
-   "fingerprint": "4788a59f8e749dfe",
+   "item_count": 53,
+   "fingerprint": "2040c7c85da9fad1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-11T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T13:00:41+00:00",
      "status": "ok",
@@ -10505,26 +10527,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T02:58:57+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 56,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 포항하이테크센터 파츠딜리버리",
-    "[계약직] 남부하이테크센터 파츠딜리버리",
     "[계약직] 의전안내 (아산공장)",
     "수소 충전 인프라 기술 개발",
-    "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발"
+    "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
+    "[제조로보틱스] 로보틱스 구조 부품 DFM",
+    "[SDF] 제조 DX MLOps 아키텍트"
    ],
    "health": {
     "issue": "",
@@ -11118,15 +11130,25 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-11T13:00:44+00:00",
-   "last_success": "2026-10-11T13:00:44+00:00",
+   "last_check": "2026-10-11T15:00:46+00:00",
+   "last_success": "2026-10-11T15:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 6,
-   "fingerprint": "a427e80d5f4a0273",
+   "fingerprint": "57a8c10f0165bde5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-11T15:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T13:00:44+00:00",
      "status": "ok",
@@ -11416,16 +11438,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T02:59:00+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11446,21 +11458,22 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 부산도시가스 신입사원(G2) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262174",
+    "date": "",
+    "found_at": "2026-10-11T15:00:48+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-11T15:00:48+00:00",
   "last_sent": "2026-10-08T23:00:46+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성물산 패션부문 2026년 패션전문직 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23091",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -15951,6 +15964,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
    "date": "2026.12.31 23:59",
    "found_at": "2026-10-08T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 부산도시가스 신입사원(G2) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262174",
+   "date": "",
+   "found_at": "2026-10-11T15:00:48+00:00"
   }
  ]
 }
