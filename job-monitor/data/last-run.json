@@ -1,5 +1,5 @@
 {
- "at": "2026-10-10T23:00:47+00:00",
+ "at": "2026-10-11T01:00:46+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -14,7 +14,7 @@
   "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38093496443",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38100348924",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,7 +22,7 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "ok",
-   "item_count": 82,
+   "item_count": 83,
    "method": "json",
    "note": "",
    "error": "",
@@ -46,7 +46,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 128,
+   "item_count": 127,
    "method": "json",
    "note": "",
    "error": "",
