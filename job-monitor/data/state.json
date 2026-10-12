@@ -1522,15 +1522,25 @@
      "first_seen": "2026-10-12T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-12T13:00:39+00:00",
-   "last_success": "2026-10-12T13:00:39+00:00",
+   "last_check": "2026-10-12T15:00:40+00:00",
+   "last_success": "2026-10-12T15:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 74,
-   "fingerprint": "85ea01381fe5d185",
+   "item_count": 73,
+   "fingerprint": "33acf785f069aa73",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T15:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T13:00:39+00:00",
      "status": "ok",
@@ -1857,26 +1867,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T03:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화시스템 화약류 안전관리자 경력사원 채용",
     "[한화생명]본사 건강검진센터 임상병리사 채용",
     "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
     "[한화솔루션 큐셀] ES사업부 개발품질 경력직 채용",
-    "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용"
+    "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
+    "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)"
    ],
    "health": {
     "issue": "",
@@ -6058,15 +6058,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-12T13:00:40+00:00",
-   "last_success": "2026-10-12T13:00:40+00:00",
+   "last_check": "2026-10-12T15:00:41+00:00",
+   "last_success": "2026-10-12T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "5ac1086f2d4f38b5",
+   "fingerprint": "3366e98c38c420d3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T13:00:40+00:00",
      "status": "ok",
@@ -6349,16 +6359,6 @@
     },
     {
      "at": "2026-10-10T05:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T03:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8413,17 +8413,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262202",
      "date": "",
      "first_seen": "2026-10-12T09:01:07+00:00"
+    },
+    "61c609835e08c010": {
+     "title": "2027년 SK 이터닉스 채용연계형 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262141",
+     "date": "",
+     "first_seen": "2026-10-12T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-12T13:00:44+00:00",
-   "last_success": "2026-10-12T13:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-12T15:00:44+00:00",
+   "last_success": "2026-10-12T15:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 130,
-   "fingerprint": "a3cc3381e827adfb",
+   "item_count": 122,
+   "fingerprint": "292008cc3f2261f7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T15:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 122,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2027년 SK 이터닉스 채용연계형 인턴 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262141",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-12T13:00:44+00:00",
      "status": "ok",
@@ -8809,33 +8831,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T03:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SK키파운드리 정보보안(취약점 진단) 경력 채용",
-    "국방사업 컨설팅 및 딜리버리 지원 전문가",
-    "Global Business Development 경력사원 채용",
-    "[신입] SK바이오텍 품질관리 실험원 신입사원 모집",
-    "2026년 10월 SK핀크스 기획 채용공고"
+    "미래전략/CR정책/투자전략 경력 채용",
+    "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
+    "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
+    "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
+    "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-12T09:01:07+00:00"
+   "last_new_at": "2026-10-12T15:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10508,15 +10520,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-12T13:00:45+00:00",
-   "last_success": "2026-10-12T13:00:45+00:00",
+   "last_check": "2026-10-12T15:00:45+00:00",
+   "last_success": "2026-10-12T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "7c57ed154431c80d",
+   "fingerprint": "352467bf97ae2073",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T13:00:45+00:00",
      "status": "ok",
@@ -10816,16 +10838,6 @@
     },
     {
      "at": "2026-10-10T05:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T03:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11436,15 +11448,25 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-12T13:00:47+00:00",
-   "last_success": "2026-10-12T13:00:47+00:00",
+   "last_check": "2026-10-12T15:00:47+00:00",
+   "last_success": "2026-10-12T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "1c44f3f1ba5d9580",
+   "fingerprint": "b7980e0dc65bad05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T13:00:47+00:00",
      "status": "ok",
@@ -11734,16 +11756,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T03:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12006,6 +12018,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262202",
     "date": "",
     "found_at": "2026-10-12T09:01:12+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2027년 SK 이터닉스 채용연계형 인턴 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262141",
+    "date": "",
+    "found_at": "2026-10-12T15:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -12013,15 +12034,6 @@
   "last_sent": "2026-10-11T23:00:54+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[제품전략기술원] 플랜트설계(공정개발) 경력사원 채용경력제품전략기술원설계배관설계외경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/214146",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -16512,6 +16524,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262202",
    "date": "",
    "found_at": "2026-10-12T09:01:12+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2027년 SK 이터닉스 채용연계형 인턴 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262141",
+   "date": "",
+   "found_at": "2026-10-12T15:00:48+00:00"
   }
  ]
 }

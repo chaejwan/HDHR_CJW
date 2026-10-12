@@ -1,20 +1,20 @@
 {
- "at": "2026-10-12T13:00:48+00:00",
+ "at": "2026-10-12T15:00:48+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 27건 · 점검 0건). 10-13 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 28건 · 점검 0건). 10-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 27,
+  "items": 28,
   "alerts": 0,
   "since": "2026-10-12T01:03:12+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38252694533",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38267068070",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,7 +22,7 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "ok",
-   "item_count": 74,
+   "item_count": 73,
    "method": "json",
    "note": "",
    "error": "",
@@ -45,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 130,
+   "status": "new",
+   "item_count": 122,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "2027년 SK 이터닉스 채용연계형 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262141",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
