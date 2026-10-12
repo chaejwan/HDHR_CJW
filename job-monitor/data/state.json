@@ -1480,15 +1480,25 @@
      "first_seen": "2026-10-08T11:00:37+00:00"
     }
    },
-   "last_check": "2026-10-11T23:00:40+00:00",
+   "last_check": "2026-10-12T01:00:34+00:00",
    "last_success": "2026-10-11T23:00:40+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 70,
    "fingerprint": "52d092eeaaae30e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T01:00:34+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T23:00:40+00:00",
      "status": "ok",
@@ -1778,20 +1788,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T13:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "[한화생명]인프라운영팀 '건축전기' 전문인력 경력채용(과장급)",
     "[한화생명] 전략투자본부 '대체투자 자산배분' 경력채용(과장급)",
@@ -5979,8 +5979,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-11T23:00:41+00:00",
-   "last_success": "2026-10-11T23:00:41+00:00",
+   "last_check": "2026-10-12T01:03:02+00:00",
+   "last_success": "2026-10-12T01:03:02+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -5988,6 +5988,16 @@
    "fingerprint": "820484162d5ac76e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T01:03:02+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T23:00:41+00:00",
      "status": "ok",
@@ -6270,16 +6280,6 @@
     },
     {
      "at": "2026-10-09T15:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-09T13:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8232,17 +8232,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262174",
      "date": "",
      "first_seen": "2026-10-11T15:00:43+00:00"
+    },
+    "3bf9a02f06e1c0b7": {
+     "title": "프로젝트 구매·납기 및 물류관리",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262192",
+     "date": "",
+     "first_seen": "2026-10-12T01:03:07+00:00"
+    },
+    "178c2e05c5cc7288": {
+     "title": "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262172",
+     "date": "",
+     "first_seen": "2026-10-12T01:03:07+00:00"
     }
    },
-   "last_check": "2026-10-11T23:00:47+00:00",
-   "last_success": "2026-10-11T23:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-12T01:03:07+00:00",
+   "last_success": "2026-10-12T01:03:07+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 113,
-   "fingerprint": "9d7589373db7812d",
+   "item_count": 115,
+   "fingerprint": "326a67b270798e13",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T01:03:07+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 115,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "프로젝트 구매·납기 및 물류관리",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262192",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262172",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-11T23:00:47+00:00",
      "status": "ok",
@@ -8538,16 +8571,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8564,7 +8587,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-11T15:00:43+00:00"
+   "last_new_at": "2026-10-12T01:03:07+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10217,17 +10240,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
      "date": "20261019",
      "first_seen": "2026-10-05T01:00:41+00:00"
+    },
+    "167933d4536201d0": {
+     "title": "[계약직] 방사선사(울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=228",
+     "date": "20261019",
+     "first_seen": "2026-10-12T01:03:08+00:00"
+    },
+    "1bc1e24e34336f96": {
+     "title": "[계약직] 임직원 시승차량 관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=227",
+     "date": "20261026",
+     "first_seen": "2026-10-12T01:03:08+00:00"
     }
    },
-   "last_check": "2026-10-11T23:00:48+00:00",
-   "last_success": "2026-10-11T23:00:48+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-12T01:03:08+00:00",
+   "last_success": "2026-10-12T01:03:08+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 53,
-   "fingerprint": "ce80eaa24cbb3193",
+   "item_count": 55,
+   "fingerprint": "d53ded1fd0eda438",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T01:03:08+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 방사선사(울산공장)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=228",
+       "date": "20261019"
+      },
+      {
+       "title": "[계약직] 임직원 시승차량 관리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=227",
+       "date": "20261026"
+      }
+     ]
+    },
     {
      "at": "2026-10-11T23:00:48+00:00",
      "status": "ok",
@@ -10517,16 +10573,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 56,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10543,7 +10589,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-05T01:00:41+00:00"
+   "last_new_at": "2026-10-12T01:03:08+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -11130,8 +11176,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-11T23:00:50+00:00",
-   "last_success": "2026-10-11T23:00:50+00:00",
+   "last_check": "2026-10-12T01:03:10+00:00",
+   "last_success": "2026-10-12T01:03:10+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11139,6 +11185,16 @@
    "fingerprint": "57a8c10f0165bde5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T01:03:10+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-11T23:00:50+00:00",
      "status": "ok",
@@ -11428,16 +11484,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11458,48 +11504,49 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "프로젝트 구매·납기 및 물류관리",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262192",
+    "date": "",
+    "found_at": "2026-10-12T01:03:12+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262172",
+    "date": "",
+    "found_at": "2026-10-12T01:03:12+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 방사선사(울산공장)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=228",
+    "date": "20261019",
+    "found_at": "2026-10-12T01:03:12+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 임직원 시승차량 관리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=227",
+    "date": "20261026",
+    "found_at": "2026-10-12T01:03:12+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-12T01:03:12+00:00",
   "last_sent": "2026-10-11T23:00:54+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "호텔신라 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23045",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "제일기획 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=22981",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "에스원 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23089",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성서울병원 2026년 하반기 3급 신입사원 채용 공고",
-   "url": "https://www.samsungcareers.com/hr/?no=23022",
-   "date": "2026.09.08 ~ 2026.09.15",
-   "found_at": "2026-09-08T04:08:39+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -15963,6 +16010,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262174",
    "date": "",
    "found_at": "2026-10-11T15:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "프로젝트 구매·납기 및 물류관리",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262192",
+   "date": "",
+   "found_at": "2026-10-12T01:03:12+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262172",
+   "date": "",
+   "found_at": "2026-10-12T01:03:12+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 방사선사(울산공장)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=228",
+   "date": "20261019",
+   "found_at": "2026-10-12T01:03:12+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 임직원 시승차량 관리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=227",
+   "date": "20261026",
+   "found_at": "2026-10-12T01:03:12+00:00"
   }
  ]
 }
