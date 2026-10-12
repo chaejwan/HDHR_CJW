@@ -1484,17 +1484,94 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19951",
      "date": "2026.10.31 23:59",
      "first_seen": "2026-10-12T02:29:37+00:00"
+    },
+    "45825c1fb2c8e0e4": {
+     "title": "[경영지원] 정보보호 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-12T07:00:36+00:00"
+    },
+    "2308d23bd00ae58b": {
+     "title": "[경영지원] 전략기획 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-12T07:00:36+00:00"
+    },
+    "34acf31c63faff64": {
+     "title": "[경영지원] 국내법무팀장 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-12T07:00:36+00:00"
+    },
+    "3500d16c738e855e": {
+     "title": "[경영지원] 법무(국제변호사) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-12T07:00:36+00:00"
+    },
+    "c9a10b8766b27258": {
+     "title": "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-12T07:00:36+00:00"
+    },
+    "92a218884bb10127": {
+     "title": "[경영지원] 인사행정 지원 사무직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-10-12T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-12T05:00:34+00:00",
-   "last_success": "2026-10-12T05:00:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-12T07:00:36+00:00",
+   "last_success": "2026-10-12T07:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 72,
-   "fingerprint": "28048f712f0ada01",
+   "item_count": 74,
+   "fingerprint": "85ea01381fe5d185",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T07:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 6,
+     "item_count": 74,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[경영지원] 정보보호 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
+       "date": "2026.12.31 23:59"
+      },
+      {
+       "title": "[경영지원] 전략기획 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
+       "date": "2026.12.31 23:59"
+      },
+      {
+       "title": "[경영지원] 국내법무팀장 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
+       "date": "2026.12.31 23:59"
+      },
+      {
+       "title": "[경영지원] 법무(국제변호사) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
+       "date": "2026.12.31 23:59"
+      },
+      {
+       "title": "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
+       "date": "2026.12.31 23:59"
+      },
+      {
+       "title": "[경영지원] 인사행정 지원 사무직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
+       "date": "2026.12.31 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-12T05:00:34+00:00",
      "status": "ok",
@@ -1790,33 +1867,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T19:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명]인프라운영팀 '건축전기' 전문인력 경력채용(과장급)",
-    "[한화생명] 전략투자본부 '대체투자 자산배분' 경력채용(과장급)",
     "한화시스템 화약류 안전관리자 경력사원 채용",
     "[한화생명]본사 건강검진센터 임상병리사 채용",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)"
+    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
+    "[한화솔루션 큐셀] ES사업부 개발품질 경력직 채용",
+    "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-12T02:29:37+00:00"
+   "last_new_at": "2026-10-12T07:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -5991,15 +6058,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-12T05:00:35+00:00",
-   "last_success": "2026-10-12T05:00:35+00:00",
+   "last_check": "2026-10-12T07:00:37+00:00",
+   "last_success": "2026-10-12T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "820484162d5ac76e",
+   "fingerprint": "5ac1086f2d4f38b5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T05:00:35+00:00",
      "status": "ok",
@@ -6282,16 +6359,6 @@
     },
     {
      "at": "2026-10-09T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-09T19:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8298,17 +8365,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262196",
      "date": "",
      "first_seen": "2026-10-12T05:00:41+00:00"
+    },
+    "d83567277abd9ba1": {
+     "title": "AI 에이전트 평가 및 사용성 개선 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262193",
+     "date": "",
+     "first_seen": "2026-10-12T07:00:39+00:00"
+    },
+    "d00d3b854a50ab58": {
+     "title": "3D CAD 모델링 및 영상 생성 디자이너",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262198",
+     "date": "",
+     "first_seen": "2026-10-12T07:00:39+00:00"
+    },
+    "d98aa1f55ab446db": {
+     "title": "GEO & 브랜드 검색광고 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262200",
+     "date": "",
+     "first_seen": "2026-10-12T07:00:39+00:00"
+    },
+    "a5fedac64060bc41": {
+     "title": "2026년 하반기 전남도시가스 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262190",
+     "date": "",
+     "first_seen": "2026-10-12T07:00:39+00:00"
+    },
+    "7fbd01cfc96ad71b": {
+     "title": "2026년 하반기 영남에너지서비스(포항) 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262199",
+     "date": "",
+     "first_seen": "2026-10-12T07:00:39+00:00"
     }
    },
-   "last_check": "2026-10-12T05:00:41+00:00",
-   "last_success": "2026-10-12T05:00:41+00:00",
+   "last_check": "2026-10-12T07:00:39+00:00",
+   "last_success": "2026-10-12T07:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 122,
-   "fingerprint": "650757b87352ae96",
+   "item_count": 127,
+   "fingerprint": "852c99d587e005f4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 127,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "AI 에이전트 평가 및 사용성 개선 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262193",
+       "date": ""
+      },
+      {
+       "title": "3D CAD 모델링 및 영상 생성 디자이너",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262198",
+       "date": ""
+      },
+      {
+       "title": "GEO & 브랜드 검색광고 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262200",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 전남도시가스 신입사원(G2) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262190",
+       "date": ""
+      },
+      {
+       "title": "2026년 하반기 영남에너지서비스(포항) 신입사원(G2) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262199",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-12T05:00:41+00:00",
      "status": "new",
@@ -8652,16 +8785,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8678,7 +8801,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-12T05:00:41+00:00"
+   "last_new_at": "2026-10-12T07:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10351,15 +10474,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-12T05:00:42+00:00",
-   "last_success": "2026-10-12T05:00:42+00:00",
+   "last_check": "2026-10-12T07:00:40+00:00",
+   "last_success": "2026-10-12T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "3630856098eeabe3",
+   "fingerprint": "1aebefe4cb5fe05e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T05:00:42+00:00",
      "status": "ok",
@@ -10659,16 +10792,6 @@
     },
     {
      "at": "2026-10-09T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-09T19:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11279,8 +11402,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-12T05:00:45+00:00",
-   "last_success": "2026-10-12T05:00:45+00:00",
+   "last_check": "2026-10-12T07:00:42+00:00",
+   "last_success": "2026-10-12T07:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11288,6 +11411,16 @@
    "fingerprint": "57a8c10f0165bde5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T07:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T05:00:45+00:00",
      "status": "ok",
@@ -11577,16 +11710,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11724,6 +11847,105 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262196",
     "date": "",
     "found_at": "2026-10-12T05:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[경영지원] 정보보호 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[경영지원] 전략기획 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[경영지원] 국내법무팀장 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[경영지원] 법무(국제변호사) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[경영지원] 인사행정 지원 사무직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI 에이전트 평가 및 사용성 개선 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262193",
+    "date": "",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "3D CAD 모델링 및 영상 생성 디자이너",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262198",
+    "date": "",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "GEO & 브랜드 검색광고 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262200",
+    "date": "",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 전남도시가스 신입사원(G2) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262190",
+    "date": "",
+    "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 영남에너지서비스(포항) 신입사원(G2) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262199",
+    "date": "",
+    "found_at": "2026-10-12T07:00:43+00:00"
    }
   ],
   "alerts": [],
@@ -11731,105 +11953,6 @@
   "last_sent": "2026-10-11T23:00:54+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "ERP 컨설턴트 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19716",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-08T06:59:59+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "금융프로젝트 시스템 개발 경력사원 채용 (계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19715",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-08T06:59:59+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-08T06:59:59+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[아르바이트] 채용 지원 (양재/강남)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2023&recuType=N4&recuCls=23",
-   "date": "20260918",
-   "found_at": "2026-09-08T07:00:06+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261931",
-   "date": "",
-   "found_at": "2026-09-08T08:35:52+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "디앤디프라퍼티솔루션 임대관리 ERP 유지보수 개발자 모집의 건",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261929",
-   "date": "",
-   "found_at": "2026-09-08T09:01:01+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "컨설턴트 (전환형 인턴)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261932",
-   "date": "",
-   "found_at": "2026-09-08T09:01:01+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[엔솔브] 태양광 발전사업 운영관리 및 점검 구성원 채용 (경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261933",
-   "date": "",
-   "found_at": "2026-09-08T11:00:51+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19725",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-08T15:00:41+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[NES사업부] 구매·기획·영업·설계·품질 경력사원 채용경력NES사업부구매외기자재 구매외경력 5년 이상정규직서울외2026. 09. 28, 14:59까지D-19",
-   "url": "https://recruit-hanwhaocean.com/ko/o/234988",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[인재풀 등록] AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용경력안전총괄외생산/품질/HSE/공무외안전/환경/보건외경력 5년 이상정규직거제외2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/200507",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -16230,6 +16353,105 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262196",
    "date": "",
    "found_at": "2026-10-12T05:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[경영지원] 정보보호 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[경영지원] 전략기획 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[경영지원] 국내법무팀장 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[경영지원] 법무(국제변호사) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[경영지원] 인사행정 지원 사무직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI 에이전트 평가 및 사용성 개선 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262193",
+   "date": "",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "3D CAD 모델링 및 영상 생성 디자이너",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262198",
+   "date": "",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "GEO & 브랜드 검색광고 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262200",
+   "date": "",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 전남도시가스 신입사원(G2) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262190",
+   "date": "",
+   "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 영남에너지서비스(포항) 신입사원(G2) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262199",
+   "date": "",
+   "found_at": "2026-10-12T07:00:43+00:00"
   }
  ]
 }

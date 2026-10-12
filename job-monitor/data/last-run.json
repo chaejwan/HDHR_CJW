@@ -1,32 +1,63 @@
 {
- "at": "2026-10-12T05:00:46+00:00",
+ "at": "2026-10-12T07:00:43+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 11,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 10-13 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 24건 · 점검 0건). 10-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 24,
   "alerts": 0,
   "since": "2026-10-12T01:03:12+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38206095102",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38215394411",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 72,
+   "status": "new",
+   "item_count": 74,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[경영지원] 정보보호 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
+     "date": "2026.12.31 23:59"
+    },
+    {
+     "title": "[경영지원] 전략기획 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
+     "date": "2026.12.31 23:59"
+    },
+    {
+     "title": "[경영지원] 국내법무팀장 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
+     "date": "2026.12.31 23:59"
+    },
+    {
+     "title": "[경영지원] 법무(국제변호사) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
+     "date": "2026.12.31 23:59"
+    },
+    {
+     "title": "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
+     "date": "2026.12.31 23:59"
+    },
+    {
+     "title": "[경영지원] 인사행정 지원 사무직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
+     "date": "2026.12.31 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,34 +77,34 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 122,
+   "item_count": 127,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK플래닛] 의료비 지원 사무보조 아르바이트 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262195",
+     "title": "AI 에이전트 평가 및 사용성 개선 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262193",
      "date": ""
     },
     {
-     "title": "2026년 하반기 전북에너지서비스 신입사원(G2) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262191",
+     "title": "3D CAD 모델링 및 영상 생성 디자이너",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262198",
      "date": ""
     },
     {
-     "title": "2026년 하반기 강원도시가스 신입사원(G2) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262194",
+     "title": "GEO & 브랜드 검색광고 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262200",
      "date": ""
     },
     {
-     "title": "[SK이노베이션 계열] 2026년 SK인천석유화학 기술직 인턴 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262107",
+     "title": "2026년 하반기 전남도시가스 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262190",
      "date": ""
     },
     {
-     "title": "AI Agent Engineer",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262196",
+     "title": "2026년 하반기 영남에너지서비스(포항) 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262199",
      "date": ""
     }
    ]
