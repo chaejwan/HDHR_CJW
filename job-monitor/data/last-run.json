@@ -1,32 +1,38 @@
 {
- "at": "2026-10-12T01:03:12+00:00",
+ "at": "2026-10-12T02:29:48+00:00",
  "checked": 5,
  "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 10-13 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 4,
+  "items": 8,
   "alerts": 0,
   "since": "2026-10-12T01:03:12+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38190197445",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38195984537",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 71,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화오션에코텍] 공정관리 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19951",
+     "date": "2026.10.31 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,19 +52,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 115,
+   "item_count": 117,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "프로젝트 구매·납기 및 물류관리",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262192",
+     "title": "파운데이션 모델 데이터 관련 업무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262180",
      "date": ""
     },
     {
-     "title": "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262172",
+     "title": "2026년 하반기 충청에너지서비스 신입사원 (G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262173",
      "date": ""
     }
    ]
@@ -75,13 +81,8 @@
    "error": "",
    "new_items": [
     {
-     "title": "[계약직] 방사선사(울산공장)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=228",
-     "date": "20261019"
-    },
-    {
-     "title": "[계약직] 임직원 시승차량 관리",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=227",
+     "title": "[계약직] R&D 임원 통번역사(남양)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=229",
      "date": "20261026"
     }
    ]
