@@ -1522,15 +1522,25 @@
      "first_seen": "2026-10-12T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-12T07:00:36+00:00",
-   "last_success": "2026-10-12T07:00:36+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-12T09:01:00+00:00",
+   "last_success": "2026-10-12T09:01:00+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 74,
    "fingerprint": "85ea01381fe5d185",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T09:01:00+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 74,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T07:00:36+00:00",
      "status": "new",
@@ -1850,16 +1860,6 @@
     },
     {
      "at": "2026-10-09T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-09T21:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6058,8 +6058,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-12T07:00:37+00:00",
-   "last_success": "2026-10-12T07:00:37+00:00",
+   "last_check": "2026-10-12T09:01:01+00:00",
+   "last_success": "2026-10-12T09:01:01+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6067,6 +6067,16 @@
    "fingerprint": "5ac1086f2d4f38b5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T09:01:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T07:00:37+00:00",
      "status": "ok",
@@ -6349,16 +6359,6 @@
     },
     {
      "at": "2026-10-09T23:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-09T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8395,17 +8395,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262199",
      "date": "",
      "first_seen": "2026-10-12T07:00:39+00:00"
+    },
+    "a65072c1cb7d5ae9": {
+     "title": "2026년 하반기 코원에너지서비스 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262184",
+     "date": "",
+     "first_seen": "2026-10-12T09:01:07+00:00"
+    },
+    "147973d3836a8ba6": {
+     "title": "[SK케미칼(GC)] 계약직 비서 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262201",
+     "date": "",
+     "first_seen": "2026-10-12T09:01:07+00:00"
+    },
+    "93cf6b0f23646b05": {
+     "title": "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262202",
+     "date": "",
+     "first_seen": "2026-10-12T09:01:07+00:00"
     }
    },
-   "last_check": "2026-10-12T07:00:39+00:00",
-   "last_success": "2026-10-12T07:00:39+00:00",
+   "last_check": "2026-10-12T09:01:07+00:00",
+   "last_success": "2026-10-12T09:01:07+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 127,
-   "fingerprint": "852c99d587e005f4",
+   "item_count": 130,
+   "fingerprint": "a3cc3381e827adfb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T09:01:07+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 하반기 코원에너지서비스 신입사원(G2) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262184",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼(GC)] 계약직 비서 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262201",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262202",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-12T07:00:39+00:00",
      "status": "new",
@@ -8775,16 +8819,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8801,7 +8835,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-12T07:00:39+00:00"
+   "last_new_at": "2026-10-12T09:01:07+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10474,15 +10508,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-12T07:00:40+00:00",
-   "last_success": "2026-10-12T07:00:40+00:00",
+   "last_check": "2026-10-12T09:01:09+00:00",
+   "last_success": "2026-10-12T09:01:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 55,
-   "fingerprint": "1aebefe4cb5fe05e",
+   "item_count": 54,
+   "fingerprint": "788a4893ae129479",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T09:01:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T07:00:40+00:00",
      "status": "ok",
@@ -10789,26 +10833,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 의전안내 (아산공장)",
     "수소 충전 인프라 기술 개발",
     "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
     "[제조로보틱스] 로보틱스 구조 부품 DFM",
-    "[SDF] 제조 DX MLOps 아키텍트"
+    "[SDF] 제조 DX MLOps 아키텍트",
+    "[SDF] Manufacturing DX Project Manager (Scrum Master)"
    ],
    "health": {
     "issue": "",
@@ -11402,15 +11436,25 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-12T07:00:42+00:00",
-   "last_success": "2026-10-12T07:00:42+00:00",
+   "last_check": "2026-10-12T09:01:11+00:00",
+   "last_success": "2026-10-12T09:01:11+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 6,
-   "fingerprint": "57a8c10f0165bde5",
+   "item_count": 4,
+   "fingerprint": "1c44f3f1ba5d9580",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-12T09:01:11+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T07:00:42+00:00",
      "status": "ok",
@@ -11700,16 +11744,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-09T21:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11718,7 +11752,6 @@
     "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
     "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
     "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
-    "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
     "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)"
    ],
    "health": {
@@ -11946,6 +11979,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262199",
     "date": "",
     "found_at": "2026-10-12T07:00:43+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 코원에너지서비스 신입사원(G2) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262184",
+    "date": "",
+    "found_at": "2026-10-12T09:01:12+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼(GC)] 계약직 비서 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262201",
+    "date": "",
+    "found_at": "2026-10-12T09:01:12+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262202",
+    "date": "",
+    "found_at": "2026-10-12T09:01:12+00:00"
    }
   ],
   "alerts": [],
@@ -11953,33 +12013,6 @@
   "last_sent": "2026-10-11T23:00:54+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[인재풀 등록] Energy Plant Unit 경력사원 채용경력EPU경영지원외Academy외경력 5년 이상외정규직외서울외2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/200596",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[인재풀 등록] 상선사업부 경력사원 채용경력상선사업부경영지원외HR외경력 5년 이상정규직서울외2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/200604",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[경영지원] 법무 경력사원(국제 변호사) 채용경력경영지원경영지원국제법무경력 무관정규직서울2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/207059",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -16452,6 +16485,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262199",
    "date": "",
    "found_at": "2026-10-12T07:00:43+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 코원에너지서비스 신입사원(G2) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262184",
+   "date": "",
+   "found_at": "2026-10-12T09:01:12+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼(GC)] 계약직 비서 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262201",
+   "date": "",
+   "found_at": "2026-10-12T09:01:12+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262202",
+   "date": "",
+   "found_at": "2026-10-12T09:01:12+00:00"
   }
  ]
 }
