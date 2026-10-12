@@ -1,7 +1,7 @@
 {
- "at": "2026-10-12T02:29:48+00:00",
- "checked": 5,
- "new_total": 4,
+ "at": "2026-10-12T03:00:36+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,90 +14,6 @@
   "since": "2026-10-12T01:03:12+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38195984537",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 71,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[한화오션에코텍] 공정관리 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19951",
-     "date": "2026.10.31 23:59"
-    }
-   ]
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 22,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 117,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "파운데이션 모델 데이터 관련 업무 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262180",
-     "date": ""
-    },
-    {
-     "title": "2026년 하반기 충청에너지서비스 신입사원 (G2) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262173",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
-   "item_count": 55,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] R&D 임원 통번역사(남양)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=229",
-     "date": "20261026"
-    }
-   ]
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 6,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38198041798",
+ "results": []
 }
