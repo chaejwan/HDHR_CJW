@@ -1,19 +1,106 @@
 {
- "at": "2026-10-12T03:00:36+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-10-12T05:00:46+00:00",
+ "checked": 5,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-13 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 10-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 13,
   "alerts": 0,
   "since": "2026-10-12T01:03:12+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38198041798",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38206095102",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "ok",
+   "item_count": 72,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 22,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 122,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[SK플래닛] 의료비 지원 사무보조 아르바이트 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262195",
+     "date": ""
+    },
+    {
+     "title": "2026년 하반기 전북에너지서비스 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262191",
+     "date": ""
+    },
+    {
+     "title": "2026년 하반기 강원도시가스 신입사원(G2) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262194",
+     "date": ""
+    },
+    {
+     "title": "[SK이노베이션 계열] 2026년 SK인천석유화학 기술직 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262107",
+     "date": ""
+    },
+    {
+     "title": "AI Agent Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262196",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "ok",
+   "item_count": 55,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 6,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }
