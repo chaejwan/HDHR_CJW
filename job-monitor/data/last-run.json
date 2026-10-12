@@ -1,7 +1,7 @@
 {
- "at": "2026-10-12T15:00:48+00:00",
+ "at": "2026-10-12T17:00:48+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-10-12T01:03:12+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38267068070",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38281328189",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 122,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "2027년 SK 이터닉스 채용연계형 인턴 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262141",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
