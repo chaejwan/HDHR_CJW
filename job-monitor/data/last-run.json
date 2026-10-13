@@ -1,32 +1,38 @@
 {
- "at": "2026-10-13T21:00:49+00:00",
+ "at": "2026-10-13T23:00:50+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 25건 · 점검 0건). 10-14 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 25,
+  "items": 0,
   "alerts": 0,
-  "since": "2026-10-13T01:00:45+00:00",
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38467296169",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38481511156",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 79,
+   "status": "new",
+   "item_count": 80,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "조직도입마케터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
+     "date": "2026.10.19 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",

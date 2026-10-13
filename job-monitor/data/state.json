@@ -1580,17 +1580,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19968",
      "date": "2026.10.27 15:00",
      "first_seen": "2026-10-13T13:00:40+00:00"
+    },
+    "a711a40cf4e5c55d": {
+     "title": "조직도입마케터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
+     "date": "2026.10.19 15:00",
+     "first_seen": "2026-10-13T23:00:39+00:00"
     }
    },
-   "last_check": "2026-10-13T21:00:38+00:00",
-   "last_success": "2026-10-13T21:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-13T23:00:39+00:00",
+   "last_success": "2026-10-13T23:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 79,
-   "fingerprint": "843aa652f4d75684",
+   "item_count": 80,
+   "fingerprint": "269589bda00f1cd4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T23:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "조직도입마케터",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
+       "date": "2026.10.19 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-13T21:00:38+00:00",
      "status": "ok",
@@ -1971,16 +1993,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T11:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1997,7 +2009,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T13:00:40+00:00"
+   "last_new_at": "2026-10-13T23:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6172,8 +6184,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-13T21:00:39+00:00",
-   "last_success": "2026-10-13T21:00:39+00:00",
+   "last_check": "2026-10-13T23:00:40+00:00",
+   "last_success": "2026-10-13T23:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6181,6 +6193,16 @@
    "fingerprint": "eee804c7e0918bc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T23:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T21:00:39+00:00",
      "status": "ok",
@@ -6463,16 +6485,6 @@
     },
     {
      "at": "2026-10-11T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T11:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8625,8 +8637,8 @@
      "first_seen": "2026-10-13T13:00:45+00:00"
     }
    },
-   "last_check": "2026-10-13T21:00:43+00:00",
-   "last_success": "2026-10-13T21:00:43+00:00",
+   "last_check": "2026-10-13T23:00:46+00:00",
+   "last_success": "2026-10-13T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8634,6 +8646,16 @@
    "fingerprint": "02b1bf829008b22a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T21:00:43+00:00",
      "status": "ok",
@@ -9097,16 +9119,6 @@
     },
     {
      "at": "2026-10-11T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 127,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T11:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10803,8 +10815,8 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-13T21:00:44+00:00",
-   "last_success": "2026-10-13T21:00:44+00:00",
+   "last_check": "2026-10-13T23:00:47+00:00",
+   "last_success": "2026-10-13T23:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10812,6 +10824,16 @@
    "fingerprint": "85538f1d4ce4627a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T23:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T21:00:44+00:00",
      "status": "ok",
@@ -11111,16 +11133,6 @@
     },
     {
      "at": "2026-10-11T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T11:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11731,8 +11743,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T21:00:46+00:00",
-   "last_success": "2026-10-13T21:00:46+00:00",
+   "last_check": "2026-10-13T23:00:49+00:00",
+   "last_success": "2026-10-13T23:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11740,6 +11752,16 @@
    "fingerprint": "e799a30f0022a09b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T23:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T21:00:46+00:00",
      "status": "ok",
@@ -12029,16 +12051,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T11:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12058,247 +12070,12 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
-    "date": "2026.10.25 23:59",
-    "found_at": "2026-10-13T01:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "용인 부속의원 의료기사(임상병리사,물리치료사,방사선사) 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262205",
-    "date": "",
-    "found_at": "2026-10-13T03:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 품질관리(QC) 신입(전환형 인턴) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262210",
-    "date": "",
-    "found_at": "2026-10-13T03:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "용인 부속의원 전문의(응급의학과,안과) 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262204",
-    "date": "",
-    "found_at": "2026-10-13T03:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 QA Data Integrity 관리 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262208",
-    "date": "",
-    "found_at": "2026-10-13T03:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
-    "date": "2026.10.26 23:59",
-    "found_at": "2026-10-13T05:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 사내변호사 경력 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262219",
-    "date": "",
-    "found_at": "2026-10-13T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262214",
-    "date": "",
-    "found_at": "2026-10-13T07:00:48+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
-    "date": "2026.10.18 23:59",
-    "found_at": "2026-10-13T09:00:54+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
-    "date": "2026.10.25 23:59",
-    "found_at": "2026-10-13T09:00:54+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-13T09:00:54+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_채널연금2센터",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-13T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262213",
-    "date": "",
-    "found_at": "2026-10-13T09:00:54+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(인천)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19971",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19970",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19969",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(포항)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19968",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Procurement 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262212",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "연구 원자재 관리/운영 계약직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262216",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "임상운영 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262217",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "HRD 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262218",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Domestic sales 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262222",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "CTD 문서 관리 계약직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262223",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "RQA 계약직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262225",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "연구 원자재 관리 지원 계약직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262226",
-    "date": "",
-    "found_at": "2026-10-13T13:00:50+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-13T01:00:45+00:00",
-  "last_sent": "2026-10-12T23:00:49+00:00"
+  "since": "",
+  "last_sent": "2026-10-13T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "",
-   "title": "[한화생명] 급여·보상 사무직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19727",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-09T06:33:03+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16789,6 +16566,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262226",
    "date": "",
    "found_at": "2026-10-13T13:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "조직도입마케터",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
+   "date": "2026.10.19 15:00",
+   "found_at": "2026-10-13T23:00:50+00:00"
   }
  ]
 }
