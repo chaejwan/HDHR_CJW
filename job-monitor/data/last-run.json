@@ -1,32 +1,38 @@
 {
- "at": "2026-10-12T23:00:46+00:00",
+ "at": "2026-10-13T01:00:45+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 10-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 1,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-13T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38319829776",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38330037600",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 73,
+   "status": "new",
+   "item_count": 74,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
+     "date": "2026.10.25 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,7 +52,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 122,
+   "item_count": 123,
    "method": "json",
    "note": "",
    "error": "",
@@ -58,7 +64,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 56,
+   "item_count": 57,
    "method": "json",
    "note": "",
    "error": "",

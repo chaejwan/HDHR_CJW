@@ -1520,17 +1520,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
      "date": "2026.12.31 23:59",
      "first_seen": "2026-10-12T07:00:36+00:00"
+    },
+    "dabe7b2f1011ef23": {
+     "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
+     "date": "2026.10.25 23:59",
+     "first_seen": "2026-10-13T01:00:36+00:00"
     }
    },
-   "last_check": "2026-10-12T23:00:36+00:00",
-   "last_success": "2026-10-12T23:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-13T01:00:36+00:00",
+   "last_success": "2026-10-13T01:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 73,
-   "fingerprint": "33acf785f069aa73",
+   "item_count": 74,
+   "fingerprint": "d59a4ebcf262e4c6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T01:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 74,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
+       "date": "2026.10.25 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-12T23:00:36+00:00",
      "status": "ok",
@@ -1857,16 +1879,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T13:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1883,7 +1895,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-12T07:00:36+00:00"
+   "last_new_at": "2026-10-13T01:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6058,15 +6070,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-12T23:00:38+00:00",
-   "last_success": "2026-10-12T23:00:38+00:00",
+   "last_check": "2026-10-13T01:00:36+00:00",
+   "last_success": "2026-10-13T01:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "3366e98c38c420d3",
+   "fingerprint": "8ee98ce1c9c60d1d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T01:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T23:00:38+00:00",
      "status": "ok",
@@ -6349,16 +6371,6 @@
     },
     {
      "at": "2026-10-10T15:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T13:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8421,15 +8433,25 @@
      "first_seen": "2026-10-12T15:00:44+00:00"
     }
    },
-   "last_check": "2026-10-12T23:00:42+00:00",
-   "last_success": "2026-10-12T23:00:42+00:00",
+   "last_check": "2026-10-13T01:00:41+00:00",
+   "last_success": "2026-10-13T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 122,
-   "fingerprint": "292008cc3f2261f7",
+   "item_count": 123,
+   "fingerprint": "053dda0d439dce6f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 123,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T23:00:42+00:00",
      "status": "ok",
@@ -8814,16 +8836,6 @@
     },
     {
      "at": "2026-10-10T15:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T13:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10520,15 +10532,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-12T23:00:43+00:00",
-   "last_success": "2026-10-12T23:00:43+00:00",
+   "last_check": "2026-10-13T01:00:42+00:00",
+   "last_success": "2026-10-13T01:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 56,
-   "fingerprint": "92a31222d1879ac6",
+   "item_count": 57,
+   "fingerprint": "e1c19e7fa5e9cf3e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T01:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T23:00:43+00:00",
      "status": "ok",
@@ -10828,16 +10850,6 @@
     },
     {
      "at": "2026-10-10T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T13:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11448,8 +11460,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-12T23:00:45+00:00",
-   "last_success": "2026-10-12T23:00:45+00:00",
+   "last_check": "2026-10-13T01:00:44+00:00",
+   "last_success": "2026-10-13T01:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11457,6 +11469,16 @@
    "fingerprint": "b7980e0dc65bad05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T01:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-12T23:00:45+00:00",
      "status": "ok",
@@ -11746,16 +11768,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11775,21 +11787,22 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
+    "date": "2026.10.25 23:59",
+    "found_at": "2026-10-13T01:00:45+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-13T01:00:45+00:00",
   "last_sent": "2026-10-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[경영지원] 국내법무팀장 채용경력경영지원경영지원국내법무경력 10년 이상정규직서울2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/217485",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -16280,6 +16293,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262141",
    "date": "",
    "found_at": "2026-10-12T15:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
+   "date": "2026.10.25 23:59",
+   "found_at": "2026-10-13T01:00:45+00:00"
   }
  ]
 }
