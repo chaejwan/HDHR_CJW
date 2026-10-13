@@ -1,38 +1,32 @@
 {
- "at": "2026-10-13T01:00:45+00:00",
+ "at": "2026-10-13T03:00:49+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 10-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 1,
+  "items": 5,
   "alerts": 0,
   "since": "2026-10-13T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38330037600",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38339623590",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 74,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
-     "date": "2026.10.25 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,12 +45,33 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 123,
+   "status": "new",
+   "item_count": 127,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "용인 부속의원 의료기사(임상병리사,물리치료사,방사선사) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262205",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 품질관리(QC) 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262210",
+     "date": ""
+    },
+    {
+     "title": "용인 부속의원 전문의(응급의학과,안과) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262204",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 QA Data Integrity 관리 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262208",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
