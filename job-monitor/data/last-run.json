@@ -1,7 +1,7 @@
 {
- "at": "2026-10-13T09:00:54+00:00",
+ "at": "2026-10-13T11:00:48+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,40 +14,19 @@
   "since": "2026-10-13T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38373241475",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38387244643",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 75,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
-     "date": "2026.10.18 23:59"
-    },
-    {
-     "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
-     "date": "2026.10.25 23:59"
-    },
-    {
-     "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
-     "date": "2026.10.27 15:00"
-    },
-    {
-     "title": "경력직 채용_채널연금2센터",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
-     "date": "2026.10.27 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -66,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 129,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262213",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
