@@ -1582,15 +1582,25 @@
      "first_seen": "2026-10-13T13:00:40+00:00"
     }
    },
-   "last_check": "2026-10-13T13:00:40+00:00",
-   "last_success": "2026-10-13T13:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-13T15:00:39+00:00",
+   "last_success": "2026-10-13T15:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
    "fingerprint": "843aa652f4d75684",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T13:00:40+00:00",
      "status": "new",
@@ -1968,16 +1978,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T03:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
      "error": "",
      "note": "",
      "new": []
@@ -6172,15 +6172,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-13T13:00:41+00:00",
-   "last_success": "2026-10-13T13:00:41+00:00",
+   "last_check": "2026-10-13T15:00:40+00:00",
+   "last_success": "2026-10-13T15:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "8ee98ce1c9c60d1d",
+   "fingerprint": "eee804c7e0918bc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T15:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T13:00:41+00:00",
      "status": "ok",
@@ -6463,16 +6473,6 @@
     },
     {
      "at": "2026-10-11T05:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T03:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8625,15 +8625,25 @@
      "first_seen": "2026-10-13T13:00:45+00:00"
     }
    },
-   "last_check": "2026-10-13T13:00:45+00:00",
-   "last_success": "2026-10-13T13:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-13T15:00:45+00:00",
+   "last_success": "2026-10-13T15:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 137,
-   "fingerprint": "89f2b192e41bc12f",
+   "item_count": 130,
+   "fingerprint": "02b1bf829008b22a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T13:00:45+00:00",
      "status": "new",
@@ -9104,26 +9114,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T03:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 127,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
-    "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
-    "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
-    "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
-    "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용"
+    "Pre-SKALA 모집",
+    "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
+    "'26년 10월 건축사업 공정관리, 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+    "Red Team 화이트 해커",
+    "[SK에어코어] 전기/계장 보전 엔니지어"
    ],
    "health": {
     "issue": "",
@@ -10803,15 +10803,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-13T13:00:47+00:00",
-   "last_success": "2026-10-13T13:00:47+00:00",
+   "last_check": "2026-10-13T15:00:47+00:00",
+   "last_success": "2026-10-13T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 52,
-   "fingerprint": "35c793ab064c8f2d",
+   "fingerprint": "85538f1d4ce4627a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T13:00:47+00:00",
      "status": "ok",
@@ -11111,16 +11121,6 @@
     },
     {
      "at": "2026-10-11T05:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T03:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11731,15 +11731,25 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T13:00:48+00:00",
-   "last_success": "2026-10-13T13:00:48+00:00",
+   "last_check": "2026-10-13T15:00:49+00:00",
+   "last_success": "2026-10-13T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "b7980e0dc65bad05",
+   "fingerprint": "e799a30f0022a09b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T13:00:48+00:00",
      "status": "ok",
@@ -12022,16 +12032,6 @@
     },
     {
      "at": "2026-10-11T05:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T03:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
