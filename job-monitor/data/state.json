@@ -1534,15 +1534,25 @@
      "first_seen": "2026-10-13T05:00:33+00:00"
     }
    },
-   "last_check": "2026-10-13T05:00:33+00:00",
-   "last_success": "2026-10-13T05:00:33+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-13T07:00:35+00:00",
+   "last_success": "2026-10-13T07:00:35+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "d8c3c88d43a498c9",
+   "item_count": 72,
+   "fingerprint": "1bfcce355a192e7a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T07:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T05:00:33+00:00",
      "status": "new",
@@ -1881,26 +1891,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T19:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명]본사 건강검진센터 임상병리사 채용",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(영주)",
-    "[한화솔루션 큐셀] ES사업부 개발품질 경력직 채용",
     "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
-    "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)"
+    "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
+    "'26년 하반기 신입사원(엔지니어/R&D) 채용",
+    "[한화세미텍] 재무 담당 채용 (과~차장급)",
+    "[한화솔루션 큐셀] ES사업부 Embedded Software (일반) 채용"
    ],
    "health": {
     "issue": "",
@@ -6082,8 +6082,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-13T05:00:33+00:00",
-   "last_success": "2026-10-13T05:00:33+00:00",
+   "last_check": "2026-10-13T07:00:36+00:00",
+   "last_success": "2026-10-13T07:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6091,6 +6091,16 @@
    "fingerprint": "8ee98ce1c9c60d1d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T07:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T05:00:33+00:00",
      "status": "ok",
@@ -6373,16 +6383,6 @@
     },
     {
      "at": "2026-10-10T21:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T19:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8467,17 +8467,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262208",
      "date": "",
      "first_seen": "2026-10-13T03:00:44+00:00"
+    },
+    "5a86747c1c408827": {
+     "title": "SK키파운드리 사내변호사 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262219",
+     "date": "",
+     "first_seen": "2026-10-13T07:00:43+00:00"
+    },
+    "42837078d373020e": {
+     "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262214",
+     "date": "",
+     "first_seen": "2026-10-13T07:00:43+00:00"
     }
    },
-   "last_check": "2026-10-13T05:00:39+00:00",
-   "last_success": "2026-10-13T05:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-13T07:00:43+00:00",
+   "last_success": "2026-10-13T07:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 127,
-   "fingerprint": "8bbcf1b045027424",
+   "item_count": 129,
+   "fingerprint": "2157a21ed9287c00",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T07:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 129,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK키파운드리 사내변호사 경력 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262219",
+       "date": ""
+      },
+      {
+       "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262214",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-13T05:00:39+00:00",
      "status": "ok",
@@ -8890,16 +8923,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -8916,7 +8939,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T03:00:44+00:00"
+   "last_new_at": "2026-10-13T07:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10589,8 +10612,8 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-13T05:00:41+00:00",
-   "last_success": "2026-10-13T05:00:41+00:00",
+   "last_check": "2026-10-13T07:00:44+00:00",
+   "last_success": "2026-10-13T07:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10598,6 +10621,16 @@
    "fingerprint": "bea00d4c19103330",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T05:00:41+00:00",
      "status": "ok",
@@ -10897,16 +10930,6 @@
     },
     {
      "at": "2026-10-10T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T19:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11517,8 +11540,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T05:00:43+00:00",
-   "last_success": "2026-10-13T05:00:43+00:00",
+   "last_check": "2026-10-13T07:00:46+00:00",
+   "last_success": "2026-10-13T07:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11526,6 +11549,16 @@
    "fingerprint": "b7980e0dc65bad05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T07:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T05:00:43+00:00",
      "status": "ok",
@@ -11815,16 +11848,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T19:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11898,6 +11921,24 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
     "date": "2026.10.26 23:59",
     "found_at": "2026-10-13T05:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK키파운드리 사내변호사 경력 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262219",
+    "date": "",
+    "found_at": "2026-10-13T07:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262214",
+    "date": "",
+    "found_at": "2026-10-13T07:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -11905,24 +11946,6 @@
   "last_sent": "2026-10-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[경영지원] 총무구매지원(계약직) 채용경력경영지원경영지원구매경력 3년 이상계약직거제2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/232450",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[제조총괄] 사내 간호사(계약직) 채용경력제조총괄생산/품질/HSE/공무HSE경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/232453",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16404,6 +16427,24 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
    "date": "2026.10.26 23:59",
    "found_at": "2026-10-13T05:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK키파운드리 사내변호사 경력 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262219",
+   "date": "",
+   "found_at": "2026-10-13T07:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262214",
+   "date": "",
+   "found_at": "2026-10-13T07:00:48+00:00"
   }
  ]
 }
