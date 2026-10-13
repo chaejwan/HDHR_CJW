@@ -1,32 +1,53 @@
 {
- "at": "2026-10-13T11:00:48+00:00",
+ "at": "2026-10-13T13:00:50+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 12,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 10-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 25건 · 점검 0건). 10-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 25,
   "alerts": 0,
   "since": "2026-10-13T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38387244643",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38401575610",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 75,
+   "status": "new",
+   "item_count": 79,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(인천)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19971",
+     "date": "2026.10.27 15:00"
+    },
+    {
+     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19970",
+     "date": "2026.10.27 15:00"
+    },
+    {
+     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19969",
+     "date": "2026.10.27 15:00"
+    },
+    {
+     "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(포항)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19968",
+     "date": "2026.10.27 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -45,12 +66,53 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 129,
+   "status": "new",
+   "item_count": 137,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "Procurement 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262212",
+     "date": ""
+    },
+    {
+     "title": "연구 원자재 관리/운영 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262216",
+     "date": ""
+    },
+    {
+     "title": "임상운영 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262217",
+     "date": ""
+    },
+    {
+     "title": "HRD 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262218",
+     "date": ""
+    },
+    {
+     "title": "Domestic sales 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262222",
+     "date": ""
+    },
+    {
+     "title": "CTD 문서 관리 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262223",
+     "date": ""
+    },
+    {
+     "title": "RQA 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262225",
+     "date": ""
+    },
+    {
+     "title": "연구 원자재 관리 지원 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262226",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
