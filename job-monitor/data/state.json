@@ -1526,17 +1526,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19957",
      "date": "2026.10.25 23:59",
      "first_seen": "2026-10-13T01:00:36+00:00"
+    },
+    "76ffda5240d5c599": {
+     "title": "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
+     "date": "2026.10.26 23:59",
+     "first_seen": "2026-10-13T05:00:33+00:00"
     }
    },
-   "last_check": "2026-10-13T03:00:37+00:00",
-   "last_success": "2026-10-13T03:00:37+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-13T05:00:33+00:00",
+   "last_success": "2026-10-13T05:00:33+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 74,
-   "fingerprint": "d59a4ebcf262e4c6",
+   "item_count": 75,
+   "fingerprint": "d8c3c88d43a498c9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T05:00:33+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
+       "date": "2026.10.26 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-13T03:00:37+00:00",
      "status": "ok",
@@ -1869,16 +1891,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T17:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -1895,7 +1907,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T01:00:36+00:00"
+   "last_new_at": "2026-10-13T05:00:33+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6070,8 +6082,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-13T03:00:38+00:00",
-   "last_success": "2026-10-13T03:00:38+00:00",
+   "last_check": "2026-10-13T05:00:33+00:00",
+   "last_success": "2026-10-13T05:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6079,6 +6091,16 @@
    "fingerprint": "8ee98ce1c9c60d1d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T05:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T03:00:38+00:00",
      "status": "ok",
@@ -6361,16 +6383,6 @@
     },
     {
      "at": "2026-10-10T19:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T17:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8457,15 +8469,25 @@
      "first_seen": "2026-10-13T03:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T03:00:44+00:00",
-   "last_success": "2026-10-13T03:00:44+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-13T05:00:39+00:00",
+   "last_success": "2026-10-13T05:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 127,
    "fingerprint": "8bbcf1b045027424",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 127,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T03:00:44+00:00",
      "status": "new",
@@ -8871,16 +8893,6 @@
     },
     {
      "at": "2026-10-10T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T17:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10577,15 +10589,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-13T03:00:46+00:00",
-   "last_success": "2026-10-13T03:00:46+00:00",
+   "last_check": "2026-10-13T05:00:41+00:00",
+   "last_success": "2026-10-13T05:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 57,
-   "fingerprint": "7b06c6eeac1d282c",
+   "fingerprint": "bea00d4c19103330",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T05:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T03:00:46+00:00",
      "status": "ok",
@@ -10885,16 +10907,6 @@
     },
     {
      "at": "2026-10-10T19:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T17:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11505,8 +11517,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T03:00:47+00:00",
-   "last_success": "2026-10-13T03:00:47+00:00",
+   "last_check": "2026-10-13T05:00:43+00:00",
+   "last_success": "2026-10-13T05:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11514,6 +11526,16 @@
    "fingerprint": "b7980e0dc65bad05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T05:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T03:00:47+00:00",
      "status": "ok",
@@ -11803,16 +11825,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T17:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11877,6 +11889,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262208",
     "date": "",
     "found_at": "2026-10-13T03:00:49+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
+    "date": "2026.10.26 23:59",
+    "found_at": "2026-10-13T05:00:45+00:00"
    }
   ],
   "alerts": [],
@@ -11884,15 +11905,6 @@
   "last_sent": "2026-10-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용경력경영지원경영지원해외인력지원경력 2년 이상계약직거제2026. 12. 31, 14:59까지D-113",
-   "url": "https://recruit-hanwhaocean.com/ko/o/231099",
-   "date": "",
-   "found_at": "2026-09-08T15:00:43+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -16383,6 +16395,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262208",
    "date": "",
    "found_at": "2026-10-13T03:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
+   "date": "2026.10.26 23:59",
+   "found_at": "2026-10-13T05:00:45+00:00"
   }
  ]
 }
