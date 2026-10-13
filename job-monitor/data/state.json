@@ -1532,17 +1532,72 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
      "date": "2026.10.26 23:59",
      "first_seen": "2026-10-13T05:00:33+00:00"
+    },
+    "506f98e29c0df7f1": {
+     "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
+     "date": "2026.10.18 23:59",
+     "first_seen": "2026-10-13T09:00:38+00:00"
+    },
+    "3e25eeea06f6e21c": {
+     "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
+     "date": "2026.10.25 23:59",
+     "first_seen": "2026-10-13T09:00:38+00:00"
+    },
+    "830e040c26aa0593": {
+     "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
+     "date": "2026.10.27 15:00",
+     "first_seen": "2026-10-13T09:00:38+00:00"
+    },
+    "18806e6781e4d958": {
+     "title": "경력직 채용_채널연금2센터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
+     "date": "2026.10.27 15:00",
+     "first_seen": "2026-10-13T09:00:38+00:00"
     }
    },
-   "last_check": "2026-10-13T07:00:35+00:00",
-   "last_success": "2026-10-13T07:00:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-13T09:00:38+00:00",
+   "last_success": "2026-10-13T09:00:38+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 72,
-   "fingerprint": "1bfcce355a192e7a",
+   "item_count": 75,
+   "fingerprint": "c61df50ad87ef2f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T09:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
+       "date": "2026.10.18 23:59"
+      },
+      {
+       "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
+       "date": "2026.10.25 23:59"
+      },
+      {
+       "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
+       "date": "2026.10.27 15:00"
+      },
+      {
+       "title": "경력직 채용_채널연금2센터",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
+       "date": "2026.10.27 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-13T07:00:35+00:00",
      "status": "ok",
@@ -1881,33 +1936,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T21:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화솔루션 인사이트 PLS사업부 오피스 LM 경력 채용",
     "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
     "'26년 하반기 신입사원(엔지니어/R&D) 채용",
     "[한화세미텍] 재무 담당 채용 (과~차장급)",
-    "[한화솔루션 큐셀] ES사업부 Embedded Software (일반) 채용"
+    "[한화솔루션 큐셀] ES사업부 Embedded Software (일반) 채용",
+    "[한화솔루션 큐셀] ES사업부 Embedded Software (BSP) 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T05:00:33+00:00"
+   "last_new_at": "2026-10-13T09:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6082,8 +6127,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-13T07:00:36+00:00",
-   "last_success": "2026-10-13T07:00:36+00:00",
+   "last_check": "2026-10-13T09:00:39+00:00",
+   "last_success": "2026-10-13T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6091,6 +6136,16 @@
    "fingerprint": "8ee98ce1c9c60d1d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T07:00:36+00:00",
      "status": "ok",
@@ -6373,16 +6428,6 @@
     },
     {
      "at": "2026-10-10T23:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-10T21:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8479,17 +8524,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262214",
      "date": "",
      "first_seen": "2026-10-13T07:00:43+00:00"
+    },
+    "eb6f5d9e748fb6b4": {
+     "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262213",
+     "date": "",
+     "first_seen": "2026-10-13T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-13T07:00:43+00:00",
-   "last_success": "2026-10-13T07:00:43+00:00",
+   "last_check": "2026-10-13T09:00:49+00:00",
+   "last_success": "2026-10-13T09:00:49+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 129,
-   "fingerprint": "2157a21ed9287c00",
+   "fingerprint": "525a221641808a7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T09:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 129,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262213",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-13T07:00:43+00:00",
      "status": "new",
@@ -8913,33 +8980,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T21:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 128,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "미래전략/CR정책/투자전략 경력 채용",
     "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
     "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
     "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
-    "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)"
+    "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+    "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T07:00:43+00:00"
+   "last_new_at": "2026-10-13T09:00:49+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10612,15 +10669,25 @@
      "first_seen": "2026-10-12T02:29:44+00:00"
     }
    },
-   "last_check": "2026-10-13T07:00:44+00:00",
-   "last_success": "2026-10-13T07:00:44+00:00",
+   "last_check": "2026-10-13T09:00:50+00:00",
+   "last_success": "2026-10-13T09:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 57,
-   "fingerprint": "bea00d4c19103330",
+   "item_count": 52,
+   "fingerprint": "35c793ab064c8f2d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T09:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T07:00:44+00:00",
      "status": "ok",
@@ -10927,26 +10994,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "수소 충전 인프라 기술 개발",
-    "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
-    "[제조로보틱스] 로보틱스 구조 부품 DFM",
-    "[SDF] 제조 DX MLOps 아키텍트",
-    "[SDF] Manufacturing DX Project Manager (Scrum Master)"
+    "[계약직] 이동식 안전체험관 운영 및 보조",
+    "[계약직] 울산공장 의전 운영 지원",
+    "[계약직] 고양하이테크센터 드라이버",
+    "[계약직] 행정지원 (장애인 제한경쟁)",
+    "[계약직] 방사선사(울산공장)"
    ],
    "health": {
     "issue": "",
@@ -11540,8 +11597,8 @@
      "first_seen": "2026-10-08T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T07:00:46+00:00",
-   "last_success": "2026-10-13T07:00:46+00:00",
+   "last_check": "2026-10-13T09:00:53+00:00",
+   "last_success": "2026-10-13T09:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11549,6 +11606,16 @@
    "fingerprint": "b7980e0dc65bad05",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-13T09:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T07:00:46+00:00",
      "status": "ok",
@@ -11838,16 +11905,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-10T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11939,6 +11996,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262214",
     "date": "",
     "found_at": "2026-10-13T07:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
+    "date": "2026.10.18 23:59",
+    "found_at": "2026-10-13T09:00:54+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
+    "date": "2026.10.25 23:59",
+    "found_at": "2026-10-13T09:00:54+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
+    "date": "2026.10.27 15:00",
+    "found_at": "2026-10-13T09:00:54+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_채널연금2센터",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
+    "date": "2026.10.27 15:00",
+    "found_at": "2026-10-13T09:00:54+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262213",
+    "date": "",
+    "found_at": "2026-10-13T09:00:54+00:00"
    }
   ],
   "alerts": [],
@@ -11946,51 +12048,6 @@
   "last_sent": "2026-10-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 안전관리 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261941",
-   "date": "",
-   "found_at": "2026-09-08T15:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261942",
-   "date": "",
-   "found_at": "2026-09-08T15:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "",
-   "title": "제조 AI 컨설턴트 (경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261927",
-   "date": "",
-   "found_at": "2026-09-09T01:00:39+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "",
-   "title": "사내 편의시설 운영 지원 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261945",
-   "date": "",
-   "found_at": "2026-09-09T02:00:42+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "",
-   "title": "제조 물류자동화(AMHS) 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261946",
-   "date": "",
-   "found_at": "2026-09-09T02:30:45+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16445,6 +16502,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262214",
    "date": "",
    "found_at": "2026-10-13T07:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
+   "date": "2026.10.18 23:59",
+   "found_at": "2026-10-13T09:00:54+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
+   "date": "2026.10.25 23:59",
+   "found_at": "2026-10-13T09:00:54+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
+   "date": "2026.10.27 15:00",
+   "found_at": "2026-10-13T09:00:54+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_채널연금2센터",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
+   "date": "2026.10.27 15:00",
+   "found_at": "2026-10-13T09:00:54+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262213",
+   "date": "",
+   "found_at": "2026-10-13T09:00:54+00:00"
   }
  ]
 }

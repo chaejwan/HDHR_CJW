@@ -1,32 +1,53 @@
 {
- "at": "2026-10-13T07:00:48+00:00",
+ "at": "2026-10-13T09:00:54+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-14 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 10-14 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 13,
   "alerts": 0,
   "since": "2026-10-13T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38359999577",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38373241475",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 72,
+   "status": "new",
+   "item_count": 75,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
+     "date": "2026.10.18 23:59"
+    },
+    {
+     "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
+     "date": "2026.10.25 23:59"
+    },
+    {
+     "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
+     "date": "2026.10.27 15:00"
+    },
+    {
+     "title": "경력직 채용_채널연금2센터",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
+     "date": "2026.10.27 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,13 +73,8 @@
    "error": "",
    "new_items": [
     {
-     "title": "SK키파운드리 사내변호사 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262219",
-     "date": ""
-    },
-    {
-     "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262214",
+     "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262213",
      "date": ""
     }
    ]
@@ -69,7 +85,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 57,
+   "item_count": 52,
    "method": "json",
    "note": "",
    "error": "",
