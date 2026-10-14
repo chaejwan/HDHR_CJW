@@ -1600,15 +1600,25 @@
      "first_seen": "2026-10-14T03:00:38+00:00"
     }
    },
-   "last_check": "2026-10-14T03:00:38+00:00",
-   "last_success": "2026-10-14T03:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-14T05:00:38+00:00",
+   "last_success": "2026-10-14T05:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 82,
-   "fingerprint": "3fdf88a150219561",
+   "item_count": 83,
+   "fingerprint": "0678a4cfa9120065",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T05:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T03:00:38+00:00",
      "status": "new",
@@ -2000,16 +2010,6 @@
     },
     {
      "at": "2026-10-11T21:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T19:00:33+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6208,8 +6208,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-14T03:00:39+00:00",
-   "last_success": "2026-10-14T03:00:39+00:00",
+   "last_check": "2026-10-14T05:00:39+00:00",
+   "last_success": "2026-10-14T05:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6217,6 +6217,16 @@
    "fingerprint": "eee804c7e0918bc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T03:00:39+00:00",
      "status": "ok",
@@ -6499,16 +6509,6 @@
     },
     {
      "at": "2026-10-11T21:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T19:00:34+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8713,17 +8713,94 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262230",
      "date": "",
      "first_seen": "2026-10-14T03:00:45+00:00"
+    },
+    "59dba257073bdb53": {
+     "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262236",
+     "date": "",
+     "first_seen": "2026-10-14T05:00:43+00:00"
+    },
+    "4c148c8944e85a81": {
+     "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262234",
+     "date": "",
+     "first_seen": "2026-10-14T05:00:43+00:00"
+    },
+    "7c2c4d78ca756e46": {
+     "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262235",
+     "date": "",
+     "first_seen": "2026-10-14T05:00:43+00:00"
+    },
+    "bd8616be4cb92a35": {
+     "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262237",
+     "date": "",
+     "first_seen": "2026-10-14T05:00:43+00:00"
+    },
+    "c7603844d057adef": {
+     "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262239",
+     "date": "",
+     "first_seen": "2026-10-14T05:00:43+00:00"
+    },
+    "8d9d88eef8346a8c": {
+     "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262240",
+     "date": "",
+     "first_seen": "2026-10-14T05:00:43+00:00"
     }
    },
-   "last_check": "2026-10-14T03:00:45+00:00",
-   "last_success": "2026-10-14T03:00:45+00:00",
+   "last_check": "2026-10-14T05:00:43+00:00",
+   "last_success": "2026-10-14T05:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 138,
-   "fingerprint": "518cd5720488b3fa",
+   "item_count": 147,
+   "fingerprint": "b1c2d430a41b4ed7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T05:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 6,
+     "item_count": 147,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262236",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262234",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262235",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262237",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262239",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262240",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-14T03:00:45+00:00",
      "status": "new",
@@ -9236,16 +9313,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T19:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 113,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9262,7 +9329,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-14T03:00:45+00:00"
+   "last_new_at": "2026-10-14T05:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10941,15 +11008,25 @@
      "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-14T03:00:47+00:00",
-   "last_success": "2026-10-14T03:00:47+00:00",
+   "last_check": "2026-10-14T05:00:44+00:00",
+   "last_success": "2026-10-14T05:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 54,
-   "fingerprint": "1ef90af74f17ee81",
+   "item_count": 53,
+   "fingerprint": "a97ae15595135ce5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T05:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T03:00:47+00:00",
      "status": "ok",
@@ -11255,16 +11332,6 @@
     },
     {
      "at": "2026-10-11T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T19:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11881,8 +11948,8 @@
      "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-14T03:00:49+00:00",
-   "last_success": "2026-10-14T03:00:49+00:00",
+   "last_check": "2026-10-14T05:00:46+00:00",
+   "last_success": "2026-10-14T05:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11890,6 +11957,16 @@
    "fingerprint": "9379dbce7d5eb488",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T05:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T03:00:49+00:00",
      "status": "ok",
@@ -12185,16 +12262,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T19:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12332,6 +12399,60 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262230",
     "date": "",
     "found_at": "2026-10-14T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262236",
+    "date": "",
+    "found_at": "2026-10-14T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262234",
+    "date": "",
+    "found_at": "2026-10-14T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262235",
+    "date": "",
+    "found_at": "2026-10-14T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262237",
+    "date": "",
+    "found_at": "2026-10-14T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262239",
+    "date": "",
+    "found_at": "2026-10-14T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262240",
+    "date": "",
+    "found_at": "2026-10-14T05:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -12339,60 +12460,6 @@
   "last_sent": "2026-10-13T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "2026 하반기 한화손보 신입사원 채용 - 영업관리",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19698",
-   "date": "2026.09.28 15:00",
-   "found_at": "2026-09-10T04:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "2026 하반기 한화손보 신입사원 채용 - 상품개발",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19697",
-   "date": "2026.09.28 15:00",
-   "found_at": "2026-09-10T04:00:50+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Alliance Mgmt 인턴 구성원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261956",
-   "date": "",
-   "found_at": "2026-09-10T04:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명] 사무직 채용(경리, 회계, 사무지원)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19731",
-   "date": "2026.09.23 15:00",
-   "found_at": "2026-09-10T06:00:48+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[상시] 생산운전 오퍼레이터 경력 Pool 등록",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19742",
-   "date": "2026.12.31 23:59",
-   "found_at": "2026-09-10T06:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "고객 커뮤니케이션 메시지 윤문 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261961",
-   "date": "",
-   "found_at": "2026-09-10T06:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16838,6 +16905,60 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262230",
    "date": "",
    "found_at": "2026-10-14T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262236",
+   "date": "",
+   "found_at": "2026-10-14T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262234",
+   "date": "",
+   "found_at": "2026-10-14T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262235",
+   "date": "",
+   "found_at": "2026-10-14T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262237",
+   "date": "",
+   "found_at": "2026-10-14T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262239",
+   "date": "",
+   "found_at": "2026-10-14T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262240",
+   "date": "",
+   "found_at": "2026-10-14T05:00:48+00:00"
   }
  ]
 }

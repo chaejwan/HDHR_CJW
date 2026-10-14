@@ -1,38 +1,32 @@
 {
- "at": "2026-10-14T03:00:51+00:00",
+ "at": "2026-10-14T05:00:48+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 6,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 10-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 10-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 19,
   "alerts": 0,
   "since": "2026-10-14T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38504012028",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38514343891",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 82,
+   "status": "ok",
+   "item_count": 83,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화시스템 통합방공솔루션 개발 부문 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19973",
-     "date": "2026.11.01 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,14 +46,39 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 138,
+   "item_count": 147,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "사내 편의시설 운영 지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262230",
+     "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262236",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262234",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262235",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262237",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262239",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262240",
      "date": ""
     }
    ]
@@ -70,7 +89,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 54,
+   "item_count": 53,
    "method": "json",
    "note": "",
    "error": "",
