@@ -1,38 +1,32 @@
 {
- "at": "2026-10-14T01:00:48+00:00",
+ "at": "2026-10-14T01:59:20+00:00",
  "checked": 5,
- "new_total": 8,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 10-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 11,
   "alerts": 0,
   "since": "2026-10-14T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38493337136",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38498623358",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 81,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "경력직 채용_상품전략팀",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
-     "date": "2026.10.28 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,34 +46,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 138,
+   "item_count": 141,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262183",
+     "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262233",
      "date": ""
     },
     {
-     "title": "SK온 기계/전기 설비 관리 기술직 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262203",
+     "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262231",
      "date": ""
     },
     {
-     "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262227",
-     "date": ""
-    },
-    {
-     "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262228",
-     "date": ""
-    },
-    {
-     "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262229",
+     "title": "[영광] 수입 검사 담당 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262232",
      "date": ""
     }
    ]
@@ -89,36 +73,24 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 54,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[아르바이트] 사내 문서 데이터 정비/이관",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
-     "date": "20261026"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
+   "status": "ok",
    "item_count": 5,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
-     "url": "https://www.samsungcareers.com/hr/?no=23324",
-     "date": "2026.10.14 ~ 2026.10.23"
-    }
-   ]
+   "new_items": []
   }
  ]
 }

@@ -1594,15 +1594,25 @@
      "first_seen": "2026-10-14T01:00:38+00:00"
     }
    },
-   "last_check": "2026-10-14T01:00:38+00:00",
-   "last_success": "2026-10-14T01:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-14T01:59:08+00:00",
+   "last_success": "2026-10-14T01:59:08+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "f0eccf5fe21a455d",
+   "fingerprint": "b94752ae484e6e71",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:59:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T01:00:38+00:00",
      "status": "new",
@@ -1988,16 +1998,6 @@
     },
     {
      "at": "2026-10-11T17:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T15:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6196,8 +6196,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-14T01:00:39+00:00",
-   "last_success": "2026-10-14T01:00:39+00:00",
+   "last_check": "2026-10-14T01:59:09+00:00",
+   "last_success": "2026-10-14T01:59:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6205,6 +6205,16 @@
    "fingerprint": "eee804c7e0918bc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:59:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T01:00:39+00:00",
      "status": "ok",
@@ -6487,16 +6497,6 @@
     },
     {
      "at": "2026-10-11T17:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T15:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8677,17 +8677,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262229",
      "date": "",
      "first_seen": "2026-10-14T01:00:44+00:00"
+    },
+    "543a7107307eaf59": {
+     "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262233",
+     "date": "",
+     "first_seen": "2026-10-14T01:59:14+00:00"
+    },
+    "46f26ff4c7f1e561": {
+     "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+     "date": "",
+     "first_seen": "2026-10-14T01:59:14+00:00"
+    },
+    "152f359b8c3d13ea": {
+     "title": "[영광] 수입 검사 담당 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262232",
+     "date": "",
+     "first_seen": "2026-10-14T01:59:14+00:00"
     }
    },
-   "last_check": "2026-10-14T01:00:44+00:00",
-   "last_success": "2026-10-14T01:00:44+00:00",
+   "last_check": "2026-10-14T01:59:14+00:00",
+   "last_success": "2026-10-14T01:59:14+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 138,
-   "fingerprint": "43171eb105a7f2ca",
+   "item_count": 141,
+   "fingerprint": "11a90397d492af3d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:59:14+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 141,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262233",
+       "date": ""
+      },
+      {
+       "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+       "date": ""
+      },
+      {
+       "title": "[영광] 수입 검사 담당 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262232",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-14T01:00:44+00:00",
      "status": "new",
@@ -9178,22 +9222,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T15:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 113,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 하반기 부산도시가스 신입사원(G2) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262174",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9210,7 +9238,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-14T01:00:44+00:00"
+   "last_new_at": "2026-10-14T01:59:14+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10889,15 +10917,25 @@
      "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-14T01:00:45+00:00",
-   "last_success": "2026-10-14T01:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-14T01:59:16+00:00",
+   "last_success": "2026-10-14T01:59:16+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
    "fingerprint": "788615775050bcaa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:59:16+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T01:00:45+00:00",
      "status": "new",
@@ -11203,16 +11241,6 @@
     },
     {
      "at": "2026-10-11T17:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11829,15 +11857,25 @@
      "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-14T01:00:47+00:00",
-   "last_success": "2026-10-14T01:00:47+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-14T01:59:18+00:00",
+   "last_success": "2026-10-14T01:59:18+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
    "fingerprint": "9379dbce7d5eb488",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:59:18+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T01:00:47+00:00",
      "status": "new",
@@ -12133,16 +12171,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T15:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12235,6 +12263,33 @@
     "url": "https://www.samsungcareers.com/hr/?no=23324",
     "date": "2026.10.14 ~ 2026.10.23",
     "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262233",
+    "date": "",
+    "found_at": "2026-10-14T01:59:20+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+    "date": "",
+    "found_at": "2026-10-14T01:59:20+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[영광] 수입 검사 담당 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262232",
+    "date": "",
+    "found_at": "2026-10-14T01:59:20+00:00"
    }
   ],
   "alerts": [],
@@ -12242,33 +12297,6 @@
   "last_sent": "2026-10-13T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "QA Automation Engineer",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261959",
-   "date": "",
-   "found_at": "2026-09-10T00:14:33+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화투자증권] FICC파생운용팀_외환 및 장외파생상품 오퍼레이션 경력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19730",
-   "date": "2026.09.23 23:59",
-   "found_at": "2026-09-10T01:10:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "청주 부속의원 독감 예방접종 의사/간호사 단기 계약직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261926",
-   "date": "",
-   "found_at": "2026-09-10T01:10:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16741,6 +16769,33 @@
    "url": "https://www.samsungcareers.com/hr/?no=23324",
    "date": "2026.10.14 ~ 2026.10.23",
    "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262233",
+   "date": "",
+   "found_at": "2026-10-14T01:59:20+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+   "date": "",
+   "found_at": "2026-10-14T01:59:20+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[영광] 수입 검사 담당 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262232",
+   "date": "",
+   "found_at": "2026-10-14T01:59:20+00:00"
   }
  ]
 }
