@@ -1,32 +1,38 @@
 {
- "at": "2026-10-14T01:59:20+00:00",
+ "at": "2026-10-14T03:00:51+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 10-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 10-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 11,
+  "items": 13,
   "alerts": 0,
   "since": "2026-10-14T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38498623358",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38504012028",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 81,
+   "status": "new",
+   "item_count": 82,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "한화시스템 통합방공솔루션 개발 부문 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19973",
+     "date": "2026.11.01 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,24 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 141,
+   "item_count": 138,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262233",
-     "date": ""
-    },
-    {
-     "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262231",
-     "date": ""
-    },
-    {
-     "title": "[영광] 수입 검사 담당 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262232",
+     "title": "사내 편의시설 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262230",
      "date": ""
     }
    ]
