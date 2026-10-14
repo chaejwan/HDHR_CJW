@@ -1606,8 +1606,8 @@
      "first_seen": "2026-10-14T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-14T17:00:39+00:00",
-   "last_success": "2026-10-14T17:00:39+00:00",
+   "last_check": "2026-10-14T19:00:40+00:00",
+   "last_success": "2026-10-14T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1615,6 +1615,16 @@
    "fingerprint": "5ab9b5404ada8859",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T17:00:39+00:00",
      "status": "ok",
@@ -1975,16 +1985,6 @@
     },
     {
      "at": "2026-10-12T11:02:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 74,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T09:01:00+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6183,8 +6183,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-14T17:00:40+00:00",
-   "last_success": "2026-10-14T17:00:40+00:00",
+   "last_check": "2026-10-14T19:00:41+00:00",
+   "last_success": "2026-10-14T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6192,6 +6192,16 @@
    "fingerprint": "0e18483434674198",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T17:00:40+00:00",
      "status": "ok",
@@ -6474,16 +6484,6 @@
     },
     {
      "at": "2026-10-12T11:02:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T09:01:01+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8786,8 +8786,8 @@
      "first_seen": "2026-10-14T11:00:43+00:00"
     }
    },
-   "last_check": "2026-10-14T17:00:42+00:00",
-   "last_success": "2026-10-14T17:00:42+00:00",
+   "last_check": "2026-10-14T19:00:46+00:00",
+   "last_success": "2026-10-14T19:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8795,6 +8795,16 @@
    "fingerprint": "d42835c8027310de",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T19:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T17:00:42+00:00",
      "status": "ok",
@@ -9301,32 +9311,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-12T09:01:07+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 130,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 하반기 코원에너지서비스 신입사원(G2) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262184",
-       "date": ""
-      },
-      {
-       "title": "[SK케미칼(GC)] 계약직 비서 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262201",
-       "date": ""
-      },
-      {
-       "title": "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262202",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11022,15 +11006,25 @@
      "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-14T17:00:43+00:00",
-   "last_success": "2026-10-14T17:00:43+00:00",
+   "last_check": "2026-10-14T19:00:48+00:00",
+   "last_success": "2026-10-14T19:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 50,
-   "fingerprint": "6ee60b2ef9ef3eab",
+   "fingerprint": "c767dfd0ca3d7181",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T19:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 50,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T17:00:43+00:00",
      "status": "ok",
@@ -11319,16 +11313,6 @@
     },
     {
      "at": "2026-10-12T11:02:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T09:01:09+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11945,8 +11929,8 @@
      "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-14T17:00:45+00:00",
-   "last_success": "2026-10-14T17:00:45+00:00",
+   "last_check": "2026-10-14T19:00:50+00:00",
+   "last_success": "2026-10-14T19:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11954,6 +11938,16 @@
    "fingerprint": "a2a7d8113c06b2e7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T19:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T17:00:45+00:00",
      "status": "ok",
@@ -12242,16 +12236,6 @@
     },
     {
      "at": "2026-10-12T11:02:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T09:01:11+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
