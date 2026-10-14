@@ -1,20 +1,20 @@
 {
- "at": "2026-10-14T09:00:54+00:00",
+ "at": "2026-10-14T11:00:48+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 29건 · 점검 0건). 10-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 30건 · 점검 0건). 10-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 29,
+  "items": 30,
   "alerts": 0,
   "since": "2026-10-14T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38539204617",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38553536836",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,24 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 155,
+   "item_count": 156,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK오션플랜트/삼강에스앤씨] 장애인 구성원 모집(재택근무)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262244",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 경영기획 구성원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262245",
-     "date": ""
-    },
-    {
-     "title": "[SK케미칼] 청주공장 원가회계 담당자 경력 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262246",
+     "title": "2026년 연구소/생산본부 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262248",
      "date": ""
     }
    ]

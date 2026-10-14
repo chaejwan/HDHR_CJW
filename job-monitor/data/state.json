@@ -1606,8 +1606,8 @@
      "first_seen": "2026-10-14T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-14T09:00:42+00:00",
-   "last_success": "2026-10-14T09:00:42+00:00",
+   "last_check": "2026-10-14T11:00:39+00:00",
+   "last_success": "2026-10-14T11:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1615,6 +1615,16 @@
    "fingerprint": "d65510c68f2d5619",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 82,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T09:00:42+00:00",
      "status": "ok",
@@ -2019,16 +2029,6 @@
        "date": "2026.10.31 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-12T01:00:34+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6220,8 +6220,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-14T09:00:44+00:00",
-   "last_success": "2026-10-14T09:00:44+00:00",
+   "last_check": "2026-10-14T11:00:40+00:00",
+   "last_success": "2026-10-14T11:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6229,6 +6229,16 @@
    "fingerprint": "eee804c7e0918bc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T11:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T09:00:44+00:00",
      "status": "ok",
@@ -6511,16 +6521,6 @@
     },
     {
      "at": "2026-10-12T02:29:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T01:03:02+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8815,17 +8815,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262246",
      "date": "",
      "first_seen": "2026-10-14T09:00:49+00:00"
+    },
+    "18f4b303e84d16c9": {
+     "title": "2026년 연구소/생산본부 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262248",
+     "date": "",
+     "first_seen": "2026-10-14T11:00:43+00:00"
     }
    },
-   "last_check": "2026-10-14T09:00:49+00:00",
-   "last_success": "2026-10-14T09:00:49+00:00",
+   "last_check": "2026-10-14T11:00:43+00:00",
+   "last_success": "2026-10-14T11:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 155,
-   "fingerprint": "fb11d59d3f692928",
+   "item_count": 156,
+   "fingerprint": "1e5bc377662ab5c1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T11:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 연구소/생산본부 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262248",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-14T09:00:49+00:00",
      "status": "new",
@@ -9405,27 +9427,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-12T01:03:07+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 115,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "프로젝트 구매·납기 및 물류관리",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262192",
-       "date": ""
-      },
-      {
-       "title": "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262172",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9442,7 +9443,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-14T09:00:49+00:00"
+   "last_new_at": "2026-10-14T11:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11121,15 +11122,25 @@
      "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-14T09:00:50+00:00",
-   "last_success": "2026-10-14T09:00:50+00:00",
+   "last_check": "2026-10-14T11:00:45+00:00",
+   "last_success": "2026-10-14T11:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 52,
-   "fingerprint": "dbdc5490b8c26b9d",
+   "fingerprint": "8d246a5e75d33e36",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T11:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T09:00:50+00:00",
      "status": "ok",
@@ -11428,27 +11439,6 @@
       {
        "title": "[계약직] R&D 임원 통번역사(남양)",
        "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=229",
-       "date": "20261026"
-      }
-     ]
-    },
-    {
-     "at": "2026-10-12T01:03:08+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 방사선사(울산공장)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=228",
-       "date": "20261019"
-      },
-      {
-       "title": "[계약직] 임직원 시승차량 관리",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=227",
        "date": "20261026"
       }
      ]
@@ -12061,8 +12051,8 @@
      "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-14T09:00:52+00:00",
-   "last_success": "2026-10-14T09:00:52+00:00",
+   "last_check": "2026-10-14T11:00:47+00:00",
+   "last_success": "2026-10-14T11:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12070,6 +12060,16 @@
    "fingerprint": "9379dbce7d5eb488",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T11:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T09:00:52+00:00",
      "status": "ok",
@@ -12365,16 +12365,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-12T01:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12656,6 +12646,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262246",
     "date": "",
     "found_at": "2026-10-14T09:00:54+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 연구소/생산본부 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262248",
+    "date": "",
+    "found_at": "2026-10-14T11:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -12663,15 +12662,6 @@
   "last_sent": "2026-10-13T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK키파운드리 Photo 장비기술 Engineer 경력 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261968",
-   "date": "",
-   "found_at": "2026-09-10T16:00:53+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17162,6 +17152,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262246",
    "date": "",
    "found_at": "2026-10-14T09:00:54+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 연구소/생산본부 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262248",
+   "date": "",
+   "found_at": "2026-10-14T11:00:48+00:00"
   }
  ]
 }
