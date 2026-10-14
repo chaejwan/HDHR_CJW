@@ -1606,8 +1606,8 @@
      "first_seen": "2026-10-14T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-14T21:00:36+00:00",
-   "last_success": "2026-10-14T21:00:36+00:00",
+   "last_check": "2026-10-14T23:00:38+00:00",
+   "last_success": "2026-10-14T23:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1615,6 +1615,16 @@
    "fingerprint": "5ab9b5404ada8859",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T23:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T21:00:36+00:00",
      "status": "ok",
@@ -1979,16 +1989,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 74,
      "error": "",
      "note": "",
      "new": []
@@ -6183,8 +6183,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-14T21:00:37+00:00",
-   "last_success": "2026-10-14T21:00:37+00:00",
+   "last_check": "2026-10-14T23:00:39+00:00",
+   "last_success": "2026-10-14T23:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6192,6 +6192,16 @@
    "fingerprint": "0e18483434674198",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T23:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T21:00:37+00:00",
      "status": "ok",
@@ -6474,16 +6484,6 @@
     },
     {
      "at": "2026-10-12T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T13:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8786,8 +8786,8 @@
      "first_seen": "2026-10-14T11:00:43+00:00"
     }
    },
-   "last_check": "2026-10-14T21:00:41+00:00",
-   "last_success": "2026-10-14T21:00:41+00:00",
+   "last_check": "2026-10-14T23:00:41+00:00",
+   "last_success": "2026-10-14T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8795,6 +8795,16 @@
    "fingerprint": "d42835c8027310de",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T21:00:41+00:00",
      "status": "ok",
@@ -9301,16 +9311,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-12T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 130,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11006,8 +11006,8 @@
      "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-14T21:00:42+00:00",
-   "last_success": "2026-10-14T21:00:42+00:00",
+   "last_check": "2026-10-14T23:00:42+00:00",
+   "last_success": "2026-10-14T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11015,6 +11015,16 @@
    "fingerprint": "c767dfd0ca3d7181",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 50,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T21:00:42+00:00",
      "status": "ok",
@@ -11303,16 +11313,6 @@
     },
     {
      "at": "2026-10-12T15:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T13:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11929,8 +11929,8 @@
      "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-14T21:00:44+00:00",
-   "last_success": "2026-10-14T21:00:44+00:00",
+   "last_check": "2026-10-14T23:00:44+00:00",
+   "last_success": "2026-10-14T23:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11938,6 +11938,16 @@
    "fingerprint": "a2a7d8113c06b2e7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T23:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T21:00:44+00:00",
      "status": "ok",
@@ -12233,16 +12243,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-12T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12263,281 +12263,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_상품전략팀",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
-    "date": "2026.10.28 15:00",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262183",
-    "date": "",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 기계/전기 설비 관리 기술직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262203",
-    "date": "",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262227",
-    "date": "",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262228",
-    "date": "",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262229",
-    "date": "",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[아르바이트] 사내 문서 데이터 정비/이관",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
-    "date": "20261026",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
-    "url": "https://www.samsungcareers.com/hr/?no=23324",
-    "date": "2026.10.14 ~ 2026.10.23",
-    "found_at": "2026-10-14T01:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262233",
-    "date": "",
-    "found_at": "2026-10-14T01:59:20+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262231",
-    "date": "",
-    "found_at": "2026-10-14T01:59:20+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[영광] 수입 검사 담당 (경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262232",
-    "date": "",
-    "found_at": "2026-10-14T01:59:20+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 통합방공솔루션 개발 부문 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19973",
-    "date": "2026.11.01 23:59",
-    "found_at": "2026-10-14T03:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "사내 편의시설 운영 지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262230",
-    "date": "",
-    "found_at": "2026-10-14T03:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262236",
-    "date": "",
-    "found_at": "2026-10-14T05:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262234",
-    "date": "",
-    "found_at": "2026-10-14T05:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262235",
-    "date": "",
-    "found_at": "2026-10-14T05:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262237",
-    "date": "",
-    "found_at": "2026-10-14T05:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262239",
-    "date": "",
-    "found_at": "2026-10-14T05:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262240",
-    "date": "",
-    "found_at": "2026-10-14T05:00:48+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 브랜드전략팀 '브랜드 디자인' 경력채용 (대리-과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19975",
-    "date": "2026.10.27 15:00",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK인텔릭스] 2D/3D 장면 재구성 엔지니어 신입 인재 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262241",
-    "date": "",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK인텔릭스] 개발 PM 경력 인재 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262243",
-    "date": "",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 공정엔지니어(공정/자동화) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262240",
-    "date": "",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "DevSecOps 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262206",
-    "date": "",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "개인정보보호 전문가",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262207",
-    "date": "",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-    "date": "",
-    "found_at": "2026-10-14T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트/삼강에스앤씨] 장애인 구성원 모집(재택근무)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262244",
-    "date": "",
-    "found_at": "2026-10-14T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 경영기획 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262245",
-    "date": "",
-    "found_at": "2026-10-14T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK케미칼] 청주공장 원가회계 담당자 경력 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262246",
-    "date": "",
-    "found_at": "2026-10-14T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 연구소/생산본부 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262248",
-    "date": "",
-    "found_at": "2026-10-14T11:00:48+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-14T01:00:48+00:00",
-  "last_sent": "2026-10-13T23:00:53+00:00"
+  "since": "",
+  "last_sent": "2026-10-14T23:00:48+00:00"
  },
  "archive": [
   {
