@@ -1606,8 +1606,8 @@
      "first_seen": "2026-10-14T07:00:36+00:00"
     }
    },
-   "last_check": "2026-10-14T15:00:41+00:00",
-   "last_success": "2026-10-14T15:00:41+00:00",
+   "last_check": "2026-10-14T17:00:39+00:00",
+   "last_success": "2026-10-14T17:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1615,6 +1615,16 @@
    "fingerprint": "5ab9b5404ada8859",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T17:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T15:00:41+00:00",
      "status": "ok",
@@ -1982,47 +1992,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-12T07:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 6,
-     "item_count": 74,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[경영지원] 정보보호 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[경영지원] 전략기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[경영지원] 국내법무팀장 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[경영지원] 법무(국제변호사) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
-       "date": "2026.12.31 23:59"
-      },
-      {
-       "title": "[경영지원] 인사행정 지원 사무직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
-       "date": "2026.12.31 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6214,8 +6183,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-14T15:00:41+00:00",
-   "last_success": "2026-10-14T15:00:41+00:00",
+   "last_check": "2026-10-14T17:00:40+00:00",
+   "last_success": "2026-10-14T17:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6223,6 +6192,16 @@
    "fingerprint": "0e18483434674198",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T17:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T15:00:41+00:00",
      "status": "ok",
@@ -6505,16 +6484,6 @@
     },
     {
      "at": "2026-10-12T09:01:01+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T07:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8817,8 +8786,8 @@
      "first_seen": "2026-10-14T11:00:43+00:00"
     }
    },
-   "last_check": "2026-10-14T15:00:45+00:00",
-   "last_success": "2026-10-14T15:00:45+00:00",
+   "last_check": "2026-10-14T17:00:42+00:00",
+   "last_success": "2026-10-14T17:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8826,6 +8795,16 @@
    "fingerprint": "d42835c8027310de",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T17:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T15:00:45+00:00",
      "status": "ok",
@@ -9345,42 +9324,6 @@
       {
        "title": "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262202",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-12T07:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 5,
-     "item_count": 127,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "AI 에이전트 평가 및 사용성 개선 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262193",
-       "date": ""
-      },
-      {
-       "title": "3D CAD 모델링 및 영상 생성 디자이너",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262198",
-       "date": ""
-      },
-      {
-       "title": "GEO & 브랜드 검색광고 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262200",
-       "date": ""
-      },
-      {
-       "title": "2026년 하반기 전남도시가스 신입사원(G2) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262190",
-       "date": ""
-      },
-      {
-       "title": "2026년 하반기 영남에너지서비스(포항) 신입사원(G2) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262199",
        "date": ""
       }
      ]
@@ -11079,15 +11022,25 @@
      "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-14T15:00:46+00:00",
-   "last_success": "2026-10-14T15:00:46+00:00",
+   "last_check": "2026-10-14T17:00:43+00:00",
+   "last_success": "2026-10-14T17:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 50,
-   "fingerprint": "32d52577a0afc748",
+   "fingerprint": "6ee60b2ef9ef3eab",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T17:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 50,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T15:00:46+00:00",
      "status": "ok",
@@ -11380,16 +11333,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T07:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
      "error": "",
      "note": "",
      "new": []
@@ -12002,8 +11945,8 @@
      "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-14T15:00:47+00:00",
-   "last_success": "2026-10-14T15:00:47+00:00",
+   "last_check": "2026-10-14T17:00:45+00:00",
+   "last_success": "2026-10-14T17:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12011,6 +11954,16 @@
    "fingerprint": "a2a7d8113c06b2e7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T17:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-14T15:00:47+00:00",
      "status": "ok",
@@ -12303,16 +12256,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-12T07:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
      "error": "",
      "note": "",
      "new": []
