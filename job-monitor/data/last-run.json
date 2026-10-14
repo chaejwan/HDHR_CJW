@@ -1,32 +1,38 @@
 {
- "at": "2026-10-14T05:00:48+00:00",
+ "at": "2026-10-14T07:00:48+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 7,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 10-15 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 26건 · 점검 0건). 10-15 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 19,
+  "items": 26,
   "alerts": 0,
   "since": "2026-10-14T01:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38514343891",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38525598196",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 83,
+   "status": "new",
+   "item_count": 82,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화생명] 브랜드전략팀 '브랜드 디자인' 경력채용 (대리-과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19975",
+     "date": "2026.10.27 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,39 +52,39 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 147,
+   "item_count": 152,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262236",
+     "title": "[SK인텔릭스] 2D/3D 장면 재구성 엔지니어 신입 인재 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262241",
      "date": ""
     },
     {
-     "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262234",
+     "title": "[SK인텔릭스] 개발 PM 경력 인재 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262243",
      "date": ""
     },
     {
-     "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262235",
-     "date": ""
-    },
-    {
-     "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262237",
-     "date": ""
-    },
-    {
-     "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262239",
-     "date": ""
-    },
-    {
-     "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
+     "title": "[경력] SK바이오텍 공정엔지니어(공정/자동화) 경력사원 모집",
      "url": "https://www.skcareers.com/Recruit/Detail/R262240",
+     "date": ""
+    },
+    {
+     "title": "DevSecOps 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262206",
+     "date": ""
+    },
+    {
+     "title": "개인정보보호 전문가",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262207",
+     "date": ""
+    },
+    {
+     "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262209",
      "date": ""
     }
    ]
