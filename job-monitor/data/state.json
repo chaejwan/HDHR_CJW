@@ -1586,17 +1586,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
      "date": "2026.10.19 15:00",
      "first_seen": "2026-10-13T23:00:39+00:00"
+    },
+    "a0f4dc1217b4a5ec": {
+     "title": "경력직 채용_상품전략팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
+     "date": "2026.10.28 15:00",
+     "first_seen": "2026-10-14T01:00:38+00:00"
     }
    },
-   "last_check": "2026-10-13T23:00:39+00:00",
-   "last_success": "2026-10-13T23:00:39+00:00",
+   "last_check": "2026-10-14T01:00:38+00:00",
+   "last_success": "2026-10-14T01:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 80,
-   "fingerprint": "269589bda00f1cd4",
+   "item_count": 81,
+   "fingerprint": "f0eccf5fe21a455d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "경력직 채용_상품전략팀",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
+       "date": "2026.10.28 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-13T23:00:39+00:00",
      "status": "new",
@@ -1983,16 +2005,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T13:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2009,7 +2021,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T23:00:39+00:00"
+   "last_new_at": "2026-10-14T01:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6184,8 +6196,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-13T23:00:40+00:00",
-   "last_success": "2026-10-13T23:00:40+00:00",
+   "last_check": "2026-10-14T01:00:39+00:00",
+   "last_success": "2026-10-14T01:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6193,6 +6205,16 @@
    "fingerprint": "eee804c7e0918bc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-13T23:00:40+00:00",
      "status": "ok",
@@ -6479,16 +6501,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-11T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 23,
      "error": "",
      "note": "",
      "new": []
@@ -8635,17 +8647,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262226",
      "date": "",
      "first_seen": "2026-10-13T13:00:45+00:00"
+    },
+    "2c8ca6c20af8ef60": {
+     "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262183",
+     "date": "",
+     "first_seen": "2026-10-14T01:00:44+00:00"
+    },
+    "0446db4e7be7967e": {
+     "title": "SK온 기계/전기 설비 관리 기술직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262203",
+     "date": "",
+     "first_seen": "2026-10-14T01:00:44+00:00"
+    },
+    "1f516dc2c1a53918": {
+     "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262227",
+     "date": "",
+     "first_seen": "2026-10-14T01:00:44+00:00"
+    },
+    "811e1f7dc94b18be": {
+     "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262228",
+     "date": "",
+     "first_seen": "2026-10-14T01:00:44+00:00"
+    },
+    "e3dbef2057b1665a": {
+     "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262229",
+     "date": "",
+     "first_seen": "2026-10-14T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-13T23:00:46+00:00",
-   "last_success": "2026-10-13T23:00:46+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-14T01:00:44+00:00",
+   "last_success": "2026-10-14T01:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 130,
-   "fingerprint": "02b1bf829008b22a",
+   "item_count": 138,
+   "fingerprint": "43171eb105a7f2ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 138,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262183",
+       "date": ""
+      },
+      {
+       "title": "SK온 기계/전기 설비 관리 기술직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262203",
+       "date": ""
+      },
+      {
+       "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262227",
+       "date": ""
+      },
+      {
+       "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262228",
+       "date": ""
+      },
+      {
+       "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262229",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-13T23:00:46+00:00",
      "status": "ok",
@@ -9116,33 +9194,23 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-11T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 127,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "Pre-SKALA 모집",
-    "청주 부속의원 독감 예방접종 의사 단기 계약직 채용",
-    "'26년 10월 건축사업 공정관리, 공사(건축/전기/설비) 경력직(촉탁직) 채용",
-    "Red Team 화이트 해커",
-    "[SK에어코어] 전기/계장 보전 엔니지어"
+    "2026년 SK브로드밴드 Junior Talent 채용(마케팅/성과관리)",
+    "2026년 SK브로드밴드 Junior Talent 채용(Infra)",
+    "2026년 SK브로드밴드 Junior Talent 채용(Staff)",
+    "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+    "청주 부속의원 독감 예방접종 의사 단기 계약직 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-13T13:00:45+00:00"
+   "last_new_at": "2026-10-14T01:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -10813,17 +10881,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=229",
      "date": "20261026",
      "first_seen": "2026-10-12T02:29:44+00:00"
+    },
+    "4949a2401290e536": {
+     "title": "[아르바이트] 사내 문서 데이터 정비/이관",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
+     "date": "20261026",
+     "first_seen": "2026-10-14T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-13T23:00:47+00:00",
-   "last_success": "2026-10-13T23:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-14T01:00:45+00:00",
+   "last_success": "2026-10-14T01:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 52,
-   "fingerprint": "85538f1d4ce4627a",
+   "item_count": 54,
+   "fingerprint": "788615775050bcaa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아르바이트] 사내 문서 데이터 정비/이관",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
+       "date": "20261026"
+      }
+     ]
+    },
     {
      "at": "2026-10-13T23:00:47+00:00",
      "status": "ok",
@@ -11130,16 +11220,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11156,7 +11236,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-12T02:29:44+00:00"
+   "last_new_at": "2026-10-14T01:00:45+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -11741,17 +11821,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23287",
      "date": "2026.10.08 ~ 2026.10.19",
      "first_seen": "2026-10-08T01:00:44+00:00"
+    },
+    "028316b16a9a7a82": {
+     "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
+     "url": "https://www.samsungcareers.com/hr/?no=23324",
+     "date": "2026.10.14 ~ 2026.10.23",
+     "first_seen": "2026-10-14T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-13T23:00:49+00:00",
-   "last_success": "2026-10-13T23:00:49+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-14T01:00:47+00:00",
+   "last_success": "2026-10-14T01:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 4,
-   "fingerprint": "e799a30f0022a09b",
+   "item_count": 5,
+   "fingerprint": "9379dbce7d5eb488",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-14T01:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
+       "url": "https://www.samsungcareers.com/hr/?no=23324",
+       "date": "2026.10.14 ~ 2026.10.23"
+      }
+     ]
+    },
     {
      "at": "2026-10-13T23:00:49+00:00",
      "status": "ok",
@@ -12041,21 +12143,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-11T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
     "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
     "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
     "삼성전자 DS부문 경력사원 채용(화성사업장 간호사)",
@@ -12066,88 +12159,89 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-08T01:00:44+00:00"
+   "last_new_at": "2026-10-14T01:00:47+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_상품전략팀",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
+    "date": "2026.10.28 15:00",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262183",
+    "date": "",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK온 기계/전기 설비 관리 기술직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262203",
+    "date": "",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262227",
+    "date": "",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262228",
+    "date": "",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262229",
+    "date": "",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[아르바이트] 사내 문서 데이터 정비/이관",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
+    "date": "20261026",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
+    "url": "https://www.samsungcareers.com/hr/?no=23324",
+    "date": "2026.10.14 ~ 2026.10.23",
+    "found_at": "2026-10-14T01:00:48+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-14T01:00:48+00:00",
   "last_sent": "2026-10-13T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "경영기획 경력 구성원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261954",
-   "date": "",
-   "found_at": "2026-09-09T09:00:58+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261670",
-   "date": "",
-   "found_at": "2026-09-09T09:00:58+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 사상하이테크센터 고객응대 및 수납",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=202",
-   "date": "20260923",
-   "found_at": "2026-09-09T09:00:58+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 동부하이테크센터 드라이버",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=205",
-   "date": "20260923",
-   "found_at": "2026-09-09T09:00:58+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "글로벌 사업 및 투자 전략 경력채용(과장~부장급)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-09T11:00:54+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어플러스]용인 Project 배관 품질/시공 감독(계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261958",
-   "date": "",
-   "found_at": "2026-09-09T11:00:54+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "MRO 해외영업 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19729",
-   "date": "2026.09.20 23:59",
-   "found_at": "2026-09-10T00:14:33+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "미국/인니/베트남/중동 글로벌 사업 및 투자 전략 경력채용(과장~부장급/본사근무)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19732",
-   "date": "2026.09.21 15:00",
-   "found_at": "2026-09-10T00:14:33+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16575,6 +16669,78 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
    "date": "2026.10.19 15:00",
    "found_at": "2026-10-13T23:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_상품전략팀",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
+   "date": "2026.10.28 15:00",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262183",
+   "date": "",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK온 기계/전기 설비 관리 기술직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262203",
+   "date": "",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262227",
+   "date": "",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262228",
+   "date": "",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262229",
+   "date": "",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[아르바이트] 사내 문서 데이터 정비/이관",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
+   "date": "20261026",
+   "found_at": "2026-10-14T01:00:48+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
+   "url": "https://www.samsungcareers.com/hr/?no=23324",
+   "date": "2026.10.14 ~ 2026.10.23",
+   "found_at": "2026-10-14T01:00:48+00:00"
   }
  ]
 }
