@@ -1,19 +1,107 @@
 {
- "at": "2026-10-15T01:33:55+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-10-15T03:00:48+00:00",
+ "checked": 5,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 24건 · 점검 0건). 10-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 29건 · 점검 0건). 10-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 24,
+  "items": 29,
   "alerts": 0,
   "since": "2026-10-15T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38666327651",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38673985880",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "new",
+   "item_count": 83,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화라이프랩] 소비자보호팀 담당자",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19976",
+     "date": "2026.11.01 23:59"
+    }
+   ]
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 22,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 161,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[SK인텔릭스] Robotics 탑재 App 개발 경력 인재 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262250",
+     "date": ""
+    },
+    {
+     "title": "[SK인텔릭스] 정수기/공기청정기 설계 경력 인재 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262253",
+     "date": ""
+    },
+    {
+     "title": "[SK인텔릭스] AOSP Framework 개발 경력 인재 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262254",
+     "date": ""
+    },
+    {
+     "title": "SK키파운드리 정보보안(취약점 진단) 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262255",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "ok",
+   "item_count": 69,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 6,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }
