@@ -1630,8 +1630,8 @@
      "first_seen": "2026-10-15T11:00:39+00:00"
     }
    },
-   "last_check": "2026-10-15T17:00:39+00:00",
-   "last_success": "2026-10-15T17:00:39+00:00",
+   "last_check": "2026-10-15T19:00:40+00:00",
+   "last_success": "2026-10-15T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1639,6 +1639,16 @@
    "fingerprint": "1a09a959423075be",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T17:00:39+00:00",
      "status": "ok",
@@ -1997,37 +2007,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T09:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19965",
-       "date": "2026.10.18 23:59"
-      },
-      {
-       "title": "한화시스템 사업장 차량관리 담당자 계약직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19966",
-       "date": "2026.10.25 23:59"
-      },
-      {
-       "title": "경력직 채용_인프라투자그룹 (해외 인프라)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19963",
-       "date": "2026.10.27 15:00"
-      },
-      {
-       "title": "경력직 채용_채널연금2센터",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19962",
-       "date": "2026.10.27 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6219,8 +6198,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-15T17:00:40+00:00",
-   "last_success": "2026-10-15T17:00:40+00:00",
+   "last_check": "2026-10-15T19:00:42+00:00",
+   "last_success": "2026-10-15T19:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6228,6 +6207,16 @@
    "fingerprint": "278d4419f8568d96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T19:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T17:00:40+00:00",
      "status": "ok",
@@ -6510,16 +6499,6 @@
     },
     {
      "at": "2026-10-13T11:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T09:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8876,8 +8855,8 @@
      "first_seen": "2026-10-15T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-15T17:00:46+00:00",
-   "last_success": "2026-10-15T17:00:46+00:00",
+   "last_check": "2026-10-15T19:00:47+00:00",
+   "last_success": "2026-10-15T19:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8885,6 +8864,16 @@
    "fingerprint": "93082194c0b6a683",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T19:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T17:00:46+00:00",
      "status": "ok",
@@ -9397,22 +9386,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T09:00:49+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 129,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262213",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11240,15 +11213,25 @@
      "first_seen": "2026-10-15T09:00:42+00:00"
     }
    },
-   "last_check": "2026-10-15T17:00:48+00:00",
-   "last_success": "2026-10-15T17:00:48+00:00",
+   "last_check": "2026-10-15T19:00:48+00:00",
+   "last_success": "2026-10-15T19:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 71,
-   "fingerprint": "a6c297678388068f",
+   "fingerprint": "c55a41b0cd110855",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T19:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T17:00:48+00:00",
      "status": "ok",
@@ -11650,16 +11633,6 @@
     },
     {
      "at": "2026-10-13T11:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T09:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12282,8 +12255,8 @@
      "first_seen": "2026-10-15T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-15T17:00:50+00:00",
-   "last_success": "2026-10-15T17:00:50+00:00",
+   "last_check": "2026-10-15T19:00:51+00:00",
+   "last_success": "2026-10-15T19:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12291,6 +12264,16 @@
    "fingerprint": "fc4cedc22ed619d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T19:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T17:00:50+00:00",
      "status": "ok",
@@ -12585,16 +12568,6 @@
     },
     {
      "at": "2026-10-13T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T09:00:53+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
