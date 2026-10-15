@@ -1630,8 +1630,8 @@
      "first_seen": "2026-10-15T11:00:39+00:00"
     }
    },
-   "last_check": "2026-10-15T15:00:44+00:00",
-   "last_success": "2026-10-15T15:00:44+00:00",
+   "last_check": "2026-10-15T17:00:39+00:00",
+   "last_success": "2026-10-15T17:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1639,6 +1639,16 @@
    "fingerprint": "1a09a959423075be",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T17:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T15:00:44+00:00",
      "status": "ok",
@@ -2018,16 +2028,6 @@
        "date": "2026.10.27 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-13T07:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6219,8 +6219,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-15T15:00:45+00:00",
-   "last_success": "2026-10-15T15:00:45+00:00",
+   "last_check": "2026-10-15T17:00:40+00:00",
+   "last_success": "2026-10-15T17:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6228,6 +6228,16 @@
    "fingerprint": "278d4419f8568d96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T17:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T15:00:45+00:00",
      "status": "ok",
@@ -6510,16 +6520,6 @@
     },
     {
      "at": "2026-10-13T09:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T07:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8876,8 +8876,8 @@
      "first_seen": "2026-10-15T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-15T15:00:48+00:00",
-   "last_success": "2026-10-15T15:00:48+00:00",
+   "last_check": "2026-10-15T17:00:46+00:00",
+   "last_success": "2026-10-15T17:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8885,6 +8885,16 @@
    "fingerprint": "93082194c0b6a683",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T17:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T15:00:48+00:00",
      "status": "ok",
@@ -9400,27 +9410,6 @@
       {
        "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
        "url": "https://www.skcareers.com/Recruit/Detail/R262213",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-13T07:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 129,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK키파운드리 사내변호사 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262219",
-       "date": ""
-      },
-      {
-       "title": "SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262214",
        "date": ""
       }
      ]
@@ -11251,15 +11240,25 @@
      "first_seen": "2026-10-15T09:00:42+00:00"
     }
    },
-   "last_check": "2026-10-15T15:00:49+00:00",
-   "last_success": "2026-10-15T15:00:49+00:00",
+   "last_check": "2026-10-15T17:00:48+00:00",
+   "last_success": "2026-10-15T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 71,
-   "fingerprint": "538d05f92a8e088c",
+   "fingerprint": "a6c297678388068f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T15:00:49+00:00",
      "status": "ok",
@@ -11665,16 +11664,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 57,
      "error": "",
      "note": "",
      "new": []
@@ -12293,8 +12282,8 @@
      "first_seen": "2026-10-15T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-15T15:00:50+00:00",
-   "last_success": "2026-10-15T15:00:50+00:00",
+   "last_check": "2026-10-15T17:00:50+00:00",
+   "last_success": "2026-10-15T17:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12302,6 +12291,16 @@
    "fingerprint": "fc4cedc22ed619d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T17:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T15:00:50+00:00",
      "status": "ok",
@@ -12596,16 +12595,6 @@
     },
     {
      "at": "2026-10-13T09:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T07:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
