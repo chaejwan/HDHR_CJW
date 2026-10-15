@@ -1,38 +1,32 @@
 {
- "at": "2026-10-15T03:00:48+00:00",
+ "at": "2026-10-15T05:00:45+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 29건 · 점검 0건). 10-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 30건 · 점검 0건). 10-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 29,
+  "items": 30,
   "alerts": 0,
   "since": "2026-10-15T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38673985880",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38684453873",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 83,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화라이프랩] 소비자보호팀 담당자",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19976",
-     "date": "2026.11.01 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,29 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 161,
+   "item_count": 162,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK인텔릭스] Robotics 탑재 App 개발 경력 인재 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262250",
-     "date": ""
-    },
-    {
-     "title": "[SK인텔릭스] 정수기/공기청정기 설계 경력 인재 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262253",
-     "date": ""
-    },
-    {
-     "title": "[SK인텔릭스] AOSP Framework 개발 경력 인재 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262254",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 정보보안(취약점 진단) 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262255",
+     "title": "Recruiting Coordinator(체험형 인턴)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262256",
      "date": ""
     }
    ]
