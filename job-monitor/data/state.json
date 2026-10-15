@@ -1630,15 +1630,25 @@
      "first_seen": "2026-10-15T11:00:39+00:00"
     }
    },
-   "last_check": "2026-10-15T13:00:41+00:00",
-   "last_success": "2026-10-15T13:00:41+00:00",
+   "last_check": "2026-10-15T15:00:44+00:00",
+   "last_success": "2026-10-15T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "0a17b6d2931c34fb",
+   "item_count": 81,
+   "fingerprint": "1a09a959423075be",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T13:00:41+00:00",
      "status": "ok",
@@ -2018,32 +2028,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T05:00:33+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19960",
-       "date": "2026.10.26 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화투자증권] 고객지원파트 상담원 채용",
-    "[한화투자증권] 금융상품영업팀 업무지원 채용",
     "[한화생명] 마케팅추진팀 'GA 운영전략 담당' 경력채용(대리~과장급)",
     "[한화생명] 글로벌 인재 채용 전문인력 경력채용 (대리~과장급)",
-    "[한화세미텍] 반도체장비 모션제어 개발 경력 채용"
+    "[한화세미텍] 반도체장비 모션제어 개발 경력 채용",
+    "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
+    "Private 클라우드 기획 및 운영 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -6225,15 +6219,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-15T13:00:42+00:00",
-   "last_success": "2026-10-15T13:00:42+00:00",
+   "last_check": "2026-10-15T15:00:45+00:00",
+   "last_success": "2026-10-15T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "0e18483434674198",
+   "fingerprint": "278d4419f8568d96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T13:00:42+00:00",
      "status": "ok",
@@ -6516,16 +6520,6 @@
     },
     {
      "at": "2026-10-13T07:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T05:00:33+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8882,15 +8876,25 @@
      "first_seen": "2026-10-15T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-15T13:00:45+00:00",
-   "last_success": "2026-10-15T13:00:45+00:00",
+   "last_check": "2026-10-15T15:00:48+00:00",
+   "last_success": "2026-10-15T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 163,
-   "fingerprint": "434f550e7373d494",
+   "fingerprint": "93082194c0b6a683",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T13:00:45+00:00",
      "status": "ok",
@@ -9420,16 +9424,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-13T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 127,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11257,15 +11251,25 @@
      "first_seen": "2026-10-15T09:00:42+00:00"
     }
    },
-   "last_check": "2026-10-15T13:00:46+00:00",
-   "last_success": "2026-10-15T13:00:46+00:00",
+   "last_check": "2026-10-15T15:00:49+00:00",
+   "last_success": "2026-10-15T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 71,
-   "fingerprint": "d619f0182f4e45e8",
+   "fingerprint": "538d05f92a8e088c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T13:00:46+00:00",
      "status": "ok",
@@ -11667,16 +11671,6 @@
     },
     {
      "at": "2026-10-13T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 57,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T05:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12299,15 +12293,25 @@
      "first_seen": "2026-10-15T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-15T13:00:48+00:00",
-   "last_success": "2026-10-15T13:00:48+00:00",
+   "last_check": "2026-10-15T15:00:50+00:00",
+   "last_success": "2026-10-15T15:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "74ca693a03e8e3b7",
+   "fingerprint": "fc4cedc22ed619d8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-15T15:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-15T13:00:48+00:00",
      "status": "ok",
@@ -12602,16 +12606,6 @@
     },
     {
      "at": "2026-10-13T07:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T05:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
