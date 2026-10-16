@@ -1652,17 +1652,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981",
      "date": "2026.10.28 23:59",
      "first_seen": "2026-10-16T03:00:38+00:00"
+    },
+    "a8c02305265b5ac3": {
+     "title": "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992",
+     "date": "2026.10.29 18:00",
+     "first_seen": "2026-10-16T05:00:35+00:00"
+    },
+    "db087fa26412a3d7": {
+     "title": "한화시스템 소나 신호처리(AI) 연구원 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260",
+     "date": "2026.11.01 23:59",
+     "first_seen": "2026-10-16T05:00:35+00:00"
+    },
+    "817f08e50bfdf2fb": {
+     "title": "한화시스템 소나 센서 연구원 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244",
+     "date": "2026.11.01 23:59",
+     "first_seen": "2026-10-16T05:00:35+00:00"
     }
    },
-   "last_check": "2026-10-16T03:00:38+00:00",
-   "last_success": "2026-10-16T03:00:38+00:00",
+   "last_check": "2026-10-16T05:00:35+00:00",
+   "last_success": "2026-10-16T05:00:35+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 85,
-   "fingerprint": "4f48d8ed9cbb1c1f",
+   "item_count": 88,
+   "fingerprint": "27d1463e184dcbe1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T05:00:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992",
+       "date": "2026.10.29 18:00"
+      },
+      {
+       "title": "한화시스템 소나 신호처리(AI) 연구원 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260",
+       "date": "2026.11.01 23:59"
+      },
+      {
+       "title": "한화시스템 소나 센서 연구원 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244",
+       "date": "2026.11.01 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-16T03:00:38+00:00",
      "status": "new",
@@ -2023,16 +2067,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2049,7 +2083,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-16T03:00:38+00:00"
+   "last_new_at": "2026-10-16T05:00:35+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6224,8 +6258,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-16T03:00:40+00:00",
-   "last_success": "2026-10-16T03:00:40+00:00",
+   "last_check": "2026-10-16T05:00:36+00:00",
+   "last_success": "2026-10-16T05:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6233,6 +6267,16 @@
    "fingerprint": "278d4419f8568d96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T05:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T03:00:40+00:00",
      "status": "ok",
@@ -6515,16 +6559,6 @@
     },
     {
      "at": "2026-10-13T21:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T19:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8899,8 +8933,8 @@
      "first_seen": "2026-10-16T01:00:38+00:00"
     }
    },
-   "last_check": "2026-10-16T03:00:47+00:00",
-   "last_success": "2026-10-16T03:00:47+00:00",
+   "last_check": "2026-10-16T05:00:42+00:00",
+   "last_success": "2026-10-16T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8908,6 +8942,16 @@
    "fingerprint": "022470502c4e5bcc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 166,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T03:00:47+00:00",
      "status": "ok",
@@ -9388,16 +9432,6 @@
     },
     {
      "at": "2026-10-13T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 130,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T19:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11238,15 +11272,25 @@
      "first_seen": "2026-10-16T03:00:48+00:00"
     }
    },
-   "last_check": "2026-10-16T03:00:48+00:00",
-   "last_success": "2026-10-16T03:00:48+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-16T05:00:43+00:00",
+   "last_success": "2026-10-16T05:00:43+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 72,
-   "fingerprint": "152ff409fdae252b",
+   "fingerprint": "4d5bd0688cd1ea65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T05:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T03:00:48+00:00",
      "status": "new",
@@ -11654,16 +11698,6 @@
     },
     {
      "at": "2026-10-13T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T19:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12292,8 +12326,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T03:00:50+00:00",
-   "last_success": "2026-10-16T03:00:50+00:00",
+   "last_check": "2026-10-16T05:00:45+00:00",
+   "last_success": "2026-10-16T05:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12301,6 +12335,16 @@
    "fingerprint": "8d2aa0907f1a266c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T03:00:50+00:00",
      "status": "ok",
@@ -12608,16 +12652,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12710,6 +12744,33 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
     "date": "20261030",
     "found_at": "2026-10-16T03:00:52+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992",
+    "date": "2026.10.29 18:00",
+    "found_at": "2026-10-16T05:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 소나 신호처리(AI) 연구원 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260",
+    "date": "2026.11.01 23:59",
+    "found_at": "2026-10-16T05:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 소나 센서 연구원 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244",
+    "date": "2026.11.01 23:59",
+    "found_at": "2026-10-16T05:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -12717,33 +12778,6 @@
   "last_sent": "2026-10-15T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "중장기 사업 전략 수립",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=346",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "전고체배터리 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=343",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "인포테인먼트 시스템 검증 및 법규 인증",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=333",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -17216,6 +17250,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
    "date": "20261030",
    "found_at": "2026-10-16T03:00:52+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992",
+   "date": "2026.10.29 18:00",
+   "found_at": "2026-10-16T05:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 소나 신호처리(AI) 연구원 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260",
+   "date": "2026.11.01 23:59",
+   "found_at": "2026-10-16T05:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 소나 센서 연구원 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244",
+   "date": "2026.11.01 23:59",
+   "found_at": "2026-10-16T05:00:47+00:00"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
- "at": "2026-10-16T03:00:52+00:00",
+ "at": "2026-10-16T05:00:47+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-19 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 10-19 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 11,
   "alerts": 0,
   "since": "2026-10-16T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38843329592",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38853521785",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,25 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 85,
+   "item_count": 88,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981",
-     "date": "2026.10.28 23:59"
+     "title": "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992",
+     "date": "2026.10.29 18:00"
+    },
+    {
+     "title": "한화시스템 소나 신호처리(AI) 연구원 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260",
+     "date": "2026.11.01 23:59"
+    },
+    {
+     "title": "한화시스템 소나 센서 연구원 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244",
+     "date": "2026.11.01 23:59"
     }
    ]
   },
@@ -63,18 +73,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 72,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 품질/보증 행정지원",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
-     "date": "20261030"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
