@@ -1684,15 +1684,25 @@
      "first_seen": "2026-10-16T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T13:00:43+00:00",
-   "last_success": "2026-10-16T13:00:43+00:00",
+   "last_check": "2026-10-16T15:00:40+00:00",
+   "last_success": "2026-10-16T15:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 88,
-   "fingerprint": "6acadeccdfa9b1b1",
+   "item_count": 87,
+   "fingerprint": "e474e4825f962710",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T15:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T13:00:43+00:00",
      "status": "ok",
@@ -2063,32 +2073,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-14T03:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 통합방공솔루션 개발 부문 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19973",
-       "date": "2026.11.01 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화세미텍] 반도체장비 모션제어 개발 경력 채용",
     "태양광 발전소 EPC사업 수행 PM(Project Manager) 경력사원 채용",
     "Private 클라우드 기획 및 운영 경력사원 채용",
     "Data Scientist 경력사원 채용",
-    "수학적 최적화 전문가(Math Optimization) 경력사원 채용"
+    "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
+    "영업지원 담당자 경력사원 채용 (계약직)"
    ],
    "health": {
     "issue": "",
@@ -6270,15 +6264,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-16T13:00:44+00:00",
-   "last_success": "2026-10-16T13:00:44+00:00",
+   "last_check": "2026-10-16T15:00:41+00:00",
+   "last_success": "2026-10-16T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "278d4419f8568d96",
+   "fingerprint": "82656655948a0ae9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T13:00:44+00:00",
      "status": "ok",
@@ -6561,16 +6565,6 @@
     },
     {
      "at": "2026-10-14T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-14T03:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8961,17 +8955,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262266",
      "date": "",
      "first_seen": "2026-10-16T11:00:43+00:00"
+    },
+    "3b137e269dc920f7": {
+     "title": "'26년 10월 토목사업 Project 공사(토목) 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262261",
+     "date": "",
+     "first_seen": "2026-10-16T15:00:45+00:00"
     }
    },
-   "last_check": "2026-10-16T13:00:50+00:00",
-   "last_success": "2026-10-16T13:00:50+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-16T15:00:45+00:00",
+   "last_success": "2026-10-16T15:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 169,
-   "fingerprint": "eaea4838b534b4bc",
+   "item_count": 170,
+   "fingerprint": "c63f78e1684c35f6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T15:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 170,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "'26년 10월 토목사업 Project 공사(토목) 경력직(촉탁직) 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262261",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-16T13:00:50+00:00",
      "status": "ok",
@@ -9428,22 +9444,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-14T03:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "사내 편의시설 운영 지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262230",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9460,7 +9460,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-16T11:00:43+00:00"
+   "last_new_at": "2026-10-16T15:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11283,15 +11283,25 @@
      "first_seen": "2026-10-16T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-16T13:00:51+00:00",
-   "last_success": "2026-10-16T13:00:51+00:00",
+   "last_check": "2026-10-16T15:00:46+00:00",
+   "last_success": "2026-10-16T15:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
-   "fingerprint": "79c275b5cf3a8d4c",
+   "fingerprint": "f10c1b43f71cdb95",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T15:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T13:00:51+00:00",
      "status": "ok",
@@ -11703,16 +11713,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-14T03:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
      "error": "",
      "note": "",
      "new": []
@@ -12337,15 +12337,25 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T13:00:54+00:00",
-   "last_success": "2026-10-16T13:00:54+00:00",
+   "last_check": "2026-10-16T15:00:48+00:00",
+   "last_success": "2026-10-16T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "9de46bece906f509",
+   "fingerprint": "db71e3993edfe98d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T13:00:54+00:00",
      "status": "ok",
@@ -12647,16 +12657,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-14T03:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12830,6 +12830,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262266",
     "date": "",
     "found_at": "2026-10-16T11:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "'26년 10월 토목사업 Project 공사(토목) 경력직(촉탁직) 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262261",
+    "date": "",
+    "found_at": "2026-10-16T15:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -12837,15 +12846,6 @@
   "last_sent": "2026-10-15T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "기업 법무",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=351",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -17336,6 +17336,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262266",
    "date": "",
    "found_at": "2026-10-16T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "'26년 10월 토목사업 Project 공사(토목) 경력직(촉탁직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262261",
+   "date": "",
+   "found_at": "2026-10-16T15:00:50+00:00"
   }
  ]
 }
