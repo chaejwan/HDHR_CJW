@@ -1684,8 +1684,8 @@
      "first_seen": "2026-10-16T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T15:00:40+00:00",
-   "last_success": "2026-10-16T15:00:40+00:00",
+   "last_check": "2026-10-16T17:00:40+00:00",
+   "last_success": "2026-10-16T17:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1693,6 +1693,16 @@
    "fingerprint": "e474e4825f962710",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T17:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T15:00:40+00:00",
      "status": "ok",
@@ -2063,16 +2073,6 @@
        "date": "2026.10.27 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-14T05:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6264,8 +6264,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-16T15:00:41+00:00",
-   "last_success": "2026-10-16T15:00:41+00:00",
+   "last_check": "2026-10-16T17:00:42+00:00",
+   "last_success": "2026-10-16T17:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6273,6 +6273,16 @@
    "fingerprint": "82656655948a0ae9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T17:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T15:00:41+00:00",
      "status": "ok",
@@ -6555,16 +6565,6 @@
     },
     {
      "at": "2026-10-14T07:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-14T05:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8963,15 +8963,25 @@
      "first_seen": "2026-10-16T15:00:45+00:00"
     }
    },
-   "last_check": "2026-10-16T15:00:45+00:00",
-   "last_success": "2026-10-16T15:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-16T17:00:45+00:00",
+   "last_success": "2026-10-16T17:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 170,
    "fingerprint": "c63f78e1684c35f6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T17:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 170,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T15:00:45+00:00",
      "status": "new",
@@ -9400,47 +9410,6 @@
       {
        "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가",
        "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-14T05:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 6,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "Radiopharmaceutical Therapy CMC 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262236",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262234",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262235",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262237",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262239",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262240",
        "date": ""
       }
      ]
@@ -11283,15 +11252,25 @@
      "first_seen": "2026-10-16T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-16T15:00:46+00:00",
-   "last_success": "2026-10-16T15:00:46+00:00",
+   "last_check": "2026-10-16T17:00:46+00:00",
+   "last_success": "2026-10-16T17:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
-   "fingerprint": "f10c1b43f71cdb95",
+   "fingerprint": "14960d2f26613981",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T17:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T15:00:46+00:00",
      "status": "ok",
@@ -11699,16 +11678,6 @@
     },
     {
      "at": "2026-10-14T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-14T05:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12337,8 +12306,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T15:00:48+00:00",
-   "last_success": "2026-10-16T15:00:48+00:00",
+   "last_check": "2026-10-16T17:00:48+00:00",
+   "last_success": "2026-10-16T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12346,6 +12315,16 @@
    "fingerprint": "db71e3993edfe98d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T15:00:48+00:00",
      "status": "ok",
@@ -12640,16 +12619,6 @@
     },
     {
      "at": "2026-10-14T07:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-14T05:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
