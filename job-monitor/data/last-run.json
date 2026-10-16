@@ -1,20 +1,20 @@
 {
- "at": "2026-10-16T07:00:47+00:00",
+ "at": "2026-10-16T09:00:53+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 0건). 10-19 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 16건 · 점검 0건). 10-19 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 14,
+  "items": 16,
   "alerts": 0,
   "since": "2026-10-16T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38864493746",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38877502909",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 87,
+   "item_count": 88,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화솔루션 큐셀부문] Global HR실 조직문화 담당자",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19996",
-     "date": "2026.10.30 15:00"
+     "title": "[한화생명] 사내 변호사 경력직 채용 (정규직, 과장~부장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19995",
+     "date": "2026.11.02 15:00"
     }
    ]
   },
@@ -51,35 +51,30 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 168,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "Global Partnership Management 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262263",
-     "date": ""
-    },
-    {
-     "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262265",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 72,
+   "status": "new",
+   "item_count": 73,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 남부하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=238",
+     "date": "20261025"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
@@ -87,7 +82,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 6,
+   "item_count": 5,
    "method": "pattern",
    "note": "",
    "error": "",
