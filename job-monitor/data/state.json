@@ -1646,17 +1646,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19979",
      "date": "2026.10.30 23:59",
      "first_seen": "2026-10-16T01:00:35+00:00"
+    },
+    "830b4f50b2d127dc": {
+     "title": "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981",
+     "date": "2026.10.28 23:59",
+     "first_seen": "2026-10-16T03:00:38+00:00"
     }
    },
-   "last_check": "2026-10-16T01:00:35+00:00",
-   "last_success": "2026-10-16T01:00:35+00:00",
+   "last_check": "2026-10-16T03:00:38+00:00",
+   "last_success": "2026-10-16T03:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 84,
-   "fingerprint": "7fc245dc0f86631d",
+   "item_count": 85,
+   "fingerprint": "4f48d8ed9cbb1c1f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T03:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981",
+       "date": "2026.10.28 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-16T01:00:35+00:00",
      "status": "new",
@@ -2011,16 +2033,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2037,7 +2049,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-16T01:00:35+00:00"
+   "last_new_at": "2026-10-16T03:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6212,8 +6224,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-16T01:00:36+00:00",
-   "last_success": "2026-10-16T01:00:36+00:00",
+   "last_check": "2026-10-16T03:00:40+00:00",
+   "last_success": "2026-10-16T03:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6221,6 +6233,16 @@
    "fingerprint": "278d4419f8568d96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T03:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T01:00:36+00:00",
      "status": "ok",
@@ -6503,16 +6525,6 @@
     },
     {
      "at": "2026-10-13T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T17:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8887,15 +8899,25 @@
      "first_seen": "2026-10-16T01:00:38+00:00"
     }
    },
-   "last_check": "2026-10-16T01:00:38+00:00",
-   "last_success": "2026-10-16T01:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-16T03:00:47+00:00",
+   "last_success": "2026-10-16T03:00:47+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 166,
    "fingerprint": "022470502c4e5bcc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T03:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 166,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T01:00:38+00:00",
      "status": "new",
@@ -9376,16 +9398,6 @@
     },
     {
      "at": "2026-10-13T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 130,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-13T17:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11218,17 +11230,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=236",
      "date": "20261023",
      "first_seen": "2026-10-15T09:00:42+00:00"
+    },
+    "f46ceec2ab28e12b": {
+     "title": "[계약직] 품질/보증 행정지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
+     "date": "20261030",
+     "first_seen": "2026-10-16T03:00:48+00:00"
     }
    },
-   "last_check": "2026-10-16T01:00:40+00:00",
-   "last_success": "2026-10-16T01:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-16T03:00:48+00:00",
+   "last_success": "2026-10-16T03:00:48+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 71,
-   "fingerprint": "ebc0060544bafb92",
+   "item_count": 72,
+   "fingerprint": "152ff409fdae252b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T03:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 품질/보증 행정지원",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
+       "date": "20261030"
+      }
+     ]
+    },
     {
      "at": "2026-10-16T01:00:40+00:00",
      "status": "ok",
@@ -11637,16 +11671,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T17:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11663,7 +11687,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-15T09:00:42+00:00"
+   "last_new_at": "2026-10-16T03:00:48+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -12268,15 +12292,25 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T01:00:41+00:00",
-   "last_success": "2026-10-16T01:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-16T03:00:50+00:00",
+   "last_success": "2026-10-16T03:00:50+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 6,
    "fingerprint": "8d2aa0907f1a266c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T03:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T01:00:41+00:00",
      "status": "new",
@@ -12584,16 +12618,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-13T17:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12668,6 +12692,24 @@
     "url": "https://www.samsungcareers.com/hr/?no=23304",
     "date": "2026.10.16 ~ 2026.10.27",
     "found_at": "2026-10-16T01:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981",
+    "date": "2026.10.28 23:59",
+    "found_at": "2026-10-16T03:00:52+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 품질/보증 행정지원",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
+    "date": "20261030",
+    "found_at": "2026-10-16T03:00:52+00:00"
    }
   ],
   "alerts": [],
@@ -12675,24 +12717,6 @@
   "last_sent": "2026-10-15T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 SK이노베이션 계열 울산CLX 기술직 인턴 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261969",
-   "date": "",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "제품 설계 포지션 경력직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261991",
-   "date": "",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -17174,6 +17198,24 @@
    "url": "https://www.samsungcareers.com/hr/?no=23304",
    "date": "2026.10.16 ~ 2026.10.27",
    "found_at": "2026-10-16T01:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981",
+   "date": "2026.10.28 23:59",
+   "found_at": "2026-10-16T03:00:52+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 품질/보증 행정지원",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237",
+   "date": "20261030",
+   "found_at": "2026-10-16T03:00:52+00:00"
   }
  ]
 }
