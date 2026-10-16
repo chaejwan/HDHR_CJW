@@ -1684,15 +1684,25 @@
      "first_seen": "2026-10-16T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T09:00:41+00:00",
-   "last_success": "2026-10-16T09:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-16T11:00:39+00:00",
+   "last_success": "2026-10-16T11:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 88,
    "fingerprint": "6acadeccdfa9b1b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T09:00:41+00:00",
      "status": "new",
@@ -2069,22 +2079,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-14T01:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "경력직 채용_상품전략팀",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
-       "date": "2026.10.28 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6276,8 +6270,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-16T09:00:42+00:00",
-   "last_success": "2026-10-16T09:00:42+00:00",
+   "last_check": "2026-10-16T11:00:39+00:00",
+   "last_success": "2026-10-16T11:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6285,6 +6279,16 @@
    "fingerprint": "278d4419f8568d96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T09:00:42+00:00",
      "status": "ok",
@@ -6567,16 +6571,6 @@
     },
     {
      "at": "2026-10-14T01:59:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-14T01:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8961,17 +8955,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262265",
      "date": "",
      "first_seen": "2026-10-16T07:00:43+00:00"
+    },
+    "1737f598bf25d8ee": {
+     "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262266",
+     "date": "",
+     "first_seen": "2026-10-16T11:00:43+00:00"
     }
    },
-   "last_check": "2026-10-16T09:00:47+00:00",
-   "last_success": "2026-10-16T09:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-16T11:00:43+00:00",
+   "last_success": "2026-10-16T11:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 168,
-   "fingerprint": "009abdb2247bd35d",
+   "item_count": 169,
+   "fingerprint": "eaea4838b534b4bc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T11:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 169,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262266",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-16T09:00:47+00:00",
      "status": "ok",
@@ -9444,42 +9460,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-14T01:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 5,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262183",
-       "date": ""
-      },
-      {
-       "title": "SK온 기계/전기 설비 관리 기술직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262203",
-       "date": ""
-      },
-      {
-       "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262227",
-       "date": ""
-      },
-      {
-       "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262228",
-       "date": ""
-      },
-      {
-       "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262229",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9496,7 +9476,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-16T07:00:43+00:00"
+   "last_new_at": "2026-10-16T11:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11319,15 +11299,25 @@
      "first_seen": "2026-10-16T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-16T09:00:49+00:00",
-   "last_success": "2026-10-16T09:00:49+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-16T11:00:44+00:00",
+   "last_success": "2026-10-16T11:00:44+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
    "fingerprint": "b508959167dbab4c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T11:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T09:00:49+00:00",
      "status": "new",
@@ -11742,22 +11732,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-14T01:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아르바이트] 사내 문서 데이터 정비/이관",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
-       "date": "20261026"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12379,8 +12353,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-16T09:00:51+00:00",
-   "last_success": "2026-10-16T09:00:51+00:00",
+   "last_check": "2026-10-16T11:00:46+00:00",
+   "last_success": "2026-10-16T11:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12388,6 +12362,16 @@
    "fingerprint": "9de46bece906f509",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-16T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-16T09:00:51+00:00",
      "status": "ok",
@@ -12689,22 +12673,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-14T01:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
-       "url": "https://www.samsungcareers.com/hr/?no=23324",
-       "date": "2026.10.14 ~ 2026.10.23"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12869,6 +12837,15 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=238",
     "date": "20261025",
     "found_at": "2026-10-16T09:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262266",
+    "date": "",
+    "found_at": "2026-10-16T11:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -12876,15 +12853,6 @@
   "last_sent": "2026-10-15T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "리튬메탈배터리 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=344",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -17375,6 +17343,15 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=238",
    "date": "20261025",
    "found_at": "2026-10-16T09:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262266",
+   "date": "",
+   "found_at": "2026-10-16T11:00:48+00:00"
   }
  ]
 }
