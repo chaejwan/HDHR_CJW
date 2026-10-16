@@ -1,20 +1,20 @@
 {
- "at": "2026-10-15T23:00:47+00:00",
+ "at": "2026-10-16T01:00:43+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 6,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 10-19 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 6,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-16T01:00:43+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38820873181",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/38832724269",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 82,
+   "item_count": 84,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화투자증권] 글로벌네트워크팀 글로벌사업 지원 및 기획 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19983",
-     "date": "2026.10.28 23:59"
+     "title": "[한화투자증권] 플랫폼서비스팀 UX/콘텐츠 기획 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19980",
+     "date": "2026.10.30 23:59"
+    },
+    {
+     "title": "[한화투자증권] 플랫폼서비스팀 모바일 서비스 기획 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19979",
+     "date": "2026.10.30 23:59"
     }
    ]
   },
@@ -51,12 +56,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 163,
+   "status": "new",
+   "item_count": 166,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "에이닷 음악 추천 서비스 운영 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262258",
+     "date": ""
+    },
+    {
+     "title": "에이닷 검색 추천 서비스 운영 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262262",
+     "date": ""
+    },
+    {
+     "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -75,12 +96,18 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 5,
+   "status": "new",
+   "item_count": 6,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성물산 패션부문 경력사원 채용(마케팅, 온라인컨텐츠기획, 패션디자이너, Buying MD, 홀서비스)",
+     "url": "https://www.samsungcareers.com/hr/?no=23304",
+     "date": "2026.10.16 ~ 2026.10.27"
+    }
+   ]
   }
  ]
 }
