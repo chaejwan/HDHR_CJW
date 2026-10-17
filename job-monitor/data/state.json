@@ -1684,8 +1684,8 @@
      "first_seen": "2026-10-16T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-17T17:00:35+00:00",
-   "last_success": "2026-10-17T17:00:35+00:00",
+   "last_check": "2026-10-17T19:00:36+00:00",
+   "last_success": "2026-10-17T19:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1693,6 +1693,16 @@
    "fingerprint": "e474e4825f962710",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T19:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T17:00:35+00:00",
      "status": "ok",
@@ -2039,22 +2049,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-15T07:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 82,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화생명]사무지원직(비서) 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19984",
-       "date": "2026.10.28 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6246,8 +6240,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-17T17:00:36+00:00",
-   "last_success": "2026-10-17T17:00:36+00:00",
+   "last_check": "2026-10-17T19:00:38+00:00",
+   "last_success": "2026-10-17T19:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6255,6 +6249,16 @@
    "fingerprint": "03ebd673ad2eab6f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T19:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T17:00:36+00:00",
      "status": "ok",
@@ -6537,16 +6541,6 @@
     },
     {
      "at": "2026-10-15T09:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-15T07:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8945,8 +8939,8 @@
      "first_seen": "2026-10-16T15:00:45+00:00"
     }
    },
-   "last_check": "2026-10-17T17:00:41+00:00",
-   "last_success": "2026-10-17T17:00:41+00:00",
+   "last_check": "2026-10-17T19:00:41+00:00",
+   "last_success": "2026-10-17T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8954,6 +8948,16 @@
    "fingerprint": "3400c09e66df1d8a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 170,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T17:00:41+00:00",
      "status": "ok",
@@ -9285,22 +9289,6 @@
       {
        "title": "[SK에어플러스] ASU Operator 경력직",
        "url": "https://www.skcareers.com/Recruit/Detail/R262259",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-15T07:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 162,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK에코엔지니어링 공무(전기) 경력 채용(촉탁직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262257",
        "date": ""
       }
      ]
@@ -11143,15 +11131,25 @@
      "first_seen": "2026-10-16T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-17T17:00:42+00:00",
-   "last_success": "2026-10-17T17:00:42+00:00",
+   "last_check": "2026-10-17T19:00:42+00:00",
+   "last_success": "2026-10-17T19:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
-   "fingerprint": "aa02725444413d85",
+   "fingerprint": "499bda5156dc8e5f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T19:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T17:00:42+00:00",
      "status": "ok",
@@ -11457,22 +11455,6 @@
        "title": "[계약직] 울산공장 고객출입안내",
        "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=236",
        "date": "20261023"
-      }
-     ]
-    },
-    {
-     "at": "2026-10-15T07:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 인증 중고차 컨택센터 고객상담",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=235",
-       "date": "20261029"
       }
      ]
     }
@@ -12096,8 +12078,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-17T17:00:45+00:00",
-   "last_success": "2026-10-17T17:00:45+00:00",
+   "last_check": "2026-10-17T19:00:44+00:00",
+   "last_success": "2026-10-17T19:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12105,6 +12087,16 @@
    "fingerprint": "b5c01fda6d1de52d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T19:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T17:00:45+00:00",
      "status": "ok",
@@ -12397,16 +12389,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-15T07:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
      "error": "",
      "note": "",
      "new": []
