@@ -1684,8 +1684,8 @@
      "first_seen": "2026-10-16T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-17T13:00:37+00:00",
-   "last_success": "2026-10-17T13:00:37+00:00",
+   "last_check": "2026-10-17T15:00:38+00:00",
+   "last_success": "2026-10-17T15:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1693,6 +1693,16 @@
    "fingerprint": "e474e4825f962710",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T15:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T13:00:37+00:00",
      "status": "ok",
@@ -2045,22 +2055,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-15T03:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화라이프랩] 소비자보호팀 담당자",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19976",
-       "date": "2026.11.01 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6252,15 +6246,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-17T13:00:38+00:00",
-   "last_success": "2026-10-17T13:00:38+00:00",
+   "last_check": "2026-10-17T15:00:39+00:00",
+   "last_success": "2026-10-17T15:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "82656655948a0ae9",
+   "fingerprint": "03ebd673ad2eab6f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T13:00:38+00:00",
      "status": "ok",
@@ -6543,16 +6547,6 @@
     },
     {
      "at": "2026-10-15T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-15T03:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8951,15 +8945,25 @@
      "first_seen": "2026-10-16T15:00:45+00:00"
     }
    },
-   "last_check": "2026-10-17T13:00:42+00:00",
-   "last_success": "2026-10-17T13:00:42+00:00",
+   "last_check": "2026-10-17T15:00:43+00:00",
+   "last_success": "2026-10-17T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 170,
-   "fingerprint": "c63f78e1684c35f6",
+   "fingerprint": "3400c09e66df1d8a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 170,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T13:00:42+00:00",
      "status": "ok",
@@ -9303,37 +9307,6 @@
       {
        "title": "Recruiting Coordinator(체험형 인턴)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262256",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-15T03:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 161,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK인텔릭스] Robotics 탑재 App 개발 경력 인재 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262250",
-       "date": ""
-      },
-      {
-       "title": "[SK인텔릭스] 정수기/공기청정기 설계 경력 인재 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262253",
-       "date": ""
-      },
-      {
-       "title": "[SK인텔릭스] AOSP Framework 개발 경력 인재 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262254",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 정보보안(취약점 진단) 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262255",
        "date": ""
       }
      ]
@@ -11176,15 +11149,25 @@
      "first_seen": "2026-10-16T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-17T13:00:43+00:00",
-   "last_success": "2026-10-17T13:00:43+00:00",
+   "last_check": "2026-10-17T15:00:44+00:00",
+   "last_success": "2026-10-17T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
-   "fingerprint": "0b43e88084cdfd91",
+   "fingerprint": "aa02725444413d85",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T13:00:43+00:00",
      "status": "ok",
@@ -11491,16 +11474,6 @@
     },
     {
      "at": "2026-10-15T05:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 69,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-15T03:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12129,15 +12102,25 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-17T13:00:45+00:00",
-   "last_success": "2026-10-17T13:00:45+00:00",
+   "last_check": "2026-10-17T15:00:46+00:00",
+   "last_success": "2026-10-17T15:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "db71e3993edfe98d",
+   "fingerprint": "b5c01fda6d1de52d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-17T15:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-17T13:00:45+00:00",
      "status": "ok",
@@ -12426,16 +12409,6 @@
     },
     {
      "at": "2026-10-15T05:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-15T03:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
