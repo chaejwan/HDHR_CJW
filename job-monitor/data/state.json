@@ -1684,8 +1684,8 @@
      "first_seen": "2026-10-16T09:00:41+00:00"
     }
    },
-   "last_check": "2026-10-18T19:00:35+00:00",
-   "last_success": "2026-10-18T19:00:35+00:00",
+   "last_check": "2026-10-18T21:00:36+00:00",
+   "last_success": "2026-10-18T21:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1693,6 +1693,16 @@
    "fingerprint": "7249269978da6f36",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-18T21:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-18T19:00:35+00:00",
      "status": "ok",
@@ -1982,22 +1992,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T09:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화생명] 사내 변호사 경력직 채용 (정규직, 과장~부장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19995",
-       "date": "2026.11.02 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6189,8 +6183,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-18T19:00:36+00:00",
-   "last_success": "2026-10-18T19:00:36+00:00",
+   "last_check": "2026-10-18T21:00:37+00:00",
+   "last_success": "2026-10-18T21:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6198,6 +6192,16 @@
    "fingerprint": "9cd4edafbf674c38",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-18T21:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-18T19:00:36+00:00",
      "status": "ok",
@@ -6480,16 +6484,6 @@
     },
     {
      "at": "2026-10-16T11:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-16T09:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8888,8 +8882,8 @@
      "first_seen": "2026-10-16T15:00:45+00:00"
     }
    },
-   "last_check": "2026-10-18T19:00:41+00:00",
-   "last_success": "2026-10-18T19:00:41+00:00",
+   "last_check": "2026-10-18T21:00:39+00:00",
+   "last_success": "2026-10-18T21:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8897,6 +8891,16 @@
    "fingerprint": "6a66273a920e6fb0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-18T21:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 149,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-18T19:00:41+00:00",
      "status": "ok",
@@ -9198,16 +9202,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-16T09:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 168,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11047,8 +11041,8 @@
      "first_seen": "2026-10-16T09:00:49+00:00"
     }
    },
-   "last_check": "2026-10-18T19:00:42+00:00",
-   "last_success": "2026-10-18T19:00:42+00:00",
+   "last_check": "2026-10-18T21:00:40+00:00",
+   "last_success": "2026-10-18T21:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11056,6 +11050,16 @@
    "fingerprint": "3585d5b773c52e2c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-18T21:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-18T19:00:42+00:00",
      "status": "ok",
@@ -11345,22 +11349,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T09:00:49+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 남부하이테크센터 고객응대 및 수납",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=238",
-       "date": "20261025"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11982,8 +11970,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-18T19:00:44+00:00",
-   "last_success": "2026-10-18T19:00:44+00:00",
+   "last_check": "2026-10-18T21:00:42+00:00",
+   "last_success": "2026-10-18T21:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -11991,6 +11979,16 @@
    "fingerprint": "8d8a814f90eaf3fc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-18T21:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-18T19:00:44+00:00",
      "status": "ok",
@@ -12273,16 +12271,6 @@
     },
     {
      "at": "2026-10-16T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-16T09:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
