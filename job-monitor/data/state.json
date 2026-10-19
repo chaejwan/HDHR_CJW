@@ -1702,8 +1702,8 @@
      "first_seen": "2026-10-19T11:00:38+00:00"
     }
    },
-   "last_check": "2026-10-19T21:00:40+00:00",
-   "last_success": "2026-10-19T21:00:40+00:00",
+   "last_check": "2026-10-19T23:00:37+00:00",
+   "last_success": "2026-10-19T23:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1711,6 +1711,16 @@
    "fingerprint": "aa88cf244377379f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T23:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T21:00:40+00:00",
      "status": "ok",
@@ -2010,16 +2020,6 @@
     },
     {
      "at": "2026-10-17T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T11:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6218,8 +6218,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-19T21:00:41+00:00",
-   "last_success": "2026-10-19T21:00:41+00:00",
+   "last_check": "2026-10-19T23:00:38+00:00",
+   "last_success": "2026-10-19T23:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6227,6 +6227,16 @@
    "fingerprint": "4b821368a0ec8f82",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T23:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T21:00:41+00:00",
      "status": "ok",
@@ -6509,16 +6519,6 @@
     },
     {
      "at": "2026-10-17T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8965,8 +8965,8 @@
      "first_seen": "2026-10-19T09:00:46+00:00"
     }
    },
-   "last_check": "2026-10-19T21:00:48+00:00",
-   "last_success": "2026-10-19T21:00:48+00:00",
+   "last_check": "2026-10-19T23:00:44+00:00",
+   "last_success": "2026-10-19T23:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -8974,6 +8974,16 @@
    "fingerprint": "8b163dd2cd13417a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T23:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T21:00:48+00:00",
      "status": "ok",
@@ -9300,16 +9310,6 @@
     },
     {
      "at": "2026-10-17T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T11:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11186,8 +11186,8 @@
      "first_seen": "2026-10-19T07:00:44+00:00"
     }
    },
-   "last_check": "2026-10-19T21:00:49+00:00",
-   "last_success": "2026-10-19T21:00:49+00:00",
+   "last_check": "2026-10-19T23:00:45+00:00",
+   "last_success": "2026-10-19T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11195,6 +11195,16 @@
    "fingerprint": "ed829bc46eecf01f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T21:00:49+00:00",
      "status": "ok",
@@ -11505,16 +11515,6 @@
     },
     {
      "at": "2026-10-17T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12143,8 +12143,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-19T21:00:51+00:00",
-   "last_success": "2026-10-19T21:00:51+00:00",
+   "last_check": "2026-10-19T23:00:47+00:00",
+   "last_success": "2026-10-19T23:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12152,6 +12152,16 @@
    "fingerprint": "c7e85a8a696f24f1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T23:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T21:00:51+00:00",
      "status": "ok",
@@ -12441,16 +12451,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-17T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12470,155 +12470,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[소프티어 부트캠프] Backend Developer",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=189",
-    "date": "20261103",
-    "found_at": "2026-10-19T01:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 케미칼소재 R&D 연구원 채용 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19988",
-    "date": "2026.10.30 17:00",
-    "found_at": "2026-10-19T03:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 화약류 제조기사 채용 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19987",
-    "date": "2026.11.01 18:00",
-    "found_at": "2026-10-19T03:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "공공 IT 센터 인프라 설계 및 구축 전문가",
-    "url": "https://www.skcareers.com/Recruit/Detail/R261948",
-    "date": "",
-    "found_at": "2026-10-19T03:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
-    "date": "20261102",
-    "found_at": "2026-10-19T03:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Client Engineer (Android)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262268",
-    "date": "",
-    "found_at": "2026-10-19T05:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Client Engineer (iOS)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262269",
-    "date": "",
-    "found_at": "2026-10-19T05:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Navigation SDK Engineer",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262270",
-    "date": "",
-    "found_at": "2026-10-19T05:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262271",
-    "date": "",
-    "found_at": "2026-10-19T07:00:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 해외 영입 인재 행정 지원",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
-    "date": "20261102",
-    "found_at": "2026-10-19T07:00:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
-    "date": "20261102",
-    "found_at": "2026-10-19T07:00:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
-    "date": "20261102",
-    "found_at": "2026-10-19T07:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "구매 시스템 운영 지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262272",
-    "date": "",
-    "found_at": "2026-10-19T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK피아이씨글로벌 회계(세무/재무) 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262214",
-    "date": "",
-    "found_at": "2026-10-19T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262271",
-    "date": "",
-    "found_at": "2026-10-19T09:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
-    "date": "2026.10.31 23:59",
-    "found_at": "2026-10-19T11:00:49+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-19T01:00:44+00:00",
-  "last_sent": "2026-10-18T23:00:51+00:00"
+  "since": "",
+  "last_sent": "2026-10-19T23:00:51+00:00"
  },
  "archive": [
   {
