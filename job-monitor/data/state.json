@@ -1694,17 +1694,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19987",
      "date": "2026.11.01 18:00",
      "first_seen": "2026-10-19T03:00:37+00:00"
+    },
+    "f8adee56ed18fb25": {
+     "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
+     "date": "2026.10.31 23:59",
+     "first_seen": "2026-10-19T11:00:38+00:00"
     }
    },
-   "last_check": "2026-10-19T09:00:38+00:00",
-   "last_success": "2026-10-19T09:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-19T11:00:38+00:00",
+   "last_success": "2026-10-19T11:00:38+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 66,
-   "fingerprint": "dfac5587907247d2",
+   "item_count": 67,
+   "fingerprint": "4482da0de89a14ac",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T11:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 67,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
+       "date": "2026.10.31 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-19T09:00:38+00:00",
      "status": "ok",
@@ -2005,16 +2027,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T23:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2031,7 +2043,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-19T03:00:37+00:00"
+   "last_new_at": "2026-10-19T11:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6206,8 +6218,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-19T09:00:39+00:00",
-   "last_success": "2026-10-19T09:00:39+00:00",
+   "last_check": "2026-10-19T11:00:39+00:00",
+   "last_success": "2026-10-19T11:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6215,6 +6227,16 @@
    "fingerprint": "9cd4edafbf674c38",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T09:00:39+00:00",
      "status": "ok",
@@ -6497,16 +6519,6 @@
     },
     {
      "at": "2026-10-17T01:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-16T23:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8953,15 +8965,25 @@
      "first_seen": "2026-10-19T09:00:46+00:00"
     }
    },
-   "last_check": "2026-10-19T09:00:46+00:00",
-   "last_success": "2026-10-19T09:00:46+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-19T11:00:44+00:00",
+   "last_success": "2026-10-19T11:00:44+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 155,
    "fingerprint": "1fb2160bc64a5207",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T11:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 155,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T09:00:46+00:00",
      "status": "new",
@@ -9288,16 +9310,6 @@
     },
     {
      "at": "2026-10-17T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-16T23:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11174,15 +11186,25 @@
      "first_seen": "2026-10-19T07:00:44+00:00"
     }
    },
-   "last_check": "2026-10-19T09:00:47+00:00",
-   "last_success": "2026-10-19T09:00:47+00:00",
+   "last_check": "2026-10-19T11:00:46+00:00",
+   "last_success": "2026-10-19T11:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 78,
-   "fingerprint": "284b47071f65fb31",
+   "fingerprint": "948aa4041bf52911",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T11:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T09:00:47+00:00",
      "status": "ok",
@@ -11493,16 +11515,6 @@
     },
     {
      "at": "2026-10-17T01:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-16T23:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12131,8 +12143,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-19T09:00:49+00:00",
-   "last_success": "2026-10-19T09:00:49+00:00",
+   "last_check": "2026-10-19T11:00:48+00:00",
+   "last_success": "2026-10-19T11:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12140,6 +12152,16 @@
    "fingerprint": "732373fa32b72315",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T11:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T09:00:49+00:00",
      "status": "ok",
@@ -12429,16 +12451,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T23:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12593,6 +12605,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262271",
     "date": "",
     "found_at": "2026-10-19T09:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
+    "date": "2026.10.31 23:59",
+    "found_at": "2026-10-19T11:00:49+00:00"
    }
   ],
   "alerts": [],
@@ -12600,15 +12621,6 @@
   "last_sent": "2026-10-18T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] IT Project Manager - Sales & Mobility",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=353",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -17099,6 +17111,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262271",
    "date": "",
    "found_at": "2026-10-19T09:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
+   "date": "2026.10.31 23:59",
+   "found_at": "2026-10-19T11:00:49+00:00"
   }
  ]
 }
