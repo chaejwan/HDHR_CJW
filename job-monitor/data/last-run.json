@@ -1,7 +1,7 @@
 {
- "at": "2026-10-19T11:00:49+00:00",
+ "at": "2026-10-19T13:00:49+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-10-19T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39241505109",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39256530374",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 67,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
-     "date": "2026.10.31 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
