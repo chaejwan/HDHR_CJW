@@ -1,20 +1,20 @@
 {
- "at": "2026-10-19T05:00:46+00:00",
+ "at": "2026-10-19T07:00:47+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-20 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-20 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 12,
   "alerts": 0,
   "since": "2026-10-19T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39202311323",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39213239530",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,7 +22,7 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "ok",
-   "item_count": 65,
+   "item_count": 64,
    "method": "json",
    "note": "",
    "error": "",
@@ -46,24 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 153,
+   "item_count": 154,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Client Engineer (Android)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262268",
-     "date": ""
-    },
-    {
-     "title": "Client Engineer (iOS)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262269",
-     "date": ""
-    },
-    {
-     "title": "Navigation SDK Engineer",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262270",
+     "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262271",
      "date": ""
     }
    ]
@@ -73,12 +63,28 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 76,
+   "status": "new",
+   "item_count": 79,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 해외 영입 인재 행정 지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
+     "date": "20261102"
+    },
+    {
+     "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
+     "date": "20261102"
+    },
+    {
+     "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
+     "date": "20261102"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",

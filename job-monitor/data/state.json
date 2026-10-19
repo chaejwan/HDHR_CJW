@@ -1696,15 +1696,25 @@
      "first_seen": "2026-10-19T03:00:37+00:00"
     }
    },
-   "last_check": "2026-10-19T05:00:35+00:00",
-   "last_success": "2026-10-19T05:00:35+00:00",
+   "last_check": "2026-10-19T07:00:36+00:00",
+   "last_success": "2026-10-19T07:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 65,
-   "fingerprint": "3cd8bf841c656814",
+   "item_count": 64,
+   "fingerprint": "d46b0a63c73704b4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T07:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 64,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T05:00:35+00:00",
      "status": "ok",
@@ -2005,26 +2015,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T19:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "조직도입마케터",
     "한화시스템 정보보호 인증 담당(CMMC) 경력사원 채용",
     "[한화솔루션 큐셀] ES사업부 Global EMS 구매담당 경력직 채용",
     "한화시스템 사업장 차량관리 담당자 계약직 채용",
-    "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)"
+    "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
+    "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -6206,8 +6206,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-19T05:00:36+00:00",
-   "last_success": "2026-10-19T05:00:36+00:00",
+   "last_check": "2026-10-19T07:00:37+00:00",
+   "last_success": "2026-10-19T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6215,6 +6215,16 @@
    "fingerprint": "9cd4edafbf674c38",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T05:00:36+00:00",
      "status": "ok",
@@ -6497,16 +6507,6 @@
     },
     {
      "at": "2026-10-16T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-16T19:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8927,17 +8927,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262270",
      "date": "",
      "first_seen": "2026-10-19T05:00:41+00:00"
+    },
+    "3ba6b4f2c8d10771": {
+     "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262271",
+     "date": "",
+     "first_seen": "2026-10-19T07:00:43+00:00"
     }
    },
-   "last_check": "2026-10-19T05:00:41+00:00",
-   "last_success": "2026-10-19T05:00:41+00:00",
+   "last_check": "2026-10-19T07:00:43+00:00",
+   "last_success": "2026-10-19T07:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 153,
-   "fingerprint": "7c81e086f60303b5",
+   "item_count": 154,
+   "fingerprint": "48aeeb63f99b1557",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T07:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262271",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-19T05:00:41+00:00",
      "status": "new",
@@ -9249,16 +9271,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9275,7 +9287,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-19T05:00:41+00:00"
+   "last_new_at": "2026-10-19T07:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11108,17 +11120,61 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
      "date": "20261102",
      "first_seen": "2026-10-19T03:00:46+00:00"
+    },
+    "8f3a65d216f6594d": {
+     "title": "[계약직] 해외 영입 인재 행정 지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
+     "date": "20261102",
+     "first_seen": "2026-10-19T07:00:44+00:00"
+    },
+    "c360170a0e25e458": {
+     "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
+     "date": "20261102",
+     "first_seen": "2026-10-19T07:00:44+00:00"
+    },
+    "a61febedfabe9a92": {
+     "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
+     "date": "20261102",
+     "first_seen": "2026-10-19T07:00:44+00:00"
     }
    },
-   "last_check": "2026-10-19T05:00:42+00:00",
-   "last_success": "2026-10-19T05:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-19T07:00:44+00:00",
+   "last_success": "2026-10-19T07:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 76,
-   "fingerprint": "e492a0de42da3863",
+   "item_count": 79,
+   "fingerprint": "464a674164088868",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T07:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 해외 영입 인재 행정 지원",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
+       "date": "20261102"
+      },
+      {
+       "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
+       "date": "20261102"
+      },
+      {
+       "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
+       "date": "20261102"
+      }
+     ]
+    },
     {
      "at": "2026-10-19T05:00:42+00:00",
      "status": "ok",
@@ -11420,16 +11476,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T19:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11446,7 +11492,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-19T03:00:46+00:00"
+   "last_new_at": "2026-10-19T07:00:44+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -12051,8 +12097,8 @@
      "first_seen": "2026-10-16T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-19T05:00:44+00:00",
-   "last_success": "2026-10-19T05:00:44+00:00",
+   "last_check": "2026-10-19T07:00:46+00:00",
+   "last_success": "2026-10-19T07:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12060,6 +12106,16 @@
    "fingerprint": "8d8a814f90eaf3fc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-19T07:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T05:00:44+00:00",
      "status": "ok",
@@ -12349,16 +12405,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-16T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12451,6 +12497,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262270",
     "date": "",
     "found_at": "2026-10-19T05:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262271",
+    "date": "",
+    "found_at": "2026-10-19T07:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 해외 영입 인재 행정 지원",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
+    "date": "20261102",
+    "found_at": "2026-10-19T07:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
+    "date": "20261102",
+    "found_at": "2026-10-19T07:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
+    "date": "20261102",
+    "found_at": "2026-10-19T07:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -12458,42 +12540,6 @@
   "last_sent": "2026-10-18T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[SDF] Manufacturing DX Project Manager (Scrum Master)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=349",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] UI Designer",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=355",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] Solution Architect - MM 모듈",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=357",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] SW Architect",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=359",
-   "date": "20260929",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -16957,6 +17003,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262270",
    "date": "",
    "found_at": "2026-10-19T05:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262271",
+   "date": "",
+   "found_at": "2026-10-19T07:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 해외 영입 인재 행정 지원",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
+   "date": "20261102",
+   "found_at": "2026-10-19T07:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
+   "date": "20261102",
+   "found_at": "2026-10-19T07:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
+   "date": "20261102",
+   "found_at": "2026-10-19T07:00:47+00:00"
   }
  ]
 }
