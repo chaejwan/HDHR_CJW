@@ -1,43 +1,32 @@
 {
- "at": "2026-10-19T03:00:49+00:00",
+ "at": "2026-10-19T05:00:46+00:00",
  "checked": 5,
- "new_total": 4,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-20 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-20 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 8,
   "alerts": 0,
   "since": "2026-10-19T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39192609717",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39202311323",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 65,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 글로벌부문 케미칼소재 R&D 연구원 채용 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19988",
-     "date": "2026.10.30 17:00"
-    },
-    {
-     "title": "(주)한화 글로벌부문 화약류 제조기사 채용 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19987",
-     "date": "2026.11.01 18:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,14 +46,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 150,
+   "item_count": 153,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "공공 IT 센터 인프라 설계 및 구축 전문가",
-     "url": "https://www.skcareers.com/Recruit/Detail/R261948",
+     "title": "Client Engineer (Android)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262268",
+     "date": ""
+    },
+    {
+     "title": "Client Engineer (iOS)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262269",
+     "date": ""
+    },
+    {
+     "title": "Navigation SDK Engineer",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262270",
      "date": ""
     }
    ]
@@ -74,18 +73,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 76,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
-     "date": "20261102"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
