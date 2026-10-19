@@ -1,20 +1,20 @@
 {
- "at": "2026-10-18T23:00:46+00:00",
+ "at": "2026-10-19T01:00:44+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 10-20 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 1,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-19T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39174661588",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39183325596",
  "results": [
   {
    "site_id": "hanwhain",
@@ -57,12 +57,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 72,
+   "status": "new",
+   "item_count": 73,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[소프티어 부트캠프] Backend Developer",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=189",
+     "date": "20261103"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
