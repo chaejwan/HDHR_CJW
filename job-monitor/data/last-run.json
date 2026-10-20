@@ -1,20 +1,20 @@
 {
- "at": "2026-10-20T07:00:45+00:00",
+ "at": "2026-10-20T09:00:48+00:00",
  "checked": 5,
- "new_total": 12,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 10-21 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 23건 · 점검 0건). 10-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 20,
+  "items": 23,
   "alerts": 0,
   "since": "2026-10-20T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39383753698",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39397525142",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 69,
+   "item_count": 70,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화생명] 정보보호팀 '정보보호' 경력채용(사원~차장)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20001",
-     "date": "2026.11.04 15:00"
+     "title": "(주)한화 글로벌부문 안전보건 기획/운영 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20004",
+     "date": "2026.11.02 15:00"
     }
    ]
   },
@@ -52,64 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 164,
+   "item_count": 165,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK에어플러스] 프로젝트 구매·납기 및 물류관리",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262192",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262284",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262285",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262286",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262287",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262289",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262290",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262291",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] 산업가스 플랜트 배관 현장 시공관리(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262292",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 해양플랜트 프로젝트 PM 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262288",
-     "date": ""
-    },
-    {
-     "title": "총무 담당 (3년 이상)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262293",
+     "title": "디앤디프라퍼티솔루션 오피스 운영 매니저(코워킹 스페이스) 모집의 건",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262295",
      "date": ""
     }
    ]
@@ -119,12 +69,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 77,
+   "status": "new",
+   "item_count": 78,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
+     "date": "20261103"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
@@ -132,7 +88,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 5,
+   "item_count": 4,
    "method": "pattern",
    "note": "",
    "error": "",
