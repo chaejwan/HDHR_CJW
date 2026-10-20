@@ -1726,8 +1726,8 @@
      "first_seen": "2026-10-20T09:00:38+00:00"
     }
    },
-   "last_check": "2026-10-20T13:00:41+00:00",
-   "last_success": "2026-10-20T13:00:41+00:00",
+   "last_check": "2026-10-20T15:00:52+00:00",
+   "last_success": "2026-10-20T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1735,6 +1735,16 @@
    "fingerprint": "6ce78c32cef4a37f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T13:00:41+00:00",
      "status": "ok",
@@ -2057,16 +2067,6 @@
     },
     {
      "at": "2026-10-18T05:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T03:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6265,15 +6265,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-20T13:00:42+00:00",
-   "last_success": "2026-10-20T13:00:42+00:00",
+   "last_check": "2026-10-20T15:00:53+00:00",
+   "last_success": "2026-10-20T15:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "4b821368a0ec8f82",
+   "fingerprint": "8bdaeb374b567fb7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T15:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T13:00:42+00:00",
      "status": "ok",
@@ -6556,16 +6566,6 @@
     },
     {
      "at": "2026-10-18T05:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T03:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9112,17 +9112,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262295",
      "date": "",
      "first_seen": "2026-10-20T09:00:42+00:00"
+    },
+    "e4edbb09f5b51a29": {
+     "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262278",
+     "date": "",
+     "first_seen": "2026-10-20T15:00:55+00:00"
+    },
+    "6547e1d946d9a858": {
+     "title": "SK실트론 장비기술 사무직 엔지니어 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262294",
+     "date": "",
+     "first_seen": "2026-10-20T15:00:55+00:00"
+    },
+    "b39d0eabe89d8b67": {
+     "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262296",
+     "date": "",
+     "first_seen": "2026-10-20T15:00:55+00:00"
+    },
+    "15858d858b71c352": {
+     "title": "SK실트론 HR 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262297",
+     "date": "",
+     "first_seen": "2026-10-20T15:00:55+00:00"
     }
    },
-   "last_check": "2026-10-20T13:00:47+00:00",
-   "last_success": "2026-10-20T13:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-20T15:00:55+00:00",
+   "last_success": "2026-10-20T15:00:55+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 165,
-   "fingerprint": "7ac9e99fa3b63209",
+   "item_count": 167,
+   "fingerprint": "e8d508e06fc0d7ae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T15:00:55+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262278",
+       "date": ""
+      },
+      {
+       "title": "SK실트론 장비기술 사무직 엔지니어 대졸신입 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262294",
+       "date": ""
+      },
+      {
+       "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262296",
+       "date": ""
+      },
+      {
+       "title": "SK실트론 HR 대졸신입 수시 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262297",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-20T13:00:47+00:00",
      "status": "ok",
@@ -9546,33 +9601,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T03:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "IP Senior 구성원 영입",
-    "사내 편의시설 운영 지원 담당자",
     "용인 부속의원 의료기사(임상병리사,물리치료사,방사선사) 채용",
     "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
-    "2026 하반기 신입사원 채용 (품질보증(QA))"
+    "2026 하반기 신입사원 채용 (품질보증(QA))",
+    "2026 하반기 신입사원 채용 (품질관리(QC))",
+    "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-20T09:00:42+00:00"
+   "last_new_at": "2026-10-20T15:00:55+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11431,15 +11476,25 @@
      "first_seen": "2026-10-20T09:00:44+00:00"
     }
    },
-   "last_check": "2026-10-20T13:00:48+00:00",
-   "last_success": "2026-10-20T13:00:48+00:00",
+   "last_check": "2026-10-20T15:00:56+00:00",
+   "last_success": "2026-10-20T15:00:56+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 78,
-   "fingerprint": "ff5559a58caddca5",
+   "fingerprint": "55eb72a1c366987c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T15:00:56+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T13:00:48+00:00",
      "status": "ok",
@@ -11756,16 +11811,6 @@
     },
     {
      "at": "2026-10-18T05:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T03:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12400,15 +12445,25 @@
      "first_seen": "2026-10-20T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-20T13:00:51+00:00",
-   "last_success": "2026-10-20T13:00:51+00:00",
+   "last_check": "2026-10-20T15:00:59+00:00",
+   "last_success": "2026-10-20T15:00:59+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "6b749c63b54a927e",
+   "fingerprint": "de1066e5562794ad",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T15:00:59+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T13:00:51+00:00",
      "status": "ok",
@@ -12704,16 +12759,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T03:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12940,6 +12985,42 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
     "date": "20261103",
     "found_at": "2026-10-20T09:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262278",
+    "date": "",
+    "found_at": "2026-10-20T15:01:00+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 장비기술 사무직 엔지니어 대졸신입 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262294",
+    "date": "",
+    "found_at": "2026-10-20T15:01:00+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262296",
+    "date": "",
+    "found_at": "2026-10-20T15:01:00+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK실트론 HR 대졸신입 수시 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262297",
+    "date": "",
+    "found_at": "2026-10-20T15:01:00+00:00"
    }
   ],
   "alerts": [],
@@ -12947,42 +13028,6 @@
   "last_sent": "2026-10-19T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "페이지 내용이 변경되었습니다 (목록 자동 인식 불가)",
-   "url": "https://www.samsungcareers.com/hr/list.data",
-   "date": "",
-   "found_at": "2026-09-15T09:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/공무)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19768",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-16T01:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 설비기술 경력직 수시 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-   "date": "",
-   "found_at": "2026-09-16T01:00:46+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[울산공장] 보안요원",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=183",
-   "date": "20260922",
-   "found_at": "2026-09-16T01:00:46+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -17446,6 +17491,42 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
    "date": "20261103",
    "found_at": "2026-10-20T09:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262278",
+   "date": "",
+   "found_at": "2026-10-20T15:01:00+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 장비기술 사무직 엔지니어 대졸신입 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262294",
+   "date": "",
+   "found_at": "2026-10-20T15:01:00+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262296",
+   "date": "",
+   "found_at": "2026-10-20T15:01:00+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK실트론 HR 대졸신입 수시 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262297",
+   "date": "",
+   "found_at": "2026-10-20T15:01:00+00:00"
   }
  ]
 }

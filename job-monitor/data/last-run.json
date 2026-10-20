@@ -1,20 +1,20 @@
 {
- "at": "2026-10-20T13:00:52+00:00",
+ "at": "2026-10-20T15:01:00+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 23건 · 점검 0건). 10-21 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 27건 · 점검 0건). 10-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 23,
+  "items": 27,
   "alerts": 0,
   "since": "2026-10-20T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39426781566",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39444443824",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,33 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 165,
+   "status": "new",
+   "item_count": 167,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262278",
+     "date": ""
+    },
+    {
+     "title": "SK실트론 장비기술 사무직 엔지니어 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262294",
+     "date": ""
+    },
+    {
+     "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262296",
+     "date": ""
+    },
+    {
+     "title": "SK실트론 HR 대졸신입 수시 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262297",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
