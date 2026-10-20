@@ -1,20 +1,20 @@
 {
- "at": "2026-10-20T21:00:45+00:00",
+ "at": "2026-10-20T23:00:45+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 27건 · 점검 0건). 10-21 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 27,
+  "items": 0,
   "alerts": 0,
-  "since": "2026-10-20T01:00:45+00:00",
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39496806924",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39512087302",
  "results": [
   {
    "site_id": "hanwhain",
@@ -57,12 +57,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 78,
+   "status": "new",
+   "item_count": 79,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=387",
+     "date": "20261231"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",

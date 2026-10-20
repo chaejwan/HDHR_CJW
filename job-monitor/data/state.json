@@ -1726,8 +1726,8 @@
      "first_seen": "2026-10-20T09:00:38+00:00"
     }
    },
-   "last_check": "2026-10-20T21:00:36+00:00",
-   "last_success": "2026-10-20T21:00:36+00:00",
+   "last_check": "2026-10-20T23:00:34+00:00",
+   "last_success": "2026-10-20T23:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1735,6 +1735,16 @@
    "fingerprint": "6ce78c32cef4a37f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T23:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T21:00:36+00:00",
      "status": "ok",
@@ -2057,16 +2067,6 @@
     },
     {
      "at": "2026-10-18T13:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T11:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6265,8 +6265,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-20T21:00:37+00:00",
-   "last_success": "2026-10-20T21:00:37+00:00",
+   "last_check": "2026-10-20T23:00:35+00:00",
+   "last_success": "2026-10-20T23:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6274,6 +6274,16 @@
    "fingerprint": "8bdaeb374b567fb7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T23:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T21:00:37+00:00",
      "status": "ok",
@@ -6556,16 +6566,6 @@
     },
     {
      "at": "2026-10-18T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9138,8 +9138,8 @@
      "first_seen": "2026-10-20T15:00:55+00:00"
     }
    },
-   "last_check": "2026-10-20T21:00:40+00:00",
-   "last_success": "2026-10-20T21:00:40+00:00",
+   "last_check": "2026-10-20T23:00:39+00:00",
+   "last_success": "2026-10-20T23:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9147,6 +9147,16 @@
    "fingerprint": "e8d508e06fc0d7ae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T23:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T21:00:40+00:00",
      "status": "ok",
@@ -9584,16 +9594,6 @@
     },
     {
      "at": "2026-10-18T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T11:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11474,17 +11474,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
      "date": "20261103",
      "first_seen": "2026-10-20T09:00:44+00:00"
+    },
+    "46d14ea7aa4f3f02": {
+     "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=387",
+     "date": "20261231",
+     "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-20T21:00:41+00:00",
-   "last_success": "2026-10-20T21:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-20T23:00:41+00:00",
+   "last_success": "2026-10-20T23:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 78,
-   "fingerprint": "02958bbc254d5f16",
+   "item_count": 79,
+   "fingerprint": "f57ac7a8d63faa2a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T23:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=387",
+       "date": "20261231"
+      }
+     ]
+    },
     {
      "at": "2026-10-20T21:00:41+00:00",
      "status": "ok",
@@ -11808,16 +11830,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T11:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11834,7 +11846,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-20T09:00:44+00:00"
+   "last_new_at": "2026-10-20T23:00:41+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -12445,8 +12457,8 @@
      "first_seen": "2026-10-20T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-20T21:00:44+00:00",
-   "last_success": "2026-10-20T21:00:44+00:00",
+   "last_check": "2026-10-20T23:00:43+00:00",
+   "last_success": "2026-10-20T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12454,6 +12466,16 @@
    "fingerprint": "de1066e5562794ad",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T21:00:44+00:00",
      "status": "ok",
@@ -12749,16 +12771,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T11:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12778,265 +12790,12 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 구매 분야 경력 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262273",
-    "date": "",
-    "found_at": "2026-10-20T01:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262276",
-    "date": "",
-    "found_at": "2026-10-20T01:00:45+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
-    "url": "https://www.samsungcareers.com/hr/?no=23364",
-    "date": "2026.10.20 ~ 2026.11.06",
-    "found_at": "2026-10-20T01:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
-    "date": "2026.11.02 15:00",
-    "found_at": "2026-10-20T03:00:56+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
-    "date": "2026.11.02 15:00",
-    "found_at": "2026-10-20T03:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "IT 네트워크 전문가 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262280",
-    "date": "",
-    "found_at": "2026-10-20T03:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK이터닉스 회계 담당 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262282",
-    "date": "",
-    "found_at": "2026-10-20T05:00:46+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 보안정책 담당자 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262277",
-    "date": "",
-    "found_at": "2026-10-20T05:00:46+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 정보보호팀 '정보보호' 경력채용(사원~차장)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20001",
-    "date": "2026.11.04 15:00",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] 프로젝트 구매·납기 및 물류관리",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262192",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262284",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262285",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262286",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262287",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262289",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262290",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262291",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 배관 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262292",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 프로젝트 PM 모집(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262288",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "총무 담당 (3년 이상)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262293",
-    "date": "",
-    "found_at": "2026-10-20T07:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 안전보건 기획/운영 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20004",
-    "date": "2026.11.02 15:00",
-    "found_at": "2026-10-20T09:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 오피스 운영 매니저(코워킹 스페이스) 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262295",
-    "date": "",
-    "found_at": "2026-10-20T09:00:48+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
-    "date": "20261103",
-    "found_at": "2026-10-20T09:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 공정기술 사무직 엔지니어 대졸신입 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262278",
-    "date": "",
-    "found_at": "2026-10-20T15:01:00+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 장비기술 사무직 엔지니어 대졸신입 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262294",
-    "date": "",
-    "found_at": "2026-10-20T15:01:00+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262296",
-    "date": "",
-    "found_at": "2026-10-20T15:01:00+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK실트론 HR 대졸신입 수시 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262297",
-    "date": "",
-    "found_at": "2026-10-20T15:01:00+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-20T01:00:45+00:00",
-  "last_sent": "2026-10-19T23:00:51+00:00"
+  "since": "",
+  "last_sent": "2026-10-20T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성전자 DX부문 경력사원 채용(가스안전관리)",
-   "url": "https://www.samsungcareers.com/hr/?no=23081",
-   "date": "2026.09.16 ~ 2026.09.28",
-   "found_at": "2026-09-16T01:00:46+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -17527,6 +17286,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262297",
    "date": "",
    "found_at": "2026-10-20T15:01:00+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=387",
+   "date": "20261231",
+   "found_at": "2026-10-20T23:00:45+00:00"
   }
  ]
 }
