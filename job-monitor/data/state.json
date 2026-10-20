@@ -1700,17 +1700,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
      "date": "2026.10.31 23:59",
      "first_seen": "2026-10-19T11:00:38+00:00"
+    },
+    "100632a06fb92099": {
+     "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
+     "date": "2026.11.02 15:00",
+     "first_seen": "2026-10-20T03:00:38+00:00"
+    },
+    "396bf82275be2155": {
+     "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
+     "date": "2026.11.02 15:00",
+     "first_seen": "2026-10-20T03:00:38+00:00"
     }
    },
-   "last_check": "2026-10-20T01:00:36+00:00",
-   "last_success": "2026-10-20T01:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-20T03:00:38+00:00",
+   "last_success": "2026-10-20T03:00:38+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 66,
-   "fingerprint": "aa88cf244377379f",
+   "item_count": 68,
+   "fingerprint": "b6066ba29205d534",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T03:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
+       "date": "2026.11.02 15:00"
+      },
+      {
+       "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
+       "date": "2026.11.02 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-20T01:00:36+00:00",
      "status": "ok",
@@ -2017,16 +2050,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-17T15:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2043,7 +2066,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-19T11:00:38+00:00"
+   "last_new_at": "2026-10-20T03:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6218,8 +6241,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-20T01:00:38+00:00",
-   "last_success": "2026-10-20T01:00:38+00:00",
+   "last_check": "2026-10-20T03:00:39+00:00",
+   "last_success": "2026-10-20T03:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6227,6 +6250,16 @@
    "fingerprint": "4b821368a0ec8f82",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T03:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T01:00:38+00:00",
      "status": "ok",
@@ -6509,16 +6542,6 @@
     },
     {
      "at": "2026-10-17T17:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T15:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8975,17 +8998,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262276",
      "date": "",
      "first_seen": "2026-10-20T01:00:40+00:00"
+    },
+    "f4ccf6ea04cf4cbd": {
+     "title": "IT 네트워크 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262280",
+     "date": "",
+     "first_seen": "2026-10-20T03:00:49+00:00"
     }
    },
-   "last_check": "2026-10-20T01:00:40+00:00",
-   "last_success": "2026-10-20T01:00:40+00:00",
+   "last_check": "2026-10-20T03:00:49+00:00",
+   "last_success": "2026-10-20T03:00:49+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 150,
-   "fingerprint": "53f9aca2548b27f7",
+   "item_count": 151,
+   "fingerprint": "83a9b7c515bd0488",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T03:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "IT 네트워크 전문가 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262280",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-20T01:00:40+00:00",
      "status": "new",
@@ -9330,16 +9375,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-17T15:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9356,7 +9391,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-20T01:00:40+00:00"
+   "last_new_at": "2026-10-20T03:00:49+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11209,15 +11244,25 @@
      "first_seen": "2026-10-19T07:00:44+00:00"
     }
    },
-   "last_check": "2026-10-20T01:00:41+00:00",
-   "last_success": "2026-10-20T01:00:41+00:00",
+   "last_check": "2026-10-20T03:00:51+00:00",
+   "last_success": "2026-10-20T03:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 76,
-   "fingerprint": "55ecc5b741562d17",
+   "item_count": 77,
+   "fingerprint": "223eaa5f2a49f16f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T03:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T01:00:41+00:00",
      "status": "ok",
@@ -11528,16 +11573,6 @@
     },
     {
      "at": "2026-10-17T17:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12172,15 +12207,25 @@
      "first_seen": "2026-10-20T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-20T01:00:43+00:00",
-   "last_success": "2026-10-20T01:00:43+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-20T03:00:53+00:00",
+   "last_success": "2026-10-20T03:00:53+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
    "fingerprint": "48650e57c196b280",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T03:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-20T01:00:43+00:00",
      "status": "new",
@@ -12476,16 +12521,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-17T15:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12533,6 +12568,33 @@
     "url": "https://www.samsungcareers.com/hr/?no=23364",
     "date": "2026.10.20 ~ 2026.11.06",
     "found_at": "2026-10-20T01:00:45+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
+    "date": "2026.11.02 15:00",
+    "found_at": "2026-10-20T03:00:56+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
+    "date": "2026.11.02 15:00",
+    "found_at": "2026-10-20T03:00:56+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "IT 네트워크 전문가 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262280",
+    "date": "",
+    "found_at": "2026-10-20T03:00:56+00:00"
    }
   ],
   "alerts": [],
@@ -12540,33 +12602,6 @@
   "last_sent": "2026-10-19T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[9월] 월간 hy-way(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261983",
-   "date": "",
-   "found_at": "2026-09-15T05:03:14+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK온 품질 이슈 조사·평가 기술감독직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261964",
-   "date": "",
-   "found_at": "2026-09-15T05:03:14+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261994",
-   "date": "",
-   "found_at": "2026-09-15T05:03:14+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17039,6 +17074,33 @@
    "url": "https://www.samsungcareers.com/hr/?no=23364",
    "date": "2026.10.20 ~ 2026.11.06",
    "found_at": "2026-10-20T01:00:45+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
+   "date": "2026.11.02 15:00",
+   "found_at": "2026-10-20T03:00:56+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
+   "date": "2026.11.02 15:00",
+   "found_at": "2026-10-20T03:00:56+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "IT 네트워크 전문가 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262280",
+   "date": "",
+   "found_at": "2026-10-20T03:00:56+00:00"
   }
  ]
 }
