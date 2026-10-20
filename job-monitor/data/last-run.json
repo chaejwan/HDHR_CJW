@@ -1,7 +1,7 @@
 {
- "at": "2026-10-20T09:00:48+00:00",
+ "at": "2026-10-20T11:00:50+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-10-20T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39397525142",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39411905758",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 70,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 글로벌부문 안전보건 기획/운영 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20004",
-     "date": "2026.11.02 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,36 +45,24 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 165,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "디앤디프라퍼티솔루션 오피스 운영 매니저(코워킹 스페이스) 모집의 건",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262295",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 78,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
-     "date": "20261103"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
