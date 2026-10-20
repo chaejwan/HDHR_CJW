@@ -1,43 +1,32 @@
 {
- "at": "2026-10-20T03:00:56+00:00",
+ "at": "2026-10-20T05:00:46+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 10-21 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 8,
   "alerts": 0,
   "since": "2026-10-20T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39361984866",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39372568516",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 68,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
-     "date": "2026.11.02 15:00"
-    },
-    {
-     "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
-     "date": "2026.11.02 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,14 +46,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 151,
+   "item_count": 153,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "IT 네트워크 전문가 영입 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262280",
+     "title": "SK이터닉스 회계 담당 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262282",
+     "date": ""
+    },
+    {
+     "title": "SK온 보안정책 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262277",
      "date": ""
     }
    ]
