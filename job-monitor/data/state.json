@@ -1702,8 +1702,8 @@
      "first_seen": "2026-10-19T11:00:38+00:00"
     }
    },
-   "last_check": "2026-10-19T23:00:37+00:00",
-   "last_success": "2026-10-19T23:00:37+00:00",
+   "last_check": "2026-10-20T01:00:36+00:00",
+   "last_success": "2026-10-20T01:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1711,6 +1711,16 @@
    "fingerprint": "aa88cf244377379f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T01:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T23:00:37+00:00",
      "status": "ok",
@@ -2010,16 +2020,6 @@
     },
     {
      "at": "2026-10-17T15:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T13:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6218,8 +6218,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-19T23:00:38+00:00",
-   "last_success": "2026-10-19T23:00:38+00:00",
+   "last_check": "2026-10-20T01:00:38+00:00",
+   "last_success": "2026-10-20T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6227,6 +6227,16 @@
    "fingerprint": "4b821368a0ec8f82",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T23:00:38+00:00",
      "status": "ok",
@@ -6509,16 +6519,6 @@
     },
     {
      "at": "2026-10-17T15:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T13:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -8963,17 +8963,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262271",
      "date": "",
      "first_seen": "2026-10-19T09:00:46+00:00"
+    },
+    "fe1da23c7e8a386f": {
+     "title": "SK키파운드리 구매 분야 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262273",
+     "date": "",
+     "first_seen": "2026-10-20T01:00:40+00:00"
+    },
+    "27329a121b5fadc5": {
+     "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262276",
+     "date": "",
+     "first_seen": "2026-10-20T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-19T23:00:44+00:00",
-   "last_success": "2026-10-19T23:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-20T01:00:40+00:00",
+   "last_success": "2026-10-20T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 148,
-   "fingerprint": "8b163dd2cd13417a",
+   "item_count": 150,
+   "fingerprint": "53f9aca2548b27f7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 150,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK키파운드리 구매 분야 경력 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262273",
+       "date": ""
+      },
+      {
+       "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262276",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-19T23:00:44+00:00",
      "status": "ok",
@@ -9307,16 +9340,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-17T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9333,7 +9356,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-19T09:00:46+00:00"
+   "last_new_at": "2026-10-20T01:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11186,15 +11209,25 @@
      "first_seen": "2026-10-19T07:00:44+00:00"
     }
    },
-   "last_check": "2026-10-19T23:00:45+00:00",
-   "last_success": "2026-10-19T23:00:45+00:00",
+   "last_check": "2026-10-20T01:00:41+00:00",
+   "last_success": "2026-10-20T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 76,
-   "fingerprint": "ed829bc46eecf01f",
+   "fingerprint": "55ecc5b741562d17",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-19T23:00:45+00:00",
      "status": "ok",
@@ -11505,16 +11538,6 @@
     },
     {
      "at": "2026-10-17T15:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-17T13:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12141,17 +12164,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23304",
      "date": "2026.10.16 ~ 2026.10.27",
      "first_seen": "2026-10-16T01:00:41+00:00"
+    },
+    "15000f9ec783db4d": {
+     "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
+     "url": "https://www.samsungcareers.com/hr/?no=23364",
+     "date": "2026.10.20 ~ 2026.11.06",
+     "first_seen": "2026-10-20T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-19T23:00:47+00:00",
-   "last_success": "2026-10-19T23:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-20T01:00:43+00:00",
+   "last_success": "2026-10-20T01:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 4,
-   "fingerprint": "c7e85a8a696f24f1",
+   "item_count": 5,
+   "fingerprint": "48650e57c196b280",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-20T01:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
+       "url": "https://www.samsungcareers.com/hr/?no=23364",
+       "date": "2026.10.20 ~ 2026.11.06"
+      }
+     ]
+    },
     {
      "at": "2026-10-19T23:00:47+00:00",
      "status": "ok",
@@ -12441,21 +12486,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-17T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "에스원 경력사원 채용(오피스데스크, 안전관리자)",
     "삼성물산 패션부문 경력사원 채용(마케팅, 온라인컨텐츠기획, 패션디자이너, Buying MD, 홀서비스)",
     "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질, 현장관리)",
     "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
@@ -12466,43 +12502,44 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-16T01:00:41+00:00"
+   "last_new_at": "2026-10-20T01:00:43+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK키파운드리 구매 분야 경력 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262273",
+    "date": "",
+    "found_at": "2026-10-20T01:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262276",
+    "date": "",
+    "found_at": "2026-10-20T01:00:45+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
+    "url": "https://www.samsungcareers.com/hr/?no=23364",
+    "date": "2026.10.20 ~ 2026.11.06",
+    "found_at": "2026-10-20T01:00:45+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-20T01:00:45+00:00",
   "last_sent": "2026-10-19T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "NPU/SoC 개발 PM",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=341",
-   "date": "20261231",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "NPU 설계",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=342",
-   "date": "20261231",
-   "found_at": "2026-09-15T01:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 튀르키예 주재원 경력직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261993",
-   "date": "",
-   "found_at": "2026-09-15T03:00:51+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -16975,6 +17012,33 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
    "date": "2026.10.31 23:59",
    "found_at": "2026-10-19T11:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK키파운드리 구매 분야 경력 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262273",
+   "date": "",
+   "found_at": "2026-10-20T01:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262276",
+   "date": "",
+   "found_at": "2026-10-20T01:00:45+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
+   "url": "https://www.samsungcareers.com/hr/?no=23364",
+   "date": "2026.10.20 ~ 2026.11.06",
+   "found_at": "2026-10-20T01:00:45+00:00"
   }
  ]
 }
