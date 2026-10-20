@@ -1,32 +1,38 @@
 {
- "at": "2026-10-20T05:00:46+00:00",
+ "at": "2026-10-20T07:00:45+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 12,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-21 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 10-21 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 20,
   "alerts": 0,
   "since": "2026-10-20T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39372568516",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39383753698",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 68,
+   "status": "new",
+   "item_count": 69,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화생명] 정보보호팀 '정보보호' 경력채용(사원~차장)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20001",
+     "date": "2026.11.04 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,19 +52,64 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 153,
+   "item_count": 164,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK이터닉스 회계 담당 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262282",
+     "title": "[SK에어플러스] 프로젝트 구매·납기 및 물류관리",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262192",
      "date": ""
     },
     {
-     "title": "SK온 보안정책 담당자 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262277",
+     "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262284",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262285",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262286",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262287",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262289",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262290",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262291",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 배관 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262292",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 해양플랜트 프로젝트 PM 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262288",
+     "date": ""
+    },
+    {
+     "title": "총무 담당 (3년 이상)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262293",
      "date": ""
     }
    ]
