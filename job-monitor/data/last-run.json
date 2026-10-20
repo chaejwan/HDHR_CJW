@@ -1,5 +1,5 @@
 {
- "at": "2026-10-20T17:00:47+00:00",
+ "at": "2026-10-20T19:00:48+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -14,7 +14,7 @@
   "since": "2026-10-20T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39462390159",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39479724075",
  "results": [
   {
    "site_id": "hanwhain",
