@@ -1738,8 +1738,8 @@
      "first_seen": "2026-10-21T09:00:36+00:00"
     }
    },
-   "last_check": "2026-10-21T11:00:38+00:00",
-   "last_success": "2026-10-21T11:00:38+00:00",
+   "last_check": "2026-10-21T13:00:42+00:00",
+   "last_success": "2026-10-21T13:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1747,6 +1747,16 @@
    "fingerprint": "a47d5b1539746924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T13:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T11:00:38+00:00",
      "status": "ok",
@@ -2088,16 +2098,6 @@
        "date": "2026.11.01 18:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-19T01:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 63,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6289,8 +6289,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-21T11:00:39+00:00",
-   "last_success": "2026-10-21T11:00:39+00:00",
+   "last_check": "2026-10-21T13:00:43+00:00",
+   "last_success": "2026-10-21T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6298,6 +6298,16 @@
    "fingerprint": "8bdaeb374b567fb7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T11:00:39+00:00",
      "status": "ok",
@@ -6580,16 +6590,6 @@
     },
     {
      "at": "2026-10-19T03:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T01:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9216,15 +9216,25 @@
      "first_seen": "2026-10-21T11:00:44+00:00"
     }
    },
-   "last_check": "2026-10-21T11:00:44+00:00",
-   "last_success": "2026-10-21T11:00:44+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-21T13:00:48+00:00",
+   "last_success": "2026-10-21T13:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 172,
    "fingerprint": "746090dad18dd76e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 172,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T11:00:44+00:00",
      "status": "new",
@@ -9719,16 +9729,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-19T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 149,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11610,15 +11610,25 @@
      "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T11:00:46+00:00",
-   "last_success": "2026-10-21T11:00:46+00:00",
+   "last_check": "2026-10-21T13:00:49+00:00",
+   "last_success": "2026-10-21T13:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
-   "fingerprint": "6cd2d3ce557c1c6e",
+   "fingerprint": "c43ab384ef546fbe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T13:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T11:00:46+00:00",
      "status": "ok",
@@ -11940,22 +11950,6 @@
        "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
        "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
        "date": "20261102"
-      }
-     ]
-    },
-    {
-     "at": "2026-10-19T01:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[소프티어 부트캠프] Backend Developer",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=189",
-       "date": "20261103"
       }
      ]
     }
@@ -12591,8 +12585,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-21T11:00:49+00:00",
-   "last_success": "2026-10-21T11:00:49+00:00",
+   "last_check": "2026-10-21T13:00:51+00:00",
+   "last_success": "2026-10-21T13:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12600,6 +12594,16 @@
    "fingerprint": "1198dbcba6277b88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T13:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T11:00:49+00:00",
      "status": "ok",
@@ -12894,16 +12898,6 @@
     },
     {
      "at": "2026-10-19T03:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T01:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
