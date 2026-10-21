@@ -1738,8 +1738,8 @@
      "first_seen": "2026-10-21T09:00:36+00:00"
     }
    },
-   "last_check": "2026-10-21T21:00:41+00:00",
-   "last_success": "2026-10-21T21:00:41+00:00",
+   "last_check": "2026-10-21T23:00:36+00:00",
+   "last_success": "2026-10-21T23:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1747,6 +1747,16 @@
    "fingerprint": "a47d5b1539746924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T23:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T21:00:41+00:00",
      "status": "ok",
@@ -2071,22 +2081,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T11:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 67,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
-       "date": "2026.10.31 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6278,8 +6272,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-21T21:00:42+00:00",
-   "last_success": "2026-10-21T21:00:42+00:00",
+   "last_check": "2026-10-21T23:00:37+00:00",
+   "last_success": "2026-10-21T23:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6287,6 +6281,16 @@
    "fingerprint": "283ff38b17b24289",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T23:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T21:00:42+00:00",
      "status": "ok",
@@ -6569,16 +6573,6 @@
     },
     {
      "at": "2026-10-19T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T11:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9205,8 +9199,8 @@
      "first_seen": "2026-10-21T11:00:44+00:00"
     }
    },
-   "last_check": "2026-10-21T21:00:48+00:00",
-   "last_success": "2026-10-21T21:00:48+00:00",
+   "last_check": "2026-10-21T23:00:41+00:00",
+   "last_success": "2026-10-21T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9214,6 +9208,16 @@
    "fingerprint": "605aaa05f107ee4c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T21:00:48+00:00",
      "status": "ok",
@@ -9657,16 +9661,6 @@
     },
     {
      "at": "2026-10-19T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 155,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11555,8 +11549,8 @@
      "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T21:00:49+00:00",
-   "last_success": "2026-10-21T21:00:49+00:00",
+   "last_check": "2026-10-21T23:00:43+00:00",
+   "last_success": "2026-10-21T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11564,6 +11558,16 @@
    "fingerprint": "eeebee8b16749c7c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T21:00:49+00:00",
      "status": "ok",
@@ -11858,16 +11862,6 @@
     },
     {
      "at": "2026-10-19T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T11:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12508,8 +12502,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-21T21:00:51+00:00",
-   "last_success": "2026-10-21T21:00:51+00:00",
+   "last_check": "2026-10-21T23:00:45+00:00",
+   "last_success": "2026-10-21T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12517,6 +12511,16 @@
    "fingerprint": "e1016fa8c9c4d1da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T21:00:51+00:00",
      "status": "ok",
@@ -12818,16 +12822,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T11:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12848,119 +12842,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK이터닉스 세무 담당 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262303",
-    "date": "",
-    "found_at": "2026-10-21T01:00:49+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성중공업 경력사원 채용(보건관리자)",
-    "url": "https://www.samsungcareers.com/hr/?no=23343",
-    "date": "2026.10.21 ~ 2026.11.03",
-    "found_at": "2026-10-21T01:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 위성영상 분석/판독 솔루션 개발 엔지니어 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20011",
-    "date": "2026.11.08 23:59",
-    "found_at": "2026-10-21T03:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[10월] 월간 hy-way(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262302",
-    "date": "",
-    "found_at": "2026-10-21T03:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-    "date": "",
-    "found_at": "2026-10-21T03:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262305",
-    "date": "",
-    "found_at": "2026-10-21T07:00:43+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "구매/물류 PI 담당자 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
-    "date": "2026.11.01 23:59",
-    "found_at": "2026-10-21T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262309",
-    "date": "",
-    "found_at": "2026-10-21T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Application 구축/운영 전문가 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262274",
-    "date": "",
-    "found_at": "2026-10-21T11:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AX/AI 프로젝트 PM/PL 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262275",
-    "date": "",
-    "found_at": "2026-10-21T11:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Application 구축/운영 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262281",
-    "date": "",
-    "found_at": "2026-10-21T11:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AX/AI 프로젝트 PM/PL 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262283",
-    "date": "",
-    "found_at": "2026-10-21T11:00:50+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-21T01:00:49+00:00",
-  "last_sent": "2026-10-20T23:00:47+00:00"
+  "since": "",
+  "last_sent": "2026-10-21T23:00:50+00:00"
  },
  "archive": [
   {
