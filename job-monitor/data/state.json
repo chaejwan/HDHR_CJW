@@ -1738,15 +1738,25 @@
      "first_seen": "2026-10-21T09:00:36+00:00"
     }
    },
-   "last_check": "2026-10-21T17:00:40+00:00",
-   "last_success": "2026-10-21T15:00:44+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-10-21T19:00:41+00:00",
+   "last_success": "2026-10-21T19:00:41+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
    "item_count": 72,
    "fingerprint": "a47d5b1539746924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T17:00:40+00:00",
      "status": "error",
@@ -2077,20 +2087,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T07:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 64,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "[한화솔루션 큐셀] ES사업부 Global EMS 구매담당 경력직 채용",
     "[한화생명] 마케팅추진팀 'GA 운영전략 담당' 경력채용(대리~과장급)",
@@ -6278,8 +6278,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-21T17:03:07+00:00",
-   "last_success": "2026-10-21T17:03:07+00:00",
+   "last_check": "2026-10-21T19:00:42+00:00",
+   "last_success": "2026-10-21T19:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6287,6 +6287,16 @@
    "fingerprint": "283ff38b17b24289",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T19:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T17:03:07+00:00",
      "status": "ok",
@@ -6569,16 +6579,6 @@
     },
     {
      "at": "2026-10-19T09:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T07:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9205,8 +9205,8 @@
      "first_seen": "2026-10-21T11:00:44+00:00"
     }
    },
-   "last_check": "2026-10-21T17:03:10+00:00",
-   "last_success": "2026-10-21T17:03:10+00:00",
+   "last_check": "2026-10-21T19:00:49+00:00",
+   "last_success": "2026-10-21T19:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9214,6 +9214,16 @@
    "fingerprint": "605aaa05f107ee4c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T19:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T17:03:10+00:00",
      "status": "ok",
@@ -9676,22 +9686,6 @@
       },
       {
        "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262271",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-19T07:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262271",
        "date": ""
       }
@@ -11577,8 +11571,8 @@
      "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T17:03:11+00:00",
-   "last_success": "2026-10-21T17:03:11+00:00",
+   "last_check": "2026-10-21T19:00:51+00:00",
+   "last_success": "2026-10-21T19:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11586,6 +11580,16 @@
    "fingerprint": "eeebee8b16749c7c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T19:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T17:03:11+00:00",
      "status": "ok",
@@ -11887,32 +11891,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T07:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 해외 영입 인재 행정 지원",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
-       "date": "20261102"
-      },
-      {
-       "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
-       "date": "20261102"
-      },
-      {
-       "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
-       "date": "20261102"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12546,8 +12524,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-21T17:03:13+00:00",
-   "last_success": "2026-10-21T17:03:13+00:00",
+   "last_check": "2026-10-21T19:00:53+00:00",
+   "last_success": "2026-10-21T19:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12555,6 +12533,16 @@
    "fingerprint": "e1016fa8c9c4d1da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T19:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T17:03:13+00:00",
      "status": "ok",
@@ -12853,16 +12841,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T07:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
      "error": "",
      "note": "",
      "new": []
