@@ -1,20 +1,20 @@
 {
- "at": "2026-10-21T05:00:44+00:00",
+ "at": "2026-10-21T07:00:43+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-22 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 10-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 6,
   "alerts": 0,
   "since": "2026-10-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39547128353",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39559021372",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 170,
+   "status": "new",
+   "item_count": 171,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262305",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",

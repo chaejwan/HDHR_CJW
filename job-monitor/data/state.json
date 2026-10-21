@@ -1732,8 +1732,8 @@
      "first_seen": "2026-10-21T03:00:40+00:00"
     }
    },
-   "last_check": "2026-10-21T05:00:36+00:00",
-   "last_success": "2026-10-21T05:00:36+00:00",
+   "last_check": "2026-10-21T07:00:36+00:00",
+   "last_success": "2026-10-21T07:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1741,6 +1741,16 @@
    "fingerprint": "230146137dd391e7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T07:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T05:00:36+00:00",
      "status": "ok",
@@ -2069,16 +2079,6 @@
     },
     {
      "at": "2026-10-18T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 63,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T19:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6277,8 +6277,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-21T05:00:37+00:00",
-   "last_success": "2026-10-21T05:00:37+00:00",
+   "last_check": "2026-10-21T07:00:37+00:00",
+   "last_success": "2026-10-21T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6286,6 +6286,16 @@
    "fingerprint": "8bdaeb374b567fb7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T05:00:37+00:00",
      "status": "ok",
@@ -6568,16 +6578,6 @@
     },
     {
      "at": "2026-10-18T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T19:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9166,17 +9166,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262304",
      "date": "",
      "first_seen": "2026-10-21T03:00:47+00:00"
+    },
+    "9c3cced143705463": {
+     "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262305",
+     "date": "",
+     "first_seen": "2026-10-21T07:00:39+00:00"
     }
    },
-   "last_check": "2026-10-21T05:00:40+00:00",
-   "last_success": "2026-10-21T05:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-21T07:00:39+00:00",
+   "last_success": "2026-10-21T07:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 170,
-   "fingerprint": "c8fe9bf7f7a5bed7",
+   "item_count": 171,
+   "fingerprint": "51b472fa8333e0ec",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 171,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262305",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-21T05:00:40+00:00",
      "status": "ok",
@@ -9638,16 +9660,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 149,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9664,7 +9676,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-21T03:00:47+00:00"
+   "last_new_at": "2026-10-21T07:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11529,15 +11541,25 @@
      "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T05:00:41+00:00",
-   "last_success": "2026-10-21T05:00:41+00:00",
+   "last_check": "2026-10-21T07:00:40+00:00",
+   "last_success": "2026-10-21T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
-   "fingerprint": "cf7e929f4530aeb6",
+   "fingerprint": "508fc941720021c4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T05:00:41+00:00",
      "status": "ok",
@@ -11860,16 +11882,6 @@
     },
     {
      "at": "2026-10-18T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T19:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12510,8 +12522,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-21T05:00:43+00:00",
-   "last_success": "2026-10-21T05:00:43+00:00",
+   "last_check": "2026-10-21T07:00:42+00:00",
+   "last_success": "2026-10-21T07:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12519,6 +12531,16 @@
    "fingerprint": "1198dbcba6277b88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T07:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T05:00:43+00:00",
      "status": "ok",
@@ -12820,16 +12842,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T19:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12895,6 +12907,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262304",
     "date": "",
     "found_at": "2026-10-21T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262305",
+    "date": "",
+    "found_at": "2026-10-21T07:00:43+00:00"
    }
   ],
   "alerts": [],
@@ -12902,15 +12923,6 @@
   "last_sent": "2026-10-20T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 보건관리자(간호사) 계약직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262004",
-   "date": "",
-   "found_at": "2026-09-16T03:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17401,6 +17413,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262304",
    "date": "",
    "found_at": "2026-10-21T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262305",
+   "date": "",
+   "found_at": "2026-10-21T07:00:43+00:00"
   }
  ]
 }
