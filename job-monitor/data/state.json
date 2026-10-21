@@ -1730,17 +1730,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20011",
      "date": "2026.11.08 23:59",
      "first_seen": "2026-10-21T03:00:40+00:00"
+    },
+    "8588ec8f4172f2b6": {
+     "title": "구매/물류 PI 담당자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+     "date": "2026.11.01 23:59",
+     "first_seen": "2026-10-21T09:00:36+00:00"
     }
    },
-   "last_check": "2026-10-21T07:00:36+00:00",
-   "last_success": "2026-10-21T07:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-21T09:00:36+00:00",
+   "last_success": "2026-10-21T09:00:36+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 71,
-   "fingerprint": "230146137dd391e7",
+   "item_count": 72,
+   "fingerprint": "a47d5b1539746924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T09:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "구매/물류 PI 담당자 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+       "date": "2026.11.01 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-21T07:00:36+00:00",
      "status": "ok",
@@ -2076,16 +2098,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 63,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2102,7 +2114,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-21T03:00:40+00:00"
+   "last_new_at": "2026-10-21T09:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6277,8 +6289,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-21T07:00:37+00:00",
-   "last_success": "2026-10-21T07:00:37+00:00",
+   "last_check": "2026-10-21T09:00:38+00:00",
+   "last_success": "2026-10-21T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6286,6 +6298,16 @@
    "fingerprint": "8bdaeb374b567fb7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T07:00:37+00:00",
      "status": "ok",
@@ -6568,16 +6590,6 @@
     },
     {
      "at": "2026-10-18T23:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9172,17 +9184,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262305",
      "date": "",
      "first_seen": "2026-10-21T07:00:39+00:00"
+    },
+    "c7a87df64321fadb": {
+     "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262309",
+     "date": "",
+     "first_seen": "2026-10-21T09:00:45+00:00"
     }
    },
-   "last_check": "2026-10-21T07:00:39+00:00",
-   "last_success": "2026-10-21T07:00:39+00:00",
+   "last_check": "2026-10-21T09:00:45+00:00",
+   "last_success": "2026-10-21T09:00:45+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 171,
-   "fingerprint": "51b472fa8333e0ec",
+   "item_count": 168,
+   "fingerprint": "de8b7d73277878c3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T09:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 168,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262309",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-21T07:00:39+00:00",
      "status": "new",
@@ -9650,33 +9684,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T21:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 149,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "용인 부속의원 의료기사(임상병리사,물리치료사,방사선사) 채용",
-    "2026 하반기 신입사원 채용 (원액/완제생산(DS/DP))",
-    "2026 하반기 신입사원 채용 (품질보증(QA))",
-    "2026 하반기 신입사원 채용 (품질관리(QC))",
-    "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집"
+    "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집",
+    "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+    "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+    "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
+    "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-21T07:00:39+00:00"
+   "last_new_at": "2026-10-21T09:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11541,15 +11565,25 @@
      "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T07:00:40+00:00",
-   "last_success": "2026-10-21T07:00:40+00:00",
+   "last_check": "2026-10-21T09:00:46+00:00",
+   "last_success": "2026-10-21T09:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
-   "fingerprint": "508fc941720021c4",
+   "fingerprint": "6cd2d3ce557c1c6e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T09:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T07:00:40+00:00",
      "status": "ok",
@@ -11872,16 +11906,6 @@
     },
     {
      "at": "2026-10-18T23:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-18T21:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12522,8 +12546,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-21T07:00:42+00:00",
-   "last_success": "2026-10-21T07:00:42+00:00",
+   "last_check": "2026-10-21T09:00:49+00:00",
+   "last_success": "2026-10-21T09:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12531,6 +12555,16 @@
    "fingerprint": "1198dbcba6277b88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-21T09:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T07:00:42+00:00",
      "status": "ok",
@@ -12832,16 +12866,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-18T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12916,6 +12940,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262305",
     "date": "",
     "found_at": "2026-10-21T07:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "구매/물류 PI 담당자 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+    "date": "2026.11.01 23:59",
+    "found_at": "2026-10-21T09:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262309",
+    "date": "",
+    "found_at": "2026-10-21T09:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -12923,24 +12965,6 @@
   "last_sent": "2026-10-20T23:00:47+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "디앤디프라퍼티솔루션 IT 시스템 운영 담당자 모집의 건",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262006",
-   "date": "",
-   "found_at": "2026-09-16T05:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] IR/공시 담당 구성원 모집(경력/신입)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262003",
-   "date": "",
-   "found_at": "2026-09-16T05:00:49+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17422,6 +17446,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262305",
    "date": "",
    "found_at": "2026-10-21T07:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "구매/물류 PI 담당자 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+   "date": "2026.11.01 23:59",
+   "found_at": "2026-10-21T09:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262309",
+   "date": "",
+   "found_at": "2026-10-21T09:00:50+00:00"
   }
  ]
 }

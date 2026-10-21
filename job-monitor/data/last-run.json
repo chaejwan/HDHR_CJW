@@ -1,32 +1,38 @@
 {
- "at": "2026-10-21T07:00:43+00:00",
+ "at": "2026-10-21T09:00:50+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 10-22 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 8,
   "alerts": 0,
   "since": "2026-10-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39559021372",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39573603537",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 71,
+   "status": "new",
+   "item_count": 72,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "구매/물류 PI 담당자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+     "date": "2026.11.01 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,14 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 171,
+   "item_count": 168,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262305",
+     "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262309",
      "date": ""
     }
    ]
