@@ -1,38 +1,32 @@
 {
- "at": "2026-10-21T09:00:50+00:00",
+ "at": "2026-10-21T11:00:50+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-22 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 12,
   "alerts": 0,
   "since": "2026-10-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39573603537",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39588738597",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 72,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "구매/물류 PI 담당자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
-     "date": "2026.11.01 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,14 +46,29 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 168,
+   "item_count": 172,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262309",
+     "title": "Application 구축/운영 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262274",
+     "date": ""
+    },
+    {
+     "title": "AX/AI 프로젝트 PM/PL 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262275",
+     "date": ""
+    },
+    {
+     "title": "Application 구축/운영 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262281",
+     "date": ""
+    },
+    {
+     "title": "AX/AI 프로젝트 PM/PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262283",
      "date": ""
     }
    ]
