@@ -1,20 +1,20 @@
 {
- "at": "2026-10-20T23:00:45+00:00",
+ "at": "2026-10-21T01:00:49+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 2,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 10-22 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 2,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39512087302",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39524740744",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,42 +45,48 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 167,
+   "status": "new",
+   "item_count": 168,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK이터닉스 세무 담당 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262303",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 79,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=387",
-     "date": "20261231"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 4,
+   "status": "new",
+   "item_count": 5,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성중공업 경력사원 채용(보건관리자)",
+     "url": "https://www.samsungcareers.com/hr/?no=23343",
+     "date": "2026.10.21 ~ 2026.11.03"
+    }
+   ]
   }
  ]
 }
