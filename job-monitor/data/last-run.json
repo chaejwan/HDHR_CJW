@@ -1,7 +1,7 @@
 {
- "at": "2026-10-21T03:00:51+00:00",
+ "at": "2026-10-21T05:00:44+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-10-21T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39536169799",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39547128353",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 71,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화시스템 위성영상 분석/판독 솔루션 개발 엔지니어 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20011",
-     "date": "2026.11.08 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,23 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 170,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[10월] 월간 hy-way(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262302",
-     "date": ""
-    },
-    {
-     "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
