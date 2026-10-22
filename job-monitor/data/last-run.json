@@ -1,20 +1,20 @@
 {
- "at": "2026-10-22T15:00:54+00:00",
+ "at": "2026-10-22T17:00:55+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 18건 · 점검 0건). 10-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 10-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 18,
+  "items": 19,
   "alerts": 0,
   "since": "2026-10-22T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39800769130",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39818881312",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 166,
+   "status": "new",
+   "item_count": 167,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262333",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",

@@ -1774,8 +1774,8 @@
      "first_seen": "2026-10-22T09:00:40+00:00"
     }
    },
-   "last_check": "2026-10-22T15:00:45+00:00",
-   "last_success": "2026-10-22T15:00:45+00:00",
+   "last_check": "2026-10-22T17:00:43+00:00",
+   "last_success": "2026-10-22T17:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1783,6 +1783,16 @@
    "fingerprint": "a2c598bdad2dc55c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T17:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T15:00:45+00:00",
      "status": "ok",
@@ -2129,16 +2139,6 @@
        "date": "2026.11.04 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-20T05:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6330,8 +6330,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-22T15:00:46+00:00",
-   "last_success": "2026-10-22T15:00:46+00:00",
+   "last_check": "2026-10-22T17:00:44+00:00",
+   "last_success": "2026-10-22T17:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6339,6 +6339,16 @@
    "fingerprint": "1141154d35622f89",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T17:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T15:00:46+00:00",
      "status": "ok",
@@ -6621,16 +6631,6 @@
     },
     {
      "at": "2026-10-20T07:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T05:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9315,17 +9315,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262331",
      "date": "",
      "first_seen": "2026-10-22T09:00:46+00:00"
+    },
+    "bd8a475e2cab4854": {
+     "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262333",
+     "date": "",
+     "first_seen": "2026-10-22T17:00:50+00:00"
     }
    },
-   "last_check": "2026-10-22T15:00:50+00:00",
-   "last_success": "2026-10-22T15:00:50+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-22T17:00:50+00:00",
+   "last_success": "2026-10-22T17:00:50+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 166,
-   "fingerprint": "0a3de684d90d74ae",
+   "item_count": 167,
+   "fingerprint": "a25f846bd0d0639f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T17:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262333",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-22T15:00:50+00:00",
      "status": "ok",
@@ -9803,27 +9825,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-20T05:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 153,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK이터닉스 회계 담당 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262282",
-       "date": ""
-      },
-      {
-       "title": "SK온 보안정책 담당자 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262277",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9840,7 +9841,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-22T09:00:46+00:00"
+   "last_new_at": "2026-10-22T17:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11717,15 +11718,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T15:00:51+00:00",
-   "last_success": "2026-10-22T15:00:51+00:00",
+   "last_check": "2026-10-22T17:00:51+00:00",
+   "last_success": "2026-10-22T17:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "177ff729aec8bd11",
+   "fingerprint": "b734f5843487b95d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T17:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T15:00:51+00:00",
      "status": "ok",
@@ -12032,16 +12043,6 @@
     },
     {
      "at": "2026-10-20T07:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T05:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12682,8 +12683,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T15:00:53+00:00",
-   "last_success": "2026-10-22T15:00:53+00:00",
+   "last_check": "2026-10-22T17:00:53+00:00",
+   "last_success": "2026-10-22T17:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12691,6 +12692,16 @@
    "fingerprint": "8851d8e6d6aa7d3a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T17:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T15:00:53+00:00",
      "status": "ok",
@@ -12986,16 +12997,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T05:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13178,6 +13179,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262331",
     "date": "",
     "found_at": "2026-10-22T09:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262333",
+    "date": "",
+    "found_at": "2026-10-22T17:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -13185,15 +13195,6 @@
   "last_sent": "2026-10-21T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "26년 울산 현장 기술사원 모집(계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262009",
-   "date": "",
-   "found_at": "2026-09-17T03:00:51+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17684,6 +17685,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262331",
    "date": "",
    "found_at": "2026-10-22T09:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262333",
+   "date": "",
+   "found_at": "2026-10-22T17:00:55+00:00"
   }
  ]
 }
