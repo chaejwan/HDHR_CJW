@@ -1774,8 +1774,8 @@
      "first_seen": "2026-10-22T09:00:40+00:00"
     }
    },
-   "last_check": "2026-10-22T21:00:40+00:00",
-   "last_success": "2026-10-22T21:00:40+00:00",
+   "last_check": "2026-10-22T23:00:38+00:00",
+   "last_success": "2026-10-22T23:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1783,6 +1783,16 @@
    "fingerprint": "a2c598bdad2dc55c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T23:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T21:00:40+00:00",
      "status": "ok",
@@ -2110,16 +2120,6 @@
     },
     {
      "at": "2026-10-20T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6318,8 +6318,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-22T21:00:41+00:00",
-   "last_success": "2026-10-22T21:00:41+00:00",
+   "last_check": "2026-10-22T23:00:39+00:00",
+   "last_success": "2026-10-22T23:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6327,6 +6327,16 @@
    "fingerprint": "1141154d35622f89",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T23:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T21:00:41+00:00",
      "status": "ok",
@@ -6609,16 +6619,6 @@
     },
     {
      "at": "2026-10-20T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T11:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9311,8 +9311,8 @@
      "first_seen": "2026-10-22T17:00:50+00:00"
     }
    },
-   "last_check": "2026-10-22T21:00:44+00:00",
-   "last_success": "2026-10-22T21:00:44+00:00",
+   "last_check": "2026-10-22T23:00:42+00:00",
+   "last_success": "2026-10-22T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9320,6 +9320,16 @@
    "fingerprint": "a25f846bd0d0639f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T21:00:44+00:00",
      "status": "ok",
@@ -9734,16 +9744,6 @@
     },
     {
      "at": "2026-10-20T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 165,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11644,15 +11644,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T21:00:45+00:00",
-   "last_success": "2026-10-22T21:00:45+00:00",
+   "last_check": "2026-10-22T23:00:43+00:00",
+   "last_success": "2026-10-22T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "b6d45549e194ab86",
+   "fingerprint": "0d3110d6eaef5231",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T21:00:45+00:00",
      "status": "ok",
@@ -11953,16 +11963,6 @@
     },
     {
      "at": "2026-10-20T13:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T11:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12603,8 +12603,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T21:00:47+00:00",
-   "last_success": "2026-10-22T21:00:47+00:00",
+   "last_check": "2026-10-22T23:00:46+00:00",
+   "last_success": "2026-10-22T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12612,6 +12612,16 @@
    "fingerprint": "8851d8e6d6aa7d3a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T21:00:47+00:00",
      "status": "ok",
@@ -12907,16 +12917,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T11:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12937,182 +12937,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Backend Engineer – 모빌리티 서비스",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262310",
-    "date": "",
-    "found_at": "2026-10-22T01:00:46+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화에어로스페이스] 항공사업부 채용 코디네이터 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20016",
-    "date": "2026.11.01 23:59",
-    "found_at": "2026-10-22T03:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화에어로스페이스] 사업∙행정관리 (전표관리) 담당자 (계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20017",
-    "date": "2026.11.08 23:59",
-    "found_at": "2026-10-22T03:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 가구사업 안전관리자 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262319",
-    "date": "",
-    "found_at": "2026-10-22T03:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 부동산 임대행정 인턴모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262314",
-    "date": "",
-    "found_at": "2026-10-22T03:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262317",
-    "date": "",
-    "found_at": "2026-10-22T03:00:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 제네시스 사업 운영 지원 (장애인 제한경쟁)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=246",
-    "date": "20261026",
-    "found_at": "2026-10-22T03:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 대전 총무운영원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262312",
-    "date": "",
-    "found_at": "2026-10-22T05:00:43+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
-    "date": "2026.11.04 15:00",
-    "found_at": "2026-10-22T07:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
-    "date": "2026.11.06 15:00",
-    "found_at": "2026-10-22T07:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262327",
-    "date": "",
-    "found_at": "2026-10-22T07:00:51+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[아르바이트] 채용지원(남양, 판교)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
-    "date": "20261102",
-    "found_at": "2026-10-22T07:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 정보보호사무국 경력채용 - 보안 컴플라이언스 관리",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
-    "date": "2026.11.02 10:00",
-    "found_at": "2026-10-22T09:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 정보보호사무국 경력채용 - 정보보호 컴플라이언스 진단",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
-    "date": "2026.11.02 10:00",
-    "found_at": "2026-10-22T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] ASU Operator 경력직",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262330",
-    "date": "",
-    "found_at": "2026-10-22T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262328",
-    "date": "",
-    "found_at": "2026-10-22T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262329",
-    "date": "",
-    "found_at": "2026-10-22T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262331",
-    "date": "",
-    "found_at": "2026-10-22T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 GMP Utility 시설 관리 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262333",
-    "date": "",
-    "found_at": "2026-10-22T17:00:55+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-22T01:00:46+00:00",
-  "last_sent": "2026-10-21T23:00:50+00:00"
+  "since": "",
+  "last_sent": "2026-10-22T23:00:49+00:00"
  },
  "archive": [
   {
