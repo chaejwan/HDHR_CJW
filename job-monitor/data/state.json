@@ -1738,8 +1738,8 @@
      "first_seen": "2026-10-21T09:00:36+00:00"
     }
    },
-   "last_check": "2026-10-21T23:00:36+00:00",
-   "last_success": "2026-10-21T23:00:36+00:00",
+   "last_check": "2026-10-22T01:00:38+00:00",
+   "last_success": "2026-10-22T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1747,6 +1747,16 @@
    "fingerprint": "a47d5b1539746924",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T23:00:36+00:00",
      "status": "ok",
@@ -2068,16 +2078,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 67,
      "error": "",
      "note": "",
      "new": []
@@ -6272,8 +6272,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-21T23:00:37+00:00",
-   "last_success": "2026-10-21T23:00:37+00:00",
+   "last_check": "2026-10-22T01:00:39+00:00",
+   "last_success": "2026-10-22T01:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6281,6 +6281,16 @@
    "fingerprint": "283ff38b17b24289",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T01:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T23:00:37+00:00",
      "status": "ok",
@@ -6563,16 +6573,6 @@
     },
     {
      "at": "2026-10-19T15:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T13:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9197,17 +9197,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262283",
      "date": "",
      "first_seen": "2026-10-21T11:00:44+00:00"
+    },
+    "edff3aa8ecc9a324": {
+     "title": "Backend Engineer – 모빌리티 서비스",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262310",
+     "date": "",
+     "first_seen": "2026-10-22T01:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T23:00:41+00:00",
-   "last_success": "2026-10-21T23:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-22T01:00:41+00:00",
+   "last_success": "2026-10-22T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 156,
-   "fingerprint": "605aaa05f107ee4c",
+   "item_count": 157,
+   "fingerprint": "ff78b17f37f3e6f5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Backend Engineer – 모빌리티 서비스",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262310",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-21T23:00:41+00:00",
      "status": "ok",
@@ -9658,16 +9680,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 155,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9684,7 +9696,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-21T11:00:44+00:00"
+   "last_new_at": "2026-10-22T01:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11549,15 +11561,25 @@
      "first_seen": "2026-10-20T23:00:41+00:00"
     }
    },
-   "last_check": "2026-10-21T23:00:43+00:00",
-   "last_success": "2026-10-21T23:00:43+00:00",
+   "last_check": "2026-10-22T01:00:42+00:00",
+   "last_success": "2026-10-22T01:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 78,
-   "fingerprint": "eeebee8b16749c7c",
+   "fingerprint": "8b26ab9537b2b153",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T01:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T23:00:43+00:00",
      "status": "ok",
@@ -11856,16 +11878,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 76,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
      "error": "",
      "note": "",
      "new": []
@@ -12502,8 +12514,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-21T23:00:45+00:00",
-   "last_success": "2026-10-21T23:00:45+00:00",
+   "last_check": "2026-10-22T01:00:45+00:00",
+   "last_success": "2026-10-22T01:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12511,6 +12523,16 @@
    "fingerprint": "e1016fa8c9c4d1da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T01:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-21T23:00:45+00:00",
      "status": "ok",
@@ -12812,16 +12834,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12842,21 +12854,22 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Backend Engineer – 모빌리티 서비스",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262310",
+    "date": "",
+    "found_at": "2026-10-22T01:00:46+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-22T01:00:46+00:00",
   "last_sent": "2026-10-21T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 케미칼소재 R&D 분석 연구원 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19777",
-   "date": "2026.09.27 18:00",
-   "found_at": "2026-09-16T09:00:45+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17347,6 +17360,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262283",
    "date": "",
    "found_at": "2026-10-21T11:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Backend Engineer – 모빌리티 서비스",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262310",
+   "date": "",
+   "found_at": "2026-10-22T01:00:46+00:00"
   }
  ]
 }
