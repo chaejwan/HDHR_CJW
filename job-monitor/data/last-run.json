@@ -1,20 +1,20 @@
 {
- "at": "2026-10-22T07:00:51+00:00",
+ "at": "2026-10-22T09:00:50+00:00",
  "checked": 5,
- "new_total": 4,
+ "new_total": 6,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 18건 · 점검 0건). 10-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 12,
+  "items": 18,
   "alerts": 0,
   "since": "2026-10-22T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39737559357",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39752076723",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,20 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 76,
+   "item_count": 78,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
-     "date": "2026.11.04 15:00"
+     "title": "한화솔루션 정보보호사무국 경력채용 - 보안 컴플라이언스 관리",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
+     "date": "2026.11.02 10:00"
     },
     {
-     "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
-     "date": "2026.11.06 15:00"
+     "title": "한화솔루션 정보보호사무국 경력채용 - 정보보호 컴플라이언스 진단",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
+     "date": "2026.11.02 10:00"
     }
    ]
   },
@@ -57,14 +57,29 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 163,
+   "item_count": 167,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262327",
+     "title": "[SK에어코어] ASU Operator 경력직",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262330",
+     "date": ""
+    },
+    {
+     "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262328",
+     "date": ""
+    },
+    {
+     "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262329",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262331",
      "date": ""
     }
    ]
@@ -74,18 +89,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
-   "item_count": 80,
+   "status": "ok",
+   "item_count": 81,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[아르바이트] 채용지원(남양, 판교)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
-     "date": "20261102"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
