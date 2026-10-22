@@ -1,7 +1,7 @@
 {
- "at": "2026-10-22T09:00:50+00:00",
+ "at": "2026-10-22T11:00:52+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,30 +14,19 @@
   "since": "2026-10-22T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39752076723",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39767339901",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 78,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화솔루션 정보보호사무국 경력채용 - 보안 컴플라이언스 관리",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
-     "date": "2026.11.02 10:00"
-    },
-    {
-     "title": "한화솔루션 정보보호사무국 경력채용 - 정보보호 컴플라이언스 진단",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
-     "date": "2026.11.02 10:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -56,33 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 167,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[SK에어코어] ASU Operator 경력직",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262330",
-     "date": ""
-    },
-    {
-     "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262328",
-     "date": ""
-    },
-    {
-     "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262329",
-     "date": ""
-    },
-    {
-     "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262331",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
