@@ -1774,8 +1774,8 @@
      "first_seen": "2026-10-22T09:00:40+00:00"
     }
    },
-   "last_check": "2026-10-22T11:00:39+00:00",
-   "last_success": "2026-10-22T11:00:39+00:00",
+   "last_check": "2026-10-22T13:00:40+00:00",
+   "last_success": "2026-10-22T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1783,6 +1783,16 @@
    "fingerprint": "a2c598bdad2dc55c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T11:00:39+00:00",
      "status": "ok",
@@ -2140,16 +2150,6 @@
        "date": "2026.11.02 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-20T01:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6341,8 +6341,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-22T11:00:40+00:00",
-   "last_success": "2026-10-22T11:00:40+00:00",
+   "last_check": "2026-10-22T13:00:41+00:00",
+   "last_success": "2026-10-22T13:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6350,6 +6350,16 @@
    "fingerprint": "283ff38b17b24289",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T13:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T11:00:40+00:00",
      "status": "ok",
@@ -6632,16 +6642,6 @@
     },
     {
      "at": "2026-10-20T03:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9328,8 +9328,8 @@
      "first_seen": "2026-10-22T09:00:46+00:00"
     }
    },
-   "last_check": "2026-10-22T11:00:46+00:00",
-   "last_success": "2026-10-22T11:00:46+00:00",
+   "last_check": "2026-10-22T13:00:44+00:00",
+   "last_success": "2026-10-22T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9337,6 +9337,16 @@
    "fingerprint": "bfab3b77db95543a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T11:00:46+00:00",
      "status": "ok",
@@ -9828,27 +9838,6 @@
       {
        "title": "IT 네트워크 전문가 영입 (계약직)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262280",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-20T01:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK키파운드리 구매 분야 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262273",
-       "date": ""
-      },
-      {
-       "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262276",
        "date": ""
       }
      ]
@@ -11745,15 +11734,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T11:00:48+00:00",
-   "last_success": "2026-10-22T11:00:48+00:00",
+   "last_check": "2026-10-22T13:00:45+00:00",
+   "last_success": "2026-10-22T13:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
-   "fingerprint": "61ef60fb1d30f1d3",
+   "fingerprint": "4ee97c2ec1a34e52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T11:00:48+00:00",
      "status": "ok",
@@ -12064,16 +12063,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T01:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 76,
      "error": "",
      "note": "",
      "new": []
@@ -12710,8 +12699,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T11:00:51+00:00",
-   "last_success": "2026-10-22T11:00:51+00:00",
+   "last_check": "2026-10-22T13:00:48+00:00",
+   "last_success": "2026-10-22T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12719,6 +12708,16 @@
    "fingerprint": "e1016fa8c9c4d1da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T11:00:51+00:00",
      "status": "ok",
@@ -13014,22 +13013,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T01:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
-       "url": "https://www.samsungcareers.com/hr/?no=23364",
-       "date": "2026.10.20 ~ 2026.11.06"
-      }
-     ]
     }
    ],
    "last_note": "",
