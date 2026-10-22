@@ -1748,17 +1748,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20017",
      "date": "2026.11.08 23:59",
      "first_seen": "2026-10-22T03:00:38+00:00"
+    },
+    "e96f856ff1ddd549": {
+     "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
+     "date": "2026.11.04 15:00",
+     "first_seen": "2026-10-22T07:00:40+00:00"
+    },
+    "44f3b0e2e6f8c9b3": {
+     "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
+     "date": "2026.11.06 15:00",
+     "first_seen": "2026-10-22T07:00:40+00:00"
     }
    },
-   "last_check": "2026-10-22T05:00:35+00:00",
-   "last_success": "2026-10-22T05:00:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-22T07:00:40+00:00",
+   "last_success": "2026-10-22T07:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 74,
-   "fingerprint": "6fe2dcea33292c16",
+   "item_count": 76,
+   "fingerprint": "8ba9fce54305472d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T07:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
+       "date": "2026.11.04 15:00"
+      },
+      {
+       "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
+       "date": "2026.11.06 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-22T05:00:35+00:00",
      "status": "ok",
@@ -2094,16 +2127,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2120,7 +2143,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-22T03:00:38+00:00"
+   "last_new_at": "2026-10-22T07:00:40+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6295,8 +6318,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-22T05:00:36+00:00",
-   "last_success": "2026-10-22T05:00:36+00:00",
+   "last_check": "2026-10-22T07:00:41+00:00",
+   "last_success": "2026-10-22T07:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6304,6 +6327,16 @@
    "fingerprint": "283ff38b17b24289",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T07:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T05:00:36+00:00",
      "status": "ok",
@@ -6586,16 +6619,6 @@
     },
     {
      "at": "2026-10-19T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-19T19:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9250,17 +9273,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262312",
      "date": "",
      "first_seen": "2026-10-22T05:00:38+00:00"
+    },
+    "54ddce5e26b4e39f": {
+     "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262327",
+     "date": "",
+     "first_seen": "2026-10-22T07:00:46+00:00"
     }
    },
-   "last_check": "2026-10-22T05:00:38+00:00",
-   "last_success": "2026-10-22T05:00:38+00:00",
+   "last_check": "2026-10-22T07:00:46+00:00",
+   "last_success": "2026-10-22T07:00:46+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 162,
-   "fingerprint": "2d78e4b25fd2325d",
+   "item_count": 163,
+   "fingerprint": "037bc399f3ca7697",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T07:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262327",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-22T05:00:38+00:00",
      "status": "new",
@@ -9739,16 +9784,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T19:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 148,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9765,7 +9800,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-22T05:00:38+00:00"
+   "last_new_at": "2026-10-22T07:00:46+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11634,17 +11669,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=246",
      "date": "20261026",
      "first_seen": "2026-10-22T03:00:43+00:00"
+    },
+    "f89bb28bcdb626e0": {
+     "title": "[아르바이트] 채용지원(남양, 판교)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
+     "date": "20261102",
+     "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T05:00:39+00:00",
-   "last_success": "2026-10-22T05:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-22T07:00:47+00:00",
+   "last_success": "2026-10-22T07:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 79,
-   "fingerprint": "d69eaad877869ef8",
+   "item_count": 80,
+   "fingerprint": "d3ab488afecb996b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T07:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아르바이트] 채용지원(남양, 판교)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
+       "date": "20261102"
+      }
+     ]
+    },
     {
      "at": "2026-10-22T05:00:39+00:00",
      "status": "ok",
@@ -11952,16 +12009,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 76,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11978,7 +12025,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-22T03:00:43+00:00"
+   "last_new_at": "2026-10-22T07:00:47+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -12595,8 +12642,8 @@
      "first_seen": "2026-10-21T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T05:00:41+00:00",
-   "last_success": "2026-10-22T05:00:41+00:00",
+   "last_check": "2026-10-22T07:00:49+00:00",
+   "last_success": "2026-10-22T07:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12604,6 +12651,16 @@
    "fingerprint": "e1016fa8c9c4d1da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-22T07:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T05:00:41+00:00",
      "status": "ok",
@@ -12905,16 +12962,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-19T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13007,6 +13054,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262312",
     "date": "",
     "found_at": "2026-10-22T05:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
+    "date": "2026.11.04 15:00",
+    "found_at": "2026-10-22T07:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
+    "date": "2026.11.06 15:00",
+    "found_at": "2026-10-22T07:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262327",
+    "date": "",
+    "found_at": "2026-10-22T07:00:51+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[아르바이트] 채용지원(남양, 판교)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
+    "date": "20261102",
+    "found_at": "2026-10-22T07:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -13014,42 +13097,6 @@
   "last_sent": "2026-10-21T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[PGM사업부] 수주/제안 전략 담당 (정규직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19785",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-16T11:00:52+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[PGM사업부] 수주/제안 전략 담당 (계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19783",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-16T11:00:52+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 구미사업장 산업(건설)안전관리자 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19804",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-16T15:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "9월 Hi-tech사업 경력직 채용공고(정규직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262014",
-   "date": "",
-   "found_at": "2026-09-16T23:00:49+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17513,6 +17560,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262312",
    "date": "",
    "found_at": "2026-10-22T05:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
+   "date": "2026.11.04 15:00",
+   "found_at": "2026-10-22T07:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
+   "date": "2026.11.06 15:00",
+   "found_at": "2026-10-22T07:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262327",
+   "date": "",
+   "found_at": "2026-10-22T07:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[아르바이트] 채용지원(남양, 판교)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
+   "date": "20261102",
+   "found_at": "2026-10-22T07:00:51+00:00"
   }
  ]
 }

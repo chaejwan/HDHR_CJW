@@ -1,32 +1,43 @@
 {
- "at": "2026-10-22T05:00:43+00:00",
+ "at": "2026-10-22T07:00:51+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 12,
   "alerts": 0,
   "since": "2026-10-22T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39725545791",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39737559357",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 74,
+   "status": "new",
+   "item_count": 76,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
+     "date": "2026.11.04 15:00"
+    },
+    {
+     "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
+     "date": "2026.11.06 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,14 +57,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 162,
+   "item_count": 163,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK온 대전 총무운영원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262312",
+     "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262327",
      "date": ""
     }
    ]
@@ -63,12 +74,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 79,
+   "status": "new",
+   "item_count": 80,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[아르바이트] 채용지원(남양, 판교)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
+     "date": "20261102"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
