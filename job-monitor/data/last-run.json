@@ -1,43 +1,32 @@
 {
- "at": "2026-10-22T03:00:47+00:00",
+ "at": "2026-10-22T05:00:43+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 10-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 10-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 8,
   "alerts": 0,
   "since": "2026-10-22T01:00:46+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39714475940",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/39725545791",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 74,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화에어로스페이스] 항공사업부 채용 코디네이터 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20016",
-     "date": "2026.11.01 23:59"
-    },
-    {
-     "title": "[한화에어로스페이스] 사업∙행정관리 (전표관리) 담당자 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20017",
-     "date": "2026.11.08 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,24 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 160,
+   "item_count": 162,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "디앤디프라퍼티솔루션 가구사업 안전관리자 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262319",
-     "date": ""
-    },
-    {
-     "title": "디앤디프라퍼티솔루션 부동산 임대행정 인턴모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262314",
-     "date": ""
-    },
-    {
-     "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262317",
+     "title": "SK온 대전 총무운영원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262312",
      "date": ""
     }
    ]
@@ -84,18 +63,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 79,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 제네시스 사업 운영 지원 (장애인 제한경쟁)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=246",
-     "date": "20261026"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
