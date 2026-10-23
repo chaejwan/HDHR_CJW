@@ -1892,17 +1892,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20041",
      "date": "2026.11.12 23:59",
      "first_seen": "2026-10-23T09:00:37+00:00"
+    },
+    "ed9761fa286755ce": {
+     "title": "한화시스템 사내변호사 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20040",
+     "date": "2026.11.09 23:59",
+     "first_seen": "2026-10-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-23T13:00:43+00:00",
-   "last_success": "2026-10-23T13:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-23T15:00:42+00:00",
+   "last_success": "2026-10-23T15:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 94,
-   "fingerprint": "282521dba641b1eb",
+   "item_count": 95,
+   "fingerprint": "960f7958bc9f6bf7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T15:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 사내변호사 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20040",
+       "date": "2026.11.09 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-23T13:00:43+00:00",
      "status": "ok",
@@ -2334,22 +2356,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-21T03:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 71,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 위성영상 분석/판독 솔루션 개발 엔지니어 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20011",
-       "date": "2026.11.08 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -2366,7 +2372,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-23T09:00:37+00:00"
+   "last_new_at": "2026-10-23T15:00:42+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6541,15 +6547,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-23T13:00:44+00:00",
-   "last_success": "2026-10-23T13:00:44+00:00",
+   "last_check": "2026-10-23T15:00:43+00:00",
+   "last_success": "2026-10-23T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "1141154d35622f89",
+   "fingerprint": "c5fd2997bc721e9b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T13:00:44+00:00",
      "status": "ok",
@@ -6832,16 +6848,6 @@
     },
     {
      "at": "2026-10-21T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-21T03:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9552,15 +9558,25 @@
      "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-23T13:00:47+00:00",
-   "last_success": "2026-10-23T13:00:47+00:00",
+   "last_check": "2026-10-23T15:00:49+00:00",
+   "last_success": "2026-10-23T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 170,
-   "fingerprint": "525269cbf93d1377",
+   "item_count": 169,
+   "fingerprint": "074d51a1e6aebf32",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 169,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T13:00:47+00:00",
      "status": "ok",
@@ -9962,37 +9978,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-21T03:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[10월] 월간 hy-way(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262302",
-       "date": ""
-      },
-      {
-       "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "에이닷 검색 추천 서비스 운영 담당자",
     "SK온 기계/전기 설비 관리 기술직 채용",
     "[SK에어플러스] 프로젝트 구매·납기 및 물류관리",
     "[SK에어플러스] 기계/배관 설계 엔지니어",
-    "공공 IT 센터 인프라 설계 및 구축 전문가"
+    "공공 IT 센터 인프라 설계 및 구축 전문가",
+    "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)"
    ],
    "health": {
     "issue": "",
@@ -11876,15 +11871,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-23T13:00:48+00:00",
-   "last_success": "2026-10-23T13:00:48+00:00",
+   "last_check": "2026-10-23T15:00:50+00:00",
+   "last_success": "2026-10-23T15:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 79,
-   "fingerprint": "41bebf0e15aa5815",
+   "item_count": 78,
+   "fingerprint": "ad606e213e661918",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T15:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T13:00:48+00:00",
      "status": "ok",
@@ -12186,26 +12191,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-21T03:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 울산공장 고객출입안내",
     "[계약직] 남부하이테크센터 고객응대 및 수납",
     "[아르바이트] 사내 문서 데이터 정비/이관",
     "[계약직] 제네시스 사업 운영 지원 (장애인 제한경쟁)",
-    "[계약직] 임직원 시승차량 관리"
+    "[계약직] 임직원 시승차량 관리",
+    "[계약직] 연료교환"
    ],
    "health": {
     "issue": "",
@@ -12835,15 +12830,25 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-23T13:00:50+00:00",
-   "last_success": "2026-10-23T13:00:50+00:00",
+   "last_check": "2026-10-23T15:00:53+00:00",
+   "last_success": "2026-10-23T15:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "2913cec25eb7335a",
+   "fingerprint": "b74d86d9884c2541",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T15:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T13:00:50+00:00",
      "status": "ok",
@@ -13139,16 +13144,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-21T03:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13385,6 +13380,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262336",
     "date": "",
     "found_at": "2026-10-23T09:00:49+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 사내변호사 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20040",
+    "date": "2026.11.09 23:59",
+    "found_at": "2026-10-23T15:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -13392,15 +13396,6 @@
   "last_sent": "2026-10-22T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화토탈에너지스] 2026년 하반기 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19807",
-   "date": "2026.10.05 23:00",
-   "found_at": "2026-09-18T07:00:45+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17891,6 +17886,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262336",
    "date": "",
    "found_at": "2026-10-23T09:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 사내변호사 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20040",
+   "date": "2026.11.09 23:59",
+   "found_at": "2026-10-23T15:00:55+00:00"
   }
  ]
 }
