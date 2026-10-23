@@ -1772,17 +1772,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
      "date": "2026.11.02 10:00",
      "first_seen": "2026-10-22T09:00:40+00:00"
+    },
+    "459e80943f70e401": {
+     "title": "한화솔루션 정보보호사무국 채용 - 보안 컴플라이언스 관리",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
+     "date": "2026.11.02 10:00",
+     "first_seen": "2026-10-23T01:00:38+00:00"
+    },
+    "9114c1686358e0ee": {
+     "title": "한화솔루션 정보보호사무국 채용 - 정보보호 컴플라이언스 진단",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
+     "date": "2026.11.02 10:00",
+     "first_seen": "2026-10-23T01:00:38+00:00"
     }
    },
-   "last_check": "2026-10-22T23:00:38+00:00",
-   "last_success": "2026-10-22T23:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-23T01:00:38+00:00",
+   "last_success": "2026-10-23T01:00:38+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 78,
-   "fingerprint": "a2c598bdad2dc55c",
+   "fingerprint": "3dbb104ba1f819f8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T01:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화솔루션 정보보호사무국 채용 - 보안 컴플라이언스 관리",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
+       "date": "2026.11.02 10:00"
+      },
+      {
+       "title": "한화솔루션 정보보호사무국 채용 - 정보보호 컴플라이언스 진단",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
+       "date": "2026.11.02 10:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-22T23:00:38+00:00",
      "status": "ok",
@@ -2117,16 +2150,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2143,7 +2166,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-22T09:00:40+00:00"
+   "last_new_at": "2026-10-23T01:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6318,8 +6341,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-22T23:00:39+00:00",
-   "last_success": "2026-10-22T23:00:39+00:00",
+   "last_check": "2026-10-23T01:00:39+00:00",
+   "last_success": "2026-10-23T01:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6327,6 +6350,16 @@
    "fingerprint": "1141154d35622f89",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T01:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T23:00:39+00:00",
      "status": "ok",
@@ -6609,16 +6642,6 @@
     },
     {
      "at": "2026-10-20T15:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T13:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9309,17 +9332,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262333",
      "date": "",
      "first_seen": "2026-10-22T17:00:50+00:00"
+    },
+    "89ec33bebff0b6b8": {
+     "title": "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262325",
+     "date": "",
+     "first_seen": "2026-10-23T01:00:44+00:00"
     }
    },
-   "last_check": "2026-10-22T23:00:42+00:00",
-   "last_success": "2026-10-22T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-23T01:00:44+00:00",
+   "last_success": "2026-10-23T01:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 167,
-   "fingerprint": "a25f846bd0d0639f",
+   "item_count": 168,
+   "fingerprint": "0f55a5663f43ce5d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T01:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 168,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262325",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-22T23:00:42+00:00",
      "status": "ok",
@@ -9741,16 +9786,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-20T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 165,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9767,7 +9802,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-22T17:00:50+00:00"
+   "last_new_at": "2026-10-23T01:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11644,15 +11679,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T23:00:43+00:00",
-   "last_success": "2026-10-22T23:00:43+00:00",
+   "last_check": "2026-10-23T01:00:45+00:00",
+   "last_success": "2026-10-23T01:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 81,
-   "fingerprint": "0d3110d6eaef5231",
+   "item_count": 80,
+   "fingerprint": "074588fe92252d65",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T01:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 80,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-22T23:00:43+00:00",
      "status": "ok",
@@ -11953,16 +11998,6 @@
     },
     {
      "at": "2026-10-20T15:00:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T13:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12601,17 +12636,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23343",
      "date": "2026.10.21 ~ 2026.11.03",
      "first_seen": "2026-10-21T01:00:47+00:00"
+    },
+    "6f95d3bfc1b485b3": {
+     "title": "삼성문화재단 경력사원 채용(대외협력, 홍보)",
+     "url": "https://www.samsungcareers.com/hr/?no=23384",
+     "date": "2026.10.23 ~ 2026.11.05",
+     "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-22T23:00:46+00:00",
-   "last_success": "2026-10-22T23:00:46+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-23T01:00:47+00:00",
+   "last_success": "2026-10-23T01:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 5,
-   "fingerprint": "8851d8e6d6aa7d3a",
+   "item_count": 6,
+   "fingerprint": "7dba8f7012127ea7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T01:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성문화재단 경력사원 채용(대외협력, 홍보)",
+       "url": "https://www.samsungcareers.com/hr/?no=23384",
+       "date": "2026.10.23 ~ 2026.11.05"
+      }
+     ]
+    },
     {
      "at": "2026-10-22T23:00:46+00:00",
      "status": "ok",
@@ -12907,78 +12964,69 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T13:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성문화재단 경력사원 채용(대외협력, 홍보)",
     "삼성중공업 경력사원 채용(보건관리자)",
     "에스원 경력사원 채용(오피스데스크, 안전관리자)",
     "삼성물산 패션부문 경력사원 채용(마케팅, 온라인컨텐츠기획, 패션디자이너, Buying MD, 홀서비스)",
-    "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질, 현장관리)",
-    "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)"
+    "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질, 현장관리)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-21T01:00:47+00:00"
+   "last_new_at": "2026-10-23T01:00:47+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 정보보호사무국 채용 - 보안 컴플라이언스 관리",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
+    "date": "2026.11.02 10:00",
+    "found_at": "2026-10-23T01:00:49+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 정보보호사무국 채용 - 정보보호 컴플라이언스 진단",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
+    "date": "2026.11.02 10:00",
+    "found_at": "2026-10-23T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262325",
+    "date": "",
+    "found_at": "2026-10-23T01:00:49+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성문화재단 경력사원 채용(대외협력, 홍보)",
+    "url": "https://www.samsungcareers.com/hr/?no=23384",
+    "date": "2026.10.23 ~ 2026.11.05",
+    "found_at": "2026-10-23T01:00:49+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-23T01:00:49+00:00",
   "last_sent": "2026-10-22T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "시스템 (서버) 전문가 영입 (계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262011",
-   "date": "",
-   "found_at": "2026-09-17T03:00:51+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 시화하이테크센터 파츠딜리버리",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=208",
-   "date": "20260927",
-   "found_at": "2026-09-17T03:00:51+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 서부산하이테크센터 고객응대 및 수납",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=207",
-   "date": "20260927",
-   "found_at": "2026-09-17T03:00:51+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 고양하이테크센터 드라이버",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=209",
-   "date": "20260927",
-   "found_at": "2026-09-17T03:00:51+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17442,6 +17490,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262333",
    "date": "",
    "found_at": "2026-10-22T17:00:55+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 정보보호사무국 채용 - 보안 컴플라이언스 관리",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
+   "date": "2026.11.02 10:00",
+   "found_at": "2026-10-23T01:00:49+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 정보보호사무국 채용 - 정보보호 컴플라이언스 진단",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
+   "date": "2026.11.02 10:00",
+   "found_at": "2026-10-23T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262325",
+   "date": "",
+   "found_at": "2026-10-23T01:00:49+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성문화재단 경력사원 채용(대외협력, 홍보)",
+   "url": "https://www.samsungcareers.com/hr/?no=23384",
+   "date": "2026.10.23 ~ 2026.11.05",
+   "found_at": "2026-10-23T01:00:49+00:00"
   }
  ]
 }
