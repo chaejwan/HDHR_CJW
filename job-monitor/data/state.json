@@ -1894,8 +1894,8 @@
      "first_seen": "2026-10-23T09:00:37+00:00"
     }
    },
-   "last_check": "2026-10-23T11:00:39+00:00",
-   "last_success": "2026-10-23T11:00:39+00:00",
+   "last_check": "2026-10-23T13:00:43+00:00",
+   "last_success": "2026-10-23T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1903,6 +1903,16 @@
    "fingerprint": "282521dba641b1eb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T11:00:39+00:00",
      "status": "ok",
@@ -2340,16 +2350,6 @@
        "date": "2026.11.08 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-21T01:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6541,8 +6541,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-23T11:00:40+00:00",
-   "last_success": "2026-10-23T11:00:40+00:00",
+   "last_check": "2026-10-23T13:00:44+00:00",
+   "last_success": "2026-10-23T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6550,6 +6550,16 @@
    "fingerprint": "1141154d35622f89",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T11:00:40+00:00",
      "status": "ok",
@@ -6832,16 +6842,6 @@
     },
     {
      "at": "2026-10-21T03:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-21T01:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9552,8 +9552,8 @@
      "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-23T11:00:49+00:00",
-   "last_success": "2026-10-23T11:00:49+00:00",
+   "last_check": "2026-10-23T13:00:47+00:00",
+   "last_success": "2026-10-23T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9561,6 +9561,16 @@
    "fingerprint": "525269cbf93d1377",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 170,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T11:00:49+00:00",
      "status": "ok",
@@ -9970,22 +9980,6 @@
       {
        "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-21T01:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 168,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK이터닉스 세무 담당 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262303",
        "date": ""
       }
      ]
@@ -11882,8 +11876,8 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-23T11:00:51+00:00",
-   "last_success": "2026-10-23T11:00:51+00:00",
+   "last_check": "2026-10-23T13:00:48+00:00",
+   "last_success": "2026-10-23T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11891,6 +11885,16 @@
    "fingerprint": "41bebf0e15aa5815",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T11:00:51+00:00",
      "status": "ok",
@@ -12185,16 +12189,6 @@
     },
     {
      "at": "2026-10-21T03:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-21T01:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12841,8 +12835,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-23T11:00:53+00:00",
-   "last_success": "2026-10-23T11:00:53+00:00",
+   "last_check": "2026-10-23T13:00:50+00:00",
+   "last_success": "2026-10-23T13:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12850,6 +12844,16 @@
    "fingerprint": "2913cec25eb7335a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T13:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T11:00:53+00:00",
      "status": "ok",
@@ -13145,22 +13149,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-21T01:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성중공업 경력사원 채용(보건관리자)",
-       "url": "https://www.samsungcareers.com/hr/?no=23343",
-       "date": "2026.10.21 ~ 2026.11.03"
-      }
-     ]
     }
    ],
    "last_note": "",
