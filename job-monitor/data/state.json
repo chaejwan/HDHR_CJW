@@ -1886,17 +1886,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20034",
      "date": "2026.11.22 15:00",
      "first_seen": "2026-10-23T07:00:37+00:00"
+    },
+    "68aedc253d8fc268": {
+     "title": "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20041",
+     "date": "2026.11.12 23:59",
+     "first_seen": "2026-10-23T09:00:37+00:00"
     }
    },
-   "last_check": "2026-10-23T07:00:37+00:00",
-   "last_success": "2026-10-23T07:00:37+00:00",
+   "last_check": "2026-10-23T09:00:37+00:00",
+   "last_success": "2026-10-23T09:00:37+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "878fd59ffa44e996",
+   "item_count": 94,
+   "fingerprint": "282521dba641b1eb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T09:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20041",
+       "date": "2026.11.12 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-23T07:00:37+00:00",
      "status": "new",
@@ -2328,16 +2350,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2354,7 +2366,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-23T07:00:37+00:00"
+   "last_new_at": "2026-10-23T09:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6529,8 +6541,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-23T07:00:39+00:00",
-   "last_success": "2026-10-23T07:00:39+00:00",
+   "last_check": "2026-10-23T09:00:38+00:00",
+   "last_success": "2026-10-23T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6538,6 +6550,16 @@
    "fingerprint": "1141154d35622f89",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T07:00:39+00:00",
      "status": "ok",
@@ -6820,16 +6842,6 @@
     },
     {
      "at": "2026-10-20T23:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-20T21:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9532,17 +9544,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262334",
      "date": "",
      "first_seen": "2026-10-23T07:00:50+00:00"
+    },
+    "6787673bcd42857c": {
+     "title": "컨설팅 프로젝트 PMO (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262336",
+     "date": "",
+     "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-23T07:00:50+00:00",
-   "last_success": "2026-10-23T07:00:50+00:00",
+   "last_check": "2026-10-23T09:00:43+00:00",
+   "last_success": "2026-10-23T09:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 169,
-   "fingerprint": "6e315197f2e64dff",
+   "item_count": 170,
+   "fingerprint": "525269cbf93d1377",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T09:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 170,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "컨설팅 프로젝트 PMO (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262336",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-23T07:00:50+00:00",
      "status": "new",
@@ -9955,16 +9989,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 167,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9981,7 +10005,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-23T07:00:50+00:00"
+   "last_new_at": "2026-10-23T09:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11858,15 +11882,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-23T07:00:51+00:00",
-   "last_success": "2026-10-23T07:00:51+00:00",
+   "last_check": "2026-10-23T09:00:45+00:00",
+   "last_success": "2026-10-23T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
-   "fingerprint": "d581ec9cb24f4cef",
+   "fingerprint": "8f4325945e70eef0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T07:00:51+00:00",
      "status": "ok",
@@ -12174,16 +12208,6 @@
        "date": "20261231"
       }
      ]
-    },
-    {
-     "at": "2026-10-20T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12823,15 +12847,25 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-23T07:00:54+00:00",
-   "last_success": "2026-10-23T07:00:54+00:00",
+   "last_check": "2026-10-23T09:00:47+00:00",
+   "last_success": "2026-10-23T09:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 6,
-   "fingerprint": "7dba8f7012127ea7",
+   "item_count": 5,
+   "fingerprint": "2913cec25eb7335a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-23T09:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-23T07:00:54+00:00",
      "status": "ok",
@@ -13133,16 +13167,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-20T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13361,6 +13385,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262334",
     "date": "",
     "found_at": "2026-10-23T07:00:56+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20041",
+    "date": "2026.11.12 23:59",
+    "found_at": "2026-10-23T09:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "컨설팅 프로젝트 PMO (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262336",
+    "date": "",
+    "found_at": "2026-10-23T09:00:49+00:00"
    }
   ],
   "alerts": [],
@@ -13368,24 +13410,6 @@
   "last_sent": "2026-10-22T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] Embedded Software (일반) 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
-   "date": "2026.10.15 15:00",
-   "found_at": "2026-09-18T05:00:51+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] Embedded Software (BSP) 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
-   "date": "2026.10.15 15:00",
-   "found_at": "2026-09-18T05:00:51+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17867,6 +17891,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262334",
    "date": "",
    "found_at": "2026-10-23T07:00:56+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20041",
+   "date": "2026.11.12 23:59",
+   "found_at": "2026-10-23T09:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "컨설팅 프로젝트 PMO (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262336",
+   "date": "",
+   "found_at": "2026-10-23T09:00:49+00:00"
   }
  ]
 }
