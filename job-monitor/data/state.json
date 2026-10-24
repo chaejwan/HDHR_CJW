@@ -1900,8 +1900,8 @@
      "first_seen": "2026-10-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-24T13:00:37+00:00",
-   "last_success": "2026-10-24T13:00:37+00:00",
+   "last_check": "2026-10-24T15:00:40+00:00",
+   "last_success": "2026-10-24T15:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1909,6 +1909,16 @@
    "fingerprint": "960f7958bc9f6bf7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T15:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T13:00:37+00:00",
      "status": "ok",
@@ -2329,27 +2339,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-22T03:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 74,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화에어로스페이스] 항공사업부 채용 코디네이터 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20016",
-       "date": "2026.11.01 23:59"
-      },
-      {
-       "title": "[한화에어로스페이스] 사업∙행정관리 (전표관리) 담당자 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20017",
-       "date": "2026.11.08 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6541,15 +6530,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-24T13:00:38+00:00",
-   "last_success": "2026-10-24T13:00:38+00:00",
+   "last_check": "2026-10-24T15:00:41+00:00",
+   "last_success": "2026-10-24T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 22,
-   "fingerprint": "c5fd2997bc721e9b",
+   "fingerprint": "437ba88a9d43068a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T13:00:38+00:00",
      "status": "ok",
@@ -6832,16 +6831,6 @@
     },
     {
      "at": "2026-10-22T05:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-22T03:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9552,15 +9541,25 @@
      "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-24T13:00:43+00:00",
-   "last_success": "2026-10-24T13:00:43+00:00",
+   "last_check": "2026-10-24T15:00:44+00:00",
+   "last_success": "2026-10-24T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 169,
-   "fingerprint": "074d51a1e6aebf32",
+   "item_count": 167,
+   "fingerprint": "1757b537f67d89f1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T13:00:43+00:00",
      "status": "ok",
@@ -9907,42 +9906,16 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-22T03:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "디앤디프라퍼티솔루션 가구사업 안전관리자 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262319",
-       "date": ""
-      },
-      {
-       "title": "디앤디프라퍼티솔루션 부동산 임대행정 인턴모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262314",
-       "date": ""
-      },
-      {
-       "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262317",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SK온 기계/전기 설비 관리 기술직 채용",
-    "[SK에어플러스] 프로젝트 구매·납기 및 물류관리",
     "[SK에어플러스] 기계/배관 설계 엔지니어",
     "공공 IT 센터 인프라 설계 및 구축 전문가",
-    "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)"
+    "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
+    "IR Manager 경력 구성원 영입",
+    "IR Manager 신입 구성원 영입"
    ],
    "health": {
     "issue": "",
@@ -11826,15 +11799,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-24T13:00:44+00:00",
-   "last_success": "2026-10-24T13:00:44+00:00",
+   "last_check": "2026-10-24T15:00:45+00:00",
+   "last_success": "2026-10-24T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 78,
-   "fingerprint": "2fb5f0e878841caf",
+   "fingerprint": "1cb2f9d6cfa520cb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T13:00:44+00:00",
      "status": "ok",
@@ -12130,22 +12113,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-22T03:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 제네시스 사업 운영 지원 (장애인 제한경쟁)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=246",
-       "date": "20261026"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12785,15 +12752,25 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-24T13:00:46+00:00",
-   "last_success": "2026-10-24T13:00:46+00:00",
+   "last_check": "2026-10-24T15:00:47+00:00",
+   "last_success": "2026-10-24T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "b74d86d9884c2541",
+   "fingerprint": "e1e85e3e598d6143",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T13:00:46+00:00",
      "status": "ok",
@@ -13082,16 +13059,6 @@
     },
     {
      "at": "2026-10-22T05:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-22T03:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
