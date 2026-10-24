@@ -1900,15 +1900,25 @@
      "first_seen": "2026-10-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-24T17:00:35+00:00",
+   "last_check": "2026-10-24T19:00:33+00:00",
    "last_success": "2026-10-24T17:00:35+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 95,
    "fingerprint": "960f7958bc9f6bf7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T19:00:33+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T17:00:35+00:00",
      "status": "ok",
@@ -2318,31 +2328,10 @@
        "date": "2026.11.02 10:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-22T07:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 76,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
-       "date": "2026.11.04 15:00"
-      },
-      {
-       "title": "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19997",
-       "date": "2026.11.06 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "한화시스템 사업장 차량관리 담당자 계약직 채용",
     "한화솔루션 운영부문 IP팀 사무계약직 채용 (육아휴직 대체)",
@@ -6530,8 +6519,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-24T17:00:36+00:00",
-   "last_success": "2026-10-24T17:00:36+00:00",
+   "last_check": "2026-10-24T19:03:01+00:00",
+   "last_success": "2026-10-24T19:03:01+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6539,6 +6528,16 @@
    "fingerprint": "437ba88a9d43068a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T19:03:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T17:00:36+00:00",
      "status": "ok",
@@ -6821,16 +6820,6 @@
     },
     {
      "at": "2026-10-22T09:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-22T07:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9541,8 +9530,8 @@
      "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-24T17:00:42+00:00",
-   "last_success": "2026-10-24T17:00:42+00:00",
+   "last_check": "2026-10-24T19:03:07+00:00",
+   "last_success": "2026-10-24T19:03:07+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9550,6 +9539,16 @@
    "fingerprint": "1757b537f67d89f1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T19:03:07+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T17:00:42+00:00",
      "status": "ok",
@@ -9881,22 +9880,6 @@
       {
        "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
        "url": "https://www.skcareers.com/Recruit/Detail/R262331",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-22T07:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262327",
        "date": ""
       }
      ]
@@ -11793,8 +11776,8 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-24T17:00:43+00:00",
-   "last_success": "2026-10-24T17:00:43+00:00",
+   "last_check": "2026-10-24T19:03:09+00:00",
+   "last_success": "2026-10-24T19:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11802,6 +11785,16 @@
    "fingerprint": "1cb2f9d6cfa520cb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T19:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T17:00:43+00:00",
      "status": "ok",
@@ -12091,22 +12084,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-22T07:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 80,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아르바이트] 채용지원(남양, 판교)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92",
-       "date": "20261102"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12746,8 +12723,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-24T17:00:45+00:00",
-   "last_success": "2026-10-24T17:00:45+00:00",
+   "last_check": "2026-10-24T19:03:12+00:00",
+   "last_success": "2026-10-24T19:03:12+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12755,6 +12732,16 @@
    "fingerprint": "e1e85e3e598d6143",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-24T19:03:12+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-24T17:00:45+00:00",
      "status": "ok",
@@ -13043,16 +13030,6 @@
     },
     {
      "at": "2026-10-22T09:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-22T07:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
