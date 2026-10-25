@@ -1900,8 +1900,8 @@
      "first_seen": "2026-10-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-25T11:00:37+00:00",
-   "last_success": "2026-10-25T11:00:37+00:00",
+   "last_check": "2026-10-25T13:00:33+00:00",
+   "last_success": "2026-10-25T13:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1909,6 +1909,16 @@
    "fingerprint": "960f7958bc9f6bf7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T13:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T11:00:37+00:00",
      "status": "ok",
@@ -2296,27 +2306,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T01:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화솔루션 정보보호사무국 채용 - 보안 컴플라이언스 관리",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20019",
-       "date": "2026.11.02 10:00"
-      },
-      {
-       "title": "한화솔루션 정보보호사무국 채용 - 정보보호 컴플라이언스 진단",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20018",
-       "date": "2026.11.02 10:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6508,8 +6497,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-25T11:00:38+00:00",
-   "last_success": "2026-10-25T11:00:38+00:00",
+   "last_check": "2026-10-25T13:00:33+00:00",
+   "last_success": "2026-10-25T13:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6517,6 +6506,16 @@
    "fingerprint": "437ba88a9d43068a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T13:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 22,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T11:00:38+00:00",
      "status": "ok",
@@ -6799,16 +6798,6 @@
     },
     {
      "at": "2026-10-23T03:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T01:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9519,8 +9508,8 @@
      "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-25T11:00:41+00:00",
-   "last_success": "2026-10-25T11:00:41+00:00",
+   "last_check": "2026-10-25T13:00:45+00:00",
+   "last_success": "2026-10-25T13:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9528,6 +9517,16 @@
    "fingerprint": "1757b537f67d89f1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T11:00:41+00:00",
      "status": "ok",
@@ -9829,22 +9828,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T01:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 168,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262325",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11738,15 +11721,25 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-25T11:00:42+00:00",
-   "last_success": "2026-10-25T11:00:42+00:00",
+   "last_check": "2026-10-25T13:00:46+00:00",
+   "last_success": "2026-10-25T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 78,
-   "fingerprint": "63c19fe2efca85e6",
+   "fingerprint": "6a1ea98e60db9961",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T11:00:42+00:00",
      "status": "ok",
@@ -12033,16 +12026,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T01:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 80,
      "error": "",
      "note": "",
      "new": []
@@ -12685,8 +12668,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-25T11:00:44+00:00",
-   "last_success": "2026-10-25T11:00:44+00:00",
+   "last_check": "2026-10-25T13:00:49+00:00",
+   "last_success": "2026-10-25T13:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12694,6 +12677,16 @@
    "fingerprint": "e1e85e3e598d6143",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T13:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T11:00:44+00:00",
      "status": "ok",
@@ -12983,22 +12976,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T01:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성문화재단 경력사원 채용(대외협력, 홍보)",
-       "url": "https://www.samsungcareers.com/hr/?no=23384",
-       "date": "2026.10.23 ~ 2026.11.05"
-      }
-     ]
     }
    ],
    "last_note": "",
