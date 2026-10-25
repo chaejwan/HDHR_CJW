@@ -1900,8 +1900,8 @@
      "first_seen": "2026-10-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-25T19:00:34+00:00",
-   "last_success": "2026-10-25T19:00:34+00:00",
+   "last_check": "2026-10-25T21:00:35+00:00",
+   "last_success": "2026-10-25T21:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1909,6 +1909,16 @@
    "fingerprint": "f9ef6a6ad62181cd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T21:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T19:00:34+00:00",
      "status": "ok",
@@ -2204,22 +2214,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T09:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20041",
-       "date": "2026.11.12 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6411,8 +6405,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-25T19:00:35+00:00",
-   "last_success": "2026-10-25T19:00:35+00:00",
+   "last_check": "2026-10-25T21:00:36+00:00",
+   "last_success": "2026-10-25T21:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6420,6 +6414,16 @@
    "fingerprint": "99eb37092db9b102",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T21:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T19:00:35+00:00",
      "status": "ok",
@@ -6702,16 +6706,6 @@
     },
     {
      "at": "2026-10-23T11:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T09:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9422,8 +9416,8 @@
      "first_seen": "2026-10-23T09:00:43+00:00"
     }
    },
-   "last_check": "2026-10-25T19:00:38+00:00",
-   "last_success": "2026-10-25T19:00:38+00:00",
+   "last_check": "2026-10-25T21:00:41+00:00",
+   "last_success": "2026-10-25T21:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9431,6 +9425,16 @@
    "fingerprint": "9ccb9d79bf0eb431",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T21:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T19:00:38+00:00",
      "status": "ok",
@@ -9720,22 +9724,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T09:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 170,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "컨설팅 프로젝트 PMO (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262336",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11629,8 +11617,8 @@
      "first_seen": "2026-10-22T07:00:47+00:00"
     }
    },
-   "last_check": "2026-10-25T19:00:39+00:00",
-   "last_success": "2026-10-25T19:00:39+00:00",
+   "last_check": "2026-10-25T21:00:42+00:00",
+   "last_success": "2026-10-25T21:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11638,6 +11626,16 @@
    "fingerprint": "89b919548e794c1d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T21:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T19:00:39+00:00",
      "status": "ok",
@@ -11920,16 +11918,6 @@
     },
     {
      "at": "2026-10-23T11:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T09:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12576,8 +12564,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-25T19:00:41+00:00",
-   "last_success": "2026-10-25T19:00:41+00:00",
+   "last_check": "2026-10-25T21:00:44+00:00",
+   "last_success": "2026-10-25T21:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12585,6 +12573,16 @@
    "fingerprint": "440db7ba1300cf53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-25T21:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-25T19:00:41+00:00",
      "status": "ok",
@@ -12867,16 +12865,6 @@
     },
     {
      "at": "2026-10-23T11:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T09:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
