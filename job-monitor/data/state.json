@@ -1948,8 +1948,8 @@
      "first_seen": "2026-10-26T13:00:39+00:00"
     }
    },
-   "last_check": "2026-10-26T21:00:37+00:00",
-   "last_success": "2026-10-26T21:00:37+00:00",
+   "last_check": "2026-10-26T23:00:36+00:00",
+   "last_success": "2026-10-26T23:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1957,6 +1957,16 @@
    "fingerprint": "5565624d8586c21a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T23:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T21:00:37+00:00",
      "status": "ok",
@@ -2283,16 +2293,6 @@
     },
     {
      "at": "2026-10-24T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T11:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6491,8 +6491,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-26T21:00:38+00:00",
-   "last_success": "2026-10-26T21:00:38+00:00",
+   "last_check": "2026-10-26T23:00:37+00:00",
+   "last_success": "2026-10-26T23:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6500,6 +6500,16 @@
    "fingerprint": "66f35eca610aa05d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T23:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T21:00:38+00:00",
      "status": "ok",
@@ -6782,16 +6792,6 @@
     },
     {
      "at": "2026-10-24T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9580,8 +9580,8 @@
      "first_seen": "2026-10-26T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-26T21:00:41+00:00",
-   "last_success": "2026-10-26T21:00:41+00:00",
+   "last_check": "2026-10-26T23:00:42+00:00",
+   "last_success": "2026-10-26T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9589,6 +9589,16 @@
    "fingerprint": "8890841f1cb2030f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 138,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T21:00:41+00:00",
      "status": "ok",
@@ -9943,16 +9953,6 @@
     },
     {
      "at": "2026-10-24T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 169,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T11:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11859,15 +11859,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-26T21:00:42+00:00",
-   "last_success": "2026-10-26T21:00:42+00:00",
+   "last_check": "2026-10-26T23:00:43+00:00",
+   "last_success": "2026-10-26T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "e99d470b5f03e922",
+   "fingerprint": "07d5e0a04799665f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T21:00:42+00:00",
      "status": "ok",
@@ -12156,16 +12166,6 @@
     },
     {
      "at": "2026-10-24T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T11:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12812,8 +12812,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-26T21:00:44+00:00",
-   "last_success": "2026-10-26T21:00:44+00:00",
+   "last_check": "2026-10-26T23:00:45+00:00",
+   "last_success": "2026-10-26T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12821,6 +12821,16 @@
    "fingerprint": "74d0ba10a1b5450a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T21:00:44+00:00",
      "status": "ok",
@@ -13110,16 +13120,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T11:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13140,209 +13140,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Data Platform Engineer",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262339",
-    "date": "",
-    "found_at": "2026-10-26T01:00:44+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 대전하이테크센터 파츠딜리버리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=248",
-    "date": "20261101",
-    "found_at": "2026-10-26T01:00:44+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[제한경쟁] 2026년 행복모아(주) 생산지원(사회복지사) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262338",
-    "date": "",
-    "found_at": "2026-10-26T03:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "브랜드 법무 전문가 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262340",
-    "date": "",
-    "found_at": "2026-10-26T03:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Product Designer - TMAP AUTO",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262342",
-    "date": "",
-    "found_at": "2026-10-26T03:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화임팩트] 생산직 오퍼레이터 신입 채용 (충남 대산)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20003",
-    "date": "2026.11.02 15:00",
-    "found_at": "2026-10-26T05:00:43+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2026년 행복모아(주) 생산지원(사회복지사) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262338",
-    "date": "",
-    "found_at": "2026-10-26T05:00:43+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK에코엔지니어링 SMR사업개발(인허가) 및 품질관리 경력 채용(정직/촉탁직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262309",
-    "date": "",
-    "found_at": "2026-10-26T05:00:43+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "Product Designer/Owner - TMAP AUTO",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262342",
-    "date": "",
-    "found_at": "2026-10-26T05:00:43+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
-    "date": "2026.11.02 23:59",
-    "found_at": "2026-10-26T07:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
-    "date": "2026.11.02 23:59",
-    "found_at": "2026-10-26T07:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
-    "date": "2026.11.02 23:59",
-    "found_at": "2026-10-26T07:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
-    "date": "2026.11.09 23:59",
-    "found_at": "2026-10-26T07:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "물리보안 기획/운영 경력직 채용(정규직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262347",
-    "date": "",
-    "found_at": "2026-10-26T07:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "직판파트_직판 오퍼레이션 담당자 채용 (아르바이트)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20057",
-    "date": "2026.11.06 15:00",
-    "found_at": "2026-10-26T09:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] VC팀 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20044",
-    "date": "2026.11.09 23:59",
-    "found_at": "2026-10-26T09:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[엔솔브] 해상풍력발전단지 안전환경 관리(SHE) 경력직 구성원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262351",
-    "date": "",
-    "found_at": "2026-10-26T09:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "HR 인턴 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262345",
-    "date": "",
-    "found_at": "2026-10-26T09:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "BX 디자이너",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262349",
-    "date": "",
-    "found_at": "2026-10-26T09:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK케미칼] 청주공장 의약품 생산공정 운영·관리 담당자 신입(전환형 인턴) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262352",
-    "date": "",
-    "found_at": "2026-10-26T11:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
-    "date": "2026.11.09 17:00",
-    "found_at": "2026-10-26T13:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "통계 업무 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262350",
-    "date": "",
-    "found_at": "2026-10-26T15:00:52+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-26T01:00:44+00:00",
-  "last_sent": "2026-10-25T23:00:51+00:00"
+  "since": "",
+  "last_sent": "2026-10-26T23:00:49+00:00"
  },
  "archive": [
   {
