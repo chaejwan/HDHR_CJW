@@ -1948,15 +1948,25 @@
      "first_seen": "2026-10-26T13:00:39+00:00"
     }
    },
-   "last_check": "2026-10-26T13:00:39+00:00",
-   "last_success": "2026-10-26T13:00:39+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-26T15:00:41+00:00",
+   "last_success": "2026-10-26T15:00:41+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 94,
-   "fingerprint": "511741401cbdabd9",
+   "item_count": 93,
+   "fingerprint": "5565624d8586c21a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T13:00:39+00:00",
      "status": "new",
@@ -2290,26 +2300,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T03:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화투자증권] 해외주식팀 거래지원 담당자(Night포함) 경력 채용",
     "[한화생명] 브랜드전략팀 '브랜드 디자인' 경력채용 (대리-과장급)",
     "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(인천)",
     "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)"
+    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
+    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(포항)"
    ],
    "health": {
     "issue": "",
@@ -6491,15 +6491,25 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-26T13:00:40+00:00",
-   "last_success": "2026-10-26T13:00:40+00:00",
+   "last_check": "2026-10-26T15:00:42+00:00",
+   "last_success": "2026-10-26T15:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 15,
-   "fingerprint": "99eb37092db9b102",
+   "fingerprint": "66f35eca610aa05d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T15:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T13:00:40+00:00",
      "status": "ok",
@@ -6782,16 +6792,6 @@
     },
     {
      "at": "2026-10-24T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T03:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9572,17 +9572,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262352",
      "date": "",
      "first_seen": "2026-10-26T11:00:42+00:00"
+    },
+    "0696ae2409b7303d": {
+     "title": "통계 업무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262350",
+     "date": "",
+     "first_seen": "2026-10-26T15:00:48+00:00"
     }
    },
-   "last_check": "2026-10-26T13:00:45+00:00",
-   "last_success": "2026-10-26T13:00:45+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-26T15:00:48+00:00",
+   "last_success": "2026-10-26T15:00:48+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 159,
-   "fingerprint": "2e647d87a33f781a",
+   "item_count": 138,
+   "fingerprint": "8890841f1cb2030f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T15:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 138,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "통계 업무 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262350",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-26T13:00:45+00:00",
      "status": "ok",
@@ -9938,33 +9960,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T03:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 169,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "AI 기반 Application 개발/설계 분야 전문가 영입",
-    "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입",
-    "2026년 하반기 영남에너지서비스(구미) 신입사원(G2) 모집",
-    "2026년 하반기 충청에너지서비스 신입사원 (G2) 모집",
-    "2026년 하반기 부산도시가스 신입사원(G2) 모집"
+    "보안 아키텍트 영입",
+    "반도체 Hi-Tech 사업개발 전문가 영입 (R&D·MIS 영역)",
+    "SK온 해외법무팀 채용",
+    "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
+    "디앤디프라퍼티솔루션 오피스 운영 매니저(코워킹 스페이스) 모집의 건"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T11:00:42+00:00"
+   "last_new_at": "2026-10-26T15:00:48+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11847,15 +11859,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-26T13:00:47+00:00",
-   "last_success": "2026-10-26T13:00:47+00:00",
+   "last_check": "2026-10-26T15:00:49+00:00",
+   "last_success": "2026-10-26T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 77,
-   "fingerprint": "779dd578b13f59b0",
+   "item_count": 75,
+   "fingerprint": "6e214c683e351017",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T13:00:47+00:00",
      "status": "ok",
@@ -12151,26 +12173,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T03:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 시험정비(경쟁차 운영)",
-    "[계약직] R&D 임원 통번역사(남양)",
     "태양광 발전사업 현장 인허가 및 대외협력",
     "실내건축 공간기획",
-    "미래 인재·조직 전략 연구"
+    "미래 인재·조직 전략 연구",
+    "미래 모빌리티 및 Physical AI 신사업 전략",
+    "로봇 기술/시장 동향 연구"
    ],
    "health": {
     "issue": "",
@@ -12800,15 +12812,25 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-26T13:00:49+00:00",
-   "last_success": "2026-10-26T13:00:49+00:00",
+   "last_check": "2026-10-26T15:00:51+00:00",
+   "last_success": "2026-10-26T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "440db7ba1300cf53",
+   "fingerprint": "74d0ba10a1b5450a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T13:00:49+00:00",
      "status": "ok",
@@ -13098,16 +13120,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T03:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13317,6 +13329,15 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
     "date": "2026.11.09 17:00",
     "found_at": "2026-10-26T13:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "통계 업무 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262350",
+    "date": "",
+    "found_at": "2026-10-26T15:00:52+00:00"
    }
   ],
   "alerts": [],
@@ -13324,15 +13345,6 @@
   "last_sent": "2026-10-25T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "경력직 채용_기관컨설팅2센터",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19831",
-   "date": "2026.10.05 15:00",
-   "found_at": "2026-09-21T11:00:51+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17823,6 +17835,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
    "date": "2026.11.09 17:00",
    "found_at": "2026-10-26T13:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "통계 업무 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
+   "date": "",
+   "found_at": "2026-10-26T15:00:52+00:00"
   }
  ]
 }
