@@ -1,19 +1,96 @@
 {
- "at": "2026-10-26T01:20:45+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-10-26T03:00:52+00:00",
+ "checked": 5,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 10-27 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-27 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 2,
+  "items": 5,
   "alerts": 0,
   "since": "2026-10-26T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40253757925",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40261903592",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "ok",
+   "item_count": 86,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 15,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 156,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[제한경쟁] 2026년 행복모아(주) 생산지원(사회복지사) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262338",
+     "date": ""
+    },
+    {
+     "title": "브랜드 법무 전문가 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+     "date": ""
+    },
+    {
+     "title": "Product Designer - TMAP AUTO",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262342",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "ok",
+   "item_count": 79,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 5,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }

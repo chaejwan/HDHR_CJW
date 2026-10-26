@@ -1900,8 +1900,8 @@
      "first_seen": "2026-10-23T15:00:42+00:00"
     }
    },
-   "last_check": "2026-10-26T01:00:34+00:00",
-   "last_success": "2026-10-26T01:00:34+00:00",
+   "last_check": "2026-10-26T03:00:41+00:00",
+   "last_success": "2026-10-26T03:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1909,6 +1909,16 @@
    "fingerprint": "f9ef6a6ad62181cd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T03:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T01:00:34+00:00",
      "status": "ok",
@@ -2198,22 +2208,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T15:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 사내변호사 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20040",
-       "date": "2026.11.09 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6405,8 +6399,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-26T01:00:35+00:00",
-   "last_success": "2026-10-26T01:00:35+00:00",
+   "last_check": "2026-10-26T03:00:42+00:00",
+   "last_success": "2026-10-26T03:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6414,6 +6408,16 @@
    "fingerprint": "99eb37092db9b102",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T03:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T01:00:35+00:00",
      "status": "ok",
@@ -6696,16 +6700,6 @@
     },
     {
      "at": "2026-10-23T17:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T15:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9420,17 +9414,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262339",
      "date": "",
      "first_seen": "2026-10-26T01:00:39+00:00"
+    },
+    "a85e189b4aaec486": {
+     "title": "[제한경쟁] 2026년 행복모아(주) 생산지원(사회복지사) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262338",
+     "date": "",
+     "first_seen": "2026-10-26T03:00:47+00:00"
+    },
+    "75286db96efcc5ab": {
+     "title": "브랜드 법무 전문가 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+     "date": "",
+     "first_seen": "2026-10-26T03:00:47+00:00"
+    },
+    "54dd475fa0c5e5fc": {
+     "title": "Product Designer - TMAP AUTO",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262342",
+     "date": "",
+     "first_seen": "2026-10-26T03:00:47+00:00"
     }
    },
-   "last_check": "2026-10-26T01:00:39+00:00",
-   "last_success": "2026-10-26T01:00:39+00:00",
+   "last_check": "2026-10-26T03:00:47+00:00",
+   "last_success": "2026-10-26T03:00:47+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 145,
-   "fingerprint": "6d87a76f07b1fb31",
+   "item_count": 156,
+   "fingerprint": "39707e4d19bc262c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T03:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[제한경쟁] 2026년 행복모아(주) 생산지원(사회복지사) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262338",
+       "date": ""
+      },
+      {
+       "title": "브랜드 법무 전문가 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+       "date": ""
+      },
+      {
+       "title": "Product Designer - TMAP AUTO",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262342",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-26T01:00:39+00:00",
      "status": "new",
@@ -9726,16 +9764,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T15:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 169,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9752,7 +9780,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T01:00:39+00:00"
+   "last_new_at": "2026-10-26T03:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11635,15 +11663,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-26T01:00:40+00:00",
-   "last_success": "2026-10-26T01:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-26T03:00:48+00:00",
+   "last_success": "2026-10-26T03:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
-   "fingerprint": "48d5e7f5cf77a6e3",
+   "fingerprint": "ee4105f16c42f8d0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T03:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T01:00:40+00:00",
      "status": "new",
@@ -11939,16 +11977,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T15:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11957,8 +11985,8 @@
     "[아르바이트] 사내 문서 데이터 정비/이관",
     "[계약직] 제네시스 사업 운영 지원 (장애인 제한경쟁)",
     "[계약직] 임직원 시승차량 관리",
-    "[계약직] 연료교환",
-    "[계약직] 시험정비(경쟁차 운영)"
+    "[계약직] 시험정비(경쟁차 운영)",
+    "[계약직] R&D 임원 통번역사(남양)"
    ],
    "health": {
     "issue": "",
@@ -12588,8 +12616,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-26T01:00:42+00:00",
-   "last_success": "2026-10-26T01:00:42+00:00",
+   "last_check": "2026-10-26T03:00:50+00:00",
+   "last_success": "2026-10-26T03:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12597,6 +12625,16 @@
    "fingerprint": "440db7ba1300cf53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T03:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T01:00:42+00:00",
      "status": "ok",
@@ -12886,16 +12924,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T15:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12934,6 +12962,33 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=248",
     "date": "20261101",
     "found_at": "2026-10-26T01:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[제한경쟁] 2026년 행복모아(주) 생산지원(사회복지사) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262338",
+    "date": "",
+    "found_at": "2026-10-26T03:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "브랜드 법무 전문가 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+    "date": "",
+    "found_at": "2026-10-26T03:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Product Designer - TMAP AUTO",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262342",
+    "date": "",
+    "found_at": "2026-10-26T03:00:52+00:00"
    }
   ],
   "alerts": [],
@@ -12941,33 +12996,6 @@
   "last_sent": "2026-10-25T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화투자증권] Trading기획팀 Product Control 파트 경력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19821",
-   "date": "2026.10.01 23:59",
-   "found_at": "2026-09-18T09:00:44+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - 기업보험부문 사무보조 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19822",
-   "date": "2026.10.08 15:00",
-   "found_at": "2026-09-18T09:00:44+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - 전속영업부문 사무보조 채용(충남)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19819",
-   "date": "2026.10.08 15:00",
-   "found_at": "2026-09-18T09:00:44+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17440,6 +17468,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=248",
    "date": "20261101",
    "found_at": "2026-10-26T01:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[제한경쟁] 2026년 행복모아(주) 생산지원(사회복지사) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262338",
+   "date": "",
+   "found_at": "2026-10-26T03:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "브랜드 법무 전문가 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+   "date": "",
+   "found_at": "2026-10-26T03:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Product Designer - TMAP AUTO",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262342",
+   "date": "",
+   "found_at": "2026-10-26T03:00:52+00:00"
   }
  ]
 }
