@@ -1,20 +1,20 @@
 {
- "at": "2026-10-26T05:00:43+00:00",
+ "at": "2026-10-26T07:00:47+00:00",
  "checked": 5,
- "new_total": 4,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 10-27 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 0건). 10-27 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 14,
   "alerts": 0,
   "since": "2026-10-26T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40271956997",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40283160889",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,30 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 87,
+   "item_count": 91,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화임팩트] 생산직 오퍼레이터 신입 채용 (충남 대산)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20003",
-     "date": "2026.11.02 15:00"
+     "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
+     "date": "2026.11.02 23:59"
+    },
+    {
+     "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
+     "date": "2026.11.02 23:59"
+    },
+    {
+     "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
+     "date": "2026.11.02 23:59"
+    },
+    {
+     "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
+     "date": "2026.11.09 23:59"
     }
    ]
   },
@@ -52,24 +67,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 156,
+   "item_count": 157,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "2026년 행복모아(주) 생산지원(사회복지사) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262338",
-     "date": ""
-    },
-    {
-     "title": "SK에코엔지니어링 SMR사업개발(인허가) 및 품질관리 경력 채용(정직/촉탁직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262309",
-     "date": ""
-    },
-    {
-     "title": "Product Designer/Owner - TMAP AUTO",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262342",
+     "title": "물리보안 기획/운영 경력직 채용(정규직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262347",
      "date": ""
     }
    ]

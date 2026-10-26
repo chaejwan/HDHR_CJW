@@ -1904,17 +1904,72 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20003",
      "date": "2026.11.02 15:00",
      "first_seen": "2026-10-26T05:00:33+00:00"
+    },
+    "9a97d77fe88f872c": {
+     "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
+     "date": "2026.11.02 23:59",
+     "first_seen": "2026-10-26T07:00:38+00:00"
+    },
+    "61db819a5d718b12": {
+     "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
+     "date": "2026.11.02 23:59",
+     "first_seen": "2026-10-26T07:00:38+00:00"
+    },
+    "87cba9bf143a0d9b": {
+     "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
+     "date": "2026.11.02 23:59",
+     "first_seen": "2026-10-26T07:00:38+00:00"
+    },
+    "b49645fcaf7c8c5e": {
+     "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
+     "date": "2026.11.09 23:59",
+     "first_seen": "2026-10-26T07:00:38+00:00"
     }
    },
-   "last_check": "2026-10-26T05:00:33+00:00",
-   "last_success": "2026-10-26T05:00:33+00:00",
+   "last_check": "2026-10-26T07:00:38+00:00",
+   "last_success": "2026-10-26T07:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 87,
-   "fingerprint": "7b8e6e106fc20aa5",
+   "item_count": 91,
+   "fingerprint": "34576221512f7b78",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T07:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
+       "date": "2026.11.02 23:59"
+      },
+      {
+       "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
+       "date": "2026.11.02 23:59"
+      },
+      {
+       "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
+       "date": "2026.11.02 23:59"
+      },
+      {
+       "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
+       "date": "2026.11.09 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-26T05:00:33+00:00",
      "status": "new",
@@ -2210,16 +2265,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T19:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2236,7 +2281,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T05:00:33+00:00"
+   "last_new_at": "2026-10-26T07:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6411,8 +6456,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-26T05:00:35+00:00",
-   "last_success": "2026-10-26T05:00:35+00:00",
+   "last_check": "2026-10-26T07:00:39+00:00",
+   "last_success": "2026-10-26T07:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6420,6 +6465,16 @@
    "fingerprint": "99eb37092db9b102",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T05:00:35+00:00",
      "status": "ok",
@@ -6702,16 +6757,6 @@
     },
     {
      "at": "2026-10-23T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T19:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9462,17 +9507,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262342",
      "date": "",
      "first_seen": "2026-10-26T05:00:38+00:00"
+    },
+    "ba5dc10f42d14100": {
+     "title": "물리보안 기획/운영 경력직 채용(정규직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262347",
+     "date": "",
+     "first_seen": "2026-10-26T07:00:43+00:00"
     }
    },
-   "last_check": "2026-10-26T05:00:38+00:00",
-   "last_success": "2026-10-26T05:00:38+00:00",
+   "last_check": "2026-10-26T07:00:43+00:00",
+   "last_success": "2026-10-26T07:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 156,
-   "fingerprint": "0230e5dc35909a36",
+   "item_count": 157,
+   "fingerprint": "2954a2aaf75ab89a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T07:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "물리보안 기획/운영 경력직 채용(정규직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262347",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-26T05:00:38+00:00",
      "status": "new",
@@ -9800,16 +9867,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 169,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9826,7 +9883,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T05:00:38+00:00"
+   "last_new_at": "2026-10-26T07:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11709,15 +11766,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-26T05:00:39+00:00",
-   "last_success": "2026-10-26T05:00:39+00:00",
+   "last_check": "2026-10-26T07:00:44+00:00",
+   "last_success": "2026-10-26T07:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 79,
-   "fingerprint": "6aa6f5c0cd92e665",
+   "fingerprint": "e85ad0ef079b6495",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T05:00:39+00:00",
      "status": "ok",
@@ -12006,16 +12073,6 @@
     },
     {
      "at": "2026-10-23T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-23T19:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12662,8 +12719,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-26T05:00:42+00:00",
-   "last_success": "2026-10-26T05:00:42+00:00",
+   "last_check": "2026-10-26T07:00:46+00:00",
+   "last_success": "2026-10-26T07:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12671,6 +12728,16 @@
    "fingerprint": "440db7ba1300cf53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T07:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T05:00:42+00:00",
      "status": "ok",
@@ -12960,16 +13027,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-23T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13071,6 +13128,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262342",
     "date": "",
     "found_at": "2026-10-26T05:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
+    "date": "2026.11.02 23:59",
+    "found_at": "2026-10-26T07:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
+    "date": "2026.11.02 23:59",
+    "found_at": "2026-10-26T07:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
+    "date": "2026.11.02 23:59",
+    "found_at": "2026-10-26T07:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
+    "date": "2026.11.09 23:59",
+    "found_at": "2026-10-26T07:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "물리보안 기획/운영 경력직 채용(정규직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262347",
+    "date": "",
+    "found_at": "2026-10-26T07:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -13078,51 +13180,6 @@
   "last_sent": "2026-10-25T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] 한국공장(진천) 셀장비팀 자동화(Automation)경력사원 모집",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19823",
-   "date": "2026.09.28 23:59",
-   "found_at": "2026-09-18T11:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어플러스] 프로젝트 현장 사무지원직(신입)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262041",
-   "date": "",
-   "found_at": "2026-09-21T01:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Red Team 화이트 해커",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262036",
-   "date": "",
-   "found_at": "2026-09-21T01:00:49+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[PGM사업부] 대전사업장 인사 지원 담당(계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19826",
-   "date": "2026.10.04 23:59",
-   "found_at": "2026-09-21T03:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 설비기술 사무직 신입/경력 수시 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262001",
-   "date": "",
-   "found_at": "2026-09-21T03:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17577,6 +17634,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262342",
    "date": "",
    "found_at": "2026-10-26T05:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
+   "date": "2026.11.02 23:59",
+   "found_at": "2026-10-26T07:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
+   "date": "2026.11.02 23:59",
+   "found_at": "2026-10-26T07:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
+   "date": "2026.11.02 23:59",
+   "found_at": "2026-10-26T07:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
+   "date": "2026.11.09 23:59",
+   "found_at": "2026-10-26T07:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "물리보안 기획/운영 경력직 채용(정규직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262347",
+   "date": "",
+   "found_at": "2026-10-26T07:00:47+00:00"
   }
  ]
 }
