@@ -1,43 +1,32 @@
 {
- "at": "2026-10-26T09:00:52+00:00",
+ "at": "2026-10-26T11:00:47+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 10-27 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 10-27 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 19,
+  "items": 20,
   "alerts": 0,
   "since": "2026-10-26T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40296291030",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40311785520",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 93,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "직판파트_직판 오퍼레이션 담당자 채용 (아르바이트)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20057",
-     "date": "2026.11.06 15:00"
-    },
-    {
-     "title": "[한화투자증권] VC팀 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20044",
-     "date": "2026.11.09 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,24 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 158,
+   "item_count": 159,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[엔솔브] 해상풍력발전단지 안전환경 관리(SHE) 경력직 구성원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262351",
-     "date": ""
-    },
-    {
-     "title": "HR 인턴 구성원 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262345",
-     "date": ""
-    },
-    {
-     "title": "BX 디자이너",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262349",
+     "title": "[SK케미칼] 청주공장 의약품 생산공정 운영·관리 담당자 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262352",
      "date": ""
     }
    ]
