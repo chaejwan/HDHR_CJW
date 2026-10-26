@@ -1,32 +1,38 @@
 {
- "at": "2026-10-26T11:00:47+00:00",
+ "at": "2026-10-26T13:00:51+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 20건 · 점검 0건). 10-27 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 0건). 10-27 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 20,
+  "items": 21,
   "alerts": 0,
   "since": "2026-10-26T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40311785520",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40326961102",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 93,
+   "status": "new",
+   "item_count": 94,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
+     "date": "2026.11.09 17:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -45,18 +51,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 159,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[SK케미칼] 청주공장 의약품 생산공정 운영·관리 담당자 신입(전환형 인턴) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262352",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",

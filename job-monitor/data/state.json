@@ -1940,17 +1940,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20044",
      "date": "2026.11.09 23:59",
      "first_seen": "2026-10-26T09:00:41+00:00"
+    },
+    "c1152309a6b040a4": {
+     "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
+     "date": "2026.11.09 17:00",
+     "first_seen": "2026-10-26T13:00:39+00:00"
     }
    },
-   "last_check": "2026-10-26T11:00:36+00:00",
-   "last_success": "2026-10-26T11:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-26T13:00:39+00:00",
+   "last_success": "2026-10-26T13:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "47e2c7a6e10e76dd",
+   "item_count": 94,
+   "fingerprint": "511741401cbdabd9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T13:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
+       "date": "2026.11.09 17:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-26T11:00:36+00:00",
      "status": "ok",
@@ -2278,16 +2300,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T01:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2304,7 +2316,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T09:00:41+00:00"
+   "last_new_at": "2026-10-26T13:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6479,8 +6491,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-26T11:00:38+00:00",
-   "last_success": "2026-10-26T11:00:38+00:00",
+   "last_check": "2026-10-26T13:00:40+00:00",
+   "last_success": "2026-10-26T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6488,6 +6500,16 @@
    "fingerprint": "99eb37092db9b102",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T11:00:38+00:00",
      "status": "ok",
@@ -6770,16 +6792,6 @@
     },
     {
      "at": "2026-10-24T03:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T01:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9562,15 +9574,25 @@
      "first_seen": "2026-10-26T11:00:42+00:00"
     }
    },
-   "last_check": "2026-10-26T11:00:42+00:00",
-   "last_success": "2026-10-26T11:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-26T13:00:45+00:00",
+   "last_success": "2026-10-26T13:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 159,
    "fingerprint": "2e647d87a33f781a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 159,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T11:00:42+00:00",
      "status": "new",
@@ -9919,16 +9941,6 @@
     },
     {
      "at": "2026-10-24T03:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 169,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T01:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11835,15 +11847,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-26T11:00:44+00:00",
-   "last_success": "2026-10-26T11:00:44+00:00",
+   "last_check": "2026-10-26T13:00:47+00:00",
+   "last_success": "2026-10-26T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 77,
-   "fingerprint": "3aad954171524e85",
+   "fingerprint": "779dd578b13f59b0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T11:00:44+00:00",
      "status": "ok",
@@ -12132,16 +12154,6 @@
     },
     {
      "at": "2026-10-24T03:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T01:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12788,8 +12800,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-26T11:00:46+00:00",
-   "last_success": "2026-10-26T11:00:46+00:00",
+   "last_check": "2026-10-26T13:00:49+00:00",
+   "last_success": "2026-10-26T13:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12797,6 +12809,16 @@
    "fingerprint": "440db7ba1300cf53",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-26T13:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-26T11:00:46+00:00",
      "status": "ok",
@@ -13086,16 +13108,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T01:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13296,6 +13308,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262352",
     "date": "",
     "found_at": "2026-10-26T11:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
+    "date": "2026.11.09 17:00",
+    "found_at": "2026-10-26T13:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -13303,15 +13324,6 @@
   "last_sent": "2026-10-25T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "경력직 채용_리스크관리팀",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19832",
-   "date": "2026.10.05 15:00",
-   "found_at": "2026-09-21T11:00:51+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17802,6 +17814,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262352",
    "date": "",
    "found_at": "2026-10-26T11:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
+   "date": "2026.11.09 17:00",
+   "found_at": "2026-10-26T13:00:51+00:00"
   }
  ]
 }
