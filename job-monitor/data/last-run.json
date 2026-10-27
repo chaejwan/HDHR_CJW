@@ -1,32 +1,53 @@
 {
- "at": "2026-10-27T05:00:47+00:00",
+ "at": "2026-10-27T07:00:50+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 6,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 10-28 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 10-28 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 9,
   "alerts": 0,
   "since": "2026-10-27T05:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40452851484",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40464492286",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 93,
+   "status": "new",
+   "item_count": 88,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "구매/물류 시스템 PI 담당자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20065",
+     "date": "2026.11.01 23:59"
+    },
+    {
+     "title": "구매/물류 시스템 구축 담당자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+     "date": "2026.11.01 23:59"
+    },
+    {
+     "title": "한화솔루션 재무실 금융팀 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
+     "date": "2026.11.10 10:00"
+    },
+    {
+     "title": "한화솔루션 재무실 세무회계팀 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
+     "date": "2026.11.10 17:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,24 +67,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 141,
+   "item_count": 143,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "파운데이션 모델 데이터 관련 업무 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+     "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262355",
      "date": ""
     },
     {
-     "title": "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262356",
-     "date": ""
-    },
-    {
-     "title": "화이트해킹/침투테스트 분야 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262308",
+     "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262252",
      "date": ""
     }
    ]

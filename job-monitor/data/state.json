@@ -1946,17 +1946,72 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
      "date": "2026.11.09 17:00",
      "first_seen": "2026-10-26T13:00:39+00:00"
+    },
+    "00a025238489803c": {
+     "title": "구매/물류 시스템 PI 담당자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20065",
+     "date": "2026.11.01 23:59",
+     "first_seen": "2026-10-27T07:00:37+00:00"
+    },
+    "c37dea35161fc1ea": {
+     "title": "구매/물류 시스템 구축 담당자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+     "date": "2026.11.01 23:59",
+     "first_seen": "2026-10-27T07:00:37+00:00"
+    },
+    "dd6d606b14ea14c5": {
+     "title": "한화솔루션 재무실 금융팀 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
+     "date": "2026.11.10 10:00",
+     "first_seen": "2026-10-27T07:00:37+00:00"
+    },
+    "c65c7d335b92b716": {
+     "title": "한화솔루션 재무실 세무회계팀 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
+     "date": "2026.11.10 17:00",
+     "first_seen": "2026-10-27T07:00:37+00:00"
     }
    },
-   "last_check": "2026-10-27T05:00:34+00:00",
-   "last_success": "2026-10-27T05:00:34+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-27T07:00:37+00:00",
+   "last_success": "2026-10-27T07:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "5565624d8586c21a",
+   "item_count": 88,
+   "fingerprint": "52db6b6247aa1335",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T07:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "구매/물류 시스템 PI 담당자 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20065",
+       "date": "2026.11.01 23:59"
+      },
+      {
+       "title": "구매/물류 시스템 구축 담당자 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+       "date": "2026.11.01 23:59"
+      },
+      {
+       "title": "한화솔루션 재무실 금융팀 경력채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
+       "date": "2026.11.10 10:00"
+      },
+      {
+       "title": "한화솔루션 재무실 세무회계팀 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
+       "date": "2026.11.10 17:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-27T05:00:34+00:00",
      "status": "ok",
@@ -2290,33 +2345,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T19:00:33+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명] 브랜드전략팀 '브랜드 디자인' 경력채용 (대리-과장급)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(인천)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
-    "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(포항)"
+    "[한화생명]사무지원직(비서) 채용",
+    "[한화투자증권] 글로벌네트워크팀 글로벌사업 지원 및 기획 경력 채용",
+    "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
+    "[해양솔루션부문, 드론사업단] 경력사원 공개채용",
+    "한화솔루션 인사이트 PLS사업부 F&B 기획"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T13:00:39+00:00"
+   "last_new_at": "2026-10-27T07:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6491,8 +6536,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-27T05:00:35+00:00",
-   "last_success": "2026-10-27T05:00:35+00:00",
+   "last_check": "2026-10-27T07:00:38+00:00",
+   "last_success": "2026-10-27T07:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6500,6 +6545,16 @@
    "fingerprint": "66f35eca610aa05d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T07:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T05:00:35+00:00",
      "status": "ok",
@@ -6782,16 +6837,6 @@
     },
     {
      "at": "2026-10-24T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T19:03:01+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9596,17 +9641,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262308",
      "date": "",
      "first_seen": "2026-10-27T05:00:41+00:00"
+    },
+    "839067a3e18171a0": {
+     "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+     "date": "",
+     "first_seen": "2026-10-27T07:00:41+00:00"
+    },
+    "de1608bedc4b2ad9": {
+     "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+     "date": "",
+     "first_seen": "2026-10-27T07:00:41+00:00"
     }
    },
-   "last_check": "2026-10-27T05:00:41+00:00",
-   "last_success": "2026-10-27T05:00:41+00:00",
+   "last_check": "2026-10-27T07:00:41+00:00",
+   "last_success": "2026-10-27T07:00:41+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 141,
-   "fingerprint": "77ce15ecf8a4d9db",
+   "item_count": 143,
+   "fingerprint": "dff9489c5a1412b2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T07:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 143,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+       "date": ""
+      },
+      {
+       "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-27T05:00:41+00:00",
      "status": "new",
@@ -9984,16 +10062,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T19:03:07+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 167,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10010,7 +10078,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-27T05:00:41+00:00"
+   "last_new_at": "2026-10-27T07:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11893,15 +11961,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-27T05:00:42+00:00",
-   "last_success": "2026-10-27T05:00:42+00:00",
+   "last_check": "2026-10-27T07:00:47+00:00",
+   "last_success": "2026-10-27T07:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "614ac9a92428b149",
+   "fingerprint": "f79d0c2a81f32ec2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T07:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T05:00:42+00:00",
      "status": "ok",
@@ -12190,16 +12268,6 @@
     },
     {
      "at": "2026-10-24T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T19:03:09+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12846,8 +12914,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-27T05:00:45+00:00",
-   "last_success": "2026-10-27T05:00:45+00:00",
+   "last_check": "2026-10-27T07:00:49+00:00",
+   "last_success": "2026-10-27T07:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12855,6 +12923,16 @@
    "fingerprint": "74d0ba10a1b5450a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T07:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T05:00:45+00:00",
      "status": "ok",
@@ -13144,16 +13222,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T19:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13201,6 +13269,60 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262308",
     "date": "",
     "found_at": "2026-10-27T05:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "구매/물류 시스템 PI 담당자 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20065",
+    "date": "2026.11.01 23:59",
+    "found_at": "2026-10-27T07:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "구매/물류 시스템 구축 담당자 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+    "date": "2026.11.01 23:59",
+    "found_at": "2026-10-27T07:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 재무실 금융팀 경력채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
+    "date": "2026.11.10 10:00",
+    "found_at": "2026-10-27T07:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 재무실 세무회계팀 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
+    "date": "2026.11.10 17:00",
+    "found_at": "2026-10-27T07:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+    "date": "",
+    "found_at": "2026-10-27T07:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+    "date": "",
+    "found_at": "2026-10-27T07:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -13208,60 +13330,6 @@
   "last_sent": "2026-10-26T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19833",
-   "date": "2026.11.01 23:55",
-   "found_at": "2026-09-22T01:00:47+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성글로벌리서치 분야별 연구원 채용",
-   "url": "https://www.samsungcareers.com/hr/?no=23215",
-   "date": "2026.09.22 ~ 2026.10.12",
-   "found_at": "2026-09-22T01:00:47+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 화약류 안전관리자 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19834",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T03:00:52+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 조선∙해양 방식설계(도장) 구성원 모집(경력/신입)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262048",
-   "date": "",
-   "found_at": "2026-09-22T03:00:52+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 울산공장 산업간호사",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=214",
-   "date": "20260930",
-   "found_at": "2026-09-22T03:00:52+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "달 탐사 모빌리티 체계종합 엔지니어",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=364",
-   "date": "20261231",
-   "found_at": "2026-09-22T03:00:52+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -17707,6 +17775,60 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262308",
    "date": "",
    "found_at": "2026-10-27T05:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "구매/물류 시스템 PI 담당자 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20065",
+   "date": "2026.11.01 23:59",
+   "found_at": "2026-10-27T07:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "구매/물류 시스템 구축 담당자 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
+   "date": "2026.11.01 23:59",
+   "found_at": "2026-10-27T07:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 재무실 금융팀 경력채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
+   "date": "2026.11.10 10:00",
+   "found_at": "2026-10-27T07:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 재무실 세무회계팀 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
+   "date": "2026.11.10 17:00",
+   "found_at": "2026-10-27T07:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+   "date": "",
+   "found_at": "2026-10-27T07:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+   "date": "",
+   "found_at": "2026-10-27T07:00:50+00:00"
   }
  ]
 }
