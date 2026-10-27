@@ -1,32 +1,38 @@
 {
- "at": "2026-10-27T13:00:53+00:00",
+ "at": "2026-10-27T15:00:55+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 0건). 10-28 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 15건 · 점검 0건). 10-28 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 14,
+  "items": 15,
   "alerts": 0,
   "since": "2026-10-27T05:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40508327725",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40526690870",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 88,
+   "status": "new",
+   "item_count": 90,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "한화시스템 구미사업장 소방/화약류 안전관리자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
+     "date": "2026.11.15 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,7 +52,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 148,
+   "item_count": 147,
    "method": "json",
    "note": "",
    "error": "",

@@ -1976,17 +1976,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20064",
      "date": "2026.11.08 23:59",
      "first_seen": "2026-10-27T09:00:34+00:00"
+    },
+    "94e7045355614fef": {
+     "title": "한화시스템 구미사업장 소방/화약류 안전관리자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
+     "date": "2026.11.15 23:59",
+     "first_seen": "2026-10-27T15:00:46+00:00"
     }
    },
-   "last_check": "2026-10-27T13:00:40+00:00",
-   "last_success": "2026-10-27T13:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-27T15:00:46+00:00",
+   "last_success": "2026-10-27T15:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 88,
-   "fingerprint": "52db6b6247aa1335",
+   "item_count": 90,
+   "fingerprint": "5baec11df9bdfb8f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T15:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 구미사업장 소방/화약류 안전관리자 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
+       "date": "2026.11.15 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-27T13:00:40+00:00",
      "status": "ok",
@@ -2347,16 +2369,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T03:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2373,7 +2385,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-27T09:00:34+00:00"
+   "last_new_at": "2026-10-27T15:00:46+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6554,15 +6566,25 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-27T13:00:41+00:00",
-   "last_success": "2026-10-27T13:00:41+00:00",
+   "last_check": "2026-10-27T15:00:47+00:00",
+   "last_success": "2026-10-27T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 16,
-   "fingerprint": "7eccf06b6db53e47",
+   "fingerprint": "57e4925c82891258",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T13:00:41+00:00",
      "status": "ok",
@@ -6851,16 +6873,6 @@
     },
     {
      "at": "2026-10-25T05:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T03:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9697,15 +9709,25 @@
      "first_seen": "2026-10-27T09:00:38+00:00"
     }
    },
-   "last_check": "2026-10-27T13:00:47+00:00",
-   "last_success": "2026-10-27T13:00:47+00:00",
+   "last_check": "2026-10-27T15:00:50+00:00",
+   "last_success": "2026-10-27T15:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 148,
-   "fingerprint": "2231815beffd0c28",
+   "item_count": 147,
+   "fingerprint": "62e7b05b1a11cbf7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T15:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 147,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T13:00:47+00:00",
      "status": "ok",
@@ -10110,26 +10132,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T03:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 167,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "보안 아키텍트 영입",
     "반도체 Hi-Tech 사업개발 전문가 영입 (R&D·MIS 영역)",
     "SK온 해외법무팀 채용",
     "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
-    "디앤디프라퍼티솔루션 오피스 운영 매니저(코워킹 스페이스) 모집의 건"
+    "디앤디프라퍼티솔루션 오피스 운영 매니저(코워킹 스페이스) 모집의 건",
+    "2026년 연구소/생산본부 수시 채용"
    ],
    "health": {
     "issue": "",
@@ -12019,15 +12031,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-27T13:00:49+00:00",
-   "last_success": "2026-10-27T13:00:49+00:00",
+   "last_check": "2026-10-27T15:00:51+00:00",
+   "last_success": "2026-10-27T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "0dac55759a01393a",
+   "fingerprint": "8cd1e19fa82d3085",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T13:00:49+00:00",
      "status": "ok",
@@ -12316,16 +12338,6 @@
     },
     {
      "at": "2026-10-25T05:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T03:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12972,15 +12984,25 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-27T13:00:51+00:00",
-   "last_success": "2026-10-27T13:00:51+00:00",
+   "last_check": "2026-10-27T15:00:54+00:00",
+   "last_success": "2026-10-27T15:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 3,
-   "fingerprint": "c25fbf580d315329",
+   "fingerprint": "69b684eb61be1ba1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T15:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 3,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T13:00:51+00:00",
      "status": "ok",
@@ -13270,16 +13292,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T03:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13424,6 +13436,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262346",
     "date": "",
     "found_at": "2026-10-27T09:00:43+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 구미사업장 소방/화약류 안전관리자 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
+    "date": "2026.11.15 23:59",
+    "found_at": "2026-10-27T15:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -13431,15 +13452,6 @@
   "last_sent": "2026-10-26T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK케미칼(GC)] 계약직 비서 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262053",
-   "date": "",
-   "found_at": "2026-09-22T07:00:49+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -17930,6 +17942,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262346",
    "date": "",
    "found_at": "2026-10-27T09:00:43+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 구미사업장 소방/화약류 안전관리자 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
+   "date": "2026.11.15 23:59",
+   "found_at": "2026-10-27T15:00:55+00:00"
   }
  ]
 }
