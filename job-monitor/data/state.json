@@ -1948,8 +1948,8 @@
      "first_seen": "2026-10-26T13:00:39+00:00"
     }
    },
-   "last_check": "2026-10-27T02:09:27+00:00",
-   "last_success": "2026-10-27T02:09:27+00:00",
+   "last_check": "2026-10-27T05:00:34+00:00",
+   "last_success": "2026-10-27T05:00:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1957,6 +1957,16 @@
    "fingerprint": "5565624d8586c21a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T05:00:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 93,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T02:09:27+00:00",
      "status": "ok",
@@ -2288,16 +2298,6 @@
      "new_count": 0,
      "item_count": 0,
      "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T17:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
      "note": "",
      "new": []
     }
@@ -6491,8 +6491,8 @@
      "first_seen": "2026-10-08T13:43:46+00:00"
     }
    },
-   "last_check": "2026-10-27T02:09:28+00:00",
-   "last_success": "2026-10-27T02:09:28+00:00",
+   "last_check": "2026-10-27T05:00:35+00:00",
+   "last_success": "2026-10-27T05:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6500,6 +6500,16 @@
    "fingerprint": "66f35eca610aa05d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T05:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T02:09:28+00:00",
      "status": "ok",
@@ -6782,16 +6792,6 @@
     },
     {
      "at": "2026-10-24T19:03:01+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T17:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9578,17 +9578,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262350",
      "date": "",
      "first_seen": "2026-10-26T15:00:48+00:00"
+    },
+    "22f0c5b35dc4aab8": {
+     "title": "파운데이션 모델 데이터 관련 업무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+     "date": "",
+     "first_seen": "2026-10-27T05:00:41+00:00"
+    },
+    "96e4bacdea8d8382": {
+     "title": "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262356",
+     "date": "",
+     "first_seen": "2026-10-27T05:00:41+00:00"
+    },
+    "62a16d82b690d162": {
+     "title": "화이트해킹/침투테스트 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262308",
+     "date": "",
+     "first_seen": "2026-10-27T05:00:41+00:00"
     }
    },
-   "last_check": "2026-10-27T02:09:33+00:00",
-   "last_success": "2026-10-27T02:09:33+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-27T05:00:41+00:00",
+   "last_success": "2026-10-27T05:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 138,
-   "fingerprint": "8890841f1cb2030f",
+   "item_count": 141,
+   "fingerprint": "77ce15ecf8a4d9db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T05:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 141,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "파운데이션 모델 데이터 관련 업무 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+       "date": ""
+      },
+      {
+       "title": "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262356",
+       "date": ""
+      },
+      {
+       "title": "화이트해킹/침투테스트 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262308",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-27T02:09:33+00:00",
      "status": "ok",
@@ -9950,16 +9994,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T17:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 167,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9976,7 +10010,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T15:00:48+00:00"
+   "last_new_at": "2026-10-27T05:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -11859,15 +11893,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-27T02:09:35+00:00",
-   "last_success": "2026-10-27T02:09:35+00:00",
+   "last_check": "2026-10-27T05:00:42+00:00",
+   "last_success": "2026-10-27T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "76f49529830923a8",
+   "fingerprint": "614ac9a92428b149",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T02:09:35+00:00",
      "status": "ok",
@@ -12156,16 +12200,6 @@
     },
     {
      "at": "2026-10-24T19:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-24T17:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12812,8 +12846,8 @@
      "first_seen": "2026-10-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-10-27T02:09:37+00:00",
-   "last_success": "2026-10-27T02:09:37+00:00",
+   "last_check": "2026-10-27T05:00:45+00:00",
+   "last_success": "2026-10-27T05:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -12821,6 +12855,16 @@
    "fingerprint": "74d0ba10a1b5450a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-27T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T02:09:37+00:00",
      "status": "ok",
@@ -13110,16 +13154,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-24T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13140,39 +13174,40 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "파운데이션 모델 데이터 관련 업무 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+    "date": "",
+    "found_at": "2026-10-27T05:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262356",
+    "date": "",
+    "found_at": "2026-10-27T05:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "화이트해킹/침투테스트 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262308",
+    "date": "",
+    "found_at": "2026-10-27T05:00:47+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-27T05:00:47+00:00",
   "last_sent": "2026-10-26T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19830",
-   "date": "2026.10.05 15:00",
-   "found_at": "2026-09-21T11:00:51+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SAP 모듈 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262047",
-   "date": "",
-   "found_at": "2026-09-21T15:00:52+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[경영지원] 전략기획 경력사원 채용경력경영지원전략기획전략기획경력 5년 이상정규직서울2026. 12. 31, 14:59까지D-100",
-   "url": "https://recruit-hanwhaocean.com/ko/o/212833",
-   "date": "",
-   "found_at": "2026-09-21T23:00:50+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17645,6 +17680,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262350",
    "date": "",
    "found_at": "2026-10-26T15:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+   "date": "",
+   "found_at": "2026-10-27T05:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262356",
+   "date": "",
+   "found_at": "2026-10-27T05:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "화이트해킹/침투테스트 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262308",
+   "date": "",
+   "found_at": "2026-10-27T05:00:47+00:00"
   }
  ]
 }
