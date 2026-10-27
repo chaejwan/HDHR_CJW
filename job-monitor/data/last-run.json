@@ -1,20 +1,20 @@
 {
- "at": "2026-10-27T07:00:50+00:00",
+ "at": "2026-10-27T09:00:43+00:00",
  "checked": 5,
- "new_total": 6,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 10-28 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 14건 · 점검 0건). 10-28 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 14,
   "alerts": 0,
   "since": "2026-10-27T05:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40464492286",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40477540336",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,30 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 88,
+   "item_count": 89,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "구매/물류 시스템 PI 담당자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20065",
-     "date": "2026.11.01 23:59"
-    },
-    {
-     "title": "구매/물류 시스템 구축 담당자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013",
-     "date": "2026.11.01 23:59"
-    },
-    {
-     "title": "한화솔루션 재무실 금융팀 경력채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
-     "date": "2026.11.10 10:00"
-    },
-    {
-     "title": "한화솔루션 재무실 세무회계팀 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
-     "date": "2026.11.10 17:00"
+     "title": "한화시스템 해양방산 무기체계 SW 개발 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20064",
+     "date": "2026.11.08 23:59"
     }
    ]
   },
@@ -54,12 +39,18 @@
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 15,
+   "status": "new",
+   "item_count": 16,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[경영지원] 사외숙소 관리 경력사원 채용 (육아휴직 대체, 계약직)",
+     "url": "https://recruit-hanwhaocean.com/ko/o/236045",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "sk-sk-careers",
@@ -67,19 +58,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 143,
+   "item_count": 148,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+     "title": "용인 부속의원 전문의(응급의학과,가정의학과,안과) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262204",
      "date": ""
     },
     {
-     "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+     "title": "SK하이닉스 데이터센터 및 인프라 구축 전문가 영입 (네트워크/시스템/DB)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262344",
+     "date": ""
+    },
+    {
+     "title": "SK하이닉스 Cloud 구축 및 운영 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262346",
      "date": ""
     }
    ]
@@ -102,7 +98,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 5,
+   "item_count": 3,
    "method": "pattern",
    "note": "",
    "error": "",
