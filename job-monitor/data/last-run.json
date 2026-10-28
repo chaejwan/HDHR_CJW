@@ -1,7 +1,7 @@
 {
- "at": "2026-10-28T01:00:45+00:00",
+ "at": "2026-10-28T02:24:29+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-10-28T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40612376035",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40620716062",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 147,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262252",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -75,18 +69,12 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
+   "status": "ok",
    "item_count": 4,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
-     "url": "https://www.samsungcareers.com/hr/?no=23386",
-     "date": "2026.10.28 ~ 2026.11.10"
-    }
-   ]
+   "new_items": []
   }
  ]
 }
