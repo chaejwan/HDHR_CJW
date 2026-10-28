@@ -2032,8 +2032,8 @@
      "first_seen": "2026-10-28T15:00:41+00:00"
     }
    },
-   "last_check": "2026-10-28T19:00:40+00:00",
-   "last_success": "2026-10-28T19:00:40+00:00",
+   "last_check": "2026-10-28T21:00:38+00:00",
+   "last_success": "2026-10-28T21:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2041,6 +2041,16 @@
    "fingerprint": "6f7a31ddb5e2379e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T21:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T19:00:40+00:00",
      "status": "ok",
@@ -2412,27 +2422,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T09:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "직판파트_직판 오퍼레이션 담당자 채용 (아르바이트)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20057",
-       "date": "2026.11.06 15:00"
-      },
-      {
-       "title": "[한화투자증권] VC팀 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20044",
-       "date": "2026.11.09 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6630,8 +6619,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-28T19:00:41+00:00",
-   "last_success": "2026-10-28T19:00:41+00:00",
+   "last_check": "2026-10-28T21:00:39+00:00",
+   "last_success": "2026-10-28T21:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6639,6 +6628,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T21:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T19:00:41+00:00",
      "status": "ok",
@@ -6927,16 +6926,6 @@
     },
     {
      "at": "2026-10-26T11:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T09:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9881,8 +9870,8 @@
      "first_seen": "2026-10-28T15:00:50+00:00"
     }
    },
-   "last_check": "2026-10-28T19:00:44+00:00",
-   "last_success": "2026-10-28T19:00:44+00:00",
+   "last_check": "2026-10-28T21:00:44+00:00",
+   "last_success": "2026-10-28T21:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9890,6 +9879,16 @@
    "fingerprint": "bbeb4dba646a6843",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T21:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 159,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T19:00:44+00:00",
      "status": "ok",
@@ -10325,32 +10324,6 @@
       {
        "title": "[SK케미칼] 청주공장 의약품 생산공정 운영·관리 담당자 신입(전환형 인턴) 모집",
        "url": "https://www.skcareers.com/Recruit/Detail/R262352",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-26T09:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[엔솔브] 해상풍력발전단지 안전환경 관리(SHE) 경력직 구성원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262351",
-       "date": ""
-      },
-      {
-       "title": "HR 인턴 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262345",
-       "date": ""
-      },
-      {
-       "title": "BX 디자이너",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262349",
        "date": ""
       }
      ]
@@ -12253,15 +12226,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-28T19:00:45+00:00",
-   "last_success": "2026-10-28T19:00:45+00:00",
+   "last_check": "2026-10-28T21:00:45+00:00",
+   "last_success": "2026-10-28T21:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "401481e874e7fcc1",
+   "fingerprint": "349d8a84a806ac32",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T21:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T19:00:45+00:00",
      "status": "ok",
@@ -12544,16 +12527,6 @@
     },
     {
      "at": "2026-10-26T11:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T09:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13206,8 +13179,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T19:00:47+00:00",
-   "last_success": "2026-10-28T19:00:47+00:00",
+   "last_check": "2026-10-28T21:00:47+00:00",
+   "last_success": "2026-10-28T21:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13215,6 +13188,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T21:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T19:00:47+00:00",
      "status": "ok",
@@ -13503,16 +13486,6 @@
     },
     {
      "at": "2026-10-26T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T09:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
