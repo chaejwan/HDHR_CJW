@@ -1994,17 +1994,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
      "date": "2026.11.15 23:59",
      "first_seen": "2026-10-28T05:00:37+00:00"
+    },
+    "f2138e77a2c056ae": {
+     "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
+     "date": "2026.11.11 15:00",
+     "first_seen": "2026-10-28T07:00:37+00:00"
     }
    },
-   "last_check": "2026-10-28T05:00:37+00:00",
-   "last_success": "2026-10-28T05:00:37+00:00",
+   "last_check": "2026-10-28T07:00:37+00:00",
+   "last_success": "2026-10-28T07:00:37+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 92,
-   "fingerprint": "6c54b7633e5e04a9",
+   "fingerprint": "913e7eee96e29e44",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T07:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
+       "date": "2026.11.11 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-28T05:00:37+00:00",
      "status": "new",
@@ -2382,33 +2404,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T19:00:34+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화생명]사무지원직(비서) 채용",
     "[한화투자증권] 글로벌네트워크팀 글로벌사업 지원 및 기획 경력 채용",
     "[한화투자증권] PLUS사업추진팀 콘텐츠 관리자 경력채용",
     "[해양솔루션부문, 드론사업단] 경력사원 공개채용",
-    "한화솔루션 인사이트 PLS사업부 F&B 기획"
+    "한화솔루션 인사이트 PLS사업부 F&B 기획",
+    "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-28T05:00:37+00:00"
+   "last_new_at": "2026-10-28T07:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6589,8 +6601,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-28T05:00:39+00:00",
-   "last_success": "2026-10-28T05:00:39+00:00",
+   "last_check": "2026-10-28T07:00:39+00:00",
+   "last_success": "2026-10-28T07:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6598,6 +6610,16 @@
    "fingerprint": "57e4925c82891258",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T05:00:39+00:00",
      "status": "ok",
@@ -6886,16 +6908,6 @@
     },
     {
      "at": "2026-10-25T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T19:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9742,17 +9754,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262375",
      "date": "",
      "first_seen": "2026-10-28T05:00:43+00:00"
+    },
+    "dcd71028f36dbc22": {
+     "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262376",
+     "date": "",
+     "first_seen": "2026-10-28T07:00:50+00:00"
+    },
+    "9a11506336201e2c": {
+     "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+     "date": "",
+     "first_seen": "2026-10-28T07:00:50+00:00"
+    },
+    "2def4cf43b2a802f": {
+     "title": "AI Solutions Engineer 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262374",
+     "date": "",
+     "first_seen": "2026-10-28T07:00:50+00:00"
     }
    },
-   "last_check": "2026-10-28T05:00:43+00:00",
-   "last_success": "2026-10-28T05:00:43+00:00",
+   "last_check": "2026-10-28T07:00:50+00:00",
+   "last_success": "2026-10-28T07:00:50+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 148,
-   "fingerprint": "c16d343db4908f9d",
+   "item_count": 152,
+   "fingerprint": "8cce82d4be75db1a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T07:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 152,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262376",
+       "date": ""
+      },
+      {
+       "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+       "date": ""
+      },
+      {
+       "title": "AI Solutions Engineer 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262374",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-28T05:00:43+00:00",
      "status": "new",
@@ -10169,16 +10225,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T19:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 144,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10195,7 +10241,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-28T05:00:43+00:00"
+   "last_new_at": "2026-10-28T07:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12078,15 +12124,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-28T05:00:44+00:00",
-   "last_success": "2026-10-28T05:00:44+00:00",
+   "last_check": "2026-10-28T07:00:51+00:00",
+   "last_success": "2026-10-28T07:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "83594130b88df2a1",
+   "fingerprint": "b65ab820b407e3b9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T07:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T05:00:44+00:00",
      "status": "ok",
@@ -12375,16 +12431,6 @@
     },
     {
      "at": "2026-10-25T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T19:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13037,8 +13083,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T05:00:46+00:00",
-   "last_success": "2026-10-28T05:00:46+00:00",
+   "last_check": "2026-10-28T07:00:54+00:00",
+   "last_success": "2026-10-28T07:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13046,6 +13092,16 @@
    "fingerprint": "74e8692ff9775592",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T07:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T05:00:46+00:00",
      "status": "ok",
@@ -13341,16 +13397,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13415,6 +13461,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262375",
     "date": "",
     "found_at": "2026-10-28T05:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
+    "date": "2026.11.11 15:00",
+    "found_at": "2026-10-28T07:00:56+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262376",
+    "date": "",
+    "found_at": "2026-10-28T07:00:56+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+    "date": "",
+    "found_at": "2026-10-28T07:00:56+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI Solutions Engineer 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262374",
+    "date": "",
+    "found_at": "2026-10-28T07:00:56+00:00"
    }
   ],
   "alerts": [],
@@ -13422,42 +13504,6 @@
   "last_sent": "2026-10-27T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19846",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "AX 전략기획 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19845",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "VLM Project Manager 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19844",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "금융프로젝트 PM(프로젝트매니저) 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19843",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17921,6 +17967,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262375",
    "date": "",
    "found_at": "2026-10-28T05:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
+   "date": "2026.11.11 15:00",
+   "found_at": "2026-10-28T07:00:56+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262376",
+   "date": "",
+   "found_at": "2026-10-28T07:00:56+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+   "date": "",
+   "found_at": "2026-10-28T07:00:56+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI Solutions Engineer 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262374",
+   "date": "",
+   "found_at": "2026-10-28T07:00:56+00:00"
   }
  ]
 }

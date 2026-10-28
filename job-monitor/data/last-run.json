@@ -1,20 +1,20 @@
 {
- "at": "2026-10-28T05:00:48+00:00",
+ "at": "2026-10-28T07:00:56+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-29 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 10-29 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 9,
   "alerts": 0,
   "since": "2026-10-28T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40635471027",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40647318854",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,14 +28,9 @@
    "error": "",
    "new_items": [
     {
-     "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
-     "date": "2026.11.15 23:59"
+     "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
+     "date": "2026.11.11 15:00"
     }
    ]
   },
@@ -57,14 +52,24 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 148,
+   "item_count": 152,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "구매 시스템 운영 지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262375",
+     "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262376",
+     "date": ""
+    },
+    {
+     "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+     "date": ""
+    },
+    {
+     "title": "AI Solutions Engineer 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262374",
      "date": ""
     }
    ]
