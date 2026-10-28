@@ -2032,8 +2032,8 @@
      "first_seen": "2026-10-28T15:00:41+00:00"
     }
    },
-   "last_check": "2026-10-28T17:00:40+00:00",
-   "last_success": "2026-10-28T17:00:40+00:00",
+   "last_check": "2026-10-28T19:00:40+00:00",
+   "last_success": "2026-10-28T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2041,6 +2041,16 @@
    "fingerprint": "6f7a31ddb5e2379e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T17:00:40+00:00",
      "status": "ok",
@@ -2420,37 +2430,6 @@
       {
        "title": "[한화투자증권] VC팀 경력 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20044",
-       "date": "2026.11.09 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-10-26T07:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20055",
-       "date": "2026.11.02 23:59"
-      },
-      {
-       "title": "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20054",
-       "date": "2026.11.02 23:59"
-      },
-      {
-       "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20053",
-       "date": "2026.11.02 23:59"
-      },
-      {
-       "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20052",
        "date": "2026.11.09 23:59"
       }
      ]
@@ -6651,8 +6630,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-28T17:00:41+00:00",
-   "last_success": "2026-10-28T17:00:41+00:00",
+   "last_check": "2026-10-28T19:00:41+00:00",
+   "last_success": "2026-10-28T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6660,6 +6639,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T17:00:41+00:00",
      "status": "ok",
@@ -6948,16 +6937,6 @@
     },
     {
      "at": "2026-10-26T09:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T07:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9902,8 +9881,8 @@
      "first_seen": "2026-10-28T15:00:50+00:00"
     }
    },
-   "last_check": "2026-10-28T17:00:45+00:00",
-   "last_success": "2026-10-28T17:00:45+00:00",
+   "last_check": "2026-10-28T19:00:44+00:00",
+   "last_success": "2026-10-28T19:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9911,6 +9890,16 @@
    "fingerprint": "bbeb4dba646a6843",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T19:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 159,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T17:00:45+00:00",
      "status": "ok",
@@ -10362,22 +10351,6 @@
       {
        "title": "BX 디자이너",
        "url": "https://www.skcareers.com/Recruit/Detail/R262349",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-26T07:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 157,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "물리보안 기획/운영 경력직 채용(정규직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262347",
        "date": ""
       }
      ]
@@ -12280,15 +12253,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-28T17:00:46+00:00",
-   "last_success": "2026-10-28T17:00:46+00:00",
+   "last_check": "2026-10-28T19:00:45+00:00",
+   "last_success": "2026-10-28T19:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "f470210577bb5add",
+   "fingerprint": "401481e874e7fcc1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T19:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T17:00:46+00:00",
      "status": "ok",
@@ -12575,16 +12558,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
      "error": "",
      "note": "",
      "new": []
@@ -13233,8 +13206,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T17:00:49+00:00",
-   "last_success": "2026-10-28T17:00:49+00:00",
+   "last_check": "2026-10-28T19:00:47+00:00",
+   "last_success": "2026-10-28T19:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13242,6 +13215,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T19:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T17:00:49+00:00",
      "status": "ok",
@@ -13530,16 +13513,6 @@
     },
     {
      "at": "2026-10-26T09:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T07:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
