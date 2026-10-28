@@ -2032,8 +2032,8 @@
      "first_seen": "2026-10-28T15:00:41+00:00"
     }
    },
-   "last_check": "2026-10-28T21:00:38+00:00",
-   "last_success": "2026-10-28T21:00:38+00:00",
+   "last_check": "2026-10-28T23:00:37+00:00",
+   "last_success": "2026-10-28T23:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2041,6 +2041,16 @@
    "fingerprint": "6f7a31ddb5e2379e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T23:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T21:00:38+00:00",
      "status": "ok",
@@ -2412,16 +2422,6 @@
        "date": "2026.11.09 17:00"
       }
      ]
-    },
-    {
-     "at": "2026-10-26T11:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6619,8 +6619,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-28T21:00:39+00:00",
-   "last_success": "2026-10-28T21:00:39+00:00",
+   "last_check": "2026-10-28T23:00:38+00:00",
+   "last_success": "2026-10-28T23:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6628,6 +6628,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T23:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T21:00:39+00:00",
      "status": "ok",
@@ -6916,16 +6926,6 @@
     },
     {
      "at": "2026-10-26T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T11:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9870,8 +9870,8 @@
      "first_seen": "2026-10-28T15:00:50+00:00"
     }
    },
-   "last_check": "2026-10-28T21:00:44+00:00",
-   "last_success": "2026-10-28T21:00:44+00:00",
+   "last_check": "2026-10-28T23:00:43+00:00",
+   "last_success": "2026-10-28T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9879,6 +9879,16 @@
    "fingerprint": "bbeb4dba646a6843",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 159,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T21:00:44+00:00",
      "status": "ok",
@@ -10311,22 +10321,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T11:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 159,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK케미칼] 청주공장 의약품 생산공정 운영·관리 담당자 신입(전환형 인턴) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262352",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12226,15 +12220,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-28T21:00:45+00:00",
-   "last_success": "2026-10-28T21:00:45+00:00",
+   "last_check": "2026-10-28T23:00:44+00:00",
+   "last_success": "2026-10-28T23:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "349d8a84a806ac32",
+   "fingerprint": "55671a38845d2f77",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T23:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T21:00:45+00:00",
      "status": "ok",
@@ -12517,16 +12521,6 @@
     },
     {
      "at": "2026-10-26T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13179,8 +13173,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T21:00:47+00:00",
-   "last_success": "2026-10-28T21:00:47+00:00",
+   "last_check": "2026-10-28T23:00:46+00:00",
+   "last_success": "2026-10-28T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13188,6 +13182,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T21:00:47+00:00",
      "status": "ok",
@@ -13483,16 +13487,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13512,254 +13506,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262252",
-    "date": "",
-    "found_at": "2026-10-28T01:00:45+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
-    "url": "https://www.samsungcareers.com/hr/?no=23386",
-    "date": "2026.10.28 ~ 2026.11.10",
-    "found_at": "2026-10-28T01:00:45+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
-    "date": "2026.11.15 23:59",
-    "found_at": "2026-10-28T05:00:48+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
-    "date": "2026.11.15 23:59",
-    "found_at": "2026-10-28T05:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "구매 시스템 운영 지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262375",
-    "date": "",
-    "found_at": "2026-10-28T05:00:48+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
-    "date": "2026.11.11 15:00",
-    "found_at": "2026-10-28T07:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 프로젝트 관리 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262376",
-    "date": "",
-    "found_at": "2026-10-28T07:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262377",
-    "date": "",
-    "found_at": "2026-10-28T07:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI Solutions Engineer 구성원 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262374",
-    "date": "",
-    "found_at": "2026-10-28T07:00:56+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 통합방공체계 부문 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20079",
-    "date": "2026.11.15 23:59",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 MRO 전략기획 분야 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20078",
-    "date": "2026.11.22 23:59",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20077",
-    "date": "2026.11.22 23:59",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20076",
-    "date": "2026.11.22 23:59",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 정보보호/해외수출보안 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20075",
-    "date": "2026.11.22 23:59",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 미래기술(R&D) Engineer 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262357",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 미래기술(R&D) Engineer 분야 박사 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262358",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 계측 Engineer 분야 Junior 경력 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262362",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 제조기술 Engineer 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262363",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 MI Engineer 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262365",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 Infra 기술 분야 경력 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262366",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 Technical Marketing 분야 경력 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262367",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 RTD/RTS Engineer 분야 경력 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262369",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 경영기획 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262370",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 품질 Engineer 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262371",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 정보보안 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262372",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 Marketing 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262373",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK키파운드리 안전관리 분야 신입 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262378",
-    "date": "",
-    "found_at": "2026-10-28T15:00:55+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-10-28T01:00:45+00:00",
-  "last_sent": "2026-10-27T23:00:53+00:00"
+  "since": "",
+  "last_sent": "2026-10-28T23:00:52+00:00"
  },
  "archive": [
   {
