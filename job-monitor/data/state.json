@@ -1982,17 +1982,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
      "date": "2026.11.15 23:59",
      "first_seen": "2026-10-27T15:00:46+00:00"
+    },
+    "0d0f0b9529a83e0d": {
+     "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
+     "date": "2026.11.15 23:59",
+     "first_seen": "2026-10-28T05:00:37+00:00"
+    },
+    "d308a31eca5e6e30": {
+     "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
+     "date": "2026.11.15 23:59",
+     "first_seen": "2026-10-28T05:00:37+00:00"
     }
    },
-   "last_check": "2026-10-28T02:24:20+00:00",
-   "last_success": "2026-10-28T02:24:20+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-28T05:00:37+00:00",
+   "last_success": "2026-10-28T05:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 90,
-   "fingerprint": "5baec11df9bdfb8f",
+   "item_count": 92,
+   "fingerprint": "6c54b7633e5e04a9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T05:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
+       "date": "2026.11.15 23:59"
+      },
+      {
+       "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
+       "date": "2026.11.15 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-28T02:24:20+00:00",
      "status": "ok",
@@ -2359,16 +2392,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T17:00:35+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2385,7 +2408,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-27T15:00:46+00:00"
+   "last_new_at": "2026-10-28T05:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6566,8 +6589,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-28T02:24:22+00:00",
-   "last_success": "2026-10-28T02:24:22+00:00",
+   "last_check": "2026-10-28T05:00:39+00:00",
+   "last_success": "2026-10-28T05:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6575,6 +6598,16 @@
    "fingerprint": "57e4925c82891258",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T02:24:22+00:00",
      "status": "ok",
@@ -6863,16 +6896,6 @@
     },
     {
      "at": "2026-10-25T19:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T17:03:02+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9713,17 +9736,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262252",
      "date": "",
      "first_seen": "2026-10-28T01:00:39+00:00"
+    },
+    "1bc4b530ba8c0b0a": {
+     "title": "구매 시스템 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262375",
+     "date": "",
+     "first_seen": "2026-10-28T05:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T02:24:25+00:00",
-   "last_success": "2026-10-28T02:24:25+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-28T05:00:43+00:00",
+   "last_success": "2026-10-28T05:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 147,
-   "fingerprint": "55541caea346f0c3",
+   "item_count": 148,
+   "fingerprint": "c16d343db4908f9d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T05:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "구매 시스템 운영 지원 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262375",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-28T02:24:25+00:00",
      "status": "ok",
@@ -10134,16 +10179,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T17:03:07+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 144,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10160,7 +10195,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-28T01:00:39+00:00"
+   "last_new_at": "2026-10-28T05:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12043,15 +12078,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-28T02:24:26+00:00",
-   "last_success": "2026-10-28T02:24:26+00:00",
+   "last_check": "2026-10-28T05:00:44+00:00",
+   "last_success": "2026-10-28T05:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "7606e807a33c8dd4",
+   "fingerprint": "83594130b88df2a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T05:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T02:24:26+00:00",
      "status": "ok",
@@ -12347,26 +12392,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T17:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "태양광 발전사업 현장 인허가 및 대외협력",
     "실내건축 공간기획",
     "미래 인재·조직 전략 연구",
-    "미래 모빌리티 및 Physical AI 신사업 전략",
-    "로봇 기술/시장 동향 연구"
+    "경영층 통번역사",
+    "건축 설계 기획",
+    "[계약직] 인증 중고차 컨택센터 고객상담"
    ],
    "health": {
     "issue": "",
@@ -13002,8 +13037,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T02:24:28+00:00",
-   "last_success": "2026-10-28T02:24:28+00:00",
+   "last_check": "2026-10-28T05:00:46+00:00",
+   "last_success": "2026-10-28T05:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13011,6 +13046,16 @@
    "fingerprint": "74e8692ff9775592",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T05:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T02:24:28+00:00",
      "status": "ok",
@@ -13306,16 +13351,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T17:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13353,6 +13388,33 @@
     "url": "https://www.samsungcareers.com/hr/?no=23386",
     "date": "2026.10.28 ~ 2026.11.10",
     "found_at": "2026-10-28T01:00:45+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
+    "date": "2026.11.15 23:59",
+    "found_at": "2026-10-28T05:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
+    "date": "2026.11.15 23:59",
+    "found_at": "2026-10-28T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "구매 시스템 운영 지원 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262375",
+    "date": "",
+    "found_at": "2026-10-28T05:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -13360,33 +13422,6 @@
   "last_sent": "2026-10-27T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "영업지원 담당자 경력사원 채용 (계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19849",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "제조 대외영업 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19848",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19847",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-22T09:01:28+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17859,6 +17894,33 @@
    "url": "https://www.samsungcareers.com/hr/?no=23386",
    "date": "2026.10.28 ~ 2026.11.10",
    "found_at": "2026-10-28T01:00:45+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
+   "date": "2026.11.15 23:59",
+   "found_at": "2026-10-28T05:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
+   "date": "2026.11.15 23:59",
+   "found_at": "2026-10-28T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "구매 시스템 운영 지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262375",
+   "date": "",
+   "found_at": "2026-10-28T05:00:48+00:00"
   }
  ]
 }
