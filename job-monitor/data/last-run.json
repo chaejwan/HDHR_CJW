@@ -1,7 +1,7 @@
 {
- "at": "2026-10-28T15:00:55+00:00",
+ "at": "2026-10-28T17:00:50+00:00",
  "checked": 5,
- "new_total": 18,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,45 +14,19 @@
   "since": "2026-10-28T01:00:45+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40711588276",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40731525782",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 94,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "한화시스템 통합방공체계 부문 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20079",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "한화시스템 MRO 전략기획 분야 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20078",
-     "date": "2026.11.22 23:59"
-    },
-    {
-     "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20077",
-     "date": "2026.11.22 23:59"
-    },
-    {
-     "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20076",
-     "date": "2026.11.22 23:59"
-    },
-    {
-     "title": "한화시스템 정보보호/해외수출보안 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20075",
-     "date": "2026.11.22 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -71,78 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 159,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK키파운드리 미래기술(R&D) Engineer 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262357",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 미래기술(R&D) Engineer 분야 박사 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262358",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 계측 Engineer 분야 Junior 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262362",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 제조기술 Engineer 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262363",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 MI Engineer 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262365",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 Infra 기술 분야 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262366",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 Technical Marketing 분야 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262367",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 RTD/RTS Engineer 분야 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262369",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 경영기획 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262370",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 품질 Engineer 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262371",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 정보보안 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262372",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 Marketing 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262373",
-     "date": ""
-    },
-    {
-     "title": "SK키파운드리 안전관리 분야 신입 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262378",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
