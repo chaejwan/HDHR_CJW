@@ -1984,8 +1984,8 @@
      "first_seen": "2026-10-27T15:00:46+00:00"
     }
    },
-   "last_check": "2026-10-27T23:00:36+00:00",
-   "last_success": "2026-10-27T23:00:36+00:00",
+   "last_check": "2026-10-28T01:00:36+00:00",
+   "last_success": "2026-10-28T01:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -1993,6 +1993,16 @@
    "fingerprint": "5baec11df9bdfb8f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T01:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T23:00:36+00:00",
      "status": "ok",
@@ -2356,16 +2366,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T13:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
      "error": "",
      "note": "",
      "new": []
@@ -6566,8 +6566,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-27T23:00:37+00:00",
-   "last_success": "2026-10-27T23:00:37+00:00",
+   "last_check": "2026-10-28T01:00:37+00:00",
+   "last_success": "2026-10-28T01:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6575,6 +6575,16 @@
    "fingerprint": "57e4925c82891258",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T01:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T23:00:37+00:00",
      "status": "ok",
@@ -6867,16 +6877,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T13:00:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 22,
      "error": "",
      "note": "",
      "new": []
@@ -9707,17 +9707,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262346",
      "date": "",
      "first_seen": "2026-10-27T09:00:38+00:00"
+    },
+    "29026c2519192583": {
+     "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+     "date": "",
+     "first_seen": "2026-10-28T01:00:39+00:00"
     }
    },
-   "last_check": "2026-10-27T23:00:42+00:00",
-   "last_success": "2026-10-27T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-28T01:00:39+00:00",
+   "last_success": "2026-10-28T01:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 147,
-   "fingerprint": "62e7b05b1a11cbf7",
+   "fingerprint": "55541caea346f0c3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T01:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 147,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-27T23:00:42+00:00",
      "status": "ok",
@@ -10122,16 +10144,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 167,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10148,7 +10160,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-27T09:00:38+00:00"
+   "last_new_at": "2026-10-28T01:00:39+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12031,15 +12043,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-27T23:00:43+00:00",
-   "last_success": "2026-10-27T23:00:43+00:00",
+   "last_check": "2026-10-28T01:00:41+00:00",
+   "last_success": "2026-10-28T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
-   "fingerprint": "bbc3603186bb2305",
+   "fingerprint": "60c848edd4d056c8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-27T23:00:43+00:00",
      "status": "ok",
@@ -12332,16 +12354,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 77,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-25T13:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
      "error": "",
      "note": "",
      "new": []
@@ -12982,17 +12994,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23384",
      "date": "2026.10.23 ~ 2026.11.05",
      "first_seen": "2026-10-23T01:00:47+00:00"
+    },
+    "341a2014ee4027bd": {
+     "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
+     "url": "https://www.samsungcareers.com/hr/?no=23386",
+     "date": "2026.10.28 ~ 2026.11.10",
+     "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-27T23:00:46+00:00",
-   "last_success": "2026-10-27T23:00:46+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-28T01:00:43+00:00",
+   "last_success": "2026-10-28T01:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 3,
-   "fingerprint": "69b684eb61be1ba1",
+   "item_count": 4,
+   "fingerprint": "74e8692ff9775592",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-28T01:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
+       "url": "https://www.samsungcareers.com/hr/?no=23386",
+       "date": "2026.10.28 ~ 2026.11.10"
+      }
+     ]
+    },
     {
      "at": "2026-10-27T23:00:46+00:00",
      "status": "ok",
@@ -13282,21 +13316,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-25T13:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성E&A 경력사원 채용(연구개발, 분석)",
     "삼성문화재단 경력사원 채용(대외협력, 홍보)",
     "삼성중공업 경력사원 채용(보건관리자)",
     "에스원 경력사원 채용(오피스데스크, 안전관리자)"
@@ -13306,34 +13331,35 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-23T01:00:47+00:00"
+   "last_new_at": "2026-10-28T01:00:43+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+    "date": "",
+    "found_at": "2026-10-28T01:00:45+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
+    "url": "https://www.samsungcareers.com/hr/?no=23386",
+    "date": "2026.10.28 ~ 2026.11.10",
+    "found_at": "2026-10-28T01:00:45+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-28T01:00:45+00:00",
   "last_sent": "2026-10-27T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK에어코어] 전기/계장 보전 엔니지어",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262051",
-   "date": "",
-   "found_at": "2026-09-22T07:00:49+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[아르바이트] 채용지원(남양)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=88",
-   "date": "20261005",
-   "found_at": "2026-09-22T07:00:49+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17815,6 +17841,24 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
    "date": "2026.11.15 23:59",
    "found_at": "2026-10-27T15:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+   "date": "",
+   "found_at": "2026-10-28T01:00:45+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
+   "url": "https://www.samsungcareers.com/hr/?no=23386",
+   "date": "2026.10.28 ~ 2026.11.10",
+   "found_at": "2026-10-28T01:00:45+00:00"
   }
  ]
 }
