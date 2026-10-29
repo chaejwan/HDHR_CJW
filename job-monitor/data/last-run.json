@@ -1,7 +1,7 @@
 {
- "at": "2026-10-29T09:00:48+00:00",
+ "at": "2026-10-29T11:03:13+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,25 +14,19 @@
   "since": "2026-10-29T02:31:05+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40846274988",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40862001916",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 98,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
-     "date": "2026.11.12 15:00"
-    }
-   ]
+   "error": "응답 시간 초과 (45초) (3회 시도)",
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 167,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK플라즈마 관리회계 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262389",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
