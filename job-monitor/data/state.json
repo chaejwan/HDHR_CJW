@@ -2032,8 +2032,8 @@
      "first_seen": "2026-10-28T15:00:41+00:00"
     }
    },
-   "last_check": "2026-10-29T01:00:33+00:00",
-   "last_success": "2026-10-29T01:00:33+00:00",
+   "last_check": "2026-10-29T02:30:55+00:00",
+   "last_success": "2026-10-29T02:30:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2041,6 +2041,16 @@
    "fingerprint": "6f7a31ddb5e2379e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T02:30:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T01:00:33+00:00",
      "status": "ok",
@@ -2399,16 +2409,6 @@
     },
     {
      "at": "2026-10-26T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T15:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6613,8 +6613,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T01:00:35+00:00",
-   "last_success": "2026-10-29T01:00:35+00:00",
+   "last_check": "2026-10-29T02:30:56+00:00",
+   "last_success": "2026-10-29T02:30:56+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6622,6 +6622,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T02:30:56+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T01:00:35+00:00",
      "status": "ok",
@@ -6910,16 +6920,6 @@
     },
     {
      "at": "2026-10-26T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T15:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9862,17 +9862,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262378",
      "date": "",
      "first_seen": "2026-10-28T15:00:50+00:00"
+    },
+    "610565c789a751fa": {
+     "title": "건강관리실 간호사, 심리상담사 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262380",
+     "date": "",
+     "first_seen": "2026-10-29T02:31:00+00:00"
+    },
+    "092cbfbc3473aedd": {
+     "title": "충방전기개발팀 - SW개발·현장 기술지원 (Junior)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262382",
+     "date": "",
+     "first_seen": "2026-10-29T02:31:00+00:00"
+    },
+    "914f15deee7a9881": {
+     "title": "충방전기개발팀 - SW개발·현장 기술지원 (Senior)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262383",
+     "date": "",
+     "first_seen": "2026-10-29T02:31:00+00:00"
     }
    },
-   "last_check": "2026-10-29T01:00:41+00:00",
-   "last_success": "2026-10-29T01:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-29T02:31:00+00:00",
+   "last_success": "2026-10-29T02:31:00+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 159,
-   "fingerprint": "bbeb4dba646a6843",
+   "item_count": 162,
+   "fingerprint": "35047f3a0171a223",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T02:31:00+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 162,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "건강관리실 간호사, 심리상담사 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262380",
+       "date": ""
+      },
+      {
+       "title": "충방전기개발팀 - SW개발·현장 기술지원 (Junior)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262382",
+       "date": ""
+      },
+      {
+       "title": "충방전기개발팀 - SW개발·현장 기술지원 (Senior)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262383",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-29T01:00:41+00:00",
      "status": "ok",
@@ -10299,22 +10343,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T15:00:48+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "통계 업무 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262350",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -10331,7 +10359,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-28T15:00:50+00:00"
+   "last_new_at": "2026-10-29T02:31:00+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12214,15 +12242,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T01:00:42+00:00",
-   "last_success": "2026-10-29T01:00:42+00:00",
+   "last_check": "2026-10-29T02:31:01+00:00",
+   "last_success": "2026-10-29T02:31:01+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 76,
-   "fingerprint": "34e2e585ec7b463c",
+   "fingerprint": "aad8a1bbf4be1868",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T02:31:01+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T01:00:42+00:00",
      "status": "ok",
@@ -12505,16 +12543,6 @@
     },
     {
      "at": "2026-10-26T17:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T15:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13167,8 +13195,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T01:00:45+00:00",
-   "last_success": "2026-10-29T01:00:45+00:00",
+   "last_check": "2026-10-29T02:31:03+00:00",
+   "last_success": "2026-10-29T02:31:03+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13176,6 +13204,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T02:31:03+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T01:00:45+00:00",
      "status": "ok",
@@ -13471,16 +13509,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T15:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13500,39 +13528,40 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "건강관리실 간호사, 심리상담사 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262380",
+    "date": "",
+    "found_at": "2026-10-29T02:31:05+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "충방전기개발팀 - SW개발·현장 기술지원 (Junior)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262382",
+    "date": "",
+    "found_at": "2026-10-29T02:31:05+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "충방전기개발팀 - SW개발·현장 기술지원 (Senior)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262383",
+    "date": "",
+    "found_at": "2026-10-29T02:31:05+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-29T02:31:05+00:00",
   "last_sent": "2026-10-28T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 응급구조사 (울산공장)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=216",
-   "date": "20261007",
-   "found_at": "2026-09-23T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "파운데이션 모델 데이터 업무 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262070",
-   "date": "",
-   "found_at": "2026-09-23T03:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262062",
-   "date": "",
-   "found_at": "2026-09-23T03:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18005,6 +18034,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262378",
    "date": "",
    "found_at": "2026-10-28T15:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "건강관리실 간호사, 심리상담사 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262380",
+   "date": "",
+   "found_at": "2026-10-29T02:31:05+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "충방전기개발팀 - SW개발·현장 기술지원 (Junior)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262382",
+   "date": "",
+   "found_at": "2026-10-29T02:31:05+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "충방전기개발팀 - SW개발·현장 기술지원 (Senior)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262383",
+   "date": "",
+   "found_at": "2026-10-29T02:31:05+00:00"
   }
  ]
 }

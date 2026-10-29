@@ -1,20 +1,20 @@
 {
- "at": "2026-10-29T01:00:46+00:00",
+ "at": "2026-10-29T02:31:05+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 10-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 3,
   "alerts": 0,
-  "since": "",
+  "since": "2026-10-29T02:31:05+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40797714631",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40806796846",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 159,
+   "status": "new",
+   "item_count": 162,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "건강관리실 간호사, 심리상담사 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262380",
+     "date": ""
+    },
+    {
+     "title": "충방전기개발팀 - SW개발·현장 기술지원 (Junior)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262382",
+     "date": ""
+    },
+    {
+     "title": "충방전기개발팀 - SW개발·현장 기술지원 (Senior)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262383",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
