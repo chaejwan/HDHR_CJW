@@ -1,19 +1,92 @@
 {
- "at": "2026-10-29T03:00:39+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-10-29T05:00:48+00:00",
+ "checked": 5,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 10-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 5,
   "alerts": 0,
   "since": "2026-10-29T02:31:05+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40809661356",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40820885233",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "new",
+   "item_count": 95,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
+     "date": "2026.11.09 00:00"
+    }
+   ]
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 16,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 163,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262385",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "ok",
+   "item_count": 76,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 4,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }

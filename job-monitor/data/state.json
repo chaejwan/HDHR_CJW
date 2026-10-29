@@ -2030,17 +2030,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20075",
      "date": "2026.11.22 23:59",
      "first_seen": "2026-10-28T15:00:41+00:00"
+    },
+    "cc8bf2ad56ac3ddf": {
+     "title": "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
+     "date": "2026.11.09 00:00",
+     "first_seen": "2026-10-29T05:00:37+00:00"
     }
    },
-   "last_check": "2026-10-29T02:30:55+00:00",
-   "last_success": "2026-10-29T02:30:55+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-29T05:00:37+00:00",
+   "last_success": "2026-10-29T05:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 94,
-   "fingerprint": "6f7a31ddb5e2379e",
+   "item_count": 95,
+   "fingerprint": "9ae009018833ba6c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T05:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
+       "date": "2026.11.09 00:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-29T02:30:55+00:00",
      "status": "ok",
@@ -2406,16 +2428,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2432,7 +2444,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-28T15:00:41+00:00"
+   "last_new_at": "2026-10-29T05:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6613,8 +6625,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T02:30:56+00:00",
-   "last_success": "2026-10-29T02:30:56+00:00",
+   "last_check": "2026-10-29T05:00:38+00:00",
+   "last_success": "2026-10-29T05:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6622,6 +6634,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T05:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T02:30:56+00:00",
      "status": "ok",
@@ -6910,16 +6932,6 @@
     },
     {
      "at": "2026-10-26T19:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T17:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9880,17 +9892,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262383",
      "date": "",
      "first_seen": "2026-10-29T02:31:00+00:00"
+    },
+    "3c82f213d5b18850": {
+     "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262385",
+     "date": "",
+     "first_seen": "2026-10-29T05:00:44+00:00"
     }
    },
-   "last_check": "2026-10-29T02:31:00+00:00",
-   "last_success": "2026-10-29T02:31:00+00:00",
+   "last_check": "2026-10-29T05:00:44+00:00",
+   "last_success": "2026-10-29T05:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 162,
-   "fingerprint": "35047f3a0171a223",
+   "item_count": 163,
+   "fingerprint": "5f636327c0886fa7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T05:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262385",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-29T02:31:00+00:00",
      "status": "new",
@@ -10333,16 +10367,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T17:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10359,7 +10383,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T02:31:00+00:00"
+   "last_new_at": "2026-10-29T05:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12242,15 +12266,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T02:31:01+00:00",
-   "last_success": "2026-10-29T02:31:01+00:00",
+   "last_check": "2026-10-29T05:00:45+00:00",
+   "last_success": "2026-10-29T05:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 76,
-   "fingerprint": "aad8a1bbf4be1868",
+   "fingerprint": "7677b7aae9ac5b8a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T02:31:01+00:00",
      "status": "ok",
@@ -12533,16 +12567,6 @@
     },
     {
      "at": "2026-10-26T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T17:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13195,8 +13219,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T02:31:03+00:00",
-   "last_success": "2026-10-29T02:31:03+00:00",
+   "last_check": "2026-10-29T05:00:47+00:00",
+   "last_success": "2026-10-29T05:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13204,6 +13228,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T05:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T02:31:03+00:00",
      "status": "ok",
@@ -13499,16 +13533,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T17:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13555,6 +13579,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262383",
     "date": "",
     "found_at": "2026-10-29T02:31:05+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
+    "date": "2026.11.09 00:00",
+    "found_at": "2026-10-29T05:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262385",
+    "date": "",
+    "found_at": "2026-10-29T05:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -13562,24 +13604,6 @@
   "last_sent": "2026-10-28T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 전장자동화∙항해/통신설계 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262063",
-   "date": "",
-   "found_at": "2026-09-23T03:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 선장철의설계 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262064",
-   "date": "",
-   "found_at": "2026-09-23T03:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18061,6 +18085,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262383",
    "date": "",
    "found_at": "2026-10-29T02:31:05+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
+   "date": "2026.11.09 00:00",
+   "found_at": "2026-10-29T05:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262385",
+   "date": "",
+   "found_at": "2026-10-29T05:00:48+00:00"
   }
  ]
 }
