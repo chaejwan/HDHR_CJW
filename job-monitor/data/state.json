@@ -2032,8 +2032,8 @@
      "first_seen": "2026-10-28T15:00:41+00:00"
     }
    },
-   "last_check": "2026-10-28T23:00:37+00:00",
-   "last_success": "2026-10-28T23:00:37+00:00",
+   "last_check": "2026-10-29T01:00:33+00:00",
+   "last_success": "2026-10-29T01:00:33+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2041,6 +2041,16 @@
    "fingerprint": "6f7a31ddb5e2379e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T01:00:33+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T23:00:37+00:00",
      "status": "ok",
@@ -2406,22 +2416,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T13:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20058",
-       "date": "2026.11.09 17:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6619,8 +6613,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-28T23:00:38+00:00",
-   "last_success": "2026-10-28T23:00:38+00:00",
+   "last_check": "2026-10-29T01:00:35+00:00",
+   "last_success": "2026-10-29T01:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6628,6 +6622,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T01:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T23:00:38+00:00",
      "status": "ok",
@@ -6916,16 +6920,6 @@
     },
     {
      "at": "2026-10-26T15:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T13:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9870,8 +9864,8 @@
      "first_seen": "2026-10-28T15:00:50+00:00"
     }
    },
-   "last_check": "2026-10-28T23:00:43+00:00",
-   "last_success": "2026-10-28T23:00:43+00:00",
+   "last_check": "2026-10-29T01:00:41+00:00",
+   "last_success": "2026-10-29T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9879,6 +9873,16 @@
    "fingerprint": "bbeb4dba646a6843",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 159,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T23:00:43+00:00",
      "status": "ok",
@@ -10311,16 +10315,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-26T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 159,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12220,15 +12214,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-28T23:00:44+00:00",
-   "last_success": "2026-10-28T23:00:44+00:00",
+   "last_check": "2026-10-29T01:00:42+00:00",
+   "last_success": "2026-10-29T01:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "55671a38845d2f77",
+   "item_count": 76,
+   "fingerprint": "34e2e585ec7b463c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T01:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T23:00:44+00:00",
      "status": "ok",
@@ -12515,16 +12519,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 77,
      "error": "",
      "note": "",
      "new": []
@@ -13173,8 +13167,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-28T23:00:46+00:00",
-   "last_success": "2026-10-28T23:00:46+00:00",
+   "last_check": "2026-10-29T01:00:45+00:00",
+   "last_success": "2026-10-29T01:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13182,6 +13176,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T01:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-28T23:00:46+00:00",
      "status": "ok",
@@ -13470,16 +13474,6 @@
     },
     {
      "at": "2026-10-26T15:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T13:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
