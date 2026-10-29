@@ -2054,17 +2054,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
      "date": "2026.11.09 00:00",
      "first_seen": "2026-10-29T07:00:39+00:00"
+    },
+    "753c63e857346199": {
+     "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
+     "date": "2026.11.12 15:00",
+     "first_seen": "2026-10-29T09:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T07:00:39+00:00",
-   "last_success": "2026-10-29T07:00:39+00:00",
+   "last_check": "2026-10-29T09:00:40+00:00",
+   "last_success": "2026-10-29T09:00:40+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 98,
-   "fingerprint": "0ff354f9a034c5e5",
+   "fingerprint": "10bb6a645717ad92",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T09:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
+       "date": "2026.11.12 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-29T07:00:39+00:00",
      "status": "new",
@@ -2452,33 +2474,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화솔루션 인사이트 PLS사업부 F&B 기획",
     "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
     "[한화솔루션 큐셀부문] Global HR실 조직문화 담당자",
     "[한화솔루션 큐셀] ES사업부 Embedded SW/FW Engineer 경력직 채용",
-    "[한화솔루션 큐셀] ES사업부 Mobile Application Engineering 경력직 채용"
+    "[한화솔루션 큐셀] ES사업부 Mobile Application Engineering 경력직 채용",
+    "(주)한화 글로벌부문 케미칼소재 R&D 연구원 채용 (계약직)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T07:00:39+00:00"
+   "last_new_at": "2026-10-29T09:00:40+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6659,8 +6671,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T07:00:40+00:00",
-   "last_success": "2026-10-29T07:00:40+00:00",
+   "last_check": "2026-10-29T09:00:41+00:00",
+   "last_success": "2026-10-29T09:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6668,6 +6680,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T09:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T07:00:40+00:00",
      "status": "ok",
@@ -6956,16 +6978,6 @@
     },
     {
      "at": "2026-10-26T23:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9944,17 +9956,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262387",
      "date": "",
      "first_seen": "2026-10-29T07:00:44+00:00"
+    },
+    "7751bd1ad1671dc5": {
+     "title": "SK플라즈마 관리회계 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262389",
+     "date": "",
+     "first_seen": "2026-10-29T09:00:44+00:00"
     }
    },
-   "last_check": "2026-10-29T07:00:44+00:00",
-   "last_success": "2026-10-29T07:00:44+00:00",
+   "last_check": "2026-10-29T09:00:44+00:00",
+   "last_success": "2026-10-29T09:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 166,
-   "fingerprint": "2d50328bb7c373e7",
+   "item_count": 167,
+   "fingerprint": "2b060c42f54d9017",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T09:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 167,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 관리회계 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262389",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-29T07:00:44+00:00",
      "status": "new",
@@ -10414,16 +10448,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10440,7 +10464,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T07:00:44+00:00"
+   "last_new_at": "2026-10-29T09:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12323,15 +12347,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T07:00:45+00:00",
-   "last_success": "2026-10-29T07:00:45+00:00",
+   "last_check": "2026-10-29T09:00:45+00:00",
+   "last_success": "2026-10-29T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 76,
-   "fingerprint": "a04ef5e3d4f21084",
+   "item_count": 70,
+   "fingerprint": "4560b14f8289638f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T07:00:45+00:00",
      "status": "ok",
@@ -12621,26 +12655,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "실내건축 공간기획",
-    "미래 인재·조직 전략 연구",
-    "경영층 통번역사",
-    "건축 설계 기획",
-    "[계약직] 인증 중고차 컨택센터 고객상담"
+    "[계약직] 인증 중고차 컨택센터 고객상담",
+    "[계약직] 품질/보증 행정지원",
+    "[계약직] 울산공장 영상 크리에이터",
+    "[계약직] 동부하이테크센터 드라이버",
+    "[계약직] 대전하이테크센터 파츠딜리버리"
    ],
    "health": {
     "issue": "",
@@ -13276,8 +13300,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T07:00:47+00:00",
-   "last_success": "2026-10-29T07:00:47+00:00",
+   "last_check": "2026-10-29T09:00:47+00:00",
+   "last_success": "2026-10-29T09:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13285,6 +13309,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T09:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T07:00:47+00:00",
      "status": "ok",
@@ -13580,16 +13614,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13699,6 +13723,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262387",
     "date": "",
     "found_at": "2026-10-29T07:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
+    "date": "2026.11.12 15:00",
+    "found_at": "2026-10-29T09:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 관리회계 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262389",
+    "date": "",
+    "found_at": "2026-10-29T09:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -13706,24 +13748,6 @@
   "last_sent": "2026-10-28T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "L HOUSE 완제생산실(이물검사) 신입/경력 계약직 사원 3차 채용 공고",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262071",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 4차 채용 공고",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262029",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18205,6 +18229,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262387",
    "date": "",
    "found_at": "2026-10-29T07:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
+   "date": "2026.11.12 15:00",
+   "found_at": "2026-10-29T09:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 관리회계 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262389",
+   "date": "",
+   "found_at": "2026-10-29T09:00:48+00:00"
   }
  ]
 }

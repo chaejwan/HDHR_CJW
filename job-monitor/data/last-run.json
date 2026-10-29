@@ -1,20 +1,20 @@
 {
- "at": "2026-10-29T07:00:48+00:00",
+ "at": "2026-10-29T09:00:48+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 10-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 10-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 10,
+  "items": 12,
   "alerts": 0,
   "since": "2026-10-29T02:31:05+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40832669212",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40846274988",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,19 +28,9 @@
    "error": "",
    "new_items": [
     {
-     "title": "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20087",
-     "date": "2026.11.06 17:59"
-    },
-    {
-     "title": "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20090",
-     "date": "2026.11.08 23:59"
-    },
-    {
-     "title": "한화시스템 스마트배틀십(함정) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
-     "date": "2026.11.09 00:00"
+     "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
+     "date": "2026.11.12 15:00"
     }
    ]
   },
@@ -62,19 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 166,
+   "item_count": 167,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "서비스 품질 관리 및 운영 지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262384",
-     "date": ""
-    },
-    {
-     "title": "2026년 글로와이드 신입 및 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262387",
+     "title": "SK플라즈마 관리회계 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262389",
      "date": ""
     }
    ]
@@ -85,7 +70,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 76,
+   "item_count": 70,
    "method": "json",
    "note": "",
    "error": "",
