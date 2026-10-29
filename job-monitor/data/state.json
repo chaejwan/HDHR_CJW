@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T19:00:40+00:00",
-   "last_success": "2026-10-29T19:00:40+00:00",
+   "last_check": "2026-10-29T21:00:40+00:00",
+   "last_success": "2026-10-29T21:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "d5093150d3f5c8db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T21:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T19:00:40+00:00",
      "status": "ok",
@@ -2449,22 +2459,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T09:00:34+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 해양방산 무기체계 SW 개발 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20064",
-       "date": "2026.11.08 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6662,8 +6656,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T19:00:41+00:00",
-   "last_success": "2026-10-29T19:00:41+00:00",
+   "last_check": "2026-10-29T21:00:41+00:00",
+   "last_success": "2026-10-29T21:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6671,6 +6665,16 @@
    "fingerprint": "2974c6f94225bd88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T21:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T19:00:41+00:00",
      "status": "ok",
@@ -6960,22 +6964,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T09:00:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[경영지원] 사외숙소 관리 경력사원 채용 (육아휴직 대체, 계약직)",
-       "url": "https://recruit-hanwhaocean.com/ko/o/236045",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -9961,8 +9949,8 @@
      "first_seen": "2026-10-29T15:00:47+00:00"
     }
    },
-   "last_check": "2026-10-29T19:00:46+00:00",
-   "last_success": "2026-10-29T19:00:46+00:00",
+   "last_check": "2026-10-29T21:00:43+00:00",
+   "last_success": "2026-10-29T21:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9970,6 +9958,16 @@
    "fingerprint": "23f723030f0aef10",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T21:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 164,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T19:00:46+00:00",
      "status": "ok",
@@ -10398,32 +10396,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T09:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 148,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "용인 부속의원 전문의(응급의학과,가정의학과,안과) 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262204",
-       "date": ""
-      },
-      {
-       "title": "SK하이닉스 데이터센터 및 인프라 구축 전문가 영입 (네트워크/시스템/DB)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262344",
-       "date": ""
-      },
-      {
-       "title": "SK하이닉스 Cloud 구축 및 운영 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262346",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12323,15 +12295,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T19:00:47+00:00",
-   "last_success": "2026-10-29T19:00:47+00:00",
+   "last_check": "2026-10-29T21:00:44+00:00",
+   "last_success": "2026-10-29T21:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 69,
-   "fingerprint": "1b037f6bae6aefe0",
+   "fingerprint": "d5e0fda856e63fa7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T21:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T19:00:47+00:00",
      "status": "ok",
@@ -12614,16 +12596,6 @@
     },
     {
      "at": "2026-10-27T11:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T09:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13276,8 +13248,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T19:00:49+00:00",
-   "last_success": "2026-10-29T19:00:49+00:00",
+   "last_check": "2026-10-29T21:00:46+00:00",
+   "last_success": "2026-10-29T21:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13285,6 +13257,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T21:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T19:00:49+00:00",
      "status": "ok",
@@ -13573,16 +13555,6 @@
     },
     {
      "at": "2026-10-27T11:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 3,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T09:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
