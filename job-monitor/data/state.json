@@ -2036,17 +2036,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
      "date": "2026.11.09 00:00",
      "first_seen": "2026-10-29T05:00:37+00:00"
+    },
+    "691755db74515e5a": {
+     "title": "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20087",
+     "date": "2026.11.06 17:59",
+     "first_seen": "2026-10-29T07:00:39+00:00"
+    },
+    "d7a36ca72ad887a0": {
+     "title": "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20090",
+     "date": "2026.11.08 23:59",
+     "first_seen": "2026-10-29T07:00:39+00:00"
+    },
+    "a1735295d4693800": {
+     "title": "한화시스템 스마트배틀십(함정) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
+     "date": "2026.11.09 00:00",
+     "first_seen": "2026-10-29T07:00:39+00:00"
     }
    },
-   "last_check": "2026-10-29T05:00:37+00:00",
-   "last_success": "2026-10-29T05:00:37+00:00",
+   "last_check": "2026-10-29T07:00:39+00:00",
+   "last_success": "2026-10-29T07:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "9ae009018833ba6c",
+   "item_count": 98,
+   "fingerprint": "0ff354f9a034c5e5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20087",
+       "date": "2026.11.06 17:59"
+      },
+      {
+       "title": "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20090",
+       "date": "2026.11.08 23:59"
+      },
+      {
+       "title": "한화시스템 스마트배틀십(함정) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
+       "date": "2026.11.09 00:00"
+      }
+     ]
+    },
     {
      "at": "2026-10-29T05:00:37+00:00",
      "status": "new",
@@ -2418,16 +2462,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2444,7 +2478,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T05:00:37+00:00"
+   "last_new_at": "2026-10-29T07:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6625,8 +6659,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T05:00:38+00:00",
-   "last_success": "2026-10-29T05:00:38+00:00",
+   "last_check": "2026-10-29T07:00:40+00:00",
+   "last_success": "2026-10-29T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6634,6 +6668,16 @@
    "fingerprint": "9f75a7e98f89a277",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T05:00:38+00:00",
      "status": "ok",
@@ -6922,16 +6966,6 @@
     },
     {
      "at": "2026-10-26T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T19:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9898,17 +9932,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262385",
      "date": "",
      "first_seen": "2026-10-29T05:00:44+00:00"
+    },
+    "02c95ec76b2e5f72": {
+     "title": "서비스 품질 관리 및 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262384",
+     "date": "",
+     "first_seen": "2026-10-29T07:00:44+00:00"
+    },
+    "c028607e2e33f10a": {
+     "title": "2026년 글로와이드 신입 및 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262387",
+     "date": "",
+     "first_seen": "2026-10-29T07:00:44+00:00"
     }
    },
-   "last_check": "2026-10-29T05:00:44+00:00",
-   "last_success": "2026-10-29T05:00:44+00:00",
+   "last_check": "2026-10-29T07:00:44+00:00",
+   "last_success": "2026-10-29T07:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 163,
-   "fingerprint": "5f636327c0886fa7",
+   "item_count": 166,
+   "fingerprint": "2d50328bb7c373e7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T07:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 166,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "서비스 품질 관리 및 운영 지원 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262384",
+       "date": ""
+      },
+      {
+       "title": "2026년 글로와이드 신입 및 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262387",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-29T05:00:44+00:00",
      "status": "new",
@@ -10357,33 +10424,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "2026년 하반기 전북에너지서비스 신입사원(G2) 모집",
+    "2026년 연구소/생산본부 수시 채용",
     "디앤디프라퍼티솔루션 부동산 임대행정 인턴모집",
     "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-    "[SK케미칼(GC)] 계약직 비서 채용",
-    "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용"
+    "[SK케미칼(GC)] 계약직 비서 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T05:00:44+00:00"
+   "last_new_at": "2026-10-29T07:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12266,15 +12323,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T05:00:45+00:00",
-   "last_success": "2026-10-29T05:00:45+00:00",
+   "last_check": "2026-10-29T07:00:45+00:00",
+   "last_success": "2026-10-29T07:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 76,
-   "fingerprint": "7677b7aae9ac5b8a",
+   "fingerprint": "a04ef5e3d4f21084",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T07:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T05:00:45+00:00",
      "status": "ok",
@@ -12557,16 +12624,6 @@
     },
     {
      "at": "2026-10-26T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-26T19:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13219,8 +13276,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T05:00:47+00:00",
-   "last_success": "2026-10-29T05:00:47+00:00",
+   "last_check": "2026-10-29T07:00:47+00:00",
+   "last_success": "2026-10-29T07:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13228,6 +13285,16 @@
    "fingerprint": "dc5ce711385f561a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T07:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T05:00:47+00:00",
      "status": "ok",
@@ -13523,16 +13590,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-26T19:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13597,6 +13654,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262385",
     "date": "",
     "found_at": "2026-10-29T05:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20087",
+    "date": "2026.11.06 17:59",
+    "found_at": "2026-10-29T07:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20090",
+    "date": "2026.11.08 23:59",
+    "found_at": "2026-10-29T07:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 스마트배틀십(함정) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
+    "date": "2026.11.09 00:00",
+    "found_at": "2026-10-29T07:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "서비스 품질 관리 및 운영 지원 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262384",
+    "date": "",
+    "found_at": "2026-10-29T07:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 글로와이드 신입 및 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262387",
+    "date": "",
+    "found_at": "2026-10-29T07:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -13604,51 +13706,6 @@
   "last_sent": "2026-10-28T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262065",
-   "date": "",
-   "found_at": "2026-09-23T03:00:46+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 전주공장 의전안내",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=219",
-   "date": "20261006",
-   "found_at": "2026-09-23T03:00:46+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 통번역사(영어) 계약직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19859",
-   "date": "2026.10.04 23:59",
-   "found_at": "2026-09-23T05:00:43+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19858",
-   "date": "2026.10.06 23:59",
-   "found_at": "2026-09-23T05:00:43+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(엔지니어•영업 직군)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19856",
-   "date": "2026.10.11 23:59",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18103,6 +18160,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262385",
    "date": "",
    "found_at": "2026-10-29T05:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20087",
+   "date": "2026.11.06 17:59",
+   "found_at": "2026-10-29T07:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20090",
+   "date": "2026.11.08 23:59",
+   "found_at": "2026-10-29T07:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 스마트배틀십(함정) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
+   "date": "2026.11.09 00:00",
+   "found_at": "2026-10-29T07:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "서비스 품질 관리 및 운영 지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262384",
+   "date": "",
+   "found_at": "2026-10-29T07:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 글로와이드 신입 및 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262387",
+   "date": "",
+   "found_at": "2026-10-29T07:00:48+00:00"
   }
  ]
 }

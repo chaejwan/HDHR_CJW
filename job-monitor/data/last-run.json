@@ -1,20 +1,20 @@
 {
- "at": "2026-10-29T05:00:48+00:00",
+ "at": "2026-10-29T07:00:48+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 10-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 10-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 10,
   "alerts": 0,
   "since": "2026-10-29T02:31:05+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40820885233",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40832669212",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,14 +22,24 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 95,
+   "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20086",
+     "title": "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20087",
+     "date": "2026.11.06 17:59"
+    },
+    {
+     "title": "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20090",
+     "date": "2026.11.08 23:59"
+    },
+    {
+     "title": "한화시스템 스마트배틀십(함정) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20085",
      "date": "2026.11.09 00:00"
     }
    ]
@@ -52,14 +62,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 163,
+   "item_count": 166,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK오션플랜트] 기장설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262385",
+     "title": "서비스 품질 관리 및 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262384",
+     "date": ""
+    },
+    {
+     "title": "2026년 글로와이드 신입 및 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262387",
      "date": ""
     }
    ]
