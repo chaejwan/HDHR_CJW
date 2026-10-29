@@ -2060,17 +2060,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
      "date": "2026.11.12 15:00",
      "first_seen": "2026-10-29T09:00:40+00:00"
+    },
+    "739317d73c2b8b8c": {
+     "title": "한화시스템 근태관리 담당자 계약직 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20091",
+     "date": "2026.11.15 23:59",
+     "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T13:00:42+00:00",
-   "last_success": "2026-10-29T13:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-29T15:00:43+00:00",
+   "last_success": "2026-10-29T15:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "4b30da78416ab054",
+   "item_count": 98,
+   "fingerprint": "d5093150d3f5c8db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T15:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 근태관리 담당자 계약직 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20091",
+       "date": "2026.11.15 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-10-29T13:00:42+00:00",
      "status": "ok",
@@ -2464,16 +2486,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T02:09:27+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 93,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2490,7 +2502,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T09:00:40+00:00"
+   "last_new_at": "2026-10-29T15:00:43+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6671,15 +6683,25 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T13:00:43+00:00",
-   "last_success": "2026-10-29T13:00:43+00:00",
+   "last_check": "2026-10-29T15:00:45+00:00",
+   "last_success": "2026-10-29T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 16,
-   "fingerprint": "9f75a7e98f89a277",
+   "fingerprint": "2974c6f94225bd88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T13:00:43+00:00",
      "status": "ok",
@@ -6968,16 +6990,6 @@
     },
     {
      "at": "2026-10-27T05:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T02:09:28+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9962,17 +9974,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262389",
      "date": "",
      "first_seen": "2026-10-29T09:00:44+00:00"
+    },
+    "af88ee3c99119934": {
+     "title": "반도체플랜트 PJT계약직(촉탁) 모집공고('26.10)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262388",
+     "date": "",
+     "first_seen": "2026-10-29T15:00:47+00:00"
     }
    },
-   "last_check": "2026-10-29T13:00:46+00:00",
-   "last_success": "2026-10-29T13:00:46+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-29T15:00:47+00:00",
+   "last_success": "2026-10-29T15:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 167,
-   "fingerprint": "2b060c42f54d9017",
+   "item_count": 164,
+   "fingerprint": "23f723030f0aef10",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T15:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 164,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "반도체플랜트 PJT계약직(촉탁) 모집공고('26.10)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262388",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-29T13:00:46+00:00",
      "status": "ok",
@@ -10438,33 +10472,23 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-27T02:09:33+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "2026년 하반기 전북에너지서비스 신입사원(G2) 모집",
-    "2026년 연구소/생산본부 수시 채용",
-    "디앤디프라퍼티솔루션 부동산 임대행정 인턴모집",
-    "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-    "[SK케미칼(GC)] 계약직 비서 채용"
+    "[SK케미칼(GC)] 계약직 비서 채용",
+    "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
+    "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
+    "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
+    "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T09:00:44+00:00"
+   "last_new_at": "2026-10-29T15:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12347,15 +12371,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T13:00:47+00:00",
-   "last_success": "2026-10-29T13:00:47+00:00",
+   "last_check": "2026-10-29T15:00:49+00:00",
+   "last_success": "2026-10-29T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 70,
-   "fingerprint": "288ba06ed91528e2",
+   "item_count": 69,
+   "fingerprint": "1b037f6bae6aefe0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T13:00:47+00:00",
      "status": "ok",
@@ -12645,26 +12679,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T02:09:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 인증 중고차 컨택센터 고객상담",
     "[계약직] 품질/보증 행정지원",
     "[계약직] 울산공장 영상 크리에이터",
     "[계약직] 동부하이테크센터 드라이버",
-    "[계약직] 대전하이테크센터 파츠딜리버리"
+    "[계약직] 대전하이테크센터 파츠딜리버리",
+    "[계약직] 고양하이테크센터 드라이버"
    ],
    "health": {
     "issue": "",
@@ -13300,15 +13324,25 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T13:00:49+00:00",
-   "last_success": "2026-10-29T13:00:49+00:00",
+   "last_check": "2026-10-29T15:00:51+00:00",
+   "last_success": "2026-10-29T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "dc5ce711385f561a",
+   "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-29T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T13:00:49+00:00",
      "status": "ok",
@@ -13604,16 +13638,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T02:09:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13741,6 +13765,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262389",
     "date": "",
     "found_at": "2026-10-29T09:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 근태관리 담당자 계약직 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20091",
+    "date": "2026.11.15 23:59",
+    "found_at": "2026-10-29T15:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "반도체플랜트 PJT계약직(촉탁) 모집공고('26.10)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262388",
+    "date": "",
+    "found_at": "2026-10-29T15:00:53+00:00"
    }
   ],
   "alerts": [],
@@ -13748,24 +13790,6 @@
   "last_sent": "2026-10-28T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 종합설계 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262072",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 구조설계 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262073",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18247,6 +18271,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262389",
    "date": "",
    "found_at": "2026-10-29T09:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 근태관리 담당자 계약직 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20091",
+   "date": "2026.11.15 23:59",
+   "found_at": "2026-10-29T15:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "반도체플랜트 PJT계약직(촉탁) 모집공고('26.10)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262388",
+   "date": "",
+   "found_at": "2026-10-29T15:00:53+00:00"
   }
  ]
 }
