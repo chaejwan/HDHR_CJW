@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T23:00:36+00:00",
-   "last_success": "2026-10-29T23:00:36+00:00",
+   "last_check": "2026-10-30T01:00:35+00:00",
+   "last_success": "2026-10-30T01:00:35+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "d5093150d3f5c8db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T01:00:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T23:00:36+00:00",
      "status": "ok",
@@ -2449,16 +2459,6 @@
        "date": "2026.11.15 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-27T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6656,8 +6656,8 @@
      "first_seen": "2026-10-27T09:00:35+00:00"
     }
    },
-   "last_check": "2026-10-29T23:00:37+00:00",
-   "last_success": "2026-10-29T23:00:37+00:00",
+   "last_check": "2026-10-30T01:00:36+00:00",
+   "last_success": "2026-10-30T01:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6665,6 +6665,16 @@
    "fingerprint": "2974c6f94225bd88",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T01:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T23:00:37+00:00",
      "status": "ok",
@@ -6947,16 +6957,6 @@
     },
     {
      "at": "2026-10-27T15:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T13:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9947,17 +9947,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262388",
      "date": "",
      "first_seen": "2026-10-29T15:00:47+00:00"
+    },
+    "2bbdf494dcf5c133": {
+     "title": "SK플라즈마 임상개발 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262390",
+     "date": "",
+     "first_seen": "2026-10-30T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-29T23:00:43+00:00",
-   "last_success": "2026-10-29T23:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-30T01:00:45+00:00",
+   "last_success": "2026-10-30T01:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 164,
-   "fingerprint": "23f723030f0aef10",
+   "item_count": 165,
+   "fingerprint": "c8eb87c6f06a602e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T01:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 165,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 임상개발 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262390",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-29T23:00:43+00:00",
      "status": "ok",
@@ -10386,16 +10408,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 148,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10403,16 +10415,16 @@
    "sample_titles": [
     "[SK케미칼(GC)] 계약직 비서 채용",
     "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
-    "2026년 SK에코플랜트 보건관리자 경력직(촉탁직) 채용",
-    "2026년 SK에코플랜트 안전관리자 경력직(촉탁직) 채용",
-    "2026년 SK에코플랜트 안전관리자 경력직(계약직) 채용"
+    "k8s Engineer PL 영입 (계약직)",
+    "AI Data Platform 개발.운영 PL (계약직)",
+    "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-29T15:00:47+00:00"
+   "last_new_at": "2026-10-30T01:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12295,15 +12307,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-29T23:00:44+00:00",
-   "last_success": "2026-10-29T23:00:44+00:00",
+   "last_check": "2026-10-30T01:00:46+00:00",
+   "last_success": "2026-10-30T01:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 69,
-   "fingerprint": "988673ad26f188aa",
+   "fingerprint": "d4555f6e47952d3e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T01:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T23:00:44+00:00",
      "status": "ok",
@@ -12586,16 +12608,6 @@
     },
     {
      "at": "2026-10-27T15:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T13:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13248,8 +13260,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-29T23:00:46+00:00",
-   "last_success": "2026-10-29T23:00:46+00:00",
+   "last_check": "2026-10-30T01:00:48+00:00",
+   "last_success": "2026-10-30T01:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13257,6 +13269,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T01:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-29T23:00:46+00:00",
      "status": "ok",
@@ -13552,16 +13574,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T13:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 3,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13581,21 +13593,22 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 임상개발 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262390",
+    "date": "",
+    "found_at": "2026-10-30T01:00:50+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-10-30T01:00:50+00:00",
   "last_sent": "2026-10-29T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 선체설계 구성원 모집(경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262074",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18086,6 +18099,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262388",
    "date": "",
    "found_at": "2026-10-29T15:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 임상개발 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262390",
+   "date": "",
+   "found_at": "2026-10-30T01:00:50+00:00"
   }
  ]
 }
