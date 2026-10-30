@@ -2068,15 +2068,25 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T13:00:40+00:00",
-   "last_success": "2026-10-30T13:00:40+00:00",
+   "last_check": "2026-10-30T15:00:40+00:00",
+   "last_success": "2026-10-30T15:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 94,
-   "fingerprint": "39980867e56bac47",
+   "item_count": 91,
+   "fingerprint": "009d237dbb0f49b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T15:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T13:00:40+00:00",
      "status": "ok",
@@ -2443,26 +2453,16 @@
        "date": "2026.11.15 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-10-28T02:24:20+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화투자증권] 플랫폼서비스팀 UX/콘텐츠 기획 경력 채용",
-    "[한화투자증권] 플랫폼서비스팀 모바일 서비스 기획 경력 채용",
-    "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
     "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
-    "[한화오션에코텍] 공정관리 경력사원 채용"
+    "[한화오션에코텍] 공정관리 경력사원 채용",
+    "[HR실] 해외 주재원 Payroll 담당자 채용(계약직)",
+    "(주)한화 글로벌부문 화약류 제조기사 채용 (계약직)",
+    "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -6656,15 +6656,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T13:00:41+00:00",
-   "last_success": "2026-10-30T13:00:41+00:00",
+   "last_check": "2026-10-30T15:00:41+00:00",
+   "last_success": "2026-10-30T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 17,
-   "fingerprint": "af40065632d98da5",
+   "fingerprint": "58f84f62d794da6d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T13:00:41+00:00",
      "status": "ok",
@@ -6953,16 +6963,6 @@
     },
     {
      "at": "2026-10-28T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T02:24:22+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9973,15 +9973,25 @@
      "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-30T13:00:43+00:00",
-   "last_success": "2026-10-30T13:00:43+00:00",
+   "last_check": "2026-10-30T15:00:44+00:00",
+   "last_success": "2026-10-30T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 165,
-   "fingerprint": "8271bbb65f3b5664",
+   "item_count": 163,
+   "fingerprint": "3fc25a68c59895b5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T13:00:43+00:00",
      "status": "ok",
@@ -10421,26 +10431,16 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-28T02:24:25+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "k8s Engineer PL 영입 (계약직)",
-    "AI Data Platform 개발.운영 PL (계약직)",
     "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
     "[SK에어코어] ASU Operator 경력직",
-    "SK이터닉스 회계 담당 경력사원 모집"
+    "SK이터닉스 회계 담당 경력사원 모집",
+    "2026년 행복모아(주) 생산지원(사회복지사) 모집",
+    "[SK이노베이션 계열] 2026년 SK인천석유화학 기술직 인턴 모집"
    ],
    "health": {
     "issue": "",
@@ -12330,15 +12330,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T13:00:44+00:00",
-   "last_success": "2026-10-30T13:00:44+00:00",
+   "last_check": "2026-10-30T15:00:45+00:00",
+   "last_success": "2026-10-30T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 68,
-   "fingerprint": "d292bef7e5f1f8a7",
+   "fingerprint": "b742b7f71561340b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T13:00:44+00:00",
      "status": "ok",
@@ -12621,16 +12631,6 @@
     },
     {
      "at": "2026-10-28T05:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T02:24:26+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13283,15 +13283,25 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T13:00:46+00:00",
-   "last_success": "2026-10-30T13:00:46+00:00",
+   "last_check": "2026-10-30T15:00:47+00:00",
+   "last_success": "2026-10-30T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "959b70e6bbf4e34d",
+   "fingerprint": "707b75d48f666993",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T13:00:46+00:00",
      "status": "ok",
@@ -13574,16 +13584,6 @@
     },
     {
      "at": "2026-10-28T05:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T02:24:28+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
