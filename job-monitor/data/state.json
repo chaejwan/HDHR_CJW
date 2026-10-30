@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T02:41:04+00:00",
-   "last_success": "2026-10-30T02:41:04+00:00",
+   "last_check": "2026-10-30T05:00:37+00:00",
+   "last_success": "2026-10-30T05:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "d5093150d3f5c8db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T05:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T02:41:04+00:00",
      "status": "ok",
@@ -2436,16 +2446,6 @@
     },
     {
      "at": "2026-10-27T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T17:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6656,15 +6656,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T02:41:06+00:00",
-   "last_success": "2026-10-30T02:41:06+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-30T05:00:38+00:00",
+   "last_success": "2026-10-30T05:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 17,
    "fingerprint": "af40065632d98da5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T05:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T02:41:06+00:00",
      "status": "new",
@@ -6953,16 +6963,6 @@
     },
     {
      "at": "2026-10-27T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T17:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9961,8 +9961,8 @@
      "first_seen": "2026-10-30T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-30T02:41:16+00:00",
-   "last_success": "2026-10-30T02:41:16+00:00",
+   "last_check": "2026-10-30T05:00:40+00:00",
+   "last_success": "2026-10-30T05:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9970,6 +9970,16 @@
    "fingerprint": "24acc21f0bfed104",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T05:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T02:41:16+00:00",
      "status": "ok",
@@ -10397,16 +10407,6 @@
     },
     {
      "at": "2026-10-27T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T17:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12313,15 +12313,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T02:41:17+00:00",
-   "last_success": "2026-10-30T02:41:17+00:00",
+   "last_check": "2026-10-30T05:00:42+00:00",
+   "last_success": "2026-10-30T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 69,
-   "fingerprint": "444c77ca7b654487",
+   "fingerprint": "8d3cfc5d3724de6c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T02:41:17+00:00",
      "status": "ok",
@@ -12611,16 +12621,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T17:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12629,8 +12629,8 @@
     "[계약직] 품질/보증 행정지원",
     "[계약직] 울산공장 영상 크리에이터",
     "[계약직] 동부하이테크센터 드라이버",
-    "[계약직] 대전하이테크센터 파츠딜리버리",
-    "[계약직] 고양하이테크센터 드라이버"
+    "[계약직] 고양하이테크센터 드라이버",
+    "[아르바이트] 채용지원(남양, 판교)"
    ],
    "health": {
     "issue": "",
@@ -13266,8 +13266,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T02:41:20+00:00",
-   "last_success": "2026-10-30T02:41:20+00:00",
+   "last_check": "2026-10-30T05:00:44+00:00",
+   "last_success": "2026-10-30T05:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13275,6 +13275,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T05:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T02:41:20+00:00",
      "status": "ok",
@@ -13563,16 +13573,6 @@
     },
     {
      "at": "2026-10-27T19:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 3,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T17:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
