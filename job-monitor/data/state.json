@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T11:00:42+00:00",
-   "last_success": "2026-10-30T11:00:42+00:00",
+   "last_check": "2026-10-30T13:00:40+00:00",
+   "last_success": "2026-10-30T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "39980867e56bac47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T11:00:42+00:00",
      "status": "ok",
@@ -2436,16 +2446,6 @@
     },
     {
      "at": "2026-10-28T02:24:20+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T01:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6656,8 +6656,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T11:00:44+00:00",
-   "last_success": "2026-10-30T11:00:44+00:00",
+   "last_check": "2026-10-30T13:00:41+00:00",
+   "last_success": "2026-10-30T13:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6665,6 +6665,16 @@
    "fingerprint": "af40065632d98da5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T13:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T11:00:44+00:00",
      "status": "ok",
@@ -6953,16 +6963,6 @@
     },
     {
      "at": "2026-10-28T02:24:22+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T01:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9973,8 +9973,8 @@
      "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-30T11:00:50+00:00",
-   "last_success": "2026-10-30T11:00:50+00:00",
+   "last_check": "2026-10-30T13:00:43+00:00",
+   "last_success": "2026-10-30T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9982,6 +9982,16 @@
    "fingerprint": "8271bbb65f3b5664",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 165,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T11:00:50+00:00",
      "status": "ok",
@@ -10421,22 +10431,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-28T01:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262252",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12336,15 +12330,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T11:00:52+00:00",
-   "last_success": "2026-10-30T11:00:52+00:00",
+   "last_check": "2026-10-30T13:00:44+00:00",
+   "last_success": "2026-10-30T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 68,
-   "fingerprint": "d0d540ddeaa8ad3d",
+   "fingerprint": "d292bef7e5f1f8a7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T11:00:52+00:00",
      "status": "ok",
@@ -12627,16 +12631,6 @@
     },
     {
      "at": "2026-10-28T02:24:26+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T01:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13289,8 +13283,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T11:00:54+00:00",
-   "last_success": "2026-10-30T11:00:54+00:00",
+   "last_check": "2026-10-30T13:00:46+00:00",
+   "last_success": "2026-10-30T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13298,6 +13292,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T11:00:54+00:00",
      "status": "ok",
@@ -13587,22 +13591,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-28T01:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성E&A 경력사원 채용(연구개발, 분석)",
-       "url": "https://www.samsungcareers.com/hr/?no=23386",
-       "date": "2026.10.28 ~ 2026.11.10"
-      }
-     ]
     }
    ],
    "last_note": "",
