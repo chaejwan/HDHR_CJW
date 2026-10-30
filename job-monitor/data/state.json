@@ -2068,15 +2068,25 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T07:00:37+00:00",
-   "last_success": "2026-10-30T07:00:37+00:00",
+   "last_check": "2026-10-30T09:00:39+00:00",
+   "last_success": "2026-10-30T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 95,
-   "fingerprint": "bad5b14d5d0a1f97",
+   "item_count": 94,
+   "fingerprint": "39980867e56bac47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T07:00:37+00:00",
      "status": "ok",
@@ -2443,26 +2453,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "(주)한화 글로벌부문 케미칼소재 R&D 연구원 채용 (계약직)",
     "[한화투자증권] 플랫폼서비스팀 UX/콘텐츠 기획 경력 채용",
     "[한화투자증권] 플랫폼서비스팀 모바일 서비스 기획 경력 채용",
     "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
-    "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용"
+    "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
+    "[한화오션에코텍] 공정관리 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -6656,8 +6656,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T07:00:39+00:00",
-   "last_success": "2026-10-30T07:00:39+00:00",
+   "last_check": "2026-10-30T09:00:40+00:00",
+   "last_success": "2026-10-30T09:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6665,6 +6665,16 @@
    "fingerprint": "af40065632d98da5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T07:00:39+00:00",
      "status": "ok",
@@ -6953,16 +6963,6 @@
     },
     {
      "at": "2026-10-27T23:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9973,15 +9973,25 @@
      "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-30T07:00:42+00:00",
-   "last_success": "2026-10-30T07:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-30T09:00:43+00:00",
+   "last_success": "2026-10-30T09:00:43+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 165,
    "fingerprint": "8271bbb65f3b5664",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T09:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 165,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T07:00:42+00:00",
      "status": "new",
@@ -10420,16 +10430,6 @@
     },
     {
      "at": "2026-10-27T23:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T21:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12336,15 +12336,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T07:00:43+00:00",
-   "last_success": "2026-10-30T07:00:43+00:00",
+   "last_check": "2026-10-30T09:00:44+00:00",
+   "last_success": "2026-10-30T09:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 69,
-   "fingerprint": "8d3cfc5d3724de6c",
+   "item_count": 68,
+   "fingerprint": "d0d540ddeaa8ad3d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T09:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T07:00:43+00:00",
      "status": "ok",
@@ -12634,26 +12644,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 품질/보증 행정지원",
     "[계약직] 울산공장 영상 크리에이터",
-    "[계약직] 동부하이테크센터 드라이버",
     "[계약직] 고양하이테크센터 드라이버",
-    "[아르바이트] 채용지원(남양, 판교)"
+    "[아르바이트] 채용지원(남양, 판교)",
+    "[계약직] 행정지원 (장애인 제한경쟁)",
+    "[계약직] 해외 영입 인재 행정 지원"
    ],
    "health": {
     "issue": "",
@@ -13289,8 +13289,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T07:00:46+00:00",
-   "last_success": "2026-10-30T07:00:46+00:00",
+   "last_check": "2026-10-30T09:00:46+00:00",
+   "last_success": "2026-10-30T09:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13298,6 +13298,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T09:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T07:00:46+00:00",
      "status": "ok",
@@ -13586,16 +13596,6 @@
     },
     {
      "at": "2026-10-27T23:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 3,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T21:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
