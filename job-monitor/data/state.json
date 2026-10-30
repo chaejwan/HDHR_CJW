@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T15:00:40+00:00",
-   "last_success": "2026-10-30T15:00:40+00:00",
+   "last_check": "2026-10-30T17:00:43+00:00",
+   "last_success": "2026-10-30T17:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "009d237dbb0f49b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T17:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T15:00:40+00:00",
      "status": "ok",
@@ -2430,27 +2440,6 @@
        "title": "한화솔루션 연구소 연구지원직(계약직) 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20072",
        "date": "2026.11.11 15:00"
-      }
-     ]
-    },
-    {
-     "at": "2026-10-28T05:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[판교R&D센터] Perovskite 탠덤 태양전지 신뢰성 연구개발(열화분석) 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20074",
-       "date": "2026.11.15 23:59"
-      },
-      {
-       "title": "[판교R&D센터] 모듈 소재/부품 개발 엔지니어 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20073",
-       "date": "2026.11.15 23:59"
       }
      ]
     }
@@ -6656,8 +6645,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T15:00:41+00:00",
-   "last_success": "2026-10-30T15:00:41+00:00",
+   "last_check": "2026-10-30T17:00:44+00:00",
+   "last_success": "2026-10-30T17:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6665,6 +6654,16 @@
    "fingerprint": "58f84f62d794da6d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T17:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T15:00:41+00:00",
      "status": "ok",
@@ -6953,16 +6952,6 @@
     },
     {
      "at": "2026-10-28T07:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T05:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9973,8 +9962,8 @@
      "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-30T15:00:44+00:00",
-   "last_success": "2026-10-30T15:00:44+00:00",
+   "last_check": "2026-10-30T17:00:47+00:00",
+   "last_success": "2026-10-30T17:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9982,6 +9971,16 @@
    "fingerprint": "3fc25a68c59895b5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T17:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T15:00:44+00:00",
      "status": "ok",
@@ -10412,22 +10411,6 @@
       {
        "title": "AI Solutions Engineer 구성원 영입",
        "url": "https://www.skcareers.com/Recruit/Detail/R262374",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-10-28T05:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 148,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "구매 시스템 운영 지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262375",
        "date": ""
       }
      ]
@@ -12330,8 +12313,8 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T15:00:45+00:00",
-   "last_success": "2026-10-30T15:00:45+00:00",
+   "last_check": "2026-10-30T17:00:49+00:00",
+   "last_success": "2026-10-30T17:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12339,6 +12322,16 @@
    "fingerprint": "b742b7f71561340b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T17:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T15:00:45+00:00",
      "status": "ok",
@@ -12621,16 +12614,6 @@
     },
     {
      "at": "2026-10-28T07:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T05:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13283,8 +13266,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T15:00:47+00:00",
-   "last_success": "2026-10-30T15:00:47+00:00",
+   "last_check": "2026-10-30T17:00:51+00:00",
+   "last_success": "2026-10-30T17:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13292,6 +13275,16 @@
    "fingerprint": "707b75d48f666993",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T17:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T15:00:47+00:00",
      "status": "ok",
@@ -13574,16 +13567,6 @@
     },
     {
      "at": "2026-10-28T07:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T05:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
