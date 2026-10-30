@@ -2068,15 +2068,25 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T05:00:37+00:00",
-   "last_success": "2026-10-30T05:00:37+00:00",
+   "last_check": "2026-10-30T07:00:37+00:00",
+   "last_success": "2026-10-30T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 98,
-   "fingerprint": "d5093150d3f5c8db",
+   "item_count": 95,
+   "fingerprint": "bad5b14d5d0a1f97",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T05:00:37+00:00",
      "status": "ok",
@@ -2443,26 +2453,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화솔루션 큐셀부문] Global HR실 조직문화 담당자",
-    "[한화솔루션 큐셀] ES사업부 Embedded SW/FW Engineer 경력직 채용",
-    "[한화솔루션 큐셀] ES사업부 Mobile Application Engineering 경력직 채용",
     "(주)한화 글로벌부문 케미칼소재 R&D 연구원 채용 (계약직)",
-    "[한화투자증권] 플랫폼서비스팀 UX/콘텐츠 기획 경력 채용"
+    "[한화투자증권] 플랫폼서비스팀 UX/콘텐츠 기획 경력 채용",
+    "[한화투자증권] 플랫폼서비스팀 모바일 서비스 기획 경력 채용",
+    "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+    "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -6656,8 +6656,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T05:00:38+00:00",
-   "last_success": "2026-10-30T05:00:38+00:00",
+   "last_check": "2026-10-30T07:00:39+00:00",
+   "last_success": "2026-10-30T07:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6665,6 +6665,16 @@
    "fingerprint": "af40065632d98da5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T05:00:38+00:00",
      "status": "ok",
@@ -6953,16 +6963,6 @@
     },
     {
      "at": "2026-10-27T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T19:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9959,17 +9959,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262390",
      "date": "",
      "first_seen": "2026-10-30T01:00:45+00:00"
+    },
+    "c8f2492f654e50d9": {
+     "title": "2026년 SK가스 이사회 사무국 운영지원 포지션(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262393",
+     "date": "",
+     "first_seen": "2026-10-30T07:00:42+00:00"
+    },
+    "900ff7aa5a5cb065": {
+     "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262392",
+     "date": "",
+     "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-30T05:00:40+00:00",
-   "last_success": "2026-10-30T05:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-30T07:00:42+00:00",
+   "last_success": "2026-10-30T07:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 163,
-   "fingerprint": "24acc21f0bfed104",
+   "item_count": 165,
+   "fingerprint": "8271bbb65f3b5664",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T07:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 165,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 SK가스 이사회 사무국 운영지원 포지션(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262393",
+       "date": ""
+      },
+      {
+       "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262392",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-30T05:00:40+00:00",
      "status": "ok",
@@ -10404,16 +10437,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10430,7 +10453,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-30T01:00:45+00:00"
+   "last_new_at": "2026-10-30T07:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12313,8 +12336,8 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T05:00:42+00:00",
-   "last_success": "2026-10-30T05:00:42+00:00",
+   "last_check": "2026-10-30T07:00:43+00:00",
+   "last_success": "2026-10-30T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12322,6 +12345,16 @@
    "fingerprint": "8d3cfc5d3724de6c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T05:00:42+00:00",
      "status": "ok",
@@ -12604,16 +12637,6 @@
     },
     {
      "at": "2026-10-27T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T19:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13266,8 +13289,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T05:00:44+00:00",
-   "last_success": "2026-10-30T05:00:44+00:00",
+   "last_check": "2026-10-30T07:00:46+00:00",
+   "last_success": "2026-10-30T07:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13275,6 +13298,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T07:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T05:00:44+00:00",
      "status": "ok",
@@ -13570,16 +13603,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T19:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 3,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13617,6 +13640,24 @@
     "url": "https://recruit-hanwhaocean.com/ko/o/242591",
     "date": "",
     "found_at": "2026-10-30T02:41:21+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 SK가스 이사회 사무국 운영지원 포지션(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262393",
+    "date": "",
+    "found_at": "2026-10-30T07:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262392",
+    "date": "",
+    "found_at": "2026-10-30T07:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -13624,24 +13665,6 @@
   "last_sent": "2026-10-29T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "AI Research Engineer 구성원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262060",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "경영지원(자금,경리) 담당자 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19864",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-23T09:00:45+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18123,6 +18146,24 @@
    "url": "https://recruit-hanwhaocean.com/ko/o/242591",
    "date": "",
    "found_at": "2026-10-30T02:41:21+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 SK가스 이사회 사무국 운영지원 포지션(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262393",
+   "date": "",
+   "found_at": "2026-10-30T07:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262392",
+   "date": "",
+   "found_at": "2026-10-30T07:00:47+00:00"
   }
  ]
 }
