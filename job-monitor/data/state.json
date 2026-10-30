@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T01:00:35+00:00",
-   "last_success": "2026-10-30T01:00:35+00:00",
+   "last_check": "2026-10-30T02:41:04+00:00",
+   "last_success": "2026-10-30T02:41:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "d5093150d3f5c8db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T02:41:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T01:00:35+00:00",
      "status": "ok",
@@ -2443,22 +2453,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T15:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 구미사업장 소방/화약류 안전관리자 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20071",
-       "date": "2026.11.15 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6654,17 +6648,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/236045",
      "date": "",
      "first_seen": "2026-10-27T09:00:35+00:00"
+    },
+    "f9b86a14e82dc29e": {
+     "title": "[경영지원] 회계결산 경력사원 채용",
+     "url": "https://recruit-hanwhaocean.com/ko/o/242591",
+     "date": "",
+     "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-30T01:00:36+00:00",
-   "last_success": "2026-10-30T01:00:36+00:00",
-   "last_status": "ok",
+   "last_check": "2026-10-30T02:41:06+00:00",
+   "last_success": "2026-10-30T02:41:06+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 16,
-   "fingerprint": "2974c6f94225bd88",
+   "item_count": 17,
+   "fingerprint": "af40065632d98da5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T02:41:06+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[경영지원] 회계결산 경력사원 채용",
+       "url": "https://recruit-hanwhaocean.com/ko/o/242591",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-10-30T01:00:36+00:00",
      "status": "ok",
@@ -6954,33 +6970,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T15:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용",
-    "[인재풀 등록] Energy Plant Unit 경력사원 채용",
-    "[인재풀 등록] 상선사업부 경력사원 채용",
-    "[경영지원] 법무 경력사원(국제 변호사) 채용",
-    "[경영지원] 전략기획 경력사원 채용"
+    "[경영지원] 노사관리/운영 경력사원 채용",
+    "[경영지원] 회계결산 경력사원 채용",
+    "[경영지원] 인사행정 지원 사무직 채용",
+    "[경영지원] 정보보호 경력사원 채용",
+    "[경영지원] 사외숙소 관리 경력사원 채용 (육아휴직 대체, 계약직)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-27T09:00:35+00:00"
+   "last_new_at": "2026-10-30T02:41:06+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -9955,15 +9961,25 @@
      "first_seen": "2026-10-30T01:00:45+00:00"
     }
    },
-   "last_check": "2026-10-30T01:00:45+00:00",
-   "last_success": "2026-10-30T01:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-10-30T02:41:16+00:00",
+   "last_success": "2026-10-30T02:41:16+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 165,
-   "fingerprint": "c8eb87c6f06a602e",
+   "item_count": 163,
+   "fingerprint": "24acc21f0bfed104",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T02:41:16+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T01:00:45+00:00",
      "status": "new",
@@ -10398,26 +10414,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T15:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[SK케미칼(GC)] 계약직 비서 채용",
-    "[SK케미칼(GC)] 보훈 대상 계약직 비서 채용",
     "k8s Engineer PL 영입 (계약직)",
     "AI Data Platform 개발.운영 PL (계약직)",
-    "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입"
+    "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
+    "[SK에어코어] ASU Operator 경력직",
+    "SK이터닉스 회계 담당 경력사원 모집"
    ],
    "health": {
     "issue": "",
@@ -12307,15 +12313,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-30T01:00:46+00:00",
-   "last_success": "2026-10-30T01:00:46+00:00",
+   "last_check": "2026-10-30T02:41:17+00:00",
+   "last_success": "2026-10-30T02:41:17+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 69,
-   "fingerprint": "d4555f6e47952d3e",
+   "fingerprint": "444c77ca7b654487",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T02:41:17+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 69,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T01:00:46+00:00",
      "status": "ok",
@@ -12598,16 +12614,6 @@
     },
     {
      "at": "2026-10-27T17:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-27T15:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13260,8 +13266,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-30T01:00:48+00:00",
-   "last_success": "2026-10-30T01:00:48+00:00",
+   "last_check": "2026-10-30T02:41:20+00:00",
+   "last_success": "2026-10-30T02:41:20+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13269,6 +13275,16 @@
    "fingerprint": "959b70e6bbf4e34d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-30T02:41:20+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-30T01:00:48+00:00",
      "status": "ok",
@@ -13564,16 +13580,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-27T15:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 3,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13602,6 +13608,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262390",
     "date": "",
     "found_at": "2026-10-30T01:00:50+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[경영지원] 회계결산 경력사원 채용",
+    "url": "https://recruit-hanwhaocean.com/ko/o/242591",
+    "date": "",
+    "found_at": "2026-10-30T02:41:21+00:00"
    }
   ],
   "alerts": [],
@@ -13609,15 +13624,6 @@
   "last_sent": "2026-10-29T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] 데이터 분석 인턴 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262075",
-   "date": "",
-   "found_at": "2026-09-23T07:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18108,6 +18114,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262390",
    "date": "",
    "found_at": "2026-10-30T01:00:50+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[경영지원] 회계결산 경력사원 채용",
+   "url": "https://recruit-hanwhaocean.com/ko/o/242591",
+   "date": "",
+   "found_at": "2026-10-30T02:41:21+00:00"
   }
  ]
 }

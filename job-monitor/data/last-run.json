@@ -1,20 +1,20 @@
 {
- "at": "2026-10-30T01:00:50+00:00",
+ "at": "2026-10-30T02:41:21+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 11-02 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 11-02 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 1,
+  "items": 2,
   "alerts": 0,
   "since": "2026-10-30T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40983213617",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/40993102932",
  "results": [
   {
    "site_id": "hanwhain",
@@ -33,30 +33,30 @@
    "site_name": "한화오션",
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 16,
+   "status": "new",
+   "item_count": 17,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[경영지원] 회계결산 경력사원 채용",
+     "url": "https://recruit-hanwhaocean.com/ko/o/242591",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 165,
+   "status": "ok",
+   "item_count": 163,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK플라즈마 임상개발 경력 구성원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262390",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
