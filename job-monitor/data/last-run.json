@@ -1,5 +1,5 @@
 {
- "at": "2026-10-31T13:03:08+00:00",
+ "at": "2026-10-31T15:03:13+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -14,7 +14,7 @@
   "since": "2026-10-30T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41203592583",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41212748517",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,7 +46,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 163,
+   "item_count": 160,
    "method": "json",
    "note": "",
    "error": "",
