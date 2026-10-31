@@ -2068,7 +2068,7 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-31T19:00:37+00:00",
+   "last_check": "2026-10-31T21:00:35+00:00",
    "last_success": "2026-10-31T03:00:37+00:00",
    "last_status": "error",
    "last_error": "응답 시간 초과 (45초) (3회 시도)",
@@ -2077,6 +2077,16 @@
    "fingerprint": "1c65a2601f9bbee3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T21:00:35+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T19:00:37+00:00",
      "status": "error",
@@ -2372,30 +2382,14 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-29T09:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20093",
-       "date": "2026.11.12 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 8,
+   "consecutive_errors": 9,
    "sample_titles": [],
    "health": {
     "issue": "errors",
-    "detail": "8번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
+    "detail": "9번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
     "since": "2026-10-31T09:00:37+00:00"
    },
    "last_new_at": "2026-10-29T15:00:43+00:00"
@@ -6585,8 +6579,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-31T19:03:04+00:00",
-   "last_success": "2026-10-31T19:03:04+00:00",
+   "last_check": "2026-10-31T21:03:03+00:00",
+   "last_success": "2026-10-31T21:03:03+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6594,6 +6588,16 @@
    "fingerprint": "4d56953045d59f73",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T21:03:03+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T19:03:04+00:00",
      "status": "ok",
@@ -6882,16 +6886,6 @@
     },
     {
      "at": "2026-10-29T11:03:06+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-29T09:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9902,8 +9896,8 @@
      "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-31T19:03:08+00:00",
-   "last_success": "2026-10-31T19:03:08+00:00",
+   "last_check": "2026-10-31T21:03:09+00:00",
+   "last_success": "2026-10-31T21:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9911,6 +9905,16 @@
    "fingerprint": "37ace241804cafca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T21:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T19:03:08+00:00",
      "status": "ok",
@@ -10223,22 +10227,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-29T09:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 167,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 관리회계 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262389",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12138,8 +12126,8 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-31T19:03:09+00:00",
-   "last_success": "2026-10-31T19:03:09+00:00",
+   "last_check": "2026-10-31T21:03:10+00:00",
+   "last_success": "2026-10-31T21:03:10+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12147,6 +12135,16 @@
    "fingerprint": "ea0b74fdcad3c2f7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T21:03:10+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T19:03:09+00:00",
      "status": "ok",
@@ -12429,16 +12427,6 @@
     },
     {
      "at": "2026-10-29T11:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-29T09:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13091,8 +13079,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-31T19:03:11+00:00",
-   "last_success": "2026-10-31T19:03:11+00:00",
+   "last_check": "2026-10-31T21:03:13+00:00",
+   "last_success": "2026-10-31T21:03:13+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13100,6 +13088,16 @@
    "fingerprint": "fbc40f3e5cac459d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T21:03:13+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T19:03:11+00:00",
      "status": "ok",
@@ -13382,16 +13380,6 @@
     },
     {
      "at": "2026-10-29T11:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-29T09:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
