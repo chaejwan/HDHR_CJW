@@ -2068,15 +2068,25 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-10-31T01:00:37+00:00",
-   "last_success": "2026-10-31T01:00:37+00:00",
+   "last_check": "2026-10-31T03:00:37+00:00",
+   "last_success": "2026-10-31T03:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
-   "last_method": "json",
-   "item_count": 91,
-   "fingerprint": "009d237dbb0f49b1",
+   "last_method": "none",
+   "item_count": 0,
+   "fingerprint": "1c65a2601f9bbee3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T03:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "",
+     "note": "JSON 파싱 실패: Expecting value: line 1 column 1 (char 0)",
+     "new": []
+    },
     {
      "at": "2026-10-31T01:00:37+00:00",
      "status": "ok",
@@ -2400,57 +2410,15 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-28T15:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 5,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 통합방공체계 부문 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20079",
-       "date": "2026.11.15 23:59"
-      },
-      {
-       "title": "한화시스템 MRO 전략기획 분야 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20078",
-       "date": "2026.11.22 23:59"
-      },
-      {
-       "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20077",
-       "date": "2026.11.22 23:59"
-      },
-      {
-       "title": "한화시스템 협력사 구매 관리 담당 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20076",
-       "date": "2026.11.22 23:59"
-      },
-      {
-       "title": "한화시스템 정보보호/해외수출보안 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20075",
-       "date": "2026.11.22 23:59"
-      }
-     ]
     }
    ],
-   "last_note": "",
+   "last_note": "JSON 파싱 실패: Expecting value: line 1 column 1 (char 0)",
    "consecutive_errors": 0,
-   "sample_titles": [
-    "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
-    "[한화오션에코텍] 공정관리 경력사원 채용",
-    "[HR실] 해외 주재원 Payroll 담당자 채용(계약직)",
-    "(주)한화 글로벌부문 화약류 제조기사 채용 (계약직)",
-    "[현지채용] 유럽법인(체코) 자동차 영업 경력사원 채용"
-   ],
+   "sample_titles": [],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "no_items",
+    "detail": "평소 91건 정도 읽었는데 이번에는 0건입니다.",
+    "since": "2026-10-31T03:00:37+00:00"
    },
    "last_new_at": "2026-10-29T15:00:43+00:00"
   },
@@ -6639,8 +6607,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-10-31T01:00:38+00:00",
-   "last_success": "2026-10-31T01:00:38+00:00",
+   "last_check": "2026-10-31T03:00:38+00:00",
+   "last_success": "2026-10-31T03:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6648,6 +6616,16 @@
    "fingerprint": "58f84f62d794da6d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T03:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T01:00:38+00:00",
      "status": "ok",
@@ -6936,16 +6914,6 @@
     },
     {
      "at": "2026-10-28T17:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T15:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9956,8 +9924,8 @@
      "first_seen": "2026-10-30T07:00:42+00:00"
     }
    },
-   "last_check": "2026-10-31T01:00:41+00:00",
-   "last_success": "2026-10-31T01:00:41+00:00",
+   "last_check": "2026-10-31T03:00:41+00:00",
+   "last_success": "2026-10-31T03:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9965,6 +9933,16 @@
    "fingerprint": "3fc25a68c59895b5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T03:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 163,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T01:00:41+00:00",
      "status": "ok",
@@ -10316,82 +10294,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-28T15:00:50+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 13,
-     "item_count": 159,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK키파운드리 미래기술(R&D) Engineer 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262357",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 미래기술(R&D) Engineer 분야 박사 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262358",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 계측 Engineer 분야 Junior 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262362",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 제조기술 Engineer 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262363",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 MI Engineer 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262365",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 Infra 기술 분야 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262366",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 Technical Marketing 분야 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262367",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 RTD/RTS Engineer 분야 경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262369",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 경영기획 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262370",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 품질 Engineer 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262371",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 정보보안 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262372",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 Marketing 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262373",
-       "date": ""
-      },
-      {
-       "title": "SK키파운드리 안전관리 분야 신입 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262378",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12291,8 +12193,8 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-10-31T01:00:42+00:00",
-   "last_success": "2026-10-31T01:00:42+00:00",
+   "last_check": "2026-10-31T03:00:42+00:00",
+   "last_success": "2026-10-31T03:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12300,6 +12202,16 @@
    "fingerprint": "b742b7f71561340b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T03:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T01:00:42+00:00",
      "status": "ok",
@@ -12582,16 +12494,6 @@
     },
     {
      "at": "2026-10-28T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-28T15:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13244,8 +13146,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-10-31T01:00:44+00:00",
-   "last_success": "2026-10-31T01:00:44+00:00",
+   "last_check": "2026-10-31T03:00:44+00:00",
+   "last_success": "2026-10-31T03:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13253,6 +13155,16 @@
    "fingerprint": "707b75d48f666993",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-10-31T03:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-10-31T01:00:44+00:00",
      "status": "ok",
@@ -13542,16 +13454,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-28T15:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13609,7 +13511,18 @@
     "found_at": "2026-10-30T07:00:47+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "kind": "no_items",
+    "label": "목록을 하나도 읽지 못했습니다",
+    "detail": "평소 91건 정도 읽었는데 이번에는 0건입니다.",
+    "recovered": false
+   }
+  ],
   "since": "2026-10-30T01:00:50+00:00",
   "last_sent": "2026-10-29T23:00:51+00:00"
  },

@@ -1,20 +1,31 @@
 {
- "at": "2026-10-31T01:00:45+00:00",
+ "at": "2026-10-31T03:00:46+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 11-02 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 1건). 11-02 08:00 에 보냅니다."
  },
- "alerts": [],
+ "alerts": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "kind": "no_items",
+   "label": "목록을 하나도 읽지 못했습니다",
+   "detail": "평소 91건 정도 읽었는데 이번에는 0건입니다.",
+   "recovered": false
+  }
+ ],
  "pending": {
   "items": 4,
-  "alerts": 0,
+  "alerts": 1,
   "since": "2026-10-30T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41153163822",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41162459803",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,9 +33,9 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "ok",
-   "item_count": 91,
-   "method": "json",
-   "note": "",
+   "item_count": 0,
+   "method": "none",
+   "note": "JSON 파싱 실패: Expecting value: line 1 column 1 (char 0)",
    "error": "",
    "new_items": []
   },
