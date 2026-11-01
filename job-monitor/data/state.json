@@ -2068,7 +2068,7 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-11-01T11:00:34+00:00",
+   "last_check": "2026-11-01T13:00:35+00:00",
    "last_success": "2026-10-31T03:00:37+00:00",
    "last_status": "error",
    "last_error": "응답 시간 초과 (45초) (3회 시도)",
@@ -2077,6 +2077,16 @@
    "fingerprint": "1c65a2601f9bbee3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-01T13:00:35+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T11:00:34+00:00",
      "status": "error",
@@ -2366,24 +2376,14 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T01:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 16,
+   "consecutive_errors": 17,
    "sample_titles": [],
    "health": {
     "issue": "errors",
-    "detail": "16번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
+    "detail": "17번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
     "since": "2026-10-31T09:00:37+00:00"
    },
    "last_new_at": "2026-10-29T15:00:43+00:00"
@@ -6573,8 +6573,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-01T11:03:01+00:00",
-   "last_success": "2026-11-01T11:03:01+00:00",
+   "last_check": "2026-11-01T13:03:02+00:00",
+   "last_success": "2026-11-01T13:03:02+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6582,6 +6582,16 @@
    "fingerprint": "4d56953045d59f73",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-01T13:03:02+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T11:03:01+00:00",
      "status": "ok",
@@ -6877,16 +6887,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-30T01:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -9896,8 +9896,8 @@
      "first_seen": "2026-11-01T01:03:05+00:00"
     }
    },
-   "last_check": "2026-11-01T11:03:04+00:00",
-   "last_success": "2026-11-01T11:03:04+00:00",
+   "last_check": "2026-11-01T13:03:03+00:00",
+   "last_success": "2026-11-01T13:03:03+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9905,6 +9905,16 @@
    "fingerprint": "06827406b8349c1f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-01T13:03:03+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T11:03:04+00:00",
      "status": "ok",
@@ -10211,22 +10221,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T01:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 165,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 임상개발 경력 구성원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262390",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12126,15 +12120,25 @@
      "first_seen": "2026-10-26T01:00:40+00:00"
     }
    },
-   "last_check": "2026-11-01T11:03:05+00:00",
-   "last_success": "2026-11-01T11:03:05+00:00",
+   "last_check": "2026-11-01T13:03:04+00:00",
+   "last_success": "2026-11-01T13:03:04+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 68,
-   "fingerprint": "6c72f7d5bf1b1137",
+   "fingerprint": "4ac4000048766511",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-01T13:03:04+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T11:03:05+00:00",
      "status": "ok",
@@ -12417,16 +12421,6 @@
     },
     {
      "at": "2026-10-30T02:41:17+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 69,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T01:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13079,8 +13073,8 @@
      "first_seen": "2026-10-28T01:00:43+00:00"
     }
    },
-   "last_check": "2026-11-01T11:03:07+00:00",
-   "last_success": "2026-11-01T11:03:07+00:00",
+   "last_check": "2026-11-01T13:03:06+00:00",
+   "last_success": "2026-11-01T13:03:06+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13088,6 +13082,16 @@
    "fingerprint": "fbc40f3e5cac459d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-01T13:03:06+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T11:03:07+00:00",
      "status": "ok",
@@ -13370,16 +13374,6 @@
     },
     {
      "at": "2026-10-30T02:41:20+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T01:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
