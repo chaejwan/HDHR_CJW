@@ -2068,15 +2068,25 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-11-02T01:00:34+00:00",
-   "last_success": "2026-10-31T03:00:37+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
-   "last_method": "none",
-   "item_count": 0,
-   "fingerprint": "1c65a2601f9bbee3",
+   "last_check": "2026-11-02T02:36:30+00:00",
+   "last_success": "2026-11-02T02:36:30+00:00",
+   "last_status": "ok",
+   "last_error": "",
+   "last_method": "json",
+   "item_count": 63,
+   "fingerprint": "f7b7d5dcdc6ead74",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T02:36:30+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T01:00:34+00:00",
      "status": "error",
@@ -2366,25 +2376,21 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T15:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 23,
-   "sample_titles": [],
+   "consecutive_errors": 0,
+   "sample_titles": [
+    "한화솔루션 정보보호사무국 채용 - 보안 컴플라이언스 관리",
+    "한화솔루션 정보보호사무국 채용 - 정보보호 컴플라이언스 진단",
+    "(주)한화 글로벌부문 안전보건 기획/운영 경력사원 채용",
+    "[한화임팩트] 생산직 오퍼레이터 신입 채용 (충남 대산)",
+    "(주)한화 글로벌부문 F/W 개발 경력사원 채용"
+   ],
    "health": {
-    "issue": "errors",
-    "detail": "23번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
-    "since": "2026-10-31T09:00:37+00:00"
+    "issue": "method_changed",
+    "detail": "none → json 로 바뀌었습니다. 사이트 구조가 변경됐을 수 있습니다.",
+    "since": "2026-11-02T02:36:30+00:00"
    },
    "last_new_at": "2026-10-29T15:00:43+00:00"
   },
@@ -6573,8 +6579,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-02T01:03:02+00:00",
-   "last_success": "2026-11-02T01:03:02+00:00",
+   "last_check": "2026-11-02T02:36:31+00:00",
+   "last_success": "2026-11-02T02:36:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6582,6 +6588,16 @@
    "fingerprint": "40c73cceccb81227",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T02:36:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T01:03:02+00:00",
      "status": "ok",
@@ -6864,16 +6880,6 @@
     },
     {
      "at": "2026-10-30T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T15:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9894,17 +9900,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262353",
      "date": "",
      "first_seen": "2026-11-01T15:03:09+00:00"
+    },
+    "42cb9751303ab18c": {
+     "title": "IP Junior 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262394",
+     "date": "",
+     "first_seen": "2026-11-02T02:36:35+00:00"
     }
    },
-   "last_check": "2026-11-02T01:03:09+00:00",
-   "last_success": "2026-11-02T01:03:09+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-02T02:36:35+00:00",
+   "last_success": "2026-11-02T02:36:35+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 131,
-   "fingerprint": "4ccc464749072c68",
+   "item_count": 133,
+   "fingerprint": "f7efabe8e4cc8a49",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T02:36:35+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 133,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "IP Junior 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262394",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-02T01:03:09+00:00",
      "status": "ok",
@@ -10206,16 +10234,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T15:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10232,7 +10250,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-01T15:03:09+00:00"
+   "last_new_at": "2026-11-02T02:36:35+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12121,15 +12139,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-02T01:03:10+00:00",
-   "last_success": "2026-11-02T01:03:10+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-02T02:36:36+00:00",
+   "last_success": "2026-11-02T02:36:36+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 66,
-   "fingerprint": "13b803cee298687e",
+   "fingerprint": "dfc808ca297132be",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T02:36:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T01:03:10+00:00",
      "status": "new",
@@ -12418,16 +12446,6 @@
     },
     {
      "at": "2026-10-30T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T15:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13086,15 +13104,25 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-02T01:03:12+00:00",
-   "last_success": "2026-11-02T01:03:12+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-02T02:36:38+00:00",
+   "last_success": "2026-11-02T02:36:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
    "fingerprint": "cd11a2a36c01b25c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T02:36:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T01:03:12+00:00",
      "status": "new",
@@ -13390,16 +13418,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T15:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13438,22 +13456,33 @@
     "url": "https://www.samsungcareers.com/hr/?no=23407",
     "date": "2026.11.02 ~ 2026.11.13",
     "found_at": "2026-11-02T01:03:14+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "IP Junior 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262394",
+    "date": "",
+    "found_at": "2026-11-02T02:36:39+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "kind": "method_changed",
+    "label": "공고를 읽어 오는 방식이 바뀌었습니다",
+    "detail": "none → json 로 바뀌었습니다. 사이트 구조가 변경됐을 수 있습니다.",
+    "recovered": false
+   }
+  ],
   "since": "2026-11-02T01:03:14+00:00",
   "last_sent": "2026-11-01T23:03:14+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[제품전략기술원] 성능평가 Technician 신입사원(전문학사) 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19868",
-   "date": "2026.10.11 23:59",
-   "found_at": "2026-09-28T01:00:42+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -17944,6 +17973,15 @@
    "url": "https://www.samsungcareers.com/hr/?no=23407",
    "date": "2026.11.02 ~ 2026.11.13",
    "found_at": "2026-11-02T01:03:14+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "IP Junior 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262394",
+   "date": "",
+   "found_at": "2026-11-02T02:36:39+00:00"
   }
  ]
 }

@@ -1,31 +1,42 @@
 {
- "at": "2026-11-02T01:03:14+00:00",
+ "at": "2026-11-02T02:36:39+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 11-03 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 1건). 11-03 08:00 에 보냅니다."
  },
- "alerts": [],
+ "alerts": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "kind": "method_changed",
+   "label": "공고를 읽어 오는 방식이 바뀌었습니다",
+   "detail": "none → json 로 바뀌었습니다. 사이트 구조가 변경됐을 수 있습니다.",
+   "recovered": false
+  }
+ ],
  "pending": {
-  "items": 2,
-  "alerts": 0,
+  "items": 3,
+  "alerts": 1,
   "since": "2026-11-02T01:03:14+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41370162360",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41378631498",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "ok",
+   "item_count": 63,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
+   "error": "",
    "new_items": []
   },
   {
@@ -45,48 +56,42 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 131,
+   "status": "new",
+   "item_count": 133,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "IP Junior 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262394",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 66,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
-     "date": "20261231"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
+   "status": "ok",
    "item_count": 5,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
-     "url": "https://www.samsungcareers.com/hr/?no=23407",
-     "date": "2026.11.02 ~ 2026.11.13"
-    }
-   ]
+   "new_items": []
   }
  ]
 }
