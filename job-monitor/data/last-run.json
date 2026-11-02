@@ -1,38 +1,32 @@
 {
- "at": "2026-11-02T09:00:59+00:00",
+ "at": "2026-11-02T11:00:47+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 2건). 11-03 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 2건). 11-03 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 7,
   "alerts": 2,
   "since": "2026-11-02T01:03:14+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41417205857",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41433290859",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 57,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화솔루션 큐셀] 탠덤제조공정팀 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
-     "date": "2026.11.27 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,14 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 134,
+   "item_count": 135,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "서비스산업 컨설턴트 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262398",
+     "title": "SK플라즈마 자금/공시 담당 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262401",
      "date": ""
     }
    ]
