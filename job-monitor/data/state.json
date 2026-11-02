@@ -2080,15 +2080,25 @@
      "first_seen": "2026-11-02T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-02T13:00:54+00:00",
-   "last_success": "2026-11-02T13:00:54+00:00",
+   "last_check": "2026-11-02T15:00:46+00:00",
+   "last_success": "2026-11-02T15:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 57,
-   "fingerprint": "ee473737acfc7c2b",
+   "item_count": 54,
+   "fingerprint": "ac140baf46e4a73c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T15:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T13:00:54+00:00",
      "status": "ok",
@@ -2390,26 +2400,16 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T03:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "",
-     "note": "JSON 파싱 실패: Expecting value: line 1 column 1 (char 0)",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화투자증권] AI팀_전사 AX 기획ㆍ사업 추진 직무 경력 채용",
-    "[한화투자증권] AI팀_AI데이터 플랫폼 개발ㆍ운영 직무 경력 채용",
-    "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
     "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
-    "[한화생명] 정보보호팀 '정보보호' 경력채용(사원~차장)"
+    "[한화생명] 정보보호팀 '정보보호' 경력채용(사원~차장)",
+    "직판파트_직판 오퍼레이션 담당자 채용 (아르바이트)",
+    "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
+    "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)"
    ],
    "health": {
     "issue": "",
@@ -6603,15 +6603,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-02T13:00:55+00:00",
-   "last_success": "2026-11-02T13:00:55+00:00",
+   "last_check": "2026-11-02T15:00:47+00:00",
+   "last_success": "2026-11-02T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 17,
-   "fingerprint": "40c73cceccb81227",
+   "fingerprint": "8e3a7c0224e64e62",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T13:00:55+00:00",
      "status": "ok",
@@ -6894,16 +6904,6 @@
     },
     {
      "at": "2026-10-31T05:03:03+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-31T03:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9942,17 +9942,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262401",
      "date": "",
      "first_seen": "2026-11-02T11:00:43+00:00"
+    },
+    "5be44b35cfed30f9": {
+     "title": "SK그룹 신입구성원과정 운영 지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262399",
+     "date": "",
+     "first_seen": "2026-11-02T15:00:51+00:00"
     }
    },
-   "last_check": "2026-11-02T13:00:57+00:00",
-   "last_success": "2026-11-02T13:00:57+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-02T15:00:51+00:00",
+   "last_success": "2026-11-02T15:00:51+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 135,
-   "fingerprint": "86de7c0ac7f02a9d",
+   "item_count": 126,
+   "fingerprint": "48228438f8376cb5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T15:00:51+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 126,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK그룹 신입구성원과정 운영 지원 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262399",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-02T13:00:57+00:00",
      "status": "ok",
@@ -10272,33 +10294,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T03:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SAP 모듈 전문가 영입",
-    "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
-    "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
-    "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
-    "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집"
+    "OT보안 전문가 영입",
+    "구매 시스템 운영 지원 담당자",
+    "충방전기 기술영업 및 사업개발 (경력)",
+    "서비스 품질 관리 및 운영 지원 담당자",
+    "SK에코엔지니어링 SMR사업개발(인허가) 및 품질관리 경력 채용(정직/촉탁직)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-02T11:00:43+00:00"
+   "last_new_at": "2026-11-02T15:00:51+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12187,15 +12199,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-02T13:00:58+00:00",
-   "last_success": "2026-11-02T13:00:58+00:00",
+   "last_check": "2026-11-02T15:00:52+00:00",
+   "last_success": "2026-11-02T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 62,
-   "fingerprint": "be44258626cc828a",
+   "item_count": 58,
+   "fingerprint": "d60a8f2a121da12e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 58,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T13:00:58+00:00",
      "status": "ok",
@@ -12491,26 +12513,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T03:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[아르바이트] 채용지원(남양, 판교)",
-    "[계약직] 행정지원 (장애인 제한경쟁)",
-    "[계약직] 연료교환",
-    "[계약직] 수소충전소 안전관리",
-    "[소프티어 부트캠프] Backend Developer"
+    "[소프티어 부트캠프] Backend Developer",
+    "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
+    "[계약직] 동부하이테크센터 드라이버",
+    "[계약직] 대전하이테크센터 파츠딜리버리",
+    "태양광 발전사업 현장 인허가 및 대외협력"
    ],
    "health": {
     "issue": "",
@@ -13152,15 +13164,25 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-02T13:01:00+00:00",
-   "last_success": "2026-11-02T13:01:00+00:00",
+   "last_check": "2026-11-02T15:00:54+00:00",
+   "last_success": "2026-11-02T15:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 5,
-   "fingerprint": "cd11a2a36c01b25c",
+   "fingerprint": "f73b94651eed1a4b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T15:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T13:01:00+00:00",
      "status": "ok",
@@ -13456,16 +13478,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T03:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13549,6 +13561,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262401",
     "date": "",
     "found_at": "2026-11-02T11:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK그룹 신입구성원과정 운영 지원 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262399",
+    "date": "",
+    "found_at": "2026-11-02T15:00:55+00:00"
    }
   ],
   "alerts": [
@@ -13577,15 +13598,6 @@
   "last_sent": "2026-11-01T23:03:14+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "5G무선통신망 구축 현장 안전관리자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262069",
-   "date": "",
-   "found_at": "2026-09-28T05:00:47+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18076,6 +18088,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262401",
    "date": "",
    "found_at": "2026-11-02T11:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK그룹 신입구성원과정 운영 지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262399",
+   "date": "",
+   "found_at": "2026-11-02T15:00:55+00:00"
   }
  ]
 }
