@@ -2072,17 +2072,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
      "date": "2026.11.27 23:59",
      "first_seen": "2026-11-02T07:00:37+00:00"
+    },
+    "ce8f15d2d7db3647": {
+     "title": "[한화솔루션 큐셀] 탠덤제조공정팀 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
+     "date": "2026.11.27 23:59",
+     "first_seen": "2026-11-02T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-02T07:00:37+00:00",
-   "last_success": "2026-11-02T07:00:37+00:00",
+   "last_check": "2026-11-02T09:00:49+00:00",
+   "last_success": "2026-11-02T09:00:49+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 57,
-   "fingerprint": "e91e5b4be9f18140",
+   "fingerprint": "ee473737acfc7c2b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T09:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화솔루션 큐셀] 탠덤제조공정팀 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
+       "date": "2026.11.27 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-02T07:00:37+00:00",
      "status": "new",
@@ -2378,16 +2400,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T21:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2404,7 +2416,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-02T07:00:37+00:00"
+   "last_new_at": "2026-11-02T09:00:49+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6591,8 +6603,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-02T07:00:39+00:00",
-   "last_success": "2026-11-02T07:00:39+00:00",
+   "last_check": "2026-11-02T09:00:50+00:00",
+   "last_success": "2026-11-02T09:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6600,6 +6612,16 @@
    "fingerprint": "40c73cceccb81227",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T09:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T07:00:39+00:00",
      "status": "ok",
@@ -6882,16 +6904,6 @@
     },
     {
      "at": "2026-10-30T23:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9918,17 +9930,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262394",
      "date": "",
      "first_seen": "2026-11-02T02:36:35+00:00"
+    },
+    "2c332180472c4f50": {
+     "title": "서비스산업 컨설턴트 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262398",
+     "date": "",
+     "first_seen": "2026-11-02T09:00:54+00:00"
     }
    },
-   "last_check": "2026-11-02T07:00:42+00:00",
-   "last_success": "2026-11-02T07:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-02T09:00:54+00:00",
+   "last_success": "2026-11-02T09:00:54+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 133,
-   "fingerprint": "f7efabe8e4cc8a49",
+   "item_count": 134,
+   "fingerprint": "57bcc3ddbbe4dc19",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T09:00:54+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 134,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "서비스산업 컨설턴트 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262398",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-02T07:00:42+00:00",
      "status": "ok",
@@ -10236,33 +10270,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[10월] 월간 hy-way(경력)",
     "SAP 모듈 전문가 영입",
     "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
     "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
-    "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집"
+    "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
+    "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-02T02:36:35+00:00"
+   "last_new_at": "2026-11-02T09:00:54+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12151,15 +12175,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-02T07:00:43+00:00",
-   "last_success": "2026-11-02T07:00:43+00:00",
+   "last_check": "2026-11-02T09:00:55+00:00",
+   "last_success": "2026-11-02T09:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 64,
-   "fingerprint": "bd5bf5b2101fbc3e",
+   "item_count": 62,
+   "fingerprint": "49aac3b04145d39b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T09:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 62,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T07:00:43+00:00",
      "status": "ok",
@@ -12455,16 +12489,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12472,9 +12496,9 @@
    "sample_titles": [
     "[아르바이트] 채용지원(남양, 판교)",
     "[계약직] 행정지원 (장애인 제한경쟁)",
-    "[계약직] 파이롯트센터 행정지원 (장애인 제한경쟁)",
-    "[계약직] 제네시스 사업 운영 지원 (장애인 제한경쟁)",
-    "[계약직] 연료교환"
+    "[계약직] 연료교환",
+    "[계약직] 수소충전소 안전관리",
+    "[소프티어 부트캠프] Backend Developer"
    ],
    "health": {
     "issue": "",
@@ -13116,8 +13140,8 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-02T07:00:45+00:00",
-   "last_success": "2026-11-02T07:00:45+00:00",
+   "last_check": "2026-11-02T09:00:57+00:00",
+   "last_success": "2026-11-02T09:00:57+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13125,6 +13149,16 @@
    "fingerprint": "cd11a2a36c01b25c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T09:00:57+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T07:00:45+00:00",
      "status": "ok",
@@ -13420,16 +13454,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13486,6 +13510,24 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
     "date": "2026.11.27 23:59",
     "found_at": "2026-11-02T07:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화솔루션 큐셀] 탠덤제조공정팀 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
+    "date": "2026.11.27 23:59",
+    "found_at": "2026-11-02T09:00:59+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "서비스산업 컨설턴트 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262398",
+    "date": "",
+    "found_at": "2026-11-02T09:00:59+00:00"
    }
   ],
   "alerts": [
@@ -13514,24 +13556,6 @@
   "last_sent": "2026-11-01T23:03:14+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[아이지이] SHE 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262061",
-   "date": "",
-   "found_at": "2026-09-28T01:00:42+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Pre-SKALA 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262013",
-   "date": "",
-   "found_at": "2026-09-28T01:00:42+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18013,6 +18037,24 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
    "date": "2026.11.27 23:59",
    "found_at": "2026-11-02T07:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화솔루션 큐셀] 탠덤제조공정팀 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
+   "date": "2026.11.27 23:59",
+   "found_at": "2026-11-02T09:00:59+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "서비스산업 컨설턴트 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262398",
+   "date": "",
+   "found_at": "2026-11-02T09:00:59+00:00"
   }
  ]
 }
