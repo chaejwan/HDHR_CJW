@@ -2068,8 +2068,8 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-11-02T02:36:30+00:00",
-   "last_success": "2026-11-02T02:36:30+00:00",
+   "last_check": "2026-11-02T05:00:37+00:00",
+   "last_success": "2026-11-02T05:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2077,6 +2077,16 @@
    "fingerprint": "f7b7d5dcdc6ead74",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T05:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T02:36:30+00:00",
      "status": "ok",
@@ -2366,16 +2376,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T17:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2388,9 +2388,9 @@
     "(주)한화 글로벌부문 F/W 개발 경력사원 채용"
    ],
    "health": {
-    "issue": "method_changed",
-    "detail": "none → json 로 바뀌었습니다. 사이트 구조가 변경됐을 수 있습니다.",
-    "since": "2026-11-02T02:36:30+00:00"
+    "issue": "",
+    "detail": "",
+    "since": ""
    },
    "last_new_at": "2026-10-29T15:00:43+00:00"
   },
@@ -6579,8 +6579,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-02T02:36:31+00:00",
-   "last_success": "2026-11-02T02:36:31+00:00",
+   "last_check": "2026-11-02T05:00:38+00:00",
+   "last_success": "2026-11-02T05:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6588,6 +6588,16 @@
    "fingerprint": "40c73cceccb81227",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T05:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T02:36:31+00:00",
      "status": "ok",
@@ -6870,16 +6880,6 @@
     },
     {
      "at": "2026-10-30T19:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T17:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9908,15 +9908,25 @@
      "first_seen": "2026-11-02T02:36:35+00:00"
     }
    },
-   "last_check": "2026-11-02T02:36:35+00:00",
-   "last_success": "2026-11-02T02:36:35+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-02T05:00:43+00:00",
+   "last_success": "2026-11-02T05:00:43+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 133,
    "fingerprint": "f7efabe8e4cc8a49",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T05:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 133,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T02:36:35+00:00",
      "status": "new",
@@ -10217,16 +10227,6 @@
     },
     {
      "at": "2026-10-30T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T17:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12139,15 +12139,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-02T02:36:36+00:00",
-   "last_success": "2026-11-02T02:36:36+00:00",
+   "last_check": "2026-11-02T05:00:45+00:00",
+   "last_success": "2026-11-02T05:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 66,
-   "fingerprint": "dfc808ca297132be",
+   "fingerprint": "a901a70b05a931e1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T02:36:36+00:00",
      "status": "ok",
@@ -12436,16 +12446,6 @@
     },
     {
      "at": "2026-10-30T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T17:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13104,8 +13104,8 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-02T02:36:38+00:00",
-   "last_success": "2026-11-02T02:36:38+00:00",
+   "last_check": "2026-11-02T05:00:47+00:00",
+   "last_success": "2026-11-02T05:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13113,6 +13113,16 @@
    "fingerprint": "cd11a2a36c01b25c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T05:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T02:36:38+00:00",
      "status": "ok",
@@ -13408,16 +13418,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T17:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13477,6 +13477,16 @@
     "label": "공고를 읽어 오는 방식이 바뀌었습니다",
     "detail": "none → json 로 바뀌었습니다. 사이트 구조가 변경됐을 수 있습니다.",
     "recovered": false
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "kind": "method_changed",
+    "label": "공고를 읽어 오는 방식이 바뀌었습니다",
+    "detail": "다시 정상으로 확인됐습니다.",
+    "recovered": true
    }
   ],
   "since": "2026-11-02T01:03:14+00:00",
