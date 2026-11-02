@@ -2068,7 +2068,7 @@
      "first_seen": "2026-10-29T15:00:43+00:00"
     }
    },
-   "last_check": "2026-11-01T23:00:38+00:00",
+   "last_check": "2026-11-02T01:00:34+00:00",
    "last_success": "2026-10-31T03:00:37+00:00",
    "last_status": "error",
    "last_error": "응답 시간 초과 (45초) (3회 시도)",
@@ -2077,6 +2077,16 @@
    "fingerprint": "1c65a2601f9bbee3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T01:00:34+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T23:00:38+00:00",
      "status": "error",
@@ -2366,24 +2376,14 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 94,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 22,
+   "consecutive_errors": 23,
    "sample_titles": [],
    "health": {
     "issue": "errors",
-    "detail": "22번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
+    "detail": "23번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
     "since": "2026-10-31T09:00:37+00:00"
    },
    "last_new_at": "2026-10-29T15:00:43+00:00"
@@ -6573,8 +6573,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-01T23:03:05+00:00",
-   "last_success": "2026-11-01T23:03:05+00:00",
+   "last_check": "2026-11-02T01:03:02+00:00",
+   "last_success": "2026-11-02T01:03:02+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6582,6 +6582,16 @@
    "fingerprint": "40c73cceccb81227",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T01:03:02+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T23:03:05+00:00",
      "status": "ok",
@@ -6864,16 +6874,6 @@
     },
     {
      "at": "2026-10-30T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T13:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -9896,8 +9896,8 @@
      "first_seen": "2026-11-01T15:03:09+00:00"
     }
    },
-   "last_check": "2026-11-01T23:03:08+00:00",
-   "last_success": "2026-11-01T23:03:08+00:00",
+   "last_check": "2026-11-02T01:03:09+00:00",
+   "last_success": "2026-11-02T01:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -9905,6 +9905,16 @@
    "fingerprint": "4ccc464749072c68",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T01:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 131,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-01T23:03:08+00:00",
      "status": "ok",
@@ -10203,16 +10213,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-30T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 165,
      "error": "",
      "note": "",
      "new": []
@@ -12113,17 +12113,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=248",
      "date": "20261101",
      "first_seen": "2026-10-26T01:00:40+00:00"
+    },
+    "9448dee9a98d7e53": {
+     "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+     "date": "20261231",
+     "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-01T23:03:09+00:00",
-   "last_success": "2026-11-01T23:03:09+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-02T01:03:10+00:00",
+   "last_success": "2026-11-02T01:03:10+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 65,
-   "fingerprint": "f073aede1bf45397",
+   "item_count": 66,
+   "fingerprint": "13b803cee298687e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T01:03:10+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+       "date": "20261231"
+      }
+     ]
+    },
     {
      "at": "2026-11-01T23:03:09+00:00",
      "status": "ok",
@@ -12413,16 +12435,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12439,7 +12451,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-26T01:00:40+00:00"
+   "last_new_at": "2026-11-02T01:03:10+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -13066,17 +13078,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23386",
      "date": "2026.10.28 ~ 2026.11.10",
      "first_seen": "2026-10-28T01:00:43+00:00"
+    },
+    "46878dbf4a36b47b": {
+     "title": "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
+     "url": "https://www.samsungcareers.com/hr/?no=23407",
+     "date": "2026.11.02 ~ 2026.11.13",
+     "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-01T23:03:11+00:00",
-   "last_success": "2026-11-01T23:03:11+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-02T01:03:12+00:00",
+   "last_success": "2026-11-02T01:03:12+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 4,
-   "fingerprint": "41b5172269e15951",
+   "item_count": 5,
+   "fingerprint": "cd11a2a36c01b25c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-02T01:03:12+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
+       "url": "https://www.samsungcareers.com/hr/?no=23407",
+       "date": "2026.11.02 ~ 2026.11.13"
+      }
+     ]
+    },
     {
      "at": "2026-11-01T23:03:11+00:00",
      "status": "ok",
@@ -13366,21 +13400,12 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-30T13:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
     "삼성E&A 경력사원 채용(연구개발, 분석)",
     "삼성문화재단 경력사원 채용(대외협력, 홍보)",
     "삼성중공업 경력사원 채용(보건관리자)",
@@ -13391,34 +13416,35 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-10-28T01:00:43+00:00"
+   "last_new_at": "2026-11-02T01:03:12+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+    "date": "20261231",
+    "found_at": "2026-11-02T01:03:14+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
+    "url": "https://www.samsungcareers.com/hr/?no=23407",
+    "date": "2026.11.02 ~ 2026.11.13",
+    "found_at": "2026-11-02T01:03:14+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-02T01:03:14+00:00",
   "last_sent": "2026-11-01T23:03:14+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Pre-SKALA with AI해커톤 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262013",
-   "date": "",
-   "found_at": "2026-09-27T15:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 전략부문 재무회계 계약직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19869",
-   "date": "2026.10.11 23:59",
-   "found_at": "2026-09-28T01:00:42+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -17900,6 +17926,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262353",
    "date": "",
    "found_at": "2026-11-01T15:03:14+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+   "date": "20261231",
+   "found_at": "2026-11-02T01:03:14+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
+   "url": "https://www.samsungcareers.com/hr/?no=23407",
+   "date": "2026.11.02 ~ 2026.11.13",
+   "found_at": "2026-11-02T01:03:14+00:00"
   }
  ]
 }
