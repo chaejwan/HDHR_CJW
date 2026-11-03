@@ -2186,17 +2186,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20111",
      "date": "2026.11.17 15:00",
      "first_seen": "2026-11-03T07:00:37+00:00"
+    },
+    "f8228b5fb0bd49d5": {
+     "title": "영업지원 담당자 경력사원 채용 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20119",
+     "date": "2026.11.15 23:59",
+     "first_seen": "2026-11-03T09:00:48+00:00"
+    },
+    "a3b9dd29d3a244ec": {
+     "title": "한화손보(주) 경력직 채용 - 방재컨설팅",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20111",
+     "date": "2026.11.17 15:00",
+     "first_seen": "2026-11-03T09:00:48+00:00"
     }
    },
-   "last_check": "2026-11-03T07:00:37+00:00",
-   "last_success": "2026-11-03T07:00:37+00:00",
+   "last_check": "2026-11-03T09:00:48+00:00",
+   "last_success": "2026-11-03T09:00:48+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 72,
-   "fingerprint": "d8fadd8e3fe9564b",
+   "item_count": 73,
+   "fingerprint": "edf999dcaf307d2f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T09:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "영업지원 담당자 경력사원 채용 (계약직)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20119",
+       "date": "2026.11.15 23:59"
+      },
+      {
+       "title": "한화손보(주) 경력직 채용 - 방재컨설팅",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20111",
+       "date": "2026.11.17 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-03T07:00:37+00:00",
      "status": "new",
@@ -2590,16 +2623,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T23:00:40+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2616,7 +2639,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-03T07:00:37+00:00"
+   "last_new_at": "2026-11-03T09:00:48+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6803,8 +6826,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-03T07:00:38+00:00",
-   "last_success": "2026-11-03T07:00:38+00:00",
+   "last_check": "2026-11-03T09:00:49+00:00",
+   "last_success": "2026-11-03T09:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6812,6 +6835,16 @@
    "fingerprint": "6b8937755831722b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T09:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T07:00:38+00:00",
      "status": "ok",
@@ -7094,16 +7127,6 @@
     },
     {
      "at": "2026-11-01T01:03:02+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-31T23:03:07+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10208,17 +10231,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R251763",
      "date": "",
      "first_seen": "2026-11-03T07:00:41+00:00"
+    },
+    "1b1dfc061ac6d68c": {
+     "title": "[SK이터닉스] 사업지원 담당 채용 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262414",
+     "date": "",
+     "first_seen": "2026-11-03T09:00:53+00:00"
     }
    },
-   "last_check": "2026-11-03T07:00:41+00:00",
-   "last_success": "2026-11-03T07:00:41+00:00",
+   "last_check": "2026-11-03T09:00:53+00:00",
+   "last_success": "2026-11-03T09:00:53+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 135,
-   "fingerprint": "b1f6d9a5e8455004",
+   "fingerprint": "c6fc4c6931427bad",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T09:00:53+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 135,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK이터닉스] 사업지원 담당 채용 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262414",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-03T07:00:41+00:00",
      "status": "new",
@@ -10598,16 +10643,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-10-31T23:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10624,7 +10659,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-03T07:00:41+00:00"
+   "last_new_at": "2026-11-03T09:00:53+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12513,15 +12548,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-03T07:00:43+00:00",
-   "last_success": "2026-11-03T07:00:43+00:00",
+   "last_check": "2026-11-03T09:00:54+00:00",
+   "last_success": "2026-11-03T09:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 57,
-   "fingerprint": "5e7b670b19f5889f",
+   "item_count": 56,
+   "fingerprint": "b754b85f1fba22e7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T09:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T07:00:43+00:00",
      "status": "ok",
@@ -12817,26 +12862,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T23:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
     "[계약직] 동부하이테크센터 드라이버",
     "[계약직] 대전하이테크센터 파츠딜리버리",
     "태양광 발전사업 현장 인허가 및 대외협력",
-    "미래 모빌리티 및 Physical AI 신사업 전략"
+    "미래 모빌리티 및 Physical AI 신사업 전략",
+    "로봇 기술/시장 동향 연구"
    ],
    "health": {
     "issue": "",
@@ -13478,15 +13513,25 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-03T07:00:45+00:00",
-   "last_success": "2026-11-03T07:00:45+00:00",
+   "last_check": "2026-11-03T09:00:56+00:00",
+   "last_success": "2026-11-03T09:00:56+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 5,
-   "fingerprint": "f73b94651eed1a4b",
+   "item_count": 4,
+   "fingerprint": "cf3a6cf46431cbbe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T09:00:56+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T07:00:45+00:00",
      "status": "ok",
@@ -13782,16 +13827,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T23:03:13+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13800,7 +13835,6 @@
     "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
     "삼성E&A 경력사원 채용(연구개발, 분석)",
     "삼성문화재단 경력사원 채용(대외협력, 홍보)",
-    "삼성중공업 경력사원 채용(보건관리자)",
     "에스원 경력사원 채용(오피스데스크, 안전관리자)"
    ],
    "health": {
@@ -14064,6 +14098,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R251763",
     "date": "",
     "found_at": "2026-11-03T07:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "영업지원 담당자 경력사원 채용 (계약직)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20119",
+    "date": "2026.11.15 23:59",
+    "found_at": "2026-11-03T09:00:57+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손보(주) 경력직 채용 - 방재컨설팅",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20111",
+    "date": "2026.11.17 15:00",
+    "found_at": "2026-11-03T09:00:57+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK이터닉스] 사업지원 담당 채용 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262414",
+    "date": "",
+    "found_at": "2026-11-03T09:00:57+00:00"
    }
   ],
   "alerts": [],
@@ -14071,33 +14132,6 @@
   "last_sent": "2026-11-02T23:00:58+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SAP FI Module 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262105",
-   "date": "",
-   "found_at": "2026-09-30T05:00:44+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "RX(Robot Transformation) 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19879",
-   "date": "2026.10.05 23:59",
-   "found_at": "2026-09-30T09:00:44+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "2026 한화세미텍 신입사원 채용 (9/21~10/11)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19889",
-   "date": "2026.10.11 23:59",
-   "found_at": "2026-09-30T09:00:44+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18570,6 +18604,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R251763",
    "date": "",
    "found_at": "2026-11-03T07:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "영업지원 담당자 경력사원 채용 (계약직)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20119",
+   "date": "2026.11.15 23:59",
+   "found_at": "2026-11-03T09:00:57+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손보(주) 경력직 채용 - 방재컨설팅",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20111",
+   "date": "2026.11.17 15:00",
+   "found_at": "2026-11-03T09:00:57+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK이터닉스] 사업지원 담당 채용 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262414",
+   "date": "",
+   "found_at": "2026-11-03T09:00:57+00:00"
   }
  ]
 }

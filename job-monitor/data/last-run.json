@@ -1,20 +1,20 @@
 {
- "at": "2026-11-03T07:00:47+00:00",
+ "at": "2026-11-03T09:00:57+00:00",
  "checked": 5,
- "new_total": 18,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 28건 · 점검 0건). 11-04 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 31건 · 점검 0건). 11-04 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 28,
+  "items": 31,
   "alerts": 0,
   "since": "2026-11-03T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41593456882",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41607529931",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,88 +22,18 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 72,
+   "item_count": 73,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "VLM Project Manager 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20118",
+     "title": "영업지원 담당자 경력사원 채용 (계약직)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20119",
      "date": "2026.11.15 23:59"
     },
     {
-     "title": "AI Agent Project Manager 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20117",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20116",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20115",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "제조서비스 인프라 운영 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20114",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "MSSQL/Oracle DBA 경력사원 채용 (계약직)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20113",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "Private 클라우드 기획 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20112",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "구매시스템 PI/구축 담당자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20110",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20109",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "ERP 컨설턴트 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20108",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "AX 전략기획 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20107",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20106",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20105",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "RX(Robot Transformation) 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20103",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "보안진단 담당자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20102",
-     "date": "2026.11.15 23:59"
-    },
-    {
-     "title": "한화손해보험(주) 경력직 채용 - 방재 컨설팅",
+     "title": "한화손보(주) 경력직 채용 - 방재컨설팅",
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20111",
      "date": "2026.11.17 15:00"
     }
@@ -133,13 +63,8 @@
    "error": "",
    "new_items": [
     {
-     "title": "청주공장 회계 계약직 채용 (신입/경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262413",
-     "date": ""
-    },
-    {
-     "title": "정보보안 담당 (7년이상)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R251763",
+     "title": "[SK이터닉스] 사업지원 담당 채용 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262414",
      "date": ""
     }
    ]
@@ -150,7 +75,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 57,
+   "item_count": 56,
    "method": "json",
    "note": "",
    "error": "",
@@ -162,7 +87,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 5,
+   "item_count": 4,
    "method": "pattern",
    "note": "",
    "error": "",
