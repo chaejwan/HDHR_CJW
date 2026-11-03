@@ -1,43 +1,32 @@
 {
- "at": "2026-11-03T01:00:44+00:00",
+ "at": "2026-11-03T03:00:51+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 6,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-04 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-04 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 9,
   "alerts": 0,
   "since": "2026-11-03T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41556818699",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41569562911",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 56,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "(주)한화 글로벌부문 여수사업장 전문직(생산) 신입사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20099",
-     "date": "2026.11.15 23:00"
-    },
-    {
-     "title": "경력직 채용_대체투자RM팀",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20101",
-     "date": "2026.11.17 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,14 +46,39 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 127,
+   "item_count": 134,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Backend Engineer - RP/교통",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262402",
+     "title": "SK플라즈마 개발전략 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262406",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 항함희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262407",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262408",
+     "date": ""
+    },
+    {
+     "title": "생산기획 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262403",
+     "date": ""
+    },
+    {
+     "title": "SHE(환경관리자) 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262405",
+     "date": ""
+    },
+    {
+     "title": "사업 정산/운영 지원 담당자 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262404",
      "date": ""
     }
    ]
