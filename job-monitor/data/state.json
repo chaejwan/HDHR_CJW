@@ -2078,17 +2078,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20098",
      "date": "2026.11.27 23:59",
      "first_seen": "2026-11-02T09:00:49+00:00"
+    },
+    "a6ff1d671e8d9f54": {
+     "title": "(주)한화 글로벌부문 여수사업장 전문직(생산) 신입사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20099",
+     "date": "2026.11.15 23:00",
+     "first_seen": "2026-11-03T01:00:37+00:00"
+    },
+    "c9293bec8c53b3af": {
+     "title": "경력직 채용_대체투자RM팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20101",
+     "date": "2026.11.17 15:00",
+     "first_seen": "2026-11-03T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-02T23:00:39+00:00",
-   "last_success": "2026-11-02T23:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-03T01:00:37+00:00",
+   "last_success": "2026-11-03T01:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 54,
-   "fingerprint": "ac140baf46e4a73c",
+   "item_count": 56,
+   "fingerprint": "6a36fe0a2b56ce44",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T01:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 여수사업장 전문직(생산) 신입사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20099",
+       "date": "2026.11.15 23:00"
+      },
+      {
+       "title": "경력직 채용_대체투자RM팀",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20101",
+       "date": "2026.11.17 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-02T23:00:39+00:00",
      "status": "ok",
@@ -2390,16 +2423,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T13:00:35+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2416,7 +2439,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-02T09:00:49+00:00"
+   "last_new_at": "2026-11-03T01:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6603,15 +6626,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-02T23:00:39+00:00",
-   "last_success": "2026-11-02T23:00:39+00:00",
+   "last_check": "2026-11-03T01:00:38+00:00",
+   "last_success": "2026-11-03T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 17,
-   "fingerprint": "8e3a7c0224e64e62",
+   "item_count": 16,
+   "fingerprint": "6b8937755831722b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T23:00:39+00:00",
      "status": "ok",
@@ -6901,26 +6934,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T13:03:02+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[경영지원] 노사관리/운영 경력사원 채용",
-    "[경영지원] 회계결산 경력사원 채용",
-    "[경영지원] 인사행정 지원 사무직 채용",
-    "[경영지원] 정보보호 경력사원 채용",
-    "[경영지원] 사외숙소 관리 경력사원 채용 (육아휴직 대체, 계약직)"
+    "[인재풀 등록] NES사업부, AX사업부, 제품전략기술원, 제조총괄, 안전총괄 경력사원 채용",
+    "[인재풀 등록] Energy Plant Unit 경력사원 채용",
+    "[인재풀 등록] 상선사업부 경력사원 채용",
+    "[경영지원] 법무 경력사원(국제 변호사) 채용",
+    "[경영지원] 전략기획 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -9948,17 +9971,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262399",
      "date": "",
      "first_seen": "2026-11-02T15:00:51+00:00"
+    },
+    "732dd07090de4e68": {
+     "title": "Backend Engineer - RP/교통",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262402",
+     "date": "",
+     "first_seen": "2026-11-03T01:00:40+00:00"
     }
    },
-   "last_check": "2026-11-02T23:00:44+00:00",
-   "last_success": "2026-11-02T23:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-03T01:00:40+00:00",
+   "last_success": "2026-11-03T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 126,
-   "fingerprint": "48228438f8376cb5",
+   "item_count": 127,
+   "fingerprint": "4eb399d8a4b312ab",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 127,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Backend Engineer - RP/교통",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262402",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-02T23:00:44+00:00",
      "status": "ok",
@@ -10284,16 +10329,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T13:03:04+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 163,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10310,7 +10345,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-02T15:00:51+00:00"
+   "last_new_at": "2026-11-03T01:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12199,15 +12234,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-02T23:00:45+00:00",
-   "last_success": "2026-11-02T23:00:45+00:00",
+   "last_check": "2026-11-03T01:00:41+00:00",
+   "last_success": "2026-11-03T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 58,
-   "fingerprint": "5a5774660790aa1b",
+   "fingerprint": "8904839dc718bc2a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 58,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T23:00:45+00:00",
      "status": "ok",
@@ -12496,16 +12541,6 @@
     },
     {
      "at": "2026-10-31T15:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-31T13:03:05+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13164,8 +13199,8 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-02T23:00:47+00:00",
-   "last_success": "2026-11-02T23:00:47+00:00",
+   "last_check": "2026-11-03T01:00:43+00:00",
+   "last_success": "2026-11-03T01:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13173,6 +13208,16 @@
    "fingerprint": "f73b94651eed1a4b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T01:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-02T23:00:47+00:00",
      "status": "ok",
@@ -13468,16 +13513,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T13:03:07+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13498,39 +13533,40 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 여수사업장 전문직(생산) 신입사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20099",
+    "date": "2026.11.15 23:00",
+    "found_at": "2026-11-03T01:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_대체투자RM팀",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20101",
+    "date": "2026.11.17 15:00",
+    "found_at": "2026-11-03T01:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Backend Engineer - RP/교통",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262402",
+    "date": "",
+    "found_at": "2026-11-03T01:00:44+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-03T01:00:44+00:00",
   "last_sent": "2026-11-02T23:00:58+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명]인프라운영팀 '건축전기' 전문인력 경력채용(과장급)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19871",
-   "date": "2026.10.12 15:00",
-   "found_at": "2026-09-28T07:00:51+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "회계 및 서무 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262079",
-   "date": "",
-   "found_at": "2026-09-28T07:00:51+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "국방사업 컨설팅 및 딜리버리 지원 전문가",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262082",
-   "date": "",
-   "found_at": "2026-09-28T07:00:51+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18003,6 +18039,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262399",
    "date": "",
    "found_at": "2026-11-02T15:00:55+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 여수사업장 전문직(생산) 신입사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20099",
+   "date": "2026.11.15 23:00",
+   "found_at": "2026-11-03T01:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_대체투자RM팀",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20101",
+   "date": "2026.11.17 15:00",
+   "found_at": "2026-11-03T01:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Backend Engineer - RP/교통",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262402",
+   "date": "",
+   "found_at": "2026-11-03T01:00:44+00:00"
   }
  ]
 }
