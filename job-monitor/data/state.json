@@ -2092,8 +2092,8 @@
      "first_seen": "2026-11-03T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-03T03:57:03+00:00",
-   "last_success": "2026-11-03T03:57:03+00:00",
+   "last_check": "2026-11-03T05:00:37+00:00",
+   "last_success": "2026-11-03T05:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2101,6 +2101,16 @@
    "fingerprint": "6a36fe0a2b56ce44",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T05:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T03:57:03+00:00",
      "status": "ok",
@@ -2406,16 +2416,6 @@
     },
     {
      "at": "2026-10-31T21:00:35+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-31T19:00:37+00:00",
      "status": "error",
      "reset": false,
      "new_count": 0,
@@ -6626,8 +6626,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-03T03:57:05+00:00",
-   "last_success": "2026-11-03T03:57:05+00:00",
+   "last_check": "2026-11-03T05:00:39+00:00",
+   "last_success": "2026-11-03T05:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6635,6 +6635,16 @@
    "fingerprint": "6b8937755831722b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T03:57:05+00:00",
      "status": "ok",
@@ -6917,16 +6927,6 @@
     },
     {
      "at": "2026-10-31T21:03:03+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-10-31T19:03:04+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10013,17 +10013,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262404",
      "date": "",
      "first_seen": "2026-11-03T03:00:45+00:00"
+    },
+    "54dcfbbe0b4b0858": {
+     "title": "SK플라즈마 해외사업개발(Global Project) 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262411",
+     "date": "",
+     "first_seen": "2026-11-03T05:00:43+00:00"
     }
    },
-   "last_check": "2026-11-03T03:57:08+00:00",
-   "last_success": "2026-11-03T03:57:08+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-03T05:00:43+00:00",
+   "last_success": "2026-11-03T05:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 134,
-   "fingerprint": "bdd736d0a1c7cdda",
+   "item_count": 135,
+   "fingerprint": "944631501e00287d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T05:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 135,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 해외사업개발(Global Project) 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262411",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-03T03:57:08+00:00",
      "status": "ok",
@@ -10386,16 +10408,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T19:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10412,7 +10424,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-03T03:00:45+00:00"
+   "last_new_at": "2026-11-03T05:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12301,15 +12313,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-03T03:57:09+00:00",
-   "last_success": "2026-11-03T03:57:09+00:00",
+   "last_check": "2026-11-03T05:00:45+00:00",
+   "last_success": "2026-11-03T05:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 58,
-   "fingerprint": "73f01644596aafa1",
+   "item_count": 57,
+   "fingerprint": "05194ff5182c50bc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T03:57:09+00:00",
      "status": "ok",
@@ -12605,26 +12627,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T19:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[소프티어 부트캠프] Backend Developer",
     "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
     "[계약직] 동부하이테크센터 드라이버",
     "[계약직] 대전하이테크센터 파츠딜리버리",
-    "태양광 발전사업 현장 인허가 및 대외협력"
+    "태양광 발전사업 현장 인허가 및 대외협력",
+    "미래 모빌리티 및 Physical AI 신사업 전략"
    ],
    "health": {
     "issue": "",
@@ -13266,8 +13278,8 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-03T03:57:11+00:00",
-   "last_success": "2026-11-03T03:57:11+00:00",
+   "last_check": "2026-11-03T05:00:47+00:00",
+   "last_success": "2026-11-03T05:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13275,6 +13287,16 @@
    "fingerprint": "f73b94651eed1a4b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T05:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 5,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T03:57:11+00:00",
      "status": "ok",
@@ -13570,16 +13592,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-10-31T19:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13681,6 +13693,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262404",
     "date": "",
     "found_at": "2026-11-03T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 해외사업개발(Global Project) 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262411",
+    "date": "",
+    "found_at": "2026-11-03T05:00:49+00:00"
    }
   ],
   "alerts": [],
@@ -13688,15 +13709,6 @@
   "last_sent": "2026-11-02T23:00:58+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 울산공장 의전 운영 지원",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=220",
-   "date": "20261008",
-   "found_at": "2026-09-29T07:00:51+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18187,6 +18199,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262404",
    "date": "",
    "found_at": "2026-11-03T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 해외사업개발(Global Project) 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262411",
+   "date": "",
+   "found_at": "2026-11-03T05:00:49+00:00"
   }
  ]
 }
