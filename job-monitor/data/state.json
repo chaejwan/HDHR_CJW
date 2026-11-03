@@ -2206,8 +2206,8 @@
      "first_seen": "2026-11-03T11:00:39+00:00"
     }
    },
-   "last_check": "2026-11-03T13:00:39+00:00",
-   "last_success": "2026-11-03T13:00:39+00:00",
+   "last_check": "2026-11-03T15:00:45+00:00",
+   "last_success": "2026-11-03T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2215,6 +2215,16 @@
    "fingerprint": "568eb4231de2bdb8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 74,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T13:00:39+00:00",
      "status": "ok",
@@ -2618,16 +2628,6 @@
     },
     {
      "at": "2026-11-01T07:00:35+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T05:00:34+00:00",
      "status": "error",
      "reset": false,
      "new_count": 0,
@@ -6838,15 +6838,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-03T13:00:40+00:00",
-   "last_success": "2026-11-03T13:00:40+00:00",
+   "last_check": "2026-11-03T15:00:46+00:00",
+   "last_success": "2026-11-03T15:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 16,
-   "fingerprint": "6b8937755831722b",
+   "fingerprint": "c19b73890d5035a2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T15:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T13:00:40+00:00",
      "status": "ok",
@@ -7129,16 +7139,6 @@
     },
     {
      "at": "2026-11-01T07:03:03+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T05:03:02+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10249,17 +10249,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262414",
      "date": "",
      "first_seen": "2026-11-03T09:00:53+00:00"
+    },
+    "f6a6b22825bd4ade": {
+     "title": "2026년 11월 SK핀크스 식음서비스팀 채용공고",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262400",
+     "date": "",
+     "first_seen": "2026-11-03T15:00:49+00:00"
     }
    },
-   "last_check": "2026-11-03T13:00:43+00:00",
-   "last_success": "2026-11-03T13:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-03T15:00:49+00:00",
+   "last_success": "2026-11-03T15:00:49+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 135,
-   "fingerprint": "c6fc4c6931427bad",
+   "item_count": 133,
+   "fingerprint": "d0e7ed01417ee3ce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T15:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 133,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 11월 SK핀크스 식음서비스팀 채용공고",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262400",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-03T13:00:43+00:00",
      "status": "ok",
@@ -10639,33 +10661,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T05:03:06+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "OT보안 전문가 영입",
-    "구매 시스템 운영 지원 담당자",
-    "충방전기 기술영업 및 사업개발 (경력)",
     "서비스 품질 관리 및 운영 지원 담당자",
-    "SK에코엔지니어링 SMR사업개발(인허가) 및 품질관리 경력 채용(정직/촉탁직)"
+    "SK에코엔지니어링 SMR사업개발(인허가) 및 품질관리 경력 채용(정직/촉탁직)",
+    "용인 부속의원 전문의(응급의학과,가정의학과,안과) 채용",
+    "SK피아이씨글로벌 회계(세무/재무) 경력사원 채용",
+    "SK온 대전 총무운영원 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-03T09:00:53+00:00"
+   "last_new_at": "2026-11-03T15:00:49+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12554,15 +12566,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-03T13:00:44+00:00",
-   "last_success": "2026-11-03T13:00:44+00:00",
+   "last_check": "2026-11-03T15:00:51+00:00",
+   "last_success": "2026-11-03T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 56,
-   "fingerprint": "b754b85f1fba22e7",
+   "fingerprint": "67142e539053a61f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T13:00:44+00:00",
      "status": "ok",
@@ -12851,16 +12873,6 @@
     },
     {
      "at": "2026-11-01T07:03:06+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 68,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T05:03:07+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13519,15 +13531,25 @@
      "first_seen": "2026-11-02T01:03:12+00:00"
     }
    },
-   "last_check": "2026-11-03T13:00:46+00:00",
-   "last_success": "2026-11-03T13:00:46+00:00",
+   "last_check": "2026-11-03T15:00:52+00:00",
+   "last_success": "2026-11-03T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 4,
-   "fingerprint": "cf3a6cf46431cbbe",
+   "fingerprint": "73820059870a6b5b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-03T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 4,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-03T13:00:46+00:00",
      "status": "ok",
@@ -13816,16 +13838,6 @@
     },
     {
      "at": "2026-11-01T07:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T05:03:10+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14140,6 +14152,15 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20120",
     "date": "2026.11.17 17:00",
     "found_at": "2026-11-03T11:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 11월 SK핀크스 식음서비스팀 채용공고",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262400",
+    "date": "",
+    "found_at": "2026-11-03T15:00:54+00:00"
    }
   ],
   "alerts": [],
@@ -14147,15 +14168,6 @@
   "last_sent": "2026-11-02T23:00:58+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 가성소다 E&C 엔지니어 경력사원 채용(기계/장치)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19885",
-   "date": "2026.10.14 15:00",
-   "found_at": "2026-09-30T09:00:44+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18646,6 +18658,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20120",
    "date": "2026.11.17 17:00",
    "found_at": "2026-11-03T11:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 11월 SK핀크스 식음서비스팀 채용공고",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262400",
+   "date": "",
+   "found_at": "2026-11-03T15:00:54+00:00"
   }
  ]
 }
