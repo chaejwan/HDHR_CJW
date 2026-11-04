@@ -2204,17 +2204,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20120",
      "date": "2026.11.17 17:00",
      "first_seen": "2026-11-03T11:00:39+00:00"
+    },
+    "d7af5be0a52e93d9": {
+     "title": "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20124",
+     "date": "2026.11.15 23:00",
+     "first_seen": "2026-11-04T03:00:40+00:00"
     }
    },
-   "last_check": "2026-11-04T01:00:37+00:00",
-   "last_success": "2026-11-04T01:00:37+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-04T03:00:40+00:00",
+   "last_success": "2026-11-04T03:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 74,
-   "fingerprint": "568eb4231de2bdb8",
+   "item_count": 75,
+   "fingerprint": "9a2d63fc46fe560d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T03:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20124",
+       "date": "2026.11.15 23:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-04T01:00:37+00:00",
      "status": "ok",
@@ -2625,16 +2647,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T17:00:36+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2651,7 +2663,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-03T11:00:39+00:00"
+   "last_new_at": "2026-11-04T03:00:40+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6838,8 +6850,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-04T01:00:38+00:00",
-   "last_success": "2026-11-04T01:00:38+00:00",
+   "last_check": "2026-11-04T03:00:41+00:00",
+   "last_success": "2026-11-04T03:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6847,6 +6859,16 @@
    "fingerprint": "b917bb8bdb5c1a5e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T03:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T01:00:38+00:00",
      "status": "ok",
@@ -7129,16 +7151,6 @@
     },
     {
      "at": "2026-11-01T19:03:04+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T17:03:03+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10255,17 +10267,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262400",
      "date": "",
      "first_seen": "2026-11-03T15:00:49+00:00"
+    },
+    "6e013a8086e63f5a": {
+     "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+     "date": "",
+     "first_seen": "2026-11-04T03:00:48+00:00"
     }
    },
-   "last_check": "2026-11-04T01:00:42+00:00",
-   "last_success": "2026-11-04T01:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-04T03:00:48+00:00",
+   "last_success": "2026-11-04T03:00:48+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 135,
-   "fingerprint": "8f2b3019f5e70ba2",
+   "item_count": 136,
+   "fingerprint": "0a75ec12edeef347",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T03:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 136,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-04T01:00:42+00:00",
      "status": "ok",
@@ -10645,16 +10679,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T17:03:06+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 131,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10671,7 +10695,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-03T15:00:49+00:00"
+   "last_new_at": "2026-11-04T03:00:48+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12560,8 +12584,8 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-04T01:00:43+00:00",
-   "last_success": "2026-11-04T01:00:43+00:00",
+   "last_check": "2026-11-04T03:00:49+00:00",
+   "last_success": "2026-11-04T03:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12569,6 +12593,16 @@
    "fingerprint": "d8871c7e036fe8ae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T03:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T01:00:43+00:00",
      "status": "ok",
@@ -12857,16 +12891,6 @@
     },
     {
      "at": "2026-11-01T19:03:17+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T17:03:07+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13549,15 +13573,25 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T01:00:45+00:00",
-   "last_success": "2026-11-04T01:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-04T03:00:51+00:00",
+   "last_success": "2026-11-04T03:00:51+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 8,
    "fingerprint": "63a52d7b2a2e9431",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T03:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T01:00:45+00:00",
      "status": "new",
@@ -13874,16 +13908,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T17:03:10+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13940,6 +13964,24 @@
     "url": "https://www.samsungcareers.com/hr/?no=23389",
     "date": "2026.11.04 ~ 2026.11.16",
     "found_at": "2026-11-04T01:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20124",
+    "date": "2026.11.15 23:00",
+    "found_at": "2026-11-04T03:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+    "date": "",
+    "found_at": "2026-11-04T03:00:53+00:00"
    }
   ],
   "alerts": [],
@@ -13947,24 +13989,6 @@
   "last_sent": "2026-11-03T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[신입] SK바이오텍 품질관리 실험원 신입사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262110",
-   "date": "",
-   "found_at": "2026-10-01T02:13:27+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 품질관리원(QC) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262111",
-   "date": "",
-   "found_at": "2026-10-01T02:13:27+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18446,6 +18470,24 @@
    "url": "https://www.samsungcareers.com/hr/?no=23389",
    "date": "2026.11.04 ~ 2026.11.16",
    "found_at": "2026-11-04T01:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20124",
+   "date": "2026.11.15 23:00",
+   "found_at": "2026-11-04T03:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+   "date": "",
+   "found_at": "2026-11-04T03:00:53+00:00"
   }
  ]
 }
