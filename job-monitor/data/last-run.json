@@ -1,20 +1,20 @@
 {
- "at": "2026-11-04T07:00:47+00:00",
+ "at": "2026-11-04T09:00:48+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-05 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 11-05 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 11,
   "alerts": 0,
   "since": "2026-11-04T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41789275081",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41803901656",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 74,
+   "item_count": 75,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "대졸 신입사원 채용 (기획)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20128",
-     "date": "2026.11.11 16:59"
+     "title": "경력직 채용_실물투자팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
+     "date": "2026.11.18 15:00"
     }
    ]
   },
@@ -58,8 +58,8 @@
    "error": "",
    "new_items": [
     {
-     "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262427",
+     "title": "SK케미칼 울산공장 기계설비 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262422",
      "date": ""
     }
    ]

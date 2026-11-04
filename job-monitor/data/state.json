@@ -2216,17 +2216,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20128",
      "date": "2026.11.11 16:59",
      "first_seen": "2026-11-04T07:00:39+00:00"
+    },
+    "ee16787f5ad94e9c": {
+     "title": "경력직 채용_실물투자팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
+     "date": "2026.11.18 15:00",
+     "first_seen": "2026-11-04T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-04T07:00:39+00:00",
-   "last_success": "2026-11-04T07:00:39+00:00",
+   "last_check": "2026-11-04T09:00:38+00:00",
+   "last_success": "2026-11-04T09:00:38+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 74,
-   "fingerprint": "a3851d0ae431646d",
+   "item_count": 75,
+   "fingerprint": "f787cf0ff6b477e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T09:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "경력직 채용_실물투자팀",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
+       "date": "2026.11.18 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-04T07:00:39+00:00",
      "status": "new",
@@ -2649,16 +2671,6 @@
      "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T23:00:38+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2675,7 +2687,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T07:00:39+00:00"
+   "last_new_at": "2026-11-04T09:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6862,8 +6874,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-04T07:00:40+00:00",
-   "last_success": "2026-11-04T07:00:40+00:00",
+   "last_check": "2026-11-04T09:00:39+00:00",
+   "last_success": "2026-11-04T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6871,6 +6883,16 @@
    "fingerprint": "b917bb8bdb5c1a5e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T07:00:40+00:00",
      "status": "ok",
@@ -7153,16 +7175,6 @@
     },
     {
      "at": "2026-11-02T01:03:02+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T23:03:05+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10297,17 +10309,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262427",
      "date": "",
      "first_seen": "2026-11-04T07:00:42+00:00"
+    },
+    "96c466c4f62487e2": {
+     "title": "SK케미칼 울산공장 기계설비 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262422",
+     "date": "",
+     "first_seen": "2026-11-04T09:00:44+00:00"
     }
    },
-   "last_check": "2026-11-04T07:00:42+00:00",
-   "last_success": "2026-11-04T07:00:42+00:00",
+   "last_check": "2026-11-04T09:00:44+00:00",
+   "last_success": "2026-11-04T09:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 138,
-   "fingerprint": "acfca6a6bdef21e5",
+   "fingerprint": "ee27c28ddb0892c6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T09:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 138,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK케미칼 울산공장 기계설비 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262422",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-04T07:00:42+00:00",
      "status": "new",
@@ -10705,16 +10739,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T23:03:08+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 131,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10731,7 +10755,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T07:00:42+00:00"
+   "last_new_at": "2026-11-04T09:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12620,15 +12644,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-04T07:00:43+00:00",
-   "last_success": "2026-11-04T07:00:43+00:00",
+   "last_check": "2026-11-04T09:00:45+00:00",
+   "last_success": "2026-11-04T09:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 57,
-   "fingerprint": "3799fbf5a38a30f4",
+   "fingerprint": "1f210fa6f746355c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T07:00:43+00:00",
      "status": "ok",
@@ -12924,16 +12958,6 @@
        "date": "20261231"
       }
      ]
-    },
-    {
-     "at": "2026-11-01T23:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 65,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13609,8 +13633,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T07:00:46+00:00",
-   "last_success": "2026-11-04T07:00:46+00:00",
+   "last_check": "2026-11-04T09:00:47+00:00",
+   "last_success": "2026-11-04T09:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13618,6 +13642,16 @@
    "fingerprint": "63a52d7b2a2e9431",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T09:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T07:00:46+00:00",
      "status": "ok",
@@ -13934,16 +13968,6 @@
        "date": "2026.11.02 ~ 2026.11.13"
       }
      ]
-    },
-    {
-     "at": "2026-11-01T23:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14045,6 +14069,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262427",
     "date": "",
     "found_at": "2026-11-04T07:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_실물투자팀",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
+    "date": "2026.11.18 15:00",
+    "found_at": "2026-11-04T09:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK케미칼 울산공장 기계설비 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262422",
+    "date": "",
+    "found_at": "2026-11-04T09:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -14052,24 +14094,6 @@
   "last_sent": "2026-11-03T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262119",
-   "date": "",
-   "found_at": "2026-10-01T07:00:44+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262124",
-   "date": "",
-   "found_at": "2026-10-01T09:00:51+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18551,6 +18575,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262427",
    "date": "",
    "found_at": "2026-11-04T07:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_실물투자팀",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
+   "date": "2026.11.18 15:00",
+   "found_at": "2026-11-04T09:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK케미칼 울산공장 기계설비 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262422",
+   "date": "",
+   "found_at": "2026-11-04T09:00:48+00:00"
   }
  ]
 }
