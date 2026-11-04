@@ -1,20 +1,20 @@
 {
- "at": "2026-11-03T23:00:47+00:00",
+ "at": "2026-11-04T01:00:47+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 11-05 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 4,
   "alerts": 0,
-  "since": "",
+  "since": "2026-11-04T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41735611694",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41750982662",
  "results": [
   {
    "site_id": "hanwhain",
@@ -34,7 +34,7 @@
    "site_url": "https://recruit-hanwhaocean.com/ko/intro",
    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
    "status": "ok",
-   "item_count": 16,
+   "item_count": 15,
    "method": "pattern",
    "note": "",
    "error": "",
@@ -46,7 +46,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 133,
+   "item_count": 135,
    "method": "json",
    "note": "",
    "error": "",
@@ -58,7 +58,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 56,
+   "item_count": 57,
    "method": "json",
    "note": "",
    "error": "",
@@ -69,12 +69,33 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 4,
+   "status": "new",
+   "item_count": 8,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성물산 건설부문 경력사원 채용(AI서비스개발, 정보기술, 데이터)",
+     "url": "https://www.samsungcareers.com/hr/?no=23409",
+     "date": "2026.11.04 ~ 2026.11.16"
+    },
+    {
+     "title": "삼성물산 건설부문 경력사원 채용(건축시공/공무, 정비사업영업/주택구조, 안전)",
+     "url": "https://www.samsungcareers.com/hr/?no=23405",
+     "date": "2026.11.04 ~ 2026.11.16"
+    },
+    {
+     "title": "삼성물산 건설부문 경력사원 채용(원전기술/설계/영업, 플랜트시운전/설계, 물류/구매)",
+     "url": "https://www.samsungcareers.com/hr/?no=23388",
+     "date": "2026.11.04 ~ 2026.11.16"
+    },
+    {
+     "title": "삼성물산 건설부문 경력사원 채용(하이테크 시공/공무/설계)",
+     "url": "https://www.samsungcareers.com/hr/?no=23389",
+     "date": "2026.11.04 ~ 2026.11.16"
+    }
+   ]
   }
  ]
 }
