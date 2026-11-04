@@ -2212,15 +2212,25 @@
      "first_seen": "2026-11-04T03:00:40+00:00"
     }
    },
-   "last_check": "2026-11-04T03:00:40+00:00",
-   "last_success": "2026-11-04T03:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-04T05:00:39+00:00",
+   "last_success": "2026-11-04T05:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 75,
    "fingerprint": "9a2d63fc46fe560d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T03:00:40+00:00",
      "status": "new",
@@ -2630,16 +2640,6 @@
     },
     {
      "at": "2026-11-01T21:00:37+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T19:00:36+00:00",
      "status": "error",
      "reset": false,
      "new_count": 0,
@@ -6850,8 +6850,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-04T03:00:41+00:00",
-   "last_success": "2026-11-04T03:00:41+00:00",
+   "last_check": "2026-11-04T05:00:40+00:00",
+   "last_success": "2026-11-04T05:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6859,6 +6859,16 @@
    "fingerprint": "b917bb8bdb5c1a5e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T05:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T03:00:41+00:00",
      "status": "ok",
@@ -7141,16 +7151,6 @@
     },
     {
      "at": "2026-11-01T21:03:05+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T19:03:04+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10273,17 +10273,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262415",
      "date": "",
      "first_seen": "2026-11-04T03:00:48+00:00"
+    },
+    "2b53271f4be139ba": {
+     "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262421",
+     "date": "",
+     "first_seen": "2026-11-04T05:00:44+00:00"
     }
    },
-   "last_check": "2026-11-04T03:00:48+00:00",
-   "last_success": "2026-11-04T03:00:48+00:00",
+   "last_check": "2026-11-04T05:00:44+00:00",
+   "last_success": "2026-11-04T05:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 136,
-   "fingerprint": "0a75ec12edeef347",
+   "item_count": 137,
+   "fingerprint": "638570fb6bc6b9d1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T05:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 137,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262421",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-04T03:00:48+00:00",
      "status": "new",
@@ -10669,16 +10691,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T19:03:15+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 131,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10695,7 +10707,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T03:00:48+00:00"
+   "last_new_at": "2026-11-04T05:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12584,15 +12596,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-04T03:00:49+00:00",
-   "last_success": "2026-11-04T03:00:49+00:00",
+   "last_check": "2026-11-04T05:00:45+00:00",
+   "last_success": "2026-11-04T05:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 57,
-   "fingerprint": "d8871c7e036fe8ae",
+   "fingerprint": "ad4266949b0111cb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T03:00:49+00:00",
      "status": "ok",
@@ -12881,16 +12903,6 @@
     },
     {
      "at": "2026-11-01T21:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-01T19:03:17+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13573,8 +13585,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T03:00:51+00:00",
-   "last_success": "2026-11-04T03:00:51+00:00",
+   "last_check": "2026-11-04T05:00:48+00:00",
+   "last_success": "2026-11-04T05:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13582,6 +13594,16 @@
    "fingerprint": "63a52d7b2a2e9431",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T05:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T03:00:51+00:00",
      "status": "ok",
@@ -13898,16 +13920,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-01T19:03:19+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13982,6 +13994,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262415",
     "date": "",
     "found_at": "2026-11-04T03:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262421",
+    "date": "",
+    "found_at": "2026-11-04T05:00:49+00:00"
    }
   ],
   "alerts": [],
@@ -13989,15 +14010,6 @@
   "last_sent": "2026-11-03T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 생산엔지니어 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262116",
-   "date": "",
-   "found_at": "2026-10-01T05:00:44+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18488,6 +18500,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262415",
    "date": "",
    "found_at": "2026-11-04T03:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262421",
+   "date": "",
+   "found_at": "2026-11-04T05:00:49+00:00"
   }
  ]
 }
