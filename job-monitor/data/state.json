@@ -2224,8 +2224,8 @@
      "first_seen": "2026-11-04T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-04T13:00:40+00:00",
-   "last_success": "2026-11-04T13:00:40+00:00",
+   "last_check": "2026-11-04T15:00:42+00:00",
+   "last_success": "2026-11-04T15:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2233,6 +2233,16 @@
    "fingerprint": "f787cf0ff6b477e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T15:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T13:00:40+00:00",
      "status": "ok",
@@ -2661,16 +2671,6 @@
        "date": "2026.11.27 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-02T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 63,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6874,15 +6874,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-04T13:00:41+00:00",
-   "last_success": "2026-11-04T13:00:41+00:00",
+   "last_check": "2026-11-04T15:00:43+00:00",
+   "last_success": "2026-11-04T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 15,
-   "fingerprint": "b917bb8bdb5c1a5e",
+   "fingerprint": "c5d454eb6b781c27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T13:00:41+00:00",
      "status": "ok",
@@ -7165,16 +7175,6 @@
     },
     {
      "at": "2026-11-02T07:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T05:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10329,15 +10329,25 @@
      "first_seen": "2026-11-04T13:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T13:00:45+00:00",
-   "last_success": "2026-11-04T13:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-04T15:00:49+00:00",
+   "last_success": "2026-11-04T15:00:49+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 140,
-   "fingerprint": "9fb34cc318808f74",
+   "item_count": 138,
+   "fingerprint": "26cacf5dde66503c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 138,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T13:00:45+00:00",
      "status": "new",
@@ -10746,26 +10756,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T05:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 133,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "서비스 품질 관리 및 운영 지원 담당자",
-    "SK에코엔지니어링 SMR사업개발(인허가) 및 품질관리 경력 채용(정직/촉탁직)",
     "용인 부속의원 전문의(응급의학과,가정의학과,안과) 채용",
     "SK피아이씨글로벌 회계(세무/재무) 경력사원 채용",
-    "SK온 대전 총무운영원 채용"
+    "SK온 대전 총무운영원 채용",
+    "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
+    "건강관리실 간호사, 심리상담사 계약직 채용"
    ],
    "health": {
     "issue": "",
@@ -12661,15 +12661,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-04T13:00:47+00:00",
-   "last_success": "2026-11-04T13:00:47+00:00",
+   "last_check": "2026-11-04T15:00:50+00:00",
+   "last_success": "2026-11-04T15:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 57,
-   "fingerprint": "306b28ade85ee975",
+   "item_count": 55,
+   "fingerprint": "0113ced163d732e2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T15:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T13:00:47+00:00",
      "status": "ok",
@@ -12959,26 +12969,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T05:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 동부하이테크센터 드라이버",
-    "[계약직] 대전하이테크센터 파츠딜리버리",
     "태양광 발전사업 현장 인허가 및 대외협력",
     "미래 모빌리티 및 Physical AI 신사업 전략",
-    "로봇 기술/시장 동향 연구"
+    "로봇 기술/시장 동향 연구",
+    "글로벌PR",
+    "[제조로보틱스] 모방학습/강화학습 개발"
    ],
    "health": {
     "issue": "",
@@ -13644,15 +13644,25 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T13:00:49+00:00",
-   "last_success": "2026-11-04T13:00:49+00:00",
+   "last_check": "2026-11-04T15:00:52+00:00",
+   "last_success": "2026-11-04T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 8,
-   "fingerprint": "63a52d7b2a2e9431",
+   "fingerprint": "15b2080474dff33f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T13:00:49+00:00",
      "status": "ok",
@@ -13956,16 +13966,6 @@
     },
     {
      "at": "2026-11-02T07:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T05:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
