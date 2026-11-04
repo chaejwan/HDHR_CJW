@@ -2224,8 +2224,8 @@
      "first_seen": "2026-11-04T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-04T11:00:50+00:00",
-   "last_success": "2026-11-04T11:00:50+00:00",
+   "last_check": "2026-11-04T13:00:40+00:00",
+   "last_success": "2026-11-04T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2233,6 +2233,16 @@
    "fingerprint": "f787cf0ff6b477e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T11:00:50+00:00",
      "status": "ok",
@@ -2654,16 +2664,6 @@
     },
     {
      "at": "2026-11-02T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 63,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T02:36:30+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6874,8 +6874,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-04T11:00:51+00:00",
-   "last_success": "2026-11-04T11:00:51+00:00",
+   "last_check": "2026-11-04T13:00:41+00:00",
+   "last_success": "2026-11-04T13:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6883,6 +6883,16 @@
    "fingerprint": "b917bb8bdb5c1a5e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T13:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T11:00:51+00:00",
      "status": "ok",
@@ -7165,16 +7175,6 @@
     },
     {
      "at": "2026-11-02T05:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T02:36:31+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10315,17 +10315,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262422",
      "date": "",
      "first_seen": "2026-11-04T09:00:44+00:00"
+    },
+    "95a7d1a379571d57": {
+     "title": "Digital Twin 개발 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262429",
+     "date": "",
+     "first_seen": "2026-11-04T13:00:45+00:00"
+    },
+    "d3acac79cead5566": {
+     "title": "보안 아키텍트 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262430",
+     "date": "",
+     "first_seen": "2026-11-04T13:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T11:00:53+00:00",
-   "last_success": "2026-11-04T11:00:53+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-04T13:00:45+00:00",
+   "last_success": "2026-11-04T13:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 138,
-   "fingerprint": "ee27c28ddb0892c6",
+   "item_count": 140,
+   "fingerprint": "9fb34cc318808f74",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T13:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 140,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Digital Twin 개발 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262429",
+       "date": ""
+      },
+      {
+       "title": "보안 아키텍트 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262430",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-04T11:00:53+00:00",
      "status": "ok",
@@ -10723,22 +10756,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T02:36:35+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 133,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "IP Junior 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262394",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -10755,7 +10772,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T09:00:44+00:00"
+   "last_new_at": "2026-11-04T13:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12644,15 +12661,25 @@
      "first_seen": "2026-11-02T01:03:10+00:00"
     }
    },
-   "last_check": "2026-11-04T11:00:54+00:00",
-   "last_success": "2026-11-04T11:00:54+00:00",
+   "last_check": "2026-11-04T13:00:47+00:00",
+   "last_success": "2026-11-04T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 57,
-   "fingerprint": "e93e308e18166c8a",
+   "fingerprint": "306b28ade85ee975",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 57,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T11:00:54+00:00",
      "status": "ok",
@@ -12935,16 +12962,6 @@
     },
     {
      "at": "2026-11-02T05:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T02:36:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13627,8 +13644,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T11:00:56+00:00",
-   "last_success": "2026-11-04T11:00:56+00:00",
+   "last_check": "2026-11-04T13:00:49+00:00",
+   "last_success": "2026-11-04T13:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13636,6 +13653,16 @@
    "fingerprint": "63a52d7b2a2e9431",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-04T13:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T11:00:56+00:00",
      "status": "ok",
@@ -13946,16 +13973,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T02:36:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14075,6 +14092,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262422",
     "date": "",
     "found_at": "2026-11-04T09:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Digital Twin 개발 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262429",
+    "date": "",
+    "found_at": "2026-11-04T13:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "보안 아키텍트 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262430",
+    "date": "",
+    "found_at": "2026-11-04T13:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -14082,24 +14117,6 @@
   "last_sent": "2026-11-03T23:00:50+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262125",
-   "date": "",
-   "found_at": "2026-10-01T09:00:51+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 Global PJT 담당 QC 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262126",
-   "date": "",
-   "found_at": "2026-10-01T09:00:51+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18581,6 +18598,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262422",
    "date": "",
    "found_at": "2026-11-04T09:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Digital Twin 개발 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262429",
+   "date": "",
+   "found_at": "2026-11-04T13:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "보안 아키텍트 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262430",
+   "date": "",
+   "found_at": "2026-11-04T13:00:50+00:00"
   }
  ]
 }
