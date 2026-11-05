@@ -2224,8 +2224,8 @@
      "first_seen": "2026-11-04T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-04T23:00:37+00:00",
-   "last_success": "2026-11-04T23:00:37+00:00",
+   "last_check": "2026-11-05T01:00:38+00:00",
+   "last_success": "2026-11-05T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2233,6 +2233,16 @@
    "fingerprint": "f787cf0ff6b477e4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T23:00:37+00:00",
      "status": "ok",
@@ -2642,16 +2652,6 @@
     },
     {
      "at": "2026-11-02T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T15:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6862,8 +6862,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-04T23:00:38+00:00",
-   "last_success": "2026-11-04T23:00:38+00:00",
+   "last_check": "2026-11-05T01:00:39+00:00",
+   "last_success": "2026-11-05T01:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6871,6 +6871,16 @@
    "fingerprint": "c5d454eb6b781c27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T01:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T23:00:38+00:00",
      "status": "ok",
@@ -7153,16 +7163,6 @@
     },
     {
      "at": "2026-11-02T17:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T15:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10315,17 +10315,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262430",
      "date": "",
      "first_seen": "2026-11-04T13:00:45+00:00"
+    },
+    "e3bfa9b6eeddecad": {
+     "title": "회계 및 서무 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262428",
+     "date": "",
+     "first_seen": "2026-11-05T01:00:40+00:00"
+    },
+    "77b6d4a9ca0cb9db": {
+     "title": "사내 변호사 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+     "date": "",
+     "first_seen": "2026-11-05T01:00:40+00:00"
+    },
+    "4e4f8105e5b8696e": {
+     "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262431",
+     "date": "",
+     "first_seen": "2026-11-05T01:00:40+00:00"
+    },
+    "df956bb201b6fe7b": {
+     "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262432",
+     "date": "",
+     "first_seen": "2026-11-05T01:00:40+00:00"
     }
    },
-   "last_check": "2026-11-04T23:00:42+00:00",
-   "last_success": "2026-11-04T23:00:42+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-05T01:00:40+00:00",
+   "last_success": "2026-11-05T01:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 138,
-   "fingerprint": "26cacf5dde66503c",
+   "item_count": 141,
+   "fingerprint": "668df4f2bab35e44",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T01:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 141,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "회계 및 서무 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262428",
+       "date": ""
+      },
+      {
+       "title": "사내 변호사 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+       "date": ""
+      },
+      {
+       "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262431",
+       "date": ""
+      },
+      {
+       "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262432",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-04T23:00:42+00:00",
      "status": "ok",
@@ -10716,22 +10771,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T15:00:51+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 126,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK그룹 신입구성원과정 운영 지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262399",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -10748,7 +10787,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T13:00:45+00:00"
+   "last_new_at": "2026-11-05T01:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12635,17 +12674,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
      "date": "20261231",
      "first_seen": "2026-11-02T01:03:10+00:00"
+    },
+    "9999a1632a115a77": {
+     "title": "[계약직] 연구소 정부과제 행정업무 지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
+     "date": "20261119",
+     "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-04T23:00:43+00:00",
-   "last_success": "2026-11-04T23:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-05T01:00:41+00:00",
+   "last_success": "2026-11-05T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 55,
-   "fingerprint": "f2b6a326524e27de",
+   "item_count": 56,
+   "fingerprint": "e164e40c37480ca1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 연구소 정부과제 행정업무 지원",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
+       "date": "20261119"
+      }
+     ]
+    },
     {
      "at": "2026-11-04T23:00:43+00:00",
      "status": "ok",
@@ -12935,16 +12996,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T15:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 58,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12961,7 +13012,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-02T01:03:10+00:00"
+   "last_new_at": "2026-11-05T01:00:41+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -13620,8 +13671,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-04T23:00:45+00:00",
-   "last_success": "2026-11-04T23:00:45+00:00",
+   "last_check": "2026-11-05T01:00:43+00:00",
+   "last_success": "2026-11-05T01:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13629,6 +13680,16 @@
    "fingerprint": "15b2080474dff33f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T01:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-04T23:00:45+00:00",
      "status": "ok",
@@ -13939,16 +14000,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T15:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13969,57 +14020,58 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "회계 및 서무 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262428",
+    "date": "",
+    "found_at": "2026-11-05T01:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "사내 변호사 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+    "date": "",
+    "found_at": "2026-11-05T01:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262431",
+    "date": "",
+    "found_at": "2026-11-05T01:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262432",
+    "date": "",
+    "found_at": "2026-11-05T01:00:44+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 연구소 정부과제 행정업무 지원",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
+    "date": "20261119",
+    "found_at": "2026-11-05T01:00:44+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-05T01:00:44+00:00",
   "last_sent": "2026-11-04T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Quality Assurance 구성원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262123",
-   "date": "",
-   "found_at": "2026-10-01T09:00:51+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 포항하이테크센터 파츠딜리버리",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=223",
-   "date": "20261011",
-   "found_at": "2026-10-01T09:00:51+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 남부하이테크센터 파츠딜리버리",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=224",
-   "date": "20261011",
-   "found_at": "2026-10-01T09:00:51+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 관리회계 담당 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19893",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-01T15:00:53+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화투자증권] 금융상품영업팀 업무지원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19898",
-   "date": "2026.10.15 23:59",
-   "found_at": "2026-10-02T01:00:43+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18474,6 +18526,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262430",
    "date": "",
    "found_at": "2026-11-04T13:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "회계 및 서무 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262428",
+   "date": "",
+   "found_at": "2026-11-05T01:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "사내 변호사 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262340",
+   "date": "",
+   "found_at": "2026-11-05T01:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262431",
+   "date": "",
+   "found_at": "2026-11-05T01:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262432",
+   "date": "",
+   "found_at": "2026-11-05T01:00:44+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 연구소 정부과제 행정업무 지원",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
+   "date": "20261119",
+   "found_at": "2026-11-05T01:00:44+00:00"
   }
  ]
 }
