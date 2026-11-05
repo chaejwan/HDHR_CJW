@@ -1,7 +1,7 @@
 {
- "at": "2026-11-05T09:00:51+00:00",
+ "at": "2026-11-05T11:00:48+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-11-05T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41998854147",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42015378319",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,28 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 144,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262417",
-     "date": ""
-    },
-    {
-     "title": "Telco. 컨택센터 Application 운영/개발 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262418",
-     "date": ""
-    },
-    {
-     "title": "통신 BSS 차세대 비즈니스 기획 분야 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262419",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
