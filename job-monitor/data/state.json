@@ -2228,17 +2228,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20134",
      "date": "2026.11.22 23:59",
      "first_seen": "2026-11-05T03:00:41+00:00"
+    },
+    "4a31a6534c9a14d9": {
+     "title": "한화시스템 글로벌마케팅 및 해외영업 부문 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20133",
+     "date": "2026.11.22 23:59",
+     "first_seen": "2026-11-05T05:00:36+00:00"
     }
    },
-   "last_check": "2026-11-05T03:00:41+00:00",
-   "last_success": "2026-11-05T03:00:41+00:00",
+   "last_check": "2026-11-05T05:00:36+00:00",
+   "last_success": "2026-11-05T05:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 77,
-   "fingerprint": "56c0173d092a725c",
+   "item_count": 78,
+   "fingerprint": "0488f9dc40814d8a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T05:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 글로벌마케팅 및 해외영업 부문 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20133",
+       "date": "2026.11.22 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-05T03:00:41+00:00",
      "status": "new",
@@ -2661,16 +2683,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2687,7 +2699,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-05T03:00:41+00:00"
+   "last_new_at": "2026-11-05T05:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6874,8 +6886,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-05T03:00:42+00:00",
-   "last_success": "2026-11-05T03:00:42+00:00",
+   "last_check": "2026-11-05T05:00:37+00:00",
+   "last_success": "2026-11-05T05:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6883,6 +6895,16 @@
    "fingerprint": "c5d454eb6b781c27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T05:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T03:00:42+00:00",
      "status": "ok",
@@ -7165,16 +7187,6 @@
     },
     {
      "at": "2026-11-02T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T19:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10359,15 +10371,25 @@
      "first_seen": "2026-11-05T03:00:47+00:00"
     }
    },
-   "last_check": "2026-11-05T03:00:47+00:00",
-   "last_success": "2026-11-05T03:00:47+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-05T05:00:40+00:00",
+   "last_success": "2026-11-05T05:00:40+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 142,
    "fingerprint": "49efb8388d3d01a8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T05:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 142,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T03:00:47+00:00",
      "status": "new",
@@ -10778,16 +10800,6 @@
     },
     {
      "at": "2026-11-02T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 126,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T19:00:53+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12706,8 +12718,8 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-05T03:00:48+00:00",
-   "last_success": "2026-11-05T03:00:48+00:00",
+   "last_check": "2026-11-05T05:00:41+00:00",
+   "last_success": "2026-11-05T05:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12715,6 +12727,16 @@
    "fingerprint": "5696d453facfa220",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T05:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T03:00:48+00:00",
      "status": "ok",
@@ -13003,16 +13025,6 @@
     },
     {
      "at": "2026-11-02T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 58,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T19:00:54+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13695,8 +13707,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-05T03:00:50+00:00",
-   "last_success": "2026-11-05T03:00:50+00:00",
+   "last_check": "2026-11-05T05:00:43+00:00",
+   "last_success": "2026-11-05T05:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13704,6 +13716,16 @@
    "fingerprint": "15b2080474dff33f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T05:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T03:00:50+00:00",
      "status": "ok",
@@ -14014,16 +14036,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T19:00:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14107,6 +14119,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262433",
     "date": "",
     "found_at": "2026-11-05T03:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 글로벌마케팅 및 해외영업 부문 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20133",
+    "date": "2026.11.22 23:59",
+    "found_at": "2026-11-05T05:00:44+00:00"
    }
   ],
   "alerts": [],
@@ -14114,15 +14135,6 @@
   "last_sent": "2026-11-04T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 생산팀 계약직 신입 구성원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262128",
-   "date": "",
-   "found_at": "2026-10-02T01:00:43+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -18613,6 +18625,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262433",
    "date": "",
    "found_at": "2026-11-05T03:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 글로벌마케팅 및 해외영업 부문 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20133",
+   "date": "2026.11.22 23:59",
+   "found_at": "2026-11-05T05:00:44+00:00"
   }
  ]
 }
