@@ -1,32 +1,38 @@
 {
- "at": "2026-11-05T01:00:44+00:00",
+ "at": "2026-11-05T03:00:51+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 11-06 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-06 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 7,
   "alerts": 0,
   "since": "2026-11-05T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41945480156",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/41958833094",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 75,
+   "status": "new",
+   "item_count": 77,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[판교R&D센터] 탠덤 태양전지용 ALD 공정 개발 연구원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20134",
+     "date": "2026.11.22 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,29 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 141,
+   "item_count": 142,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "회계 및 서무 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262428",
-     "date": ""
-    },
-    {
-     "title": "사내 변호사 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262340",
-     "date": ""
-    },
-    {
-     "title": "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262431",
-     "date": ""
-    },
-    {
-     "title": "[신입] SK바이오텍 보관소 운전원 신입사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262432",
+     "title": "해외사업 및 기술영업 담당 (4년이상)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262433",
      "date": ""
     }
    ]
@@ -78,18 +69,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 56,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 연구소 정부과제 행정업무 지원",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
-     "date": "20261119"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",

@@ -2222,17 +2222,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
      "date": "2026.11.18 15:00",
      "first_seen": "2026-11-04T09:00:38+00:00"
+    },
+    "c09b54fbee726e56": {
+     "title": "[판교R&D센터] 탠덤 태양전지용 ALD 공정 개발 연구원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20134",
+     "date": "2026.11.22 23:59",
+     "first_seen": "2026-11-05T03:00:41+00:00"
     }
    },
-   "last_check": "2026-11-05T01:00:38+00:00",
-   "last_success": "2026-11-05T01:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-05T03:00:41+00:00",
+   "last_success": "2026-11-05T03:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "f787cf0ff6b477e4",
+   "item_count": 77,
+   "fingerprint": "56c0173d092a725c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T03:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 77,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[판교R&D센터] 탠덤 태양전지용 ALD 공정 개발 연구원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20134",
+       "date": "2026.11.22 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-05T01:00:38+00:00",
      "status": "ok",
@@ -2649,16 +2671,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2675,7 +2687,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T09:00:38+00:00"
+   "last_new_at": "2026-11-05T03:00:41+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6862,8 +6874,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-05T01:00:39+00:00",
-   "last_success": "2026-11-05T01:00:39+00:00",
+   "last_check": "2026-11-05T03:00:42+00:00",
+   "last_success": "2026-11-05T03:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6871,6 +6883,16 @@
    "fingerprint": "c5d454eb6b781c27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T03:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T01:00:39+00:00",
      "status": "ok",
@@ -7153,16 +7175,6 @@
     },
     {
      "at": "2026-11-02T19:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T17:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10339,17 +10351,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262432",
      "date": "",
      "first_seen": "2026-11-05T01:00:40+00:00"
+    },
+    "cbc240c76b149464": {
+     "title": "해외사업 및 기술영업 담당 (4년이상)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262433",
+     "date": "",
+     "first_seen": "2026-11-05T03:00:47+00:00"
     }
    },
-   "last_check": "2026-11-05T01:00:40+00:00",
-   "last_success": "2026-11-05T01:00:40+00:00",
+   "last_check": "2026-11-05T03:00:47+00:00",
+   "last_success": "2026-11-05T03:00:47+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 141,
-   "fingerprint": "668df4f2bab35e44",
+   "item_count": 142,
+   "fingerprint": "49efb8388d3d01a8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T03:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 142,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "해외사업 및 기술영업 담당 (4년이상)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262433",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-05T01:00:40+00:00",
      "status": "new",
@@ -10761,16 +10795,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T17:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 126,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10787,7 +10811,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-05T01:00:40+00:00"
+   "last_new_at": "2026-11-05T03:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12682,15 +12706,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-05T01:00:41+00:00",
-   "last_success": "2026-11-05T01:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-05T03:00:48+00:00",
+   "last_success": "2026-11-05T03:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 56,
-   "fingerprint": "e164e40c37480ca1",
+   "fingerprint": "5696d453facfa220",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T03:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 56,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T01:00:41+00:00",
      "status": "new",
@@ -12979,16 +13013,6 @@
     },
     {
      "at": "2026-11-02T19:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 58,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T17:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13671,8 +13695,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-05T01:00:43+00:00",
-   "last_success": "2026-11-05T01:00:43+00:00",
+   "last_check": "2026-11-05T03:00:50+00:00",
+   "last_success": "2026-11-05T03:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13680,6 +13704,16 @@
    "fingerprint": "15b2080474dff33f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T03:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T01:00:43+00:00",
      "status": "ok",
@@ -13990,16 +14024,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T17:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14065,6 +14089,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
     "date": "20261119",
     "found_at": "2026-11-05T01:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[판교R&D센터] 탠덤 태양전지용 ALD 공정 개발 연구원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20134",
+    "date": "2026.11.22 23:59",
+    "found_at": "2026-11-05T03:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "해외사업 및 기술영업 담당 (4년이상)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262433",
+    "date": "",
+    "found_at": "2026-11-05T03:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -14072,24 +14114,6 @@
   "last_sent": "2026-11-04T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화에어로스페이스] LS사업부 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19738",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-02T01:00:43+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화에어로스페이스] LS사업부 AI 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19737",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-02T01:00:43+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18571,6 +18595,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
    "date": "20261119",
    "found_at": "2026-11-05T01:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[판교R&D센터] 탠덤 태양전지용 ALD 공정 개발 연구원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20134",
+   "date": "2026.11.22 23:59",
+   "found_at": "2026-11-05T03:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "해외사업 및 기술영업 담당 (4년이상)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262433",
+   "date": "",
+   "found_at": "2026-11-05T03:00:51+00:00"
   }
  ]
 }
