@@ -2236,8 +2236,8 @@
      "first_seen": "2026-11-05T05:00:36+00:00"
     }
    },
-   "last_check": "2026-11-05T07:00:38+00:00",
-   "last_success": "2026-11-05T07:00:38+00:00",
+   "last_check": "2026-11-05T09:00:38+00:00",
+   "last_success": "2026-11-05T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2245,6 +2245,16 @@
    "fingerprint": "0488f9dc40814d8a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T07:00:38+00:00",
      "status": "ok",
@@ -2673,16 +2683,6 @@
        "date": "2026.11.17 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-02T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6886,8 +6886,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-05T07:00:39+00:00",
-   "last_success": "2026-11-05T07:00:39+00:00",
+   "last_check": "2026-11-05T09:00:39+00:00",
+   "last_success": "2026-11-05T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6895,6 +6895,16 @@
    "fingerprint": "c5d454eb6b781c27",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T07:00:39+00:00",
      "status": "ok",
@@ -7181,16 +7191,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-02T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
      "error": "",
      "note": "",
      "new": []
@@ -10369,17 +10369,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262433",
      "date": "",
      "first_seen": "2026-11-05T03:00:47+00:00"
+    },
+    "0977e62573c1d070": {
+     "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262417",
+     "date": "",
+     "first_seen": "2026-11-05T09:00:46+00:00"
+    },
+    "2d5923abf2527a89": {
+     "title": "Telco. 컨택센터 Application 운영/개발 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262418",
+     "date": "",
+     "first_seen": "2026-11-05T09:00:46+00:00"
+    },
+    "7b782fe4f11f3f8e": {
+     "title": "통신 BSS 차세대 비즈니스 기획 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262419",
+     "date": "",
+     "first_seen": "2026-11-05T09:00:46+00:00"
     }
    },
-   "last_check": "2026-11-05T07:00:46+00:00",
-   "last_success": "2026-11-05T07:00:46+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-05T09:00:46+00:00",
+   "last_success": "2026-11-05T09:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 142,
-   "fingerprint": "49efb8388d3d01a8",
+   "item_count": 144,
+   "fingerprint": "cbcf7a92284391a8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T09:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262417",
+       "date": ""
+      },
+      {
+       "title": "Telco. 컨택센터 Application 운영/개발 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262418",
+       "date": ""
+      },
+      {
+       "title": "통신 BSS 차세대 비즈니스 기획 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262419",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-05T07:00:46+00:00",
      "status": "ok",
@@ -10797,33 +10841,23 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-02T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 126,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "용인 부속의원 전문의(응급의학과,가정의학과,안과) 채용",
     "SK피아이씨글로벌 회계(세무/재무) 경력사원 채용",
     "SK온 대전 총무운영원 채용",
     "[SK멀티유틸리티] 기계기술 담당 경력 구성원 모집",
-    "건강관리실 간호사, 심리상담사 계약직 채용"
+    "건강관리실 간호사, 심리상담사 계약직 채용",
+    "[SK에어플러스] 프로젝트 구매·납기 및 물류관리"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-05T03:00:47+00:00"
+   "last_new_at": "2026-11-05T09:00:46+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12718,15 +12752,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-05T07:00:47+00:00",
-   "last_success": "2026-11-05T07:00:47+00:00",
+   "last_check": "2026-11-05T09:00:47+00:00",
+   "last_success": "2026-11-05T09:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 56,
-   "fingerprint": "5073161eb3023d89",
+   "item_count": 48,
+   "fingerprint": "a52fb5bd725496d7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T09:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 48,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T07:00:47+00:00",
      "status": "ok",
@@ -13022,26 +13066,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T23:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 58,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "태양광 발전사업 현장 인허가 및 대외협력",
-    "미래 모빌리티 및 Physical AI 신사업 전략",
-    "로봇 기술/시장 동향 연구",
-    "글로벌PR",
-    "[제조로보틱스] 모방학습/강화학습 개발"
+    "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
+    "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
+    "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
+    "[ICT] Solution Architect - ERP SD 판매 모듈",
+    "[ICT] IT Project Manager - 충전 플랫폼 전개/운영"
    ],
    "health": {
     "issue": "",
@@ -13707,15 +13741,25 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-05T07:00:49+00:00",
-   "last_success": "2026-11-05T07:00:49+00:00",
+   "last_check": "2026-11-05T09:00:49+00:00",
+   "last_success": "2026-11-05T09:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 8,
-   "fingerprint": "15b2080474dff33f",
+   "item_count": 7,
+   "fingerprint": "876f99c45f0bd06c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-05T09:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-05T07:00:49+00:00",
      "status": "ok",
@@ -14026,16 +14070,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-02T23:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 5,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14128,6 +14162,33 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20133",
     "date": "2026.11.22 23:59",
     "found_at": "2026-11-05T05:00:44+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262417",
+    "date": "",
+    "found_at": "2026-11-05T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Telco. 컨택센터 Application 운영/개발 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262418",
+    "date": "",
+    "found_at": "2026-11-05T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "통신 BSS 차세대 비즈니스 기획 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262419",
+    "date": "",
+    "found_at": "2026-11-05T09:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -14135,33 +14196,6 @@
   "last_sent": "2026-11-04T23:00:51+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성생명 경력사원 채용(AX/PI, 경영지원, CISO)",
-   "url": "https://www.samsungcareers.com/hr/?no=23284",
-   "date": "2026.10.02 ~ 2026.10.12",
-   "found_at": "2026-10-02T01:00:43+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성문화재단 경력사원 채용(소장품관리 및 전시행정)",
-   "url": "https://www.samsungcareers.com/hr/?no=23263",
-   "date": "2026.10.02 ~ 2026.10.15",
-   "found_at": "2026-10-02T01:00:43+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "3D 디자인 텔레오퍼레이터",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262078",
-   "date": "",
-   "found_at": "2026-10-02T02:19:29+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18634,6 +18668,33 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20133",
    "date": "2026.11.22 23:59",
    "found_at": "2026-11-05T05:00:44+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262417",
+   "date": "",
+   "found_at": "2026-11-05T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Telco. 컨택센터 Application 운영/개발 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262418",
+   "date": "",
+   "found_at": "2026-11-05T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "통신 BSS 차세대 비즈니스 기획 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262419",
+   "date": "",
+   "found_at": "2026-11-05T09:00:51+00:00"
   }
  ]
 }
