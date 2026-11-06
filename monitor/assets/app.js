@@ -18,6 +18,9 @@ const WORKFLOW_FILE = 'job-monitor.yml';
 const LS_TOKEN = 'jobmon.token';
 const LS_REPO = 'jobmon.repo';
 const LS_GATE = 'jobmon.gate';
+const LS_BRANCH = 'jobmon.branch';   // 마지막으로 확인된 기본 브랜치 이름
+// api.github.com 을 막아 둔 망(사내망 등)에서 기본 브랜치를 못 물어볼 때 차례로 넣어 보는 이름들
+const BRANCH_FALLBACKS = ['260825', 'main', 'master'];
 const GATE_DAYS = 30;             // 한 번 맞히면 이 기간 동안 다시 묻지 않는다
 const GATE_ROUNDS = 200000;       // 비밀번호를 해시할 때 반복 횟수 (마구 대입 늦추기)
 const API = 'https://api.github.com';
@@ -195,6 +198,45 @@ async function gh(path, options) {
     throw error;
   }
   return data;
+}
+
+function rememberBranch(name) {
+  branch = name;
+  try { localStorage.setItem(LS_BRANCH, name); } catch (err) { /* 저장 못해도 진행 */ }
+}
+
+async function branchHasConfig(name) {
+  // raw 로 config.json 을 한 번 집어 본다. 토큰도 api.github.com 도 필요하지 않다.
+  const url = `https://raw.githubusercontent.com/${repo.owner}/${repo.repo}/`
+    + `${encodeURIComponent(name)}/${PATHS.config}?t=${Date.now()}`;
+  try {
+    const res = await fetch(url, { cache: 'no-store' });
+    return res.ok;
+  } catch (err) {
+    return false;
+  }
+}
+
+async function resolveBranch() {
+  // 1순위: GitHub API 에 기본 브랜치를 물어본다.
+  try {
+    const info = await gh(`/repos/${repo.owner}/${repo.repo}`);
+    if (info && info.default_branch) { rememberBranch(info.default_branch); return; }
+  } catch (err) {
+    // api.github.com 을 막아 둔 망에서도 아래 경로로 계속 진행한다.
+  }
+  // 2순위: 전에 통했던 이름 → 미리 넣어 둔 이름들을 raw 로 하나씩 확인한다.
+  let saved = '';
+  try { saved = localStorage.getItem(LS_BRANCH) || ''; } catch (err) { /* 무시 */ }
+  const tried = [];
+  for (const name of [saved].concat(BRANCH_FALLBACKS)) {
+    if (!name || tried.includes(name)) continue;
+    tried.push(name);
+    if (await branchHasConfig(name)) { rememberBranch(name); return; }
+  }
+  // 그래도 못 찾으면 마지막으로 쓰던 이름을 그대로 두고 아래에서 오류를 안내한다.
+  branch = saved || BRANCH_FALLBACKS[0];
+  toast(`저장소 정보를 읽지 못해 ${branch} 브랜치로 가정합니다.`, true);
 }
 
 async function readRepoFile(path) {
@@ -831,13 +873,7 @@ async function boot() {
     localStorage.setItem(LS_REPO, JSON.stringify(repo));
   }
   updateTokenState();
-  try {
-    const info = await gh(`/repos/${repo.owner}/${repo.repo}`);
-    branch = info.default_branch || 'main';
-  } catch (err) {
-    branch = 'main';
-    toast(`저장소 정보를 읽지 못해 기본 브랜치를 main 으로 가정합니다: ${err.message}`, true);
-  }
+  await resolveBranch();
   try {
     const first = await readJsonFile(PATHS.config);
     const access = Object.assign({}, DEFAULT_CONFIG.access, (first.data || {}).access || {});

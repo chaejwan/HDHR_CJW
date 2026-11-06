@@ -5,6 +5,7 @@
 
 import json
 import os
+import re
 import sys
 import tempfile
 import threading
@@ -617,6 +618,45 @@ class WorkflowSecretsTest(unittest.TestCase):
                 continue
             self.assertIn(f"{name}: ${{{{ secrets.{name} }}}}", workflow,
                           f"{name} 을(를) 워크플로가 넘겨 주지 않습니다")
+
+
+class SettingsPageBranchTest(unittest.TestCase):
+    """설정 화면은 api.github.com 을 못 써도 올바른 브랜치를 찾아야 한다.
+
+    화면은 시작할 때 기본 브랜치 이름을 GitHub API 에 물어본다. 사내망처럼
+    api.github.com 을 막아 둔 곳에서는 이 물음이 실패하는데, 예전에는 그때
+    'main' 으로 가정해 버려서(이 저장소에 없는 이름) 공고 이력이 통째로
+    안 보였다. 대비해 둔 이름 목록에 실제 기본 브랜치가 들어 있는지 본다.
+    """
+
+    def setUp(self):
+        self.root = os.path.dirname(BASE_DIR)      # 저장소 최상위
+        app = os.path.join(self.root, "monitor", "assets", "app.js")
+        pages = os.path.join(self.root, ".github", "workflows", "pages.yml")
+        for path in (app, pages):
+            if not os.path.exists(path):
+                self.skipTest("설정 화면 파일이 없는 곳에서 실행 중")
+        with open(app, encoding="utf-8") as fh:
+            self.app = fh.read()
+        with open(pages, encoding="utf-8") as fh:
+            self.pages = fh.read()
+
+    def _default_branch(self):
+        # pages.yml 이 배포 대상으로 적어 둔 브랜치가 이 저장소의 기본 브랜치다.
+        match = re.search(r'branches:\s*\["([^"]+)"\]', self.pages)
+        self.assertIsNotNone(match, "pages.yml 에서 배포 브랜치를 찾지 못했습니다")
+        return match.group(1)
+
+    def test_fallback_list_holds_the_real_default_branch(self):
+        match = re.search(r"BRANCH_FALLBACKS\s*=\s*\[([^\]]*)\]", self.app)
+        self.assertIsNotNone(match, "app.js 에 BRANCH_FALLBACKS 가 없습니다")
+        names = re.findall(r"'([^']+)'", match.group(1))
+        self.assertIn(self._default_branch(), names,
+                      "api.github.com 을 못 쓸 때 쓸 이름 목록에 기본 브랜치가 없습니다")
+
+    def test_main_is_not_the_only_guess(self):
+        self.assertNotIn("branch = 'main';", self.app,
+                         "기본 브랜치를 main 으로 단정하는 코드가 남아 있습니다")
 
 
 class DigestTest(unittest.TestCase):
