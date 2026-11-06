@@ -2248,8 +2248,8 @@
      "first_seen": "2026-11-06T07:00:38+00:00"
     }
    },
-   "last_check": "2026-11-06T17:00:43+00:00",
-   "last_success": "2026-11-06T17:00:43+00:00",
+   "last_check": "2026-11-06T19:00:39+00:00",
+   "last_success": "2026-11-06T19:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2257,6 +2257,16 @@
    "fingerprint": "7d4ce23707b8f5e3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T19:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T17:00:43+00:00",
      "status": "ok",
@@ -2574,22 +2584,6 @@
        "title": "경력직 채용_실물투자팀",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20125",
        "date": "2026.11.18 15:00"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-04T07:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 74,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "대졸 신입사원 채용 (기획)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20128",
-       "date": "2026.11.11 16:59"
       }
      ]
     }
@@ -6795,8 +6789,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-06T17:00:44+00:00",
-   "last_success": "2026-11-06T17:00:44+00:00",
+   "last_check": "2026-11-06T19:00:40+00:00",
+   "last_success": "2026-11-06T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6804,6 +6798,16 @@
    "fingerprint": "36635896d5b8b563",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T17:00:44+00:00",
      "status": "ok",
@@ -7086,16 +7090,6 @@
     },
     {
      "at": "2026-11-04T09:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-04T07:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10334,8 +10328,8 @@
      "first_seen": "2026-11-06T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-06T17:00:46+00:00",
-   "last_success": "2026-11-06T17:00:46+00:00",
+   "last_check": "2026-11-06T19:00:43+00:00",
+   "last_success": "2026-11-06T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10343,6 +10337,16 @@
    "fingerprint": "2ab69b3f1d32ebed",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 146,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T17:00:46+00:00",
      "status": "ok",
@@ -10722,22 +10726,6 @@
       {
        "title": "SK케미칼 울산공장 기계설비 계약직 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262422",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-04T07:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 138,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262427",
        "date": ""
       }
      ]
@@ -12652,8 +12640,8 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-06T17:00:47+00:00",
-   "last_success": "2026-11-06T17:00:47+00:00",
+   "last_check": "2026-11-06T19:00:45+00:00",
+   "last_success": "2026-11-06T19:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12661,6 +12649,16 @@
    "fingerprint": "c24d30aa7a494def",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T19:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 49,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T17:00:47+00:00",
      "status": "ok",
@@ -12949,16 +12947,6 @@
     },
     {
      "at": "2026-11-04T09:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 57,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-04T07:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13641,8 +13629,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-06T17:00:49+00:00",
-   "last_success": "2026-11-06T17:00:49+00:00",
+   "last_check": "2026-11-06T19:00:47+00:00",
+   "last_success": "2026-11-06T19:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13650,6 +13638,16 @@
    "fingerprint": "6c8b7377d1ad6c2d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T19:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T17:00:49+00:00",
      "status": "ok",
@@ -13932,16 +13930,6 @@
     },
     {
      "at": "2026-11-04T09:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 8,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-04T07:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
