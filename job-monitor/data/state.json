@@ -2248,8 +2248,8 @@
      "first_seen": "2026-11-06T07:00:38+00:00"
     }
    },
-   "last_check": "2026-11-06T13:00:39+00:00",
-   "last_success": "2026-11-06T13:00:39+00:00",
+   "last_check": "2026-11-06T15:00:42+00:00",
+   "last_success": "2026-11-06T15:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2257,6 +2257,16 @@
    "fingerprint": "7d4ce23707b8f5e3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T15:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T13:00:39+00:00",
      "status": "ok",
@@ -2582,22 +2592,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-04T03:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20124",
-       "date": "2026.11.15 23:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6801,15 +6795,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-06T13:00:40+00:00",
-   "last_success": "2026-11-06T13:00:40+00:00",
+   "last_check": "2026-11-06T15:00:43+00:00",
+   "last_success": "2026-11-06T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 15,
-   "fingerprint": "f1d8ad4a25701b2a",
+   "fingerprint": "36635896d5b8b563",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T13:00:40+00:00",
      "status": "ok",
@@ -7092,16 +7096,6 @@
     },
     {
      "at": "2026-11-04T05:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-04T03:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10340,15 +10334,25 @@
      "first_seen": "2026-11-06T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-06T13:00:44+00:00",
-   "last_success": "2026-11-06T13:00:44+00:00",
+   "last_check": "2026-11-06T15:00:48+00:00",
+   "last_success": "2026-11-06T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 146,
-   "fingerprint": "19e793d66a33c52f",
+   "fingerprint": "2ab69b3f1d32ebed",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 146,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T13:00:44+00:00",
      "status": "ok",
@@ -10740,22 +10744,6 @@
       {
        "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262421",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-04T03:00:48+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 136,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262415",
        "date": ""
       }
      ]
@@ -12670,15 +12658,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-06T13:00:45+00:00",
-   "last_success": "2026-11-06T13:00:45+00:00",
+   "last_check": "2026-11-06T15:00:49+00:00",
+   "last_success": "2026-11-06T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 49,
-   "fingerprint": "4b4b02b90d2ee2e2",
+   "fingerprint": "c24d30aa7a494def",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 49,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T13:00:45+00:00",
      "status": "ok",
@@ -12967,16 +12965,6 @@
     },
     {
      "at": "2026-11-04T05:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 57,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-04T03:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13659,15 +13647,25 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-06T13:00:47+00:00",
-   "last_success": "2026-11-06T13:00:47+00:00",
+   "last_check": "2026-11-06T15:00:51+00:00",
+   "last_success": "2026-11-06T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 6,
-   "fingerprint": "2829b4da3a6632d6",
+   "fingerprint": "6c8b7377d1ad6c2d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T13:00:47+00:00",
      "status": "ok",
@@ -13950,16 +13948,6 @@
     },
     {
      "at": "2026-11-04T05:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 8,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-04T03:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
