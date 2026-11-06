@@ -1,32 +1,38 @@
 {
- "at": "2026-11-06T05:00:51+00:00",
+ "at": "2026-11-06T07:00:45+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-09 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 11-09 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 8,
   "alerts": 0,
   "since": "2026-11-06T03:00:48+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42165807884",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42178027834",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 79,
+   "status": "new",
+   "item_count": 78,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[HR실] 해외 주재원 Payroll 담당자(계약직) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
+     "date": "2026.11.15 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,14 +52,29 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 143,
+   "item_count": 147,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "Project Management 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262434",
+     "title": "(집단E) 정보·물리보안/총무 경력직 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262437",
+     "date": ""
+    },
+    {
+     "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262396",
+     "date": ""
+    },
+    {
+     "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262436",
+     "date": ""
+    },
+    {
+     "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262416",
      "date": ""
     }
    ]

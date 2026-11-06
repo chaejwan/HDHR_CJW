@@ -2240,17 +2240,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20020",
      "date": "2026.11.19 17:00",
      "first_seen": "2026-11-06T03:00:40+00:00"
+    },
+    "14d291daab4d6bf5": {
+     "title": "[HR실] 해외 주재원 Payroll 담당자(계약직) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
+     "date": "2026.11.15 23:59",
+     "first_seen": "2026-11-06T07:00:38+00:00"
     }
    },
-   "last_check": "2026-11-06T05:00:39+00:00",
-   "last_success": "2026-11-06T05:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-06T07:00:38+00:00",
+   "last_success": "2026-11-06T07:00:38+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 79,
-   "fingerprint": "b0f121fed384077b",
+   "item_count": 78,
+   "fingerprint": "3eae52fb7c9cd778",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T07:00:38+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[HR실] 해외 주재원 Payroll 담당자(계약직) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
+       "date": "2026.11.15 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-06T05:00:39+00:00",
      "status": "ok",
@@ -2576,33 +2598,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-03T19:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 74,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "직판파트_직판 오퍼레이션 담당자 채용 (아르바이트)",
-    "[한화생명] Media&Marketing실 '스포츠 유망주 육성' 경력채용(대리~차장급)",
     "[한화에어로스페이스] PGM사업부 '26년 3차 전문직 채용(인턴/정규직)",
     "[한화모멘텀㈜] 클린자동화 기술영업(SE)",
-    "한화시스템 해양방산 무기체계 SW 개발 경력사원 채용"
+    "한화시스템 해양방산 무기체계 SW 개발 경력사원 채용",
+    "[한화에어로스페이스] 사업∙행정관리 (전표관리) 담당자 (계약직)",
+    "한화시스템 위성영상 분석/판독 솔루션 개발 엔지니어 경력 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-06T03:00:40+00:00"
+   "last_new_at": "2026-11-06T07:00:38+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6789,8 +6801,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-06T05:00:40+00:00",
-   "last_success": "2026-11-06T05:00:40+00:00",
+   "last_check": "2026-11-06T07:00:39+00:00",
+   "last_success": "2026-11-06T07:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6798,6 +6810,16 @@
    "fingerprint": "f1d8ad4a25701b2a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T07:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T05:00:40+00:00",
      "status": "ok",
@@ -7080,16 +7102,6 @@
     },
     {
      "at": "2026-11-03T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-03T19:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10302,17 +10314,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262434",
      "date": "",
      "first_seen": "2026-11-06T05:00:45+00:00"
+    },
+    "54f4b2fd813387bd": {
+     "title": "(집단E) 정보·물리보안/총무 경력직 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262437",
+     "date": "",
+     "first_seen": "2026-11-06T07:00:41+00:00"
+    },
+    "53e35749986cee19": {
+     "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262396",
+     "date": "",
+     "first_seen": "2026-11-06T07:00:41+00:00"
+    },
+    "a8103fa6d62b1f55": {
+     "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262436",
+     "date": "",
+     "first_seen": "2026-11-06T07:00:41+00:00"
+    },
+    "1d6d1641aa3ae4b5": {
+     "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262416",
+     "date": "",
+     "first_seen": "2026-11-06T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-06T05:00:45+00:00",
-   "last_success": "2026-11-06T05:00:45+00:00",
+   "last_check": "2026-11-06T07:00:41+00:00",
+   "last_success": "2026-11-06T07:00:41+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 143,
-   "fingerprint": "ff5a6baee7ab63fd",
+   "item_count": 147,
+   "fingerprint": "f6b6cfcaff56d427",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T07:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 147,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(집단E) 정보·물리보안/총무 경력직 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262437",
+       "date": ""
+      },
+      {
+       "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262396",
+       "date": ""
+      },
+      {
+       "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262436",
+       "date": ""
+      },
+      {
+       "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262416",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-06T05:00:45+00:00",
      "status": "new",
@@ -10692,16 +10759,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-03T19:00:57+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 133,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10718,7 +10775,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-06T05:00:45+00:00"
+   "last_new_at": "2026-11-06T07:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12613,15 +12670,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-06T05:00:47+00:00",
-   "last_success": "2026-11-06T05:00:47+00:00",
+   "last_check": "2026-11-06T07:00:42+00:00",
+   "last_success": "2026-11-06T07:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 49,
-   "fingerprint": "9025076ada5b7bc8",
+   "fingerprint": "925397d7a244c4fb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T07:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 49,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T05:00:47+00:00",
      "status": "ok",
@@ -12910,16 +12977,6 @@
     },
     {
      "at": "2026-11-03T21:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 56,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-03T19:00:58+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13602,8 +13659,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-06T05:00:49+00:00",
-   "last_success": "2026-11-06T05:00:49+00:00",
+   "last_check": "2026-11-06T07:00:43+00:00",
+   "last_success": "2026-11-06T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13611,6 +13668,16 @@
    "fingerprint": "cba5fbf215242c3f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-06T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-06T05:00:49+00:00",
      "status": "ok",
@@ -13921,16 +13988,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-03T19:01:00+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 4,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13978,6 +14035,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262434",
     "date": "",
     "found_at": "2026-11-06T05:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[HR실] 해외 주재원 Payroll 담당자(계약직) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
+    "date": "2026.11.15 23:59",
+    "found_at": "2026-11-06T07:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "(집단E) 정보·물리보안/총무 경력직 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262437",
+    "date": "",
+    "found_at": "2026-11-06T07:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262396",
+    "date": "",
+    "found_at": "2026-11-06T07:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262436",
+    "date": "",
+    "found_at": "2026-11-06T07:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262416",
+    "date": "",
+    "found_at": "2026-11-06T07:00:45+00:00"
    }
   ],
   "alerts": [],
@@ -13985,51 +14087,6 @@
   "last_sent": "2026-11-05T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "MSSQL/Oracle DBA 경력사원 채용 (계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19894",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-02T09:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 SKALA 신입사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262104",
-   "date": "",
-   "found_at": "2026-10-02T09:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "정보보안 운영 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262135",
-   "date": "",
-   "found_at": "2026-10-02T09:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "네트워크 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262136",
-   "date": "",
-   "found_at": "2026-10-02T09:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 10월 SK핀크스 기획 채용공고",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262129",
-   "date": "",
-   "found_at": "2026-10-02T15:00:52+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18484,6 +18541,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262434",
    "date": "",
    "found_at": "2026-11-06T05:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[HR실] 해외 주재원 Payroll 담당자(계약직) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
+   "date": "2026.11.15 23:59",
+   "found_at": "2026-11-06T07:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "(집단E) 정보·물리보안/총무 경력직 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262437",
+   "date": "",
+   "found_at": "2026-11-06T07:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262396",
+   "date": "",
+   "found_at": "2026-11-06T07:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262436",
+   "date": "",
+   "found_at": "2026-11-06T07:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262416",
+   "date": "",
+   "found_at": "2026-11-06T07:00:45+00:00"
   }
  ]
 }
