@@ -2260,8 +2260,8 @@
      "first_seen": "2026-11-08T15:00:36+00:00"
     }
    },
-   "last_check": "2026-11-08T17:00:38+00:00",
-   "last_success": "2026-11-08T17:00:38+00:00",
+   "last_check": "2026-11-08T19:00:36+00:00",
+   "last_success": "2026-11-08T19:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2269,6 +2269,16 @@
    "fingerprint": "92751368e8198459",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T19:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T17:00:38+00:00",
      "status": "ok",
@@ -2569,22 +2579,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T07:00:38+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[HR실] 해외 주재원 Payroll 담당자(계약직) 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
-       "date": "2026.11.15 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -6788,8 +6782,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-08T17:00:39+00:00",
-   "last_success": "2026-11-08T17:00:39+00:00",
+   "last_check": "2026-11-08T19:00:36+00:00",
+   "last_success": "2026-11-08T19:00:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6797,6 +6791,16 @@
    "fingerprint": "2d26f4d07a2fd853",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T19:00:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T17:00:39+00:00",
      "status": "ok",
@@ -7079,16 +7083,6 @@
     },
     {
      "at": "2026-11-06T09:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T07:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10327,8 +10321,8 @@
      "first_seen": "2026-11-06T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-08T17:00:45+00:00",
-   "last_success": "2026-11-08T17:00:45+00:00",
+   "last_check": "2026-11-08T19:00:40+00:00",
+   "last_success": "2026-11-08T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10336,6 +10330,16 @@
    "fingerprint": "5527da13bc003b60",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 110,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T17:00:45+00:00",
      "status": "ok",
@@ -10625,37 +10629,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T07:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 147,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "(집단E) 정보·물리보안/총무 경력직 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262437",
-       "date": ""
-      },
-      {
-       "title": "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262396",
-       "date": ""
-      },
-      {
-       "title": "[SK가스] 어드밴스드(PDH)사업부문 환경/화학물질 관리자 채용(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262436",
-       "date": ""
-      },
-      {
-       "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262416",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -12567,15 +12540,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-08T17:00:46+00:00",
-   "last_success": "2026-11-08T17:00:46+00:00",
+   "last_check": "2026-11-08T19:00:41+00:00",
+   "last_success": "2026-11-08T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 48,
-   "fingerprint": "4b3d1b8cf395a7cc",
+   "fingerprint": "a0304981813eb7e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 48,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T17:00:46+00:00",
      "status": "ok",
@@ -12858,16 +12841,6 @@
     },
     {
      "at": "2026-11-06T09:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T07:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13550,8 +13523,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-08T17:00:48+00:00",
-   "last_success": "2026-11-08T17:00:48+00:00",
+   "last_check": "2026-11-08T19:00:43+00:00",
+   "last_success": "2026-11-08T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13559,6 +13532,16 @@
    "fingerprint": "15453db66d34bbc2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T17:00:48+00:00",
      "status": "ok",
@@ -13845,16 +13828,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 7,
      "error": "",
      "note": "",
      "new": []
