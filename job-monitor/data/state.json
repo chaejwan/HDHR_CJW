@@ -2260,15 +2260,25 @@
      "first_seen": "2026-11-08T15:00:36+00:00"
     }
    },
-   "last_check": "2026-11-08T15:00:36+00:00",
-   "last_success": "2026-11-08T15:00:36+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-08T17:00:38+00:00",
+   "last_success": "2026-11-08T17:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "6b2ef9897ae708e7",
+   "item_count": 73,
+   "fingerprint": "92751368e8198459",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T17:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T15:00:36+00:00",
      "status": "new",
@@ -2575,26 +2585,16 @@
        "date": "2026.11.15 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-06T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화시스템 스마트배틀십(함정) Document Controller 계약직 채용",
-    "한화시스템 스마트배틀십(함정) 경력사원 채용",
     "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
     "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
-    "[한화투자증권] VC팀 경력 채용"
+    "[한화투자증권] VC팀 경력 채용",
+    "한화시스템 사내변호사 경력사원 채용",
+    "한화솔루션 재무실 금융팀 경력채용"
    ],
    "health": {
     "issue": "",
@@ -6788,8 +6788,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-08T15:00:37+00:00",
-   "last_success": "2026-11-08T15:00:37+00:00",
+   "last_check": "2026-11-08T17:00:39+00:00",
+   "last_success": "2026-11-08T17:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6797,6 +6797,16 @@
    "fingerprint": "2d26f4d07a2fd853",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T17:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T15:00:37+00:00",
      "status": "ok",
@@ -7079,16 +7089,6 @@
     },
     {
      "at": "2026-11-06T07:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T05:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10327,8 +10327,8 @@
      "first_seen": "2026-11-06T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-08T15:00:42+00:00",
-   "last_success": "2026-11-08T15:00:42+00:00",
+   "last_check": "2026-11-08T17:00:45+00:00",
+   "last_success": "2026-11-08T17:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10336,6 +10336,16 @@
    "fingerprint": "5527da13bc003b60",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T17:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 110,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T15:00:42+00:00",
      "status": "ok",
@@ -10643,22 +10653,6 @@
       {
        "title": "'26년 11월 건축사업 설계(건축), 공사(건축/전기/설비) 경력직(촉탁직) 채용",
        "url": "https://www.skcareers.com/Recruit/Detail/R262416",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-06T05:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 143,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "Project Management 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262434",
        "date": ""
       }
      ]
@@ -12573,15 +12567,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-08T15:00:43+00:00",
-   "last_success": "2026-11-08T15:00:43+00:00",
+   "last_check": "2026-11-08T17:00:46+00:00",
+   "last_success": "2026-11-08T17:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 48,
-   "fingerprint": "c5374964a5578550",
+   "fingerprint": "4b3d1b8cf395a7cc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T17:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 48,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T15:00:43+00:00",
      "status": "ok",
@@ -12864,16 +12868,6 @@
     },
     {
      "at": "2026-11-06T07:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T05:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13556,8 +13550,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-08T15:00:46+00:00",
-   "last_success": "2026-11-08T15:00:46+00:00",
+   "last_check": "2026-11-08T17:00:48+00:00",
+   "last_success": "2026-11-08T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13565,6 +13559,16 @@
    "fingerprint": "15453db66d34bbc2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-08T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T15:00:46+00:00",
      "status": "ok",
@@ -13847,16 +13851,6 @@
     },
     {
      "at": "2026-11-06T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 7,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T05:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
