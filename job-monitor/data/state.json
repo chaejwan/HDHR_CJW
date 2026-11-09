@@ -2260,15 +2260,25 @@
      "first_seen": "2026-11-08T15:00:36+00:00"
     }
    },
-   "last_check": "2026-11-08T23:00:37+00:00",
+   "last_check": "2026-11-09T01:00:37+00:00",
    "last_success": "2026-11-08T23:00:37+00:00",
-   "last_status": "ok",
-   "last_error": "",
+   "last_status": "error",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 73,
    "fingerprint": "92751368e8198459",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T01:00:37+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T23:00:37+00:00",
      "status": "ok",
@@ -2569,20 +2579,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 0,
+   "consecutive_errors": 1,
    "sample_titles": [
     "한화솔루션 인사이트 PLS사업부 테라피스트 경력 채용",
     "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
@@ -6782,8 +6782,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-08T23:00:38+00:00",
-   "last_success": "2026-11-08T23:00:38+00:00",
+   "last_check": "2026-11-09T01:03:05+00:00",
+   "last_success": "2026-11-09T01:03:05+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6791,6 +6791,16 @@
    "fingerprint": "2d26f4d07a2fd853",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T01:03:05+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T23:00:38+00:00",
      "status": "ok",
@@ -7073,16 +7083,6 @@
     },
     {
      "at": "2026-11-06T15:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T13:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10319,17 +10319,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262416",
      "date": "",
      "first_seen": "2026-11-06T07:00:41+00:00"
+    },
+    "2f0752426a089821": {
+     "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262407",
+     "date": "",
+     "first_seen": "2026-11-09T01:03:08+00:00"
+    },
+    "3612f22d805aef06": {
+     "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262440",
+     "date": "",
+     "first_seen": "2026-11-09T01:03:08+00:00"
+    },
+    "9b6034fe17c67b7b": {
+     "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262441",
+     "date": "",
+     "first_seen": "2026-11-09T01:03:08+00:00"
     }
    },
-   "last_check": "2026-11-08T23:00:43+00:00",
-   "last_success": "2026-11-08T23:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-09T01:03:08+00:00",
+   "last_success": "2026-11-09T01:03:08+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 110,
-   "fingerprint": "5527da13bc003b60",
+   "item_count": 112,
+   "fingerprint": "3f730ff9d7bf6877",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T01:03:08+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 112,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262407",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262440",
+       "date": ""
+      },
+      {
+       "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262441",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-08T23:00:43+00:00",
      "status": "ok",
@@ -10619,16 +10663,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10645,7 +10679,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-06T07:00:41+00:00"
+   "last_new_at": "2026-11-09T01:03:08+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12540,15 +12574,25 @@
      "first_seen": "2026-11-05T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-08T23:00:44+00:00",
-   "last_success": "2026-11-08T23:00:44+00:00",
+   "last_check": "2026-11-09T01:03:09+00:00",
+   "last_success": "2026-11-09T01:03:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 48,
-   "fingerprint": "a0304981813eb7e9",
+   "fingerprint": "d48ef7304b7edaa6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T01:03:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 48,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T23:00:44+00:00",
      "status": "ok",
@@ -12838,26 +12882,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
     "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
-    "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
     "[계약직] 울산공장 산업간호사",
     "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
-    "[ICT] Solution Architect - ERP SD 판매 모듈"
+    "[ICT] Solution Architect - ERP SD 판매 모듈",
+    "[ICT] IT Project Manager - 충전 플랫폼 전개/운영"
    ],
    "health": {
     "issue": "",
@@ -13523,8 +13557,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-08T23:00:46+00:00",
-   "last_success": "2026-11-08T23:00:46+00:00",
+   "last_check": "2026-11-09T01:03:11+00:00",
+   "last_success": "2026-11-09T01:03:11+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13532,6 +13566,16 @@
    "fingerprint": "15453db66d34bbc2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T01:03:11+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-08T23:00:46+00:00",
      "status": "ok",
@@ -13821,16 +13865,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13851,39 +13885,40 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262407",
+    "date": "",
+    "found_at": "2026-11-09T01:03:13+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262440",
+    "date": "",
+    "found_at": "2026-11-09T01:03:13+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262441",
+    "date": "",
+    "found_at": "2026-11-09T01:03:13+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-09T01:03:13+00:00",
   "last_sent": "2026-11-08T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 울산공장 산업보건센터 의사 (일반의)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=222",
-   "date": "20261019",
-   "found_at": "2026-10-05T01:00:44+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262137",
-   "date": "",
-   "found_at": "2026-10-05T15:01:04+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 정보보호 인증 담당(CMMC) 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19888",
-   "date": "2026.10.19 23:59",
-   "found_at": "2026-10-05T23:00:43+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18356,6 +18391,33 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20136",
    "date": "2026.11.23 08:00",
    "found_at": "2026-11-08T15:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262407",
+   "date": "",
+   "found_at": "2026-11-09T01:03:13+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262440",
+   "date": "",
+   "found_at": "2026-11-09T01:03:13+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262441",
+   "date": "",
+   "found_at": "2026-11-09T01:03:13+00:00"
   }
  ]
 }

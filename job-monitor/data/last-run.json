@@ -1,31 +1,31 @@
 {
- "at": "2026-11-08T23:00:47+00:00",
+ "at": "2026-11-09T01:03:13+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 3,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-10 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 3,
   "alerts": 0,
-  "since": "",
+  "since": "2026-11-09T01:03:13+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42533011488",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42543214293",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 73,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {
@@ -45,12 +45,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 110,
+   "status": "new",
+   "item_count": 112,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262407",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262440",
+     "date": ""
+    },
+    {
+     "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262441",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
