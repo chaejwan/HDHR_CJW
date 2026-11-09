@@ -2284,8 +2284,8 @@
      "first_seen": "2026-11-09T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-09T21:00:40+00:00",
-   "last_success": "2026-11-09T21:00:40+00:00",
+   "last_check": "2026-11-09T23:00:45+00:00",
+   "last_success": "2026-11-09T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2293,6 +2293,16 @@
    "fingerprint": "8254f3c554f15d9e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T21:00:40+00:00",
      "status": "ok",
@@ -2610,16 +2620,6 @@
     },
     {
      "at": "2026-11-07T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T11:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6830,8 +6830,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-09T21:00:41+00:00",
-   "last_success": "2026-11-09T21:00:41+00:00",
+   "last_check": "2026-11-09T23:00:46+00:00",
+   "last_success": "2026-11-09T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6839,6 +6839,16 @@
    "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T21:00:41+00:00",
      "status": "ok",
@@ -7121,16 +7131,6 @@
     },
     {
      "at": "2026-11-07T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10417,8 +10417,8 @@
      "first_seen": "2026-11-09T09:00:46+00:00"
     }
    },
-   "last_check": "2026-11-09T21:00:47+00:00",
-   "last_success": "2026-11-09T21:00:47+00:00",
+   "last_check": "2026-11-09T23:00:51+00:00",
+   "last_success": "2026-11-09T23:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10426,6 +10426,16 @@
    "fingerprint": "db5629dbca300994",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T23:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 115,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T21:00:47+00:00",
      "status": "ok",
@@ -10752,16 +10762,6 @@
     },
     {
      "at": "2026-11-07T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T11:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12692,15 +12692,25 @@
      "first_seen": "2026-11-09T02:44:57+00:00"
     }
    },
-   "last_check": "2026-11-09T21:00:48+00:00",
-   "last_success": "2026-11-09T21:00:48+00:00",
+   "last_check": "2026-11-09T23:00:52+00:00",
+   "last_success": "2026-11-09T23:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 51,
-   "fingerprint": "92042db83a1b6800",
+   "fingerprint": "7dbeebfacc7bd20b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T23:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 51,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T21:00:48+00:00",
      "status": "ok",
@@ -12994,16 +13004,6 @@
     },
     {
      "at": "2026-11-07T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T11:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13686,8 +13686,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-09T21:00:51+00:00",
-   "last_success": "2026-11-09T21:00:51+00:00",
+   "last_check": "2026-11-09T23:00:53+00:00",
+   "last_success": "2026-11-09T23:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13695,6 +13695,16 @@
    "fingerprint": "fad70a088f17e821",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T23:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T21:00:51+00:00",
      "status": "ok",
@@ -13984,16 +13994,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T11:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14014,137 +14014,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262407",
-    "date": "",
-    "found_at": "2026-11-09T01:03:13+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262440",
-    "date": "",
-    "found_at": "2026-11-09T01:03:13+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262441",
-    "date": "",
-    "found_at": "2026-11-09T01:03:13+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20132",
-    "date": "2026.11.22 23:59",
-    "found_at": "2026-11-09T02:45:01+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=254",
-    "date": "20261119",
-    "found_at": "2026-11-09T02:45:01+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] Recruiting Coordinator (채용 운영)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=41",
-    "date": "20261120",
-    "found_at": "2026-11-09T02:45:01+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
-    "date": "2026.11.20 23:59",
-    "found_at": "2026-11-09T05:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262444",
-    "date": "",
-    "found_at": "2026-11-09T05:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262445",
-    "date": "",
-    "found_at": "2026-11-09T05:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
-    "date": "2026.11.23 15:00",
-    "found_at": "2026-11-09T07:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 제조관리 약사 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262447",
-    "date": "",
-    "found_at": "2026-11-09T07:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262448",
-    "date": "",
-    "found_at": "2026-11-09T07:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "경력직 채용_기관컨설팅1센터 (단기 계약직)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20146",
-    "date": "2026.11.23 15:00",
-    "found_at": "2026-11-09T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262451",
-    "date": "",
-    "found_at": "2026-11-09T09:00:51+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-11-09T01:03:13+00:00",
-  "last_sent": "2026-11-08T23:00:55+00:00"
+  "since": "",
+  "last_sent": "2026-11-09T23:01:00+00:00"
  },
  "archive": [
   {
