@@ -1,32 +1,38 @@
 {
- "at": "2026-11-09T01:03:13+00:00",
+ "at": "2026-11-09T02:45:01+00:00",
  "checked": 5,
  "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-10 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 11-10 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 6,
   "alerts": 0,
   "since": "2026-11-09T01:03:13+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42543214293",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42552585693",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "error",
-   "item_count": 0,
-   "method": "",
+   "status": "new",
+   "item_count": 74,
+   "method": "json",
    "note": "",
-   "error": "응답 시간 초과 (45초) (3회 시도)",
-   "new_items": []
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20132",
+     "date": "2026.11.22 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -45,40 +51,35 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 112,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262407",
-     "date": ""
-    },
-    {
-     "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262440",
-     "date": ""
-    },
-    {
-     "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262441",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 48,
+   "status": "new",
+   "item_count": 51,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=254",
+     "date": "20261119"
+    },
+    {
+     "title": "[계약직] Recruiting Coordinator (채용 운영)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=41",
+     "date": "20261120"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
