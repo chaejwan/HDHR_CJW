@@ -2284,15 +2284,25 @@
      "first_seen": "2026-11-09T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-09T13:00:41+00:00",
-   "last_success": "2026-11-09T13:00:41+00:00",
+   "last_check": "2026-11-09T15:00:44+00:00",
+   "last_success": "2026-11-09T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 76,
-   "fingerprint": "a841139090fef7f1",
+   "item_count": 73,
+   "fingerprint": "8254f3c554f15d9e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T13:00:41+00:00",
      "status": "ok",
@@ -2617,26 +2627,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T03:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
-    "[한화투자증권] VC팀 경력 채용",
-    "한화시스템 사내변호사 경력사원 채용",
     "한화솔루션 재무실 금융팀 경력채용",
-    "한화솔루션 재무실 세무회계팀 채용"
+    "한화솔루션 재무실 세무회계팀 채용",
+    "한화솔루션 연구소 연구지원직(계약직) 채용",
+    "대졸 신입사원 채용 (기획)",
+    "(주)한화 글로벌부문 H/W 개발 경력사원 채용"
    ],
    "health": {
     "issue": "",
@@ -6830,15 +6830,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-09T13:00:43+00:00",
-   "last_success": "2026-11-09T13:00:43+00:00",
+   "last_check": "2026-11-09T15:00:45+00:00",
+   "last_success": "2026-11-09T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 15,
-   "fingerprint": "6460fb21a86fdeab",
+   "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T13:00:43+00:00",
      "status": "ok",
@@ -7121,16 +7131,6 @@
     },
     {
      "at": "2026-11-07T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T03:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10417,15 +10417,25 @@
      "first_seen": "2026-11-09T09:00:46+00:00"
     }
    },
-   "last_check": "2026-11-09T13:00:47+00:00",
-   "last_success": "2026-11-09T13:00:47+00:00",
+   "last_check": "2026-11-09T15:00:51+00:00",
+   "last_success": "2026-11-09T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 117,
-   "fingerprint": "76a55c81f49bf423",
+   "item_count": 115,
+   "fingerprint": "db5629dbca300994",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 115,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T13:00:47+00:00",
      "status": "ok",
@@ -10759,26 +10769,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T03:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "HR 인턴 구성원 영입",
-    "SK플라즈마 자금/공시 담당 경력사원 모집",
     "DevSecOps 엔지니어",
     "개인정보보호 전문가",
-    "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가"
+    "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가",
+    "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
+    "[SK네트웍스서비스] 2026년 10~11월 Solution CIC 사업기획 담당자 채용"
    ],
    "health": {
     "issue": "",
@@ -12692,15 +12692,25 @@
      "first_seen": "2026-11-09T02:44:57+00:00"
     }
    },
-   "last_check": "2026-11-09T13:00:49+00:00",
-   "last_success": "2026-11-09T13:00:49+00:00",
+   "last_check": "2026-11-09T15:00:52+00:00",
+   "last_success": "2026-11-09T15:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 51,
-   "fingerprint": "e5be297cc8529098",
+   "fingerprint": "92042db83a1b6800",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T15:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 51,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T13:00:49+00:00",
      "status": "ok",
@@ -12994,16 +13004,6 @@
     },
     {
      "at": "2026-11-07T05:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T03:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13686,15 +13686,25 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-09T13:00:51+00:00",
-   "last_success": "2026-11-09T13:00:51+00:00",
+   "last_check": "2026-11-09T15:00:54+00:00",
+   "last_success": "2026-11-09T15:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 6,
-   "fingerprint": "15453db66d34bbc2",
+   "fingerprint": "fad70a088f17e821",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T15:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T13:00:51+00:00",
      "status": "ok",
@@ -13977,16 +13987,6 @@
     },
     {
      "at": "2026-11-07T05:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T03:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
