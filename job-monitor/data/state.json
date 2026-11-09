@@ -2270,17 +2270,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
      "date": "2026.11.20 23:59",
      "first_seen": "2026-11-09T05:00:37+00:00"
+    },
+    "5d2f585591d8d34c": {
+     "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
+     "date": "2026.11.23 15:00",
+     "first_seen": "2026-11-09T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-09T05:00:37+00:00",
-   "last_success": "2026-11-09T05:00:37+00:00",
+   "last_check": "2026-11-09T07:00:39+00:00",
+   "last_success": "2026-11-09T07:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 75,
-   "fingerprint": "f81dd0c0ae767e85",
+   "item_count": 76,
+   "fingerprint": "a35cbbca120825ff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
+       "date": "2026.11.23 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-09T05:00:37+00:00",
      "status": "new",
@@ -2593,16 +2615,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T19:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2619,7 +2631,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-09T05:00:37+00:00"
+   "last_new_at": "2026-11-09T07:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6806,15 +6818,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-09T05:00:38+00:00",
-   "last_success": "2026-11-09T05:00:38+00:00",
+   "last_check": "2026-11-09T07:00:40+00:00",
+   "last_success": "2026-11-09T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 15,
-   "fingerprint": "2d26f4d07a2fd853",
+   "fingerprint": "6460fb21a86fdeab",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T05:00:38+00:00",
      "status": "ok",
@@ -7097,16 +7119,6 @@
     },
     {
      "at": "2026-11-06T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T19:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10373,17 +10385,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262445",
      "date": "",
      "first_seen": "2026-11-09T05:00:45+00:00"
+    },
+    "99150e7610135e55": {
+     "title": "SK플라즈마 제조관리 약사 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262447",
+     "date": "",
+     "first_seen": "2026-11-09T07:00:43+00:00"
+    },
+    "2431793128c710e9": {
+     "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262448",
+     "date": "",
+     "first_seen": "2026-11-09T07:00:43+00:00"
     }
    },
-   "last_check": "2026-11-09T05:00:45+00:00",
-   "last_success": "2026-11-09T05:00:45+00:00",
+   "last_check": "2026-11-09T07:00:43+00:00",
+   "last_success": "2026-11-09T07:00:43+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 114,
-   "fingerprint": "4cfe6556542d0382",
+   "item_count": 116,
+   "fingerprint": "810b5731de6f5811",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T07:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 116,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 제조관리 약사 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262447",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262448",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-09T05:00:45+00:00",
      "status": "new",
@@ -10700,16 +10745,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10726,7 +10761,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-09T05:00:45+00:00"
+   "last_new_at": "2026-11-09T07:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12633,15 +12668,25 @@
      "first_seen": "2026-11-09T02:44:57+00:00"
     }
    },
-   "last_check": "2026-11-09T05:00:46+00:00",
-   "last_success": "2026-11-09T05:00:46+00:00",
+   "last_check": "2026-11-09T07:00:43+00:00",
+   "last_success": "2026-11-09T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 51,
-   "fingerprint": "f56eae9270463917",
+   "fingerprint": "b99094179569989b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 51,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T05:00:46+00:00",
      "status": "ok",
@@ -12942,26 +12987,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
     "[계약직] 울산공장 산업간호사",
     "[계약직] 상품 운영 지원 (장애인 제한경쟁)",
     "[ICT] Solution Architect - ERP SD 판매 모듈",
-    "[ICT] IT Project Manager - 충전 플랫폼 전개/운영"
+    "[ICT] IT Project Manager - 충전 플랫폼 전개/운영",
+    "[ICT] IT Project Manager - 구매 솔루션"
    ],
    "health": {
     "issue": "",
@@ -13627,8 +13662,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-09T05:00:48+00:00",
-   "last_success": "2026-11-09T05:00:48+00:00",
+   "last_check": "2026-11-09T07:00:45+00:00",
+   "last_success": "2026-11-09T07:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13636,6 +13671,16 @@
    "fingerprint": "15453db66d34bbc2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T07:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T05:00:48+00:00",
      "status": "ok",
@@ -13925,16 +13970,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14036,6 +14071,33 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262445",
     "date": "",
     "found_at": "2026-11-09T05:00:50+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
+    "date": "2026.11.23 15:00",
+    "found_at": "2026-11-09T07:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 제조관리 약사 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262447",
+    "date": "",
+    "found_at": "2026-11-09T07:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262448",
+    "date": "",
+    "found_at": "2026-11-09T07:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -14043,33 +14105,6 @@
   "last_sent": "2026-11-08T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK에코플랜트 품질관리자/환경관리자 경력직(촉탁직) 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262142",
-   "date": "",
-   "found_at": "2026-10-06T03:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "구매 시스템 운영 지원 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262146",
-   "date": "",
-   "found_at": "2026-10-06T05:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "IP Senior 구성원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262148",
-   "date": "",
-   "found_at": "2026-10-06T05:00:47+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18542,6 +18577,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262445",
    "date": "",
    "found_at": "2026-11-09T05:00:50+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
+   "date": "2026.11.23 15:00",
+   "found_at": "2026-11-09T07:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 제조관리 약사 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262447",
+   "date": "",
+   "found_at": "2026-11-09T07:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262448",
+   "date": "",
+   "found_at": "2026-11-09T07:00:47+00:00"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
- "at": "2026-11-09T05:00:50+00:00",
+ "at": "2026-11-09T07:00:47+00:00",
  "checked": 5,
  "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-10 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 11-10 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 12,
   "alerts": 0,
   "since": "2026-11-09T01:03:13+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42564824163",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42576551496",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 75,
+   "item_count": 76,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
-     "date": "2026.11.20 23:59"
+     "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
+     "date": "2026.11.23 15:00"
     }
    ]
   },
@@ -52,19 +52,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 114,
+   "item_count": 116,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262444",
+     "title": "SK플라즈마 제조관리 약사 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262447",
      "date": ""
     },
     {
-     "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262445",
+     "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262448",
      "date": ""
     }
    ]
