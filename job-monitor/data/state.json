@@ -2264,17 +2264,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20132",
      "date": "2026.11.22 23:59",
      "first_seen": "2026-11-09T02:44:43+00:00"
+    },
+    "6bcaf408fd5f49fc": {
+     "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
+     "date": "2026.11.20 23:59",
+     "first_seen": "2026-11-09T05:00:37+00:00"
     }
    },
-   "last_check": "2026-11-09T02:44:43+00:00",
-   "last_success": "2026-11-09T02:44:43+00:00",
+   "last_check": "2026-11-09T05:00:37+00:00",
+   "last_success": "2026-11-09T05:00:37+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 74,
-   "fingerprint": "ccaa0d5eaacacdb3",
+   "item_count": 75,
+   "fingerprint": "f81dd0c0ae767e85",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T05:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 75,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
+       "date": "2026.11.20 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-09T02:44:43+00:00",
      "status": "new",
@@ -2581,16 +2603,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T17:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2607,7 +2619,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-09T02:44:43+00:00"
+   "last_new_at": "2026-11-09T05:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6794,8 +6806,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-09T02:44:45+00:00",
-   "last_success": "2026-11-09T02:44:45+00:00",
+   "last_check": "2026-11-09T05:00:38+00:00",
+   "last_success": "2026-11-09T05:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6803,6 +6815,16 @@
    "fingerprint": "2d26f4d07a2fd853",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T05:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T02:44:45+00:00",
      "status": "ok",
@@ -7085,16 +7107,6 @@
     },
     {
      "at": "2026-11-06T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T17:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10349,17 +10361,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262441",
      "date": "",
      "first_seen": "2026-11-09T01:03:08+00:00"
+    },
+    "ce7526e2bbf274aa": {
+     "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262444",
+     "date": "",
+     "first_seen": "2026-11-09T05:00:45+00:00"
+    },
+    "ab8a985d19541117": {
+     "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262445",
+     "date": "",
+     "first_seen": "2026-11-09T05:00:45+00:00"
     }
    },
-   "last_check": "2026-11-09T02:44:56+00:00",
-   "last_success": "2026-11-09T02:44:56+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-09T05:00:45+00:00",
+   "last_success": "2026-11-09T05:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 112,
-   "fingerprint": "3f730ff9d7bf6877",
+   "item_count": 114,
+   "fingerprint": "4cfe6556542d0382",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T05:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 114,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262444",
+       "date": ""
+      },
+      {
+       "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262445",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-09T02:44:56+00:00",
      "status": "ok",
@@ -10665,16 +10710,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10691,7 +10726,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-09T01:03:08+00:00"
+   "last_new_at": "2026-11-09T05:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12598,15 +12633,25 @@
      "first_seen": "2026-11-09T02:44:57+00:00"
     }
    },
-   "last_check": "2026-11-09T02:44:57+00:00",
-   "last_success": "2026-11-09T02:44:57+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-09T05:00:46+00:00",
+   "last_success": "2026-11-09T05:00:46+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 51,
-   "fingerprint": "2ebe77baf9017925",
+   "fingerprint": "f56eae9270463917",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T05:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 51,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T02:44:57+00:00",
      "status": "new",
@@ -12900,16 +12945,6 @@
     },
     {
      "at": "2026-11-06T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-06T17:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13592,8 +13627,8 @@
      "first_seen": "2026-11-04T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-09T02:44:59+00:00",
-   "last_success": "2026-11-09T02:44:59+00:00",
+   "last_check": "2026-11-09T05:00:48+00:00",
+   "last_success": "2026-11-09T05:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13601,6 +13636,16 @@
    "fingerprint": "15453db66d34bbc2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-09T05:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T02:44:59+00:00",
      "status": "ok",
@@ -13890,16 +13935,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-06T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13974,6 +14009,33 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=41",
     "date": "20261120",
     "found_at": "2026-11-09T02:45:01+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
+    "date": "2026.11.20 23:59",
+    "found_at": "2026-11-09T05:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262444",
+    "date": "",
+    "found_at": "2026-11-09T05:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262445",
+    "date": "",
+    "found_at": "2026-11-09T05:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -13981,33 +14043,6 @@
   "last_sent": "2026-11-08T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK온 Cell Validation 기술직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262127",
-   "date": "",
-   "found_at": "2026-10-06T03:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK케미칼] 26년 울산공장 현장 기술사원 모집(신입, 정규 전환형 계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262132",
-   "date": "",
-   "found_at": "2026-10-06T03:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK멀티유틸리티] 기술사원 신입채용(정규전환형)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262133",
-   "date": "",
-   "found_at": "2026-10-06T03:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18480,6 +18515,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=41",
    "date": "20261120",
    "found_at": "2026-11-09T02:45:01+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
+   "date": "2026.11.20 23:59",
+   "found_at": "2026-11-09T05:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262444",
+   "date": "",
+   "found_at": "2026-11-09T05:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262445",
+   "date": "",
+   "found_at": "2026-11-09T05:00:50+00:00"
   }
  ]
 }
