@@ -2290,8 +2290,8 @@
      "first_seen": "2026-11-10T03:00:41+00:00"
     }
    },
-   "last_check": "2026-11-10T04:40:20+00:00",
-   "last_success": "2026-11-10T04:40:20+00:00",
+   "last_check": "2026-11-10T07:00:37+00:00",
+   "last_success": "2026-11-10T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2299,6 +2299,16 @@
    "fingerprint": "066cd6cda3db78c3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T04:40:20+00:00",
      "status": "ok",
@@ -2622,16 +2632,6 @@
     },
     {
      "at": "2026-11-07T21:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T19:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6842,8 +6842,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-10T04:40:20+00:00",
-   "last_success": "2026-11-10T04:40:20+00:00",
+   "last_check": "2026-11-10T07:00:38+00:00",
+   "last_success": "2026-11-10T07:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6851,6 +6851,16 @@
    "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T07:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T04:40:20+00:00",
      "status": "ok",
@@ -7133,16 +7143,6 @@
     },
     {
      "at": "2026-11-07T21:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T19:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10439,17 +10439,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262453",
      "date": "",
      "first_seen": "2026-11-10T03:00:49+00:00"
+    },
+    "beed6cc268280850": {
+     "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262457",
+     "date": "",
+     "first_seen": "2026-11-10T07:00:43+00:00"
     }
    },
-   "last_check": "2026-11-10T04:40:23+00:00",
-   "last_success": "2026-11-10T04:40:23+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-10T07:00:43+00:00",
+   "last_success": "2026-11-10T07:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 118,
-   "fingerprint": "48b59d6f45e000fa",
+   "item_count": 119,
+   "fingerprint": "be729e1376097aba",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T07:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 119,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262457",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-10T04:40:23+00:00",
      "status": "ok",
@@ -10794,16 +10816,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T19:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10820,7 +10832,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T03:00:49+00:00"
+   "last_new_at": "2026-11-10T07:00:43+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12745,15 +12757,25 @@
      "first_seen": "2026-11-10T04:40:23+00:00"
     }
    },
-   "last_check": "2026-11-10T04:40:23+00:00",
-   "last_success": "2026-11-10T04:40:23+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-10T07:00:44+00:00",
+   "last_success": "2026-11-10T07:00:44+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 54,
-   "fingerprint": "6f974afe488428eb",
+   "item_count": 53,
+   "fingerprint": "28b6e1eeafd3a7e5",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T04:40:23+00:00",
      "status": "new",
@@ -13064,16 +13086,6 @@
     },
     {
      "at": "2026-11-07T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T19:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13762,8 +13774,8 @@
      "first_seen": "2026-11-10T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-10T04:40:25+00:00",
-   "last_success": "2026-11-10T04:40:25+00:00",
+   "last_check": "2026-11-10T07:00:46+00:00",
+   "last_success": "2026-11-10T07:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13771,6 +13783,16 @@
    "fingerprint": "1989054cca1a7c72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T07:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T04:40:25+00:00",
      "status": "ok",
@@ -14066,16 +14088,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14159,6 +14171,15 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
     "date": "20261208",
     "found_at": "2026-11-10T04:40:27+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262457",
+    "date": "",
+    "found_at": "2026-11-10T07:00:47+00:00"
    }
   ],
   "alerts": [],
@@ -14166,15 +14187,6 @@
   "last_sent": "2026-11-09T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[HR실] 인사행정 지원 사무직 채용사무직경영지원경영지원HRM(운영)경력 2년 이상정규직거제2026. 12. 31, 14:59까지D-85",
-   "url": "https://recruit-hanwhaocean.com/ko/o/239579",
-   "date": "",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18665,6 +18677,15 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
    "date": "20261208",
    "found_at": "2026-11-10T04:40:27+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262457",
+   "date": "",
+   "found_at": "2026-11-10T07:00:47+00:00"
   }
  ]
 }
