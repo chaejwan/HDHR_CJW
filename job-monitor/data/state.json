@@ -2290,8 +2290,8 @@
      "first_seen": "2026-11-10T03:00:41+00:00"
     }
    },
-   "last_check": "2026-11-10T21:00:40+00:00",
-   "last_success": "2026-11-10T21:00:40+00:00",
+   "last_check": "2026-11-10T23:00:41+00:00",
+   "last_success": "2026-11-10T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2299,6 +2299,16 @@
    "fingerprint": "ddfcc2f4fe22ccea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T21:00:40+00:00",
      "status": "ok",
@@ -2622,16 +2632,6 @@
     },
     {
      "at": "2026-11-08T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T11:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6842,8 +6842,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-10T21:00:41+00:00",
-   "last_success": "2026-11-10T21:00:41+00:00",
+   "last_check": "2026-11-10T23:00:42+00:00",
+   "last_success": "2026-11-10T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6851,6 +6851,16 @@
    "fingerprint": "ad155326223df47a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T21:00:41+00:00",
      "status": "ok",
@@ -7133,16 +7143,6 @@
     },
     {
      "at": "2026-11-08T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T11:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10525,8 +10525,8 @@
      "first_seen": "2026-11-10T11:00:48+00:00"
     }
    },
-   "last_check": "2026-11-10T21:00:43+00:00",
-   "last_success": "2026-11-10T21:00:43+00:00",
+   "last_check": "2026-11-10T23:00:49+00:00",
+   "last_success": "2026-11-10T23:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10534,6 +10534,16 @@
    "fingerprint": "1a0c7d9e07ab7572",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T23:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 125,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T21:00:43+00:00",
      "status": "ok",
@@ -10944,16 +10954,6 @@
     },
     {
      "at": "2026-11-08T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T11:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12902,8 +12902,8 @@
      "first_seen": "2026-11-10T04:40:23+00:00"
     }
    },
-   "last_check": "2026-11-10T21:00:44+00:00",
-   "last_success": "2026-11-10T21:00:44+00:00",
+   "last_check": "2026-11-10T23:00:51+00:00",
+   "last_success": "2026-11-10T23:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -12911,6 +12911,16 @@
    "fingerprint": "62bfe6168fe503ec",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T23:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T21:00:44+00:00",
      "status": "ok",
@@ -13221,16 +13231,6 @@
     },
     {
      "at": "2026-11-08T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 48,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13919,8 +13919,8 @@
      "first_seen": "2026-11-10T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-10T21:00:46+00:00",
-   "last_success": "2026-11-10T21:00:46+00:00",
+   "last_check": "2026-11-10T23:00:53+00:00",
+   "last_success": "2026-11-10T23:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13928,6 +13928,16 @@
    "fingerprint": "eae9f5eeb668f194",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T23:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T21:00:46+00:00",
      "status": "ok",
@@ -14223,16 +14233,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T11:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14253,200 +14253,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 사상하이테크센터 파츠딜리버리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=258",
-    "date": "20261123",
-    "found_at": "2026-11-10T01:00:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[서비스엔지니어 채용전환형 인턴십] High-Tech Talent Track",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
-    "date": "20261130",
-    "found_at": "2026-11-10T01:00:47+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성증권 경력사원 채용(유선 고객상담)",
-    "url": "https://www.samsungcareers.com/hr/?no=23435",
-    "date": "2026.11.10 ~ 2026.11.17",
-    "found_at": "2026-11-10T01:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 해양 해외영업 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20149",
-    "date": "2026.11.24 23:59",
-    "found_at": "2026-11-10T03:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[11월] Talent hy-way (Maintenance/Operator)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262381",
-    "date": "",
-    "found_at": "2026-11-10T03:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK디앤디] 재무회계 담당 경력직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262453",
-    "date": "",
-    "found_at": "2026-11-10T03:00:53+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 울산공장 연료시설 관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
-    "date": "20261208",
-    "found_at": "2026-11-10T04:40:27+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262457",
-    "date": "",
-    "found_at": "2026-11-10T07:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262466",
-    "date": "",
-    "found_at": "2026-11-10T09:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 기계배관 설계/시공감독",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262459",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 프로젝트 관리 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262460",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262461",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262463",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262464",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262467",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262468",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262469",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262470",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262471",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262472",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262473",
-    "date": "",
-    "found_at": "2026-11-10T11:00:52+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-11-10T01:00:47+00:00",
-  "last_sent": "2026-11-09T23:01:00+00:00"
+  "since": "",
+  "last_sent": "2026-11-10T23:00:57+00:00"
  },
  "archive": [
   {
