@@ -1,20 +1,20 @@
 {
- "at": "2026-11-10T09:00:55+00:00",
+ "at": "2026-11-10T11:00:52+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 12,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-11 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 21건 · 점검 0건). 11-11 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 21,
   "alerts": 0,
   "since": "2026-11-10T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42787091545",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42803881817",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,14 +46,69 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 120,
+   "item_count": 132,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262466",
+     "title": "[SK에어코어] 기계배관 설계/시공감독",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262459",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262460",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262461",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262463",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262464",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262467",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262468",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262469",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262470",
+     "date": ""
+    },
+    {
+     "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262471",
+     "date": ""
+    },
+    {
+     "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262472",
+     "date": ""
+    },
+    {
+     "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262473",
      "date": ""
     }
    ]

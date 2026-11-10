@@ -2290,8 +2290,8 @@
      "first_seen": "2026-11-10T03:00:41+00:00"
     }
    },
-   "last_check": "2026-11-10T09:00:38+00:00",
-   "last_success": "2026-11-10T09:00:38+00:00",
+   "last_check": "2026-11-10T11:00:41+00:00",
+   "last_success": "2026-11-10T11:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2299,6 +2299,16 @@
    "fingerprint": "ddfcc2f4fe22ccea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T11:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T09:00:38+00:00",
      "status": "ok",
@@ -2622,16 +2632,6 @@
     },
     {
      "at": "2026-11-08T01:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T23:00:35+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6842,8 +6842,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-10T09:00:40+00:00",
-   "last_success": "2026-11-10T09:00:40+00:00",
+   "last_check": "2026-11-10T11:00:42+00:00",
+   "last_success": "2026-11-10T11:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6851,6 +6851,16 @@
    "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T11:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T09:00:40+00:00",
      "status": "ok",
@@ -7133,16 +7143,6 @@
     },
     {
      "at": "2026-11-08T01:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T23:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10451,17 +10451,160 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262466",
      "date": "",
      "first_seen": "2026-11-10T09:00:50+00:00"
+    },
+    "fed6175ea3b5baba": {
+     "title": "[SK에어코어] 기계배관 설계/시공감독",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262459",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "c8e31ac2248a2568": {
+     "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262460",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "2c3d06b3fb2bece2": {
+     "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262461",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "fd24e705231ae80a": {
+     "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262463",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "d0b9eff484f35746": {
+     "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262464",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "c287ef6a506bc295": {
+     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262467",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "65e00e0ae8db6308": {
+     "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262468",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "be1712979ee58643": {
+     "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262469",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "629b1a504f012f53": {
+     "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262470",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "2990f1ea0a5bf282": {
+     "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262471",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "2331f7f62d65bf7c": {
+     "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262472",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "2500574ff3587eba": {
+     "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262473",
+     "date": "",
+     "first_seen": "2026-11-10T11:00:48+00:00"
     }
    },
-   "last_check": "2026-11-10T09:00:50+00:00",
-   "last_success": "2026-11-10T09:00:50+00:00",
+   "last_check": "2026-11-10T11:00:48+00:00",
+   "last_success": "2026-11-10T11:00:48+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 120,
-   "fingerprint": "b2a1642549fab0e9",
+   "item_count": 132,
+   "fingerprint": "81ffdafaab442333",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T11:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 12,
+     "item_count": 132,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK에어코어] 기계배관 설계/시공감독",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262459",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262460",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262461",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262463",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262464",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262467",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262468",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262469",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262470",
+       "date": ""
+      },
+      {
+       "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262471",
+       "date": ""
+      },
+      {
+       "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262472",
+       "date": ""
+      },
+      {
+       "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262473",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-10T09:00:50+00:00",
      "status": "new",
@@ -10818,16 +10961,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T23:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10844,7 +10977,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T09:00:50+00:00"
+   "last_new_at": "2026-11-10T11:00:48+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12769,15 +12902,25 @@
      "first_seen": "2026-11-10T04:40:23+00:00"
     }
    },
-   "last_check": "2026-11-10T09:00:51+00:00",
-   "last_success": "2026-11-10T09:00:51+00:00",
+   "last_check": "2026-11-10T11:00:49+00:00",
+   "last_success": "2026-11-10T11:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 53,
-   "fingerprint": "129758ab761eedfa",
+   "fingerprint": "86450658af9478c4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T11:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T09:00:51+00:00",
      "status": "ok",
@@ -13088,16 +13231,6 @@
     },
     {
      "at": "2026-11-08T01:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T23:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13786,8 +13919,8 @@
      "first_seen": "2026-11-10T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-10T09:00:53+00:00",
-   "last_success": "2026-11-10T09:00:53+00:00",
+   "last_check": "2026-11-10T11:00:51+00:00",
+   "last_success": "2026-11-10T11:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13795,6 +13928,16 @@
    "fingerprint": "eb2c7a9c2b08d905",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T11:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T09:00:53+00:00",
      "status": "ok",
@@ -14090,16 +14233,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T23:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14201,6 +14334,114 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262466",
     "date": "",
     "found_at": "2026-11-10T09:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 기계배관 설계/시공감독",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262459",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262460",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262461",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262463",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262464",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262467",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262468",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262469",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262470",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262471",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262472",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262473",
+    "date": "",
+    "found_at": "2026-11-10T11:00:52+00:00"
    }
   ],
   "alerts": [],
@@ -14208,114 +14449,6 @@
   "last_sent": "2026-11-09T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 코원에너지서비스 대졸 신입사원(G3) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R250858",
-   "date": "",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 10월 SUSE 엔지니어 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262155",
-   "date": "",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 10월 Solution CIC 사업기획 담당자 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262156",
-   "date": "",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 강원도시가스 대졸 신입사원(G3) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262161",
-   "date": "",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성전기 경력사원 채용(인덕터ㆍ탄탈 개발 부문)",
-   "url": "https://www.samsungcareers.com/hr/?no=23283",
-   "date": "2026.10.07 ~ 2026.10.20",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "해양솔루션•드론 사업 경력사원 대규모 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
-   "date": "2026.10.28 23:59",
-   "found_at": "2026-10-07T02:28:44+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 품질보증(QA) 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262164",
-   "date": "",
-   "found_at": "2026-10-07T02:28:44+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 품질관리(QC) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262165",
-   "date": "",
-   "found_at": "2026-10-07T02:28:44+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "사내 변호사",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262166",
-   "date": "",
-   "found_at": "2026-10-07T02:28:44+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 개발품질 경력직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19811",
-   "date": "2026.10.13 15:00",
-   "found_at": "2026-10-07T05:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 Embedded Software (일반) 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19818",
-   "date": "2026.10.15 15:00",
-   "found_at": "2026-10-07T05:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 Embedded Software (BSP) 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19817",
-   "date": "2026.10.15 15:00",
-   "found_at": "2026-10-07T05:00:45+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18707,6 +18840,114 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262466",
    "date": "",
    "found_at": "2026-11-10T09:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 기계배관 설계/시공감독",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262459",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 프로젝트 관리 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262460",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] C3 PJT 전기/계장 엔지니어",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262461",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 기계설비 현장 시공관리(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262463",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 전기·계장(E&I) 현장 시공관리(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262464",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조(CAS) 현장 시공관리(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262467",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링(계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262468",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 계장설계 및 엔지니어링",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262469",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 공정설계 및 엔지니어링",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262470",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어코어] 산업가스 플랜트 전기설계 및 엔지니어링",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262471",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어플러스] M17 기계/배관 설계 엔지니어",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262472",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK에어플러스] M17 전기/계장 설계 엔지니어",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262473",
+   "date": "",
+   "found_at": "2026-11-10T11:00:52+00:00"
   }
  ]
 }
