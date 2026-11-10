@@ -2290,15 +2290,25 @@
      "first_seen": "2026-11-10T03:00:41+00:00"
     }
    },
-   "last_check": "2026-11-10T03:00:41+00:00",
-   "last_success": "2026-11-10T03:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-10T04:40:20+00:00",
+   "last_success": "2026-11-10T04:40:20+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 73,
    "fingerprint": "066cd6cda3db78c3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T04:40:20+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T03:00:41+00:00",
      "status": "new",
@@ -2622,16 +2632,6 @@
     },
     {
      "at": "2026-11-07T19:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T17:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6842,8 +6842,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-10T03:00:42+00:00",
-   "last_success": "2026-11-10T03:00:42+00:00",
+   "last_check": "2026-11-10T04:40:20+00:00",
+   "last_success": "2026-11-10T04:40:20+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6851,6 +6851,16 @@
    "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T04:40:20+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T03:00:42+00:00",
      "status": "ok",
@@ -7133,16 +7143,6 @@
     },
     {
      "at": "2026-11-07T19:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T17:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10441,15 +10441,25 @@
      "first_seen": "2026-11-10T03:00:49+00:00"
     }
    },
-   "last_check": "2026-11-10T03:00:49+00:00",
-   "last_success": "2026-11-10T03:00:49+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-10T04:40:23+00:00",
+   "last_success": "2026-11-10T04:40:23+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 118,
    "fingerprint": "48b59d6f45e000fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T04:40:23+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 118,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T03:00:49+00:00",
      "status": "new",
@@ -10787,16 +10797,6 @@
     },
     {
      "at": "2026-11-07T19:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T17:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -12737,17 +12737,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
      "date": "20261130",
      "first_seen": "2026-11-10T01:00:43+00:00"
+    },
+    "f285e0975849b55b": {
+     "title": "[계약직] 울산공장 연료시설 관리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
+     "date": "20261208",
+     "first_seen": "2026-11-10T04:40:23+00:00"
     }
    },
-   "last_check": "2026-11-10T03:00:50+00:00",
-   "last_success": "2026-11-10T03:00:50+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-10T04:40:23+00:00",
+   "last_success": "2026-11-10T04:40:23+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 53,
-   "fingerprint": "d99da486226008a1",
+   "item_count": 54,
+   "fingerprint": "6f974afe488428eb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T04:40:23+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 울산공장 연료시설 관리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
+       "date": "20261208"
+      }
+     ]
+    },
     {
      "at": "2026-11-10T03:00:50+00:00",
      "status": "ok",
@@ -13059,16 +13081,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T17:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13085,7 +13097,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T01:00:43+00:00"
+   "last_new_at": "2026-11-10T04:40:23+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -13750,8 +13762,8 @@
      "first_seen": "2026-11-10T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-10T03:00:51+00:00",
-   "last_success": "2026-11-10T03:00:51+00:00",
+   "last_check": "2026-11-10T04:40:25+00:00",
+   "last_success": "2026-11-10T04:40:25+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -13759,6 +13771,16 @@
    "fingerprint": "1989054cca1a7c72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T04:40:25+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T03:00:51+00:00",
      "status": "ok",
@@ -14054,16 +14076,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14138,6 +14150,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262453",
     "date": "",
     "found_at": "2026-11-10T03:00:53+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 울산공장 연료시설 관리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
+    "date": "20261208",
+    "found_at": "2026-11-10T04:40:27+00:00"
    }
   ],
   "alerts": [],
@@ -14145,15 +14166,6 @@
   "last_sent": "2026-11-09T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 MRO사업부 IPS Engineer / Data Analyst 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19905",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-06T15:00:54+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -18644,6 +18656,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262453",
    "date": "",
    "found_at": "2026-11-10T03:00:53+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 울산공장 연료시설 관리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
+   "date": "20261208",
+   "found_at": "2026-11-10T04:40:27+00:00"
   }
  ]
 }
