@@ -2284,8 +2284,8 @@
      "first_seen": "2026-11-09T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-09T23:00:45+00:00",
-   "last_success": "2026-11-09T23:00:45+00:00",
+   "last_check": "2026-11-10T01:00:38+00:00",
+   "last_success": "2026-11-10T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2293,6 +2293,16 @@
    "fingerprint": "8254f3c554f15d9e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T23:00:45+00:00",
      "status": "ok",
@@ -2610,16 +2620,6 @@
     },
     {
      "at": "2026-11-07T15:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T13:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6830,8 +6830,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-09T23:00:46+00:00",
-   "last_success": "2026-11-09T23:00:46+00:00",
+   "last_check": "2026-11-10T01:00:38+00:00",
+   "last_success": "2026-11-10T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6839,6 +6839,16 @@
    "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T23:00:46+00:00",
      "status": "ok",
@@ -7121,16 +7131,6 @@
     },
     {
      "at": "2026-11-07T15:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T13:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10417,15 +10417,25 @@
      "first_seen": "2026-11-09T09:00:46+00:00"
     }
    },
-   "last_check": "2026-11-09T23:00:51+00:00",
-   "last_success": "2026-11-09T23:00:51+00:00",
+   "last_check": "2026-11-10T01:00:42+00:00",
+   "last_success": "2026-11-10T01:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 115,
-   "fingerprint": "db5629dbca300994",
+   "item_count": 116,
+   "fingerprint": "e769b1e8372554e6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T01:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 116,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-09T23:00:51+00:00",
      "status": "ok",
@@ -10756,16 +10766,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 146,
      "error": "",
      "note": "",
      "new": []
@@ -12690,17 +12690,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=41",
      "date": "20261120",
      "first_seen": "2026-11-09T02:44:57+00:00"
+    },
+    "7b144cd9a89bdcd7": {
+     "title": "[계약직] 사상하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=258",
+     "date": "20261123",
+     "first_seen": "2026-11-10T01:00:43+00:00"
+    },
+    "e26b9de0ce86679f": {
+     "title": "[서비스엔지니어 채용전환형 인턴십] High-Tech Talent Track",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
+     "date": "20261130",
+     "first_seen": "2026-11-10T01:00:43+00:00"
     }
    },
-   "last_check": "2026-11-09T23:00:52+00:00",
-   "last_success": "2026-11-09T23:00:52+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-10T01:00:43+00:00",
+   "last_success": "2026-11-10T01:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 51,
-   "fingerprint": "7dbeebfacc7bd20b",
+   "item_count": 53,
+   "fingerprint": "119397903a14e182",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T01:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 사상하이테크센터 파츠딜리버리",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=258",
+       "date": "20261123"
+      },
+      {
+       "title": "[서비스엔지니어 채용전환형 인턴십] High-Tech Talent Track",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
+       "date": "20261130"
+      }
+     ]
+    },
     {
      "at": "2026-11-09T23:00:52+00:00",
      "status": "ok",
@@ -13001,16 +13034,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13027,7 +13050,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-09T02:44:57+00:00"
+   "last_new_at": "2026-11-10T01:00:43+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -13684,17 +13707,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23389",
      "date": "2026.11.04 ~ 2026.11.16",
      "first_seen": "2026-11-04T01:00:45+00:00"
+    },
+    "5e6f5585ee582543": {
+     "title": "삼성증권 경력사원 채용(유선 고객상담)",
+     "url": "https://www.samsungcareers.com/hr/?no=23435",
+     "date": "2026.11.10 ~ 2026.11.17",
+     "first_seen": "2026-11-10T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-09T23:00:53+00:00",
-   "last_success": "2026-11-09T23:00:53+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-10T01:00:45+00:00",
+   "last_success": "2026-11-10T01:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 6,
-   "fingerprint": "fad70a088f17e821",
+   "item_count": 7,
+   "fingerprint": "1989054cca1a7c72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T01:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 7,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성증권 경력사원 채용(유선 고객상담)",
+       "url": "https://www.samsungcareers.com/hr/?no=23435",
+       "date": "2026.11.10 ~ 2026.11.17"
+      }
+     ]
+    },
     {
      "at": "2026-11-09T23:00:53+00:00",
      "status": "ok",
@@ -13984,69 +14029,60 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T13:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성증권 경력사원 채용(유선 고객상담)",
     "삼성물산 건설부문 경력사원 채용(AI서비스개발, 정보기술, 데이터)",
     "삼성물산 건설부문 경력사원 채용(건축시공/공무, 정비사업영업/주택구조, 안전)",
     "삼성물산 건설부문 경력사원 채용(원전기술/설계/영업, 플랜트시운전/설계, 물류/구매)",
-    "삼성물산 건설부문 경력사원 채용(하이테크 시공/공무/설계)",
-    "삼성바이오에피스 경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)"
+    "삼성물산 건설부문 경력사원 채용(하이테크 시공/공무/설계)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-04T01:00:45+00:00"
+   "last_new_at": "2026-11-10T01:00:45+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 사상하이테크센터 파츠딜리버리",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=258",
+    "date": "20261123",
+    "found_at": "2026-11-10T01:00:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[서비스엔지니어 채용전환형 인턴십] High-Tech Talent Track",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
+    "date": "20261130",
+    "found_at": "2026-11-10T01:00:47+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성증권 경력사원 채용(유선 고객상담)",
+    "url": "https://www.samsungcareers.com/hr/?no=23435",
+    "date": "2026.11.10 ~ 2026.11.17",
+    "found_at": "2026-11-10T01:00:47+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-10T01:00:47+00:00",
   "last_sent": "2026-11-09T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262067",
-   "date": "",
-   "found_at": "2026-10-06T07:00:44+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262154",
-   "date": "",
-   "found_at": "2026-10-06T09:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "AI DC(데이터센터) 구축 전문가 (기계)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262152",
-   "date": "",
-   "found_at": "2026-10-06T09:00:49+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18519,6 +18555,33 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262451",
    "date": "",
    "found_at": "2026-11-09T09:00:51+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 사상하이테크센터 파츠딜리버리",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=258",
+   "date": "20261123",
+   "found_at": "2026-11-10T01:00:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[서비스엔지니어 채용전환형 인턴십] High-Tech Talent Track",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
+   "date": "20261130",
+   "found_at": "2026-11-10T01:00:47+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성증권 경력사원 채용(유선 고객상담)",
+   "url": "https://www.samsungcareers.com/hr/?no=23435",
+   "date": "2026.11.10 ~ 2026.11.17",
+   "found_at": "2026-11-10T01:00:47+00:00"
   }
  ]
 }

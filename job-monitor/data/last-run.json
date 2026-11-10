@@ -1,20 +1,20 @@
 {
- "at": "2026-11-09T23:00:57+00:00",
+ "at": "2026-11-10T01:00:47+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 3,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-11 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 3,
   "alerts": 0,
-  "since": "",
+  "since": "2026-11-10T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42716840412",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42732581230",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,7 +46,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 115,
+   "item_count": 116,
    "method": "json",
    "note": "",
    "error": "",
@@ -57,24 +57,41 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 51,
+   "status": "new",
+   "item_count": 53,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 사상하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=258",
+     "date": "20261123"
+    },
+    {
+     "title": "[서비스엔지니어 채용전환형 인턴십] High-Tech Talent Track",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=95",
+     "date": "20261130"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 6,
+   "status": "new",
+   "item_count": 7,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성증권 경력사원 채용(유선 고객상담)",
+     "url": "https://www.samsungcareers.com/hr/?no=23435",
+     "date": "2026.11.10 ~ 2026.11.17"
+    }
+   ]
   }
  ]
 }
