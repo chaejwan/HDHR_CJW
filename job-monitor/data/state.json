@@ -2290,15 +2290,25 @@
      "first_seen": "2026-11-10T03:00:41+00:00"
     }
    },
-   "last_check": "2026-11-10T07:00:37+00:00",
-   "last_success": "2026-11-10T07:00:37+00:00",
+   "last_check": "2026-11-10T09:00:38+00:00",
+   "last_success": "2026-11-10T09:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 73,
-   "fingerprint": "066cd6cda3db78c3",
+   "item_count": 72,
+   "fingerprint": "ddfcc2f4fe22ccea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 72,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T07:00:37+00:00",
      "status": "ok",
@@ -2629,26 +2639,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T21:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화솔루션 재무실 세무회계팀 채용",
     "한화솔루션 연구소 연구지원직(계약직) 채용",
     "대졸 신입사원 채용 (기획)",
     "(주)한화 글로벌부문 H/W 개발 경력사원 채용",
-    "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용"
+    "[한화솔루션 큐셀] ESG 환경 담당 경력직 채용",
+    "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)"
    ],
    "health": {
     "issue": "",
@@ -6842,8 +6842,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-10T07:00:38+00:00",
-   "last_success": "2026-11-10T07:00:38+00:00",
+   "last_check": "2026-11-10T09:00:40+00:00",
+   "last_success": "2026-11-10T09:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6851,6 +6851,16 @@
    "fingerprint": "1afdf99c10b15f52",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T09:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T07:00:38+00:00",
      "status": "ok",
@@ -7133,16 +7143,6 @@
     },
     {
      "at": "2026-11-07T23:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T21:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10445,17 +10445,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262457",
      "date": "",
      "first_seen": "2026-11-10T07:00:43+00:00"
+    },
+    "fe6e15cd9c67b05c": {
+     "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262466",
+     "date": "",
+     "first_seen": "2026-11-10T09:00:50+00:00"
     }
    },
-   "last_check": "2026-11-10T07:00:43+00:00",
-   "last_success": "2026-11-10T07:00:43+00:00",
+   "last_check": "2026-11-10T09:00:50+00:00",
+   "last_success": "2026-11-10T09:00:50+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 119,
-   "fingerprint": "be729e1376097aba",
+   "item_count": 120,
+   "fingerprint": "b2a1642549fab0e9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T09:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 120,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262466",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-10T07:00:43+00:00",
      "status": "new",
@@ -10806,16 +10828,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T21:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10832,7 +10844,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T07:00:43+00:00"
+   "last_new_at": "2026-11-10T09:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12757,15 +12769,25 @@
      "first_seen": "2026-11-10T04:40:23+00:00"
     }
    },
-   "last_check": "2026-11-10T07:00:44+00:00",
-   "last_success": "2026-11-10T07:00:44+00:00",
+   "last_check": "2026-11-10T09:00:51+00:00",
+   "last_success": "2026-11-10T09:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 53,
-   "fingerprint": "28b6e1eeafd3a7e5",
+   "fingerprint": "129758ab761eedfa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T09:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T07:00:44+00:00",
      "status": "ok",
@@ -13076,16 +13098,6 @@
     },
     {
      "at": "2026-11-07T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 49,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-07T21:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13774,15 +13786,25 @@
      "first_seen": "2026-11-10T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-10T07:00:46+00:00",
-   "last_success": "2026-11-10T07:00:46+00:00",
+   "last_check": "2026-11-10T09:00:53+00:00",
+   "last_success": "2026-11-10T09:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 7,
-   "fingerprint": "1989054cca1a7c72",
+   "item_count": 6,
+   "fingerprint": "eb2c7a9c2b08d905",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-10T09:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 6,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T07:00:46+00:00",
      "status": "ok",
@@ -14078,16 +14100,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-07T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14180,6 +14192,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262457",
     "date": "",
     "found_at": "2026-11-10T07:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262466",
+    "date": "",
+    "found_at": "2026-11-10T09:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -14187,15 +14208,6 @@
   "last_sent": "2026-11-09T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 제조관리 약사 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262162",
-   "date": "",
-   "found_at": "2026-10-07T01:00:41+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18686,6 +18698,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262457",
    "date": "",
    "found_at": "2026-11-10T07:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262466",
+   "date": "",
+   "found_at": "2026-11-10T09:00:55+00:00"
   }
  ]
 }

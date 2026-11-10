@@ -1,20 +1,20 @@
 {
- "at": "2026-11-10T07:00:47+00:00",
+ "at": "2026-11-10T09:00:55+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 11-11 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-11 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 9,
   "alerts": 0,
   "since": "2026-11-10T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42772285561",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42787091545",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,7 +22,7 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "ok",
-   "item_count": 73,
+   "item_count": 72,
    "method": "json",
    "note": "",
    "error": "",
@@ -46,14 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 119,
+   "item_count": 120,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262457",
+     "title": "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262466",
      "date": ""
     }
    ]
@@ -76,7 +76,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 7,
+   "item_count": 6,
    "method": "pattern",
    "note": "",
    "error": "",
