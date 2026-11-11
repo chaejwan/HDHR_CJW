@@ -2294,17 +2294,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
      "date": "2026.11.30 15:00",
      "first_seen": "2026-11-11T01:00:37+00:00"
+    },
+    "16fea1cd3fac468f": {
+     "title": "[판교R&D센터] 연구소 Utility 설비 운영 및 장비 Hook-up 담당 경력직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20156",
+     "date": "2026.11.25 23:59",
+     "first_seen": "2026-11-11T05:00:39+00:00"
+    },
+    "33567b9652112c5b": {
+     "title": "[한화에어로스페이스] 지원실 정보보호팀 해외사업 정보보호 담당자 경력직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20154",
+     "date": "2026.11.26 23:30",
+     "first_seen": "2026-11-11T05:00:39+00:00"
+    },
+    "81871d0fcb941013": {
+     "title": "그룹 HR 시스템 운영 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20153",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-11T05:00:39+00:00"
     }
    },
-   "last_check": "2026-11-11T02:51:15+00:00",
-   "last_success": "2026-11-11T02:51:15+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-11T05:00:39+00:00",
+   "last_success": "2026-11-11T05:00:39+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 73,
-   "fingerprint": "a689e7fbeae3ce6c",
+   "item_count": 76,
+   "fingerprint": "0c370efd56981ae6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T05:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 76,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[판교R&D센터] 연구소 Utility 설비 운영 및 장비 Hook-up 담당 경력직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20156",
+       "date": "2026.11.25 23:59"
+      },
+      {
+       "title": "[한화에어로스페이스] 지원실 정보보호팀 해외사업 정보보호 담당자 경력직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20154",
+       "date": "2026.11.26 23:30"
+      },
+      {
+       "title": "그룹 HR 시스템 운영 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20153",
+       "date": "2026.11.29 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-11T02:51:15+00:00",
      "status": "ok",
@@ -2630,16 +2674,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T17:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2656,7 +2690,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-11T01:00:37+00:00"
+   "last_new_at": "2026-11-11T05:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6843,8 +6877,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-11T02:51:16+00:00",
-   "last_success": "2026-11-11T02:51:16+00:00",
+   "last_check": "2026-11-11T05:00:39+00:00",
+   "last_success": "2026-11-11T05:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6852,6 +6886,16 @@
    "fingerprint": "fe2084b5c0f71324",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T05:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T02:51:16+00:00",
      "status": "ok",
@@ -7134,16 +7178,6 @@
     },
     {
      "at": "2026-11-08T19:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T17:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10554,17 +10588,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262478",
      "date": "",
      "first_seen": "2026-11-11T02:51:19+00:00"
+    },
+    "256367bc1dadc26a": {
+     "title": "리더십교육 운영 및 사무지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262480",
+     "date": "",
+     "first_seen": "2026-11-11T05:00:41+00:00"
+    },
+    "35c21dd072703ee5": {
+     "title": "AI Platform Operation 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+     "date": "",
+     "first_seen": "2026-11-11T05:00:41+00:00"
     }
    },
-   "last_check": "2026-11-11T02:51:19+00:00",
-   "last_success": "2026-11-11T02:51:19+00:00",
+   "last_check": "2026-11-11T05:00:41+00:00",
+   "last_success": "2026-11-11T05:00:41+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 130,
-   "fingerprint": "eda379252820cce3",
+   "item_count": 131,
+   "fingerprint": "d0c522c98520d4c4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T05:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 131,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "리더십교육 운영 및 사무지원 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262480",
+       "date": ""
+      },
+      {
+       "title": "AI Platform Operation 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-11T02:51:19+00:00",
      "status": "new",
@@ -11009,16 +11076,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T17:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 110,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11035,7 +11092,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-11T02:51:19+00:00"
+   "last_new_at": "2026-11-11T05:00:41+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12966,15 +13023,25 @@
      "first_seen": "2026-11-11T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-11T02:51:20+00:00",
-   "last_success": "2026-11-11T02:51:20+00:00",
+   "last_check": "2026-11-11T05:00:42+00:00",
+   "last_success": "2026-11-11T05:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 55,
-   "fingerprint": "94055c0da22c0cc5",
+   "fingerprint": "02ae5bfab2bb8400",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T05:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T02:51:20+00:00",
      "status": "ok",
@@ -13291,16 +13358,6 @@
     },
     {
      "at": "2026-11-08T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 48,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T17:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14013,8 +14070,8 @@
      "first_seen": "2026-11-11T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-11T02:51:22+00:00",
-   "last_success": "2026-11-11T02:51:22+00:00",
+   "last_check": "2026-11-11T05:00:44+00:00",
+   "last_success": "2026-11-11T05:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14022,6 +14079,16 @@
    "fingerprint": "c01f9e88c871a76e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T05:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T02:51:22+00:00",
      "status": "ok",
@@ -14338,16 +14405,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T17:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14467,6 +14524,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262478",
     "date": "",
     "found_at": "2026-11-11T02:51:24+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[판교R&D센터] 연구소 Utility 설비 운영 및 장비 Hook-up 담당 경력직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20156",
+    "date": "2026.11.25 23:59",
+    "found_at": "2026-11-11T05:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화에어로스페이스] 지원실 정보보호팀 해외사업 정보보호 담당자 경력직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20154",
+    "date": "2026.11.26 23:30",
+    "found_at": "2026-11-11T05:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "그룹 HR 시스템 운영 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20153",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-11T05:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "리더십교육 운영 및 사무지원 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262480",
+    "date": "",
+    "found_at": "2026-11-11T05:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI Platform Operation 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+    "date": "",
+    "found_at": "2026-11-11T05:00:46+00:00"
    }
   ],
   "alerts": [],
@@ -14474,51 +14576,6 @@
   "last_sent": "2026-11-10T23:00:57+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 영남에너지서비스(포항) 대졸 신입사원(G3) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262171",
-   "date": "",
-   "found_at": "2026-10-07T09:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262177",
-   "date": "",
-   "found_at": "2026-10-08T01:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262178",
-   "date": "",
-   "found_at": "2026-10-08T01:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK플라즈마 사업개발 경력 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262179",
-   "date": "",
-   "found_at": "2026-10-08T01:00:46+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성웰스토리 경력사원 채용(수입육 축산영업, 단체식 조리사, 단체식 영양사, E커머스 서비스 기획)",
-   "url": "https://www.samsungcareers.com/hr/?no=23287",
-   "date": "2026.10.08 ~ 2026.10.19",
-   "found_at": "2026-10-08T01:00:46+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -18973,6 +19030,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262478",
    "date": "",
    "found_at": "2026-11-11T02:51:24+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[판교R&D센터] 연구소 Utility 설비 운영 및 장비 Hook-up 담당 경력직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20156",
+   "date": "2026.11.25 23:59",
+   "found_at": "2026-11-11T05:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화에어로스페이스] 지원실 정보보호팀 해외사업 정보보호 담당자 경력직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20154",
+   "date": "2026.11.26 23:30",
+   "found_at": "2026-11-11T05:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "그룹 HR 시스템 운영 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20153",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-11T05:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "리더십교육 운영 및 사무지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262480",
+   "date": "",
+   "found_at": "2026-11-11T05:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI Platform Operation 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+   "date": "",
+   "found_at": "2026-11-11T05:00:46+00:00"
   }
  ]
 }
