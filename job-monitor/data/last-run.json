@@ -1,20 +1,20 @@
 {
- "at": "2026-11-11T07:00:49+00:00",
+ "at": "2026-11-11T09:00:54+00:00",
  "checked": 5,
  "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 11-12 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 22건 · 점검 0건). 11-12 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 19,
+  "items": 22,
   "alerts": 0,
   "since": "2026-11-11T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42976368298",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/42991547097",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,25 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 78,
+   "item_count": 79,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20161",
-     "date": "2026.11.18 15:00"
+     "title": "한화시스템 전사 OA 관리담당자 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20159",
+     "date": "2026.11.29 23:59"
     },
     {
-     "title": "[한화투자증권] AI팀_AI서비스 기획 직무 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20160",
-     "date": "2026.11.18 15:00"
-    },
-    {
-     "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(울산)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20158",
-     "date": "2026.11.25 15:00"
+     "title": "한화시스템 디자이너(제안서, 홍보자료) 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20157",
+     "date": "2026.11.29 23:59"
     }
    ]
   },
@@ -61,12 +56,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 131,
+   "status": "new",
+   "item_count": 133,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[SK디앤디] 안전보건 담당 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262482",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
