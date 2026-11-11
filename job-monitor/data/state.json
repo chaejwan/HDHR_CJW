@@ -2288,17 +2288,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20149",
      "date": "2026.11.24 23:59",
      "first_seen": "2026-11-10T03:00:41+00:00"
+    },
+    "66f88e07bd259842": {
+     "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/품질)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
+     "date": "2026.11.30 15:00",
+     "first_seen": "2026-11-11T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-10T23:00:41+00:00",
-   "last_success": "2026-11-10T23:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-11T01:00:37+00:00",
+   "last_success": "2026-11-11T01:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 72,
-   "fingerprint": "ddfcc2f4fe22ccea",
+   "item_count": 73,
+   "fingerprint": "a689e7fbeae3ce6c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T01:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 73,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/품질)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
+       "date": "2026.11.30 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-10T23:00:41+00:00",
      "status": "ok",
@@ -2629,16 +2651,6 @@
        "date": "2026.11.23 08:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-08T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2655,7 +2667,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T03:00:41+00:00"
+   "last_new_at": "2026-11-11T01:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6842,8 +6854,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-10T23:00:42+00:00",
-   "last_success": "2026-11-10T23:00:42+00:00",
+   "last_check": "2026-11-11T01:00:39+00:00",
+   "last_success": "2026-11-11T01:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6851,6 +6863,16 @@
    "fingerprint": "ad155326223df47a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T01:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 15,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-10T23:00:42+00:00",
      "status": "ok",
@@ -7133,16 +7155,6 @@
     },
     {
      "at": "2026-11-08T15:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-08T13:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10523,17 +10535,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262473",
      "date": "",
      "first_seen": "2026-11-10T11:00:48+00:00"
+    },
+    "1cd0a1d1ea4bb82c": {
+     "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262474",
+     "date": "",
+     "first_seen": "2026-11-11T01:00:44+00:00"
+    },
+    "95e6dc3d32ca8326": {
+     "title": "SK플라즈마 안전관리 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262475",
+     "date": "",
+     "first_seen": "2026-11-11T01:00:44+00:00"
+    },
+    "dfff1d6bc05af4f1": {
+     "title": "AI Platform Ops Lead 구성원 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+     "date": "",
+     "first_seen": "2026-11-11T01:00:44+00:00"
     }
    },
-   "last_check": "2026-11-10T23:00:49+00:00",
-   "last_success": "2026-11-10T23:00:49+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-11T01:00:44+00:00",
+   "last_success": "2026-11-11T01:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 125,
-   "fingerprint": "1a0c7d9e07ab7572",
+   "item_count": 128,
+   "fingerprint": "cc027ef53ce3a616",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T01:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 128,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262474",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 안전관리 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262475",
+       "date": ""
+      },
+      {
+       "title": "AI Platform Ops Lead 구성원 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-10T23:00:49+00:00",
      "status": "ok",
@@ -10951,16 +11007,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -10977,7 +11023,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T11:00:48+00:00"
+   "last_new_at": "2026-11-11T01:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -12900,17 +12946,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
      "date": "20261208",
      "first_seen": "2026-11-10T04:40:23+00:00"
+    },
+    "93e5153012e85143": {
+     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=&recuType=&recuCls=0",
+     "date": "20261125",
+     "first_seen": "2026-11-11T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-10T23:00:51+00:00",
-   "last_success": "2026-11-10T23:00:51+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-11T01:00:45+00:00",
+   "last_success": "2026-11-11T01:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 53,
-   "fingerprint": "62bfe6168fe503ec",
+   "item_count": 55,
+   "fingerprint": "9a98e335b638869c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T01:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=&recuType=&recuCls=0",
+       "date": "20261125"
+      }
+     ]
+    },
     {
      "at": "2026-11-10T23:00:51+00:00",
      "status": "ok",
@@ -13228,16 +13296,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 48,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13254,7 +13312,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T04:40:23+00:00"
+   "last_new_at": "2026-11-11T01:00:45+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -13917,17 +13975,72 @@
      "url": "https://www.samsungcareers.com/hr/?no=23435",
      "date": "2026.11.10 ~ 2026.11.17",
      "first_seen": "2026-11-10T01:00:45+00:00"
+    },
+    "0551c45252e078eb": {
+     "title": "삼성전자 DX부문 경력사원 채용(Visual Display, Digital Appliances, 생산기술연구소, Global CS센터, Global EHS실, 한국총괄)",
+     "url": "https://www.samsungcareers.com/hr/?no=23440",
+     "date": "2026.11.11 ~ 2026.11.23",
+     "first_seen": "2026-11-11T01:00:47+00:00"
+    },
+    "d5768cfb1acdfa0b": {
+     "title": "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)",
+     "url": "https://www.samsungcareers.com/hr/?no=23427",
+     "date": "2026.11.11 ~ 2026.11.24",
+     "first_seen": "2026-11-11T01:00:47+00:00"
+    },
+    "39e023ca7539942c": {
+     "title": "삼성E&A 경력사원 채용(첨단산업 설계, 시공, 공무)",
+     "url": "https://www.samsungcareers.com/hr/?no=23426",
+     "date": "2026.11.11 ~ 2026.11.24",
+     "first_seen": "2026-11-11T01:00:47+00:00"
+    },
+    "afd6abad7ab3378f": {
+     "title": "삼성E&A 경력사원 채용(화공 사업관리, 연구개발, 분석)",
+     "url": "https://www.samsungcareers.com/hr/?no=23428",
+     "date": "2026.11.11 ~ 2026.11.24",
+     "first_seen": "2026-11-11T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-10T23:00:53+00:00",
-   "last_success": "2026-11-10T23:00:53+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-11T01:00:47+00:00",
+   "last_success": "2026-11-11T01:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 6,
-   "fingerprint": "eae9f5eeb668f194",
+   "item_count": 10,
+   "fingerprint": "c01f9e88c871a76e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T01:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성전자 DX부문 경력사원 채용(Visual Display, Digital Appliances, 생산기술연구소, Global CS센터, Global EHS실, 한국총괄)",
+       "url": "https://www.samsungcareers.com/hr/?no=23440",
+       "date": "2026.11.11 ~ 2026.11.23"
+      },
+      {
+       "title": "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)",
+       "url": "https://www.samsungcareers.com/hr/?no=23427",
+       "date": "2026.11.11 ~ 2026.11.24"
+      },
+      {
+       "title": "삼성E&A 경력사원 채용(첨단산업 설계, 시공, 공무)",
+       "url": "https://www.samsungcareers.com/hr/?no=23426",
+       "date": "2026.11.11 ~ 2026.11.24"
+      },
+      {
+       "title": "삼성E&A 경력사원 채용(화공 사업관리, 연구개발, 분석)",
+       "url": "https://www.samsungcareers.com/hr/?no=23428",
+       "date": "2026.11.11 ~ 2026.11.24"
+      }
+     ]
+    },
     {
      "at": "2026-11-10T23:00:53+00:00",
      "status": "ok",
@@ -14223,123 +14336,114 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-08T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "삼성증권 경력사원 채용(유선 고객상담)",
-    "삼성물산 건설부문 경력사원 채용(AI서비스개발, 정보기술, 데이터)",
-    "삼성물산 건설부문 경력사원 채용(건축시공/공무, 정비사업영업/주택구조, 안전)",
-    "삼성물산 건설부문 경력사원 채용(원전기술/설계/영업, 플랜트시운전/설계, 물류/구매)",
-    "삼성물산 건설부문 경력사원 채용(하이테크 시공/공무/설계)"
+    "삼성전자 DX부문 경력사원 채용(Visual Display, Digital Appliances, 생산기술연구소, Global CS센터, Global EHS실, 한국총괄)",
+    "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)",
+    "삼성E&A 경력사원 채용(첨단산업 설계, 시공, 공무)",
+    "삼성E&A 경력사원 채용(화공 사업관리, 연구개발, 분석)",
+    "삼성증권 경력사원 채용(유선 고객상담)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-10T01:00:45+00:00"
+   "last_new_at": "2026-11-11T01:00:47+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/품질)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
+    "date": "2026.11.30 15:00",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262474",
+    "date": "",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 안전관리 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262475",
+    "date": "",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI Platform Ops Lead 구성원 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+    "date": "",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=&recuType=&recuCls=0",
+    "date": "20261125",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성전자 DX부문 경력사원 채용(Visual Display, Digital Appliances, 생산기술연구소, Global CS센터, Global EHS실, 한국총괄)",
+    "url": "https://www.samsungcareers.com/hr/?no=23440",
+    "date": "2026.11.11 ~ 2026.11.23",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)",
+    "url": "https://www.samsungcareers.com/hr/?no=23427",
+    "date": "2026.11.11 ~ 2026.11.24",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성E&A 경력사원 채용(첨단산업 설계, 시공, 공무)",
+    "url": "https://www.samsungcareers.com/hr/?no=23426",
+    "date": "2026.11.11 ~ 2026.11.24",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성E&A 경력사원 채용(화공 사업관리, 연구개발, 분석)",
+    "url": "https://www.samsungcareers.com/hr/?no=23428",
+    "date": "2026.11.11 ~ 2026.11.24",
+    "found_at": "2026-11-11T01:00:49+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-11T01:00:49+00:00",
   "last_sent": "2026-11-10T23:00:57+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 Global EMS 구매담당 경력직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19904",
-   "date": "2026.10.23 15:00",
-   "found_at": "2026-10-07T05:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[해양솔루션부문, 드론사업단] 경력사원 대규모 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
-   "date": "2026.10.28 23:59",
-   "found_at": "2026-10-07T05:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 Mobile Application Engineering 경력직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19927",
-   "date": "2026.10.30 15:00",
-   "found_at": "2026-10-07T05:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[해양솔루션부문, 드론사업단] 경력사원 공개채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19670",
-   "date": "2026.10.28 23:59",
-   "found_at": "2026-10-07T07:00:49+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀] ES사업부 Embedded SW/FW Engineer 경력직 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19929",
-   "date": "2026.10.30 15:00",
-   "found_at": "2026-10-07T07:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Map SDK Engineer",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262168",
-   "date": "",
-   "found_at": "2026-10-07T07:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Data Analytics (리더)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262169",
-   "date": "",
-   "found_at": "2026-10-07T07:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 영남에너지서비스(구미) 대졸 신입사원(G3) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262147",
-   "date": "",
-   "found_at": "2026-10-07T09:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 충청에너지서비스 대졸 신입사원 (G3) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262151",
-   "date": "",
-   "found_at": "2026-10-07T09:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -18758,6 +18862,87 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262473",
    "date": "",
    "found_at": "2026-11-10T11:00:52+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 바이오소재 경력사원 채용 (생산/품질)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
+   "date": "2026.11.30 15:00",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 환경/화학물질 관리자 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262474",
+   "date": "",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 안전관리 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262475",
+   "date": "",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI Platform Ops Lead 구성원 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+   "date": "",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=&recuType=&recuCls=0",
+   "date": "20261125",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성전자 DX부문 경력사원 채용(Visual Display, Digital Appliances, 생산기술연구소, Global CS센터, Global EHS실, 한국총괄)",
+   "url": "https://www.samsungcareers.com/hr/?no=23440",
+   "date": "2026.11.11 ~ 2026.11.23",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)",
+   "url": "https://www.samsungcareers.com/hr/?no=23427",
+   "date": "2026.11.11 ~ 2026.11.24",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성E&A 경력사원 채용(첨단산업 설계, 시공, 공무)",
+   "url": "https://www.samsungcareers.com/hr/?no=23426",
+   "date": "2026.11.11 ~ 2026.11.24",
+   "found_at": "2026-11-11T01:00:49+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성E&A 경력사원 채용(화공 사업관리, 연구개발, 분석)",
+   "url": "https://www.samsungcareers.com/hr/?no=23428",
+   "date": "2026.11.11 ~ 2026.11.24",
+   "found_at": "2026-11-11T01:00:49+00:00"
   }
  ]
 }
