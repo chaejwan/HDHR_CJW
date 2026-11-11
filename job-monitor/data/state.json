@@ -2344,8 +2344,8 @@
      "first_seen": "2026-11-11T09:00:42+00:00"
     }
    },
-   "last_check": "2026-11-11T11:00:40+00:00",
-   "last_success": "2026-11-11T11:00:40+00:00",
+   "last_check": "2026-11-11T13:00:43+00:00",
+   "last_success": "2026-11-11T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2353,6 +2353,16 @@
    "fingerprint": "71b1bdbe3e81cc55",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T11:00:40+00:00",
      "status": "ok",
@@ -2721,16 +2731,6 @@
        "date": "2026.11.22 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-09T01:00:37+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6934,8 +6934,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-11T11:00:41+00:00",
-   "last_success": "2026-11-11T11:00:41+00:00",
+   "last_check": "2026-11-11T13:00:44+00:00",
+   "last_success": "2026-11-11T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6943,6 +6943,16 @@
    "fingerprint": "fe2084b5c0f71324",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T11:00:41+00:00",
      "status": "ok",
@@ -7225,16 +7235,6 @@
     },
     {
      "at": "2026-11-09T02:44:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T01:03:05+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10665,8 +10665,8 @@
      "first_seen": "2026-11-11T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-11T11:00:44+00:00",
-   "last_success": "2026-11-11T11:00:44+00:00",
+   "last_check": "2026-11-11T13:00:48+00:00",
+   "last_success": "2026-11-11T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10674,6 +10674,16 @@
    "fingerprint": "1f8388aea2c969f2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 133,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T11:00:44+00:00",
      "status": "ok",
@@ -11119,32 +11129,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-09T01:03:08+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 항암희귀전문 의약품 영업 담당자(MR) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262407",
-       "date": ""
-      },
-      {
-       "title": "SK플라즈마 안동공장 인사(HR) 담당 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262440",
-       "date": ""
-      },
-      {
-       "title": "[신입] SK바이오텍 생산운전원 신입사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262441",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13092,8 +13076,8 @@
      "first_seen": "2026-11-11T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-11T11:00:45+00:00",
-   "last_success": "2026-11-11T11:00:45+00:00",
+   "last_check": "2026-11-11T13:00:49+00:00",
+   "last_success": "2026-11-11T13:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -13101,6 +13085,16 @@
    "fingerprint": "2b8856e2fb5395da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T13:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 55,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T11:00:45+00:00",
      "status": "ok",
@@ -13424,16 +13418,6 @@
        "date": "20261120"
       }
      ]
-    },
-    {
-     "at": "2026-11-09T01:03:09+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 48,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14139,8 +14123,8 @@
      "first_seen": "2026-11-11T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-11T11:00:48+00:00",
-   "last_success": "2026-11-11T11:00:48+00:00",
+   "last_check": "2026-11-11T13:00:52+00:00",
+   "last_success": "2026-11-11T13:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14148,6 +14132,16 @@
    "fingerprint": "c01f9e88c871a76e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T13:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T11:00:48+00:00",
      "status": "ok",
@@ -14457,16 +14451,6 @@
     },
     {
      "at": "2026-11-09T02:44:59+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T01:03:11+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
