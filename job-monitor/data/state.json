@@ -2344,8 +2344,8 @@
      "first_seen": "2026-11-11T09:00:42+00:00"
     }
    },
-   "last_check": "2026-11-11T13:00:43+00:00",
-   "last_success": "2026-11-11T13:00:43+00:00",
+   "last_check": "2026-11-11T15:00:41+00:00",
+   "last_success": "2026-11-11T15:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2353,6 +2353,16 @@
    "fingerprint": "71b1bdbe3e81cc55",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T15:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T13:00:43+00:00",
      "status": "ok",
@@ -2713,22 +2723,6 @@
        "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
        "date": "2026.11.20 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-09T02:44:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 74,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] 해외주식팀 Desk(Night포함) 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20132",
-       "date": "2026.11.22 23:59"
       }
      ]
     }
@@ -6934,15 +6928,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-11T13:00:44+00:00",
-   "last_success": "2026-11-11T13:00:44+00:00",
+   "last_check": "2026-11-11T15:00:42+00:00",
+   "last_success": "2026-11-11T15:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 14,
-   "fingerprint": "fe2084b5c0f71324",
+   "fingerprint": "3582d92ac9a2239d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T15:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T13:00:44+00:00",
      "status": "ok",
@@ -7225,16 +7229,6 @@
     },
     {
      "at": "2026-11-09T05:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T02:44:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10665,15 +10659,25 @@
      "first_seen": "2026-11-11T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-11T13:00:48+00:00",
-   "last_success": "2026-11-11T13:00:48+00:00",
+   "last_check": "2026-11-11T15:00:48+00:00",
+   "last_success": "2026-11-11T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 133,
-   "fingerprint": "1f8388aea2c969f2",
+   "item_count": 130,
+   "fingerprint": "665cb56246cc6203",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T13:00:48+00:00",
      "status": "ok",
@@ -11119,26 +11123,16 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-09T02:44:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 112,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "반도체플랜트 PJT계약직(촉탁) 모집공고('26.10)",
-    "2026년 SK가스 이사회 사무국 운영지원 포지션(계약직)",
-    "2026년 글로와이드 신입 및 경력사원 모집",
     "IP Junior 구성원 영입",
-    "SK플라즈마 개발전략 경력 구성원 모집"
+    "SK플라즈마 개발전략 경력 구성원 모집",
+    "2026년 11월 SK핀크스 식음서비스팀 채용공고",
+    "2027 SK AIGEN 1기 모집",
+    "사내 변호사 (계약직)"
    ],
    "health": {
     "issue": "",
@@ -13076,15 +13070,25 @@
      "first_seen": "2026-11-11T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-11T13:00:49+00:00",
-   "last_success": "2026-11-11T13:00:49+00:00",
+   "last_check": "2026-11-11T15:00:49+00:00",
+   "last_success": "2026-11-11T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 55,
-   "fingerprint": "2b8856e2fb5395da",
+   "item_count": 54,
+   "fingerprint": "1db9dbca7f2bf9fd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T13:00:49+00:00",
      "status": "ok",
@@ -13397,27 +13401,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-09T02:44:57+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 51,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=254",
-       "date": "20261119"
-      },
-      {
-       "title": "[계약직] Recruiting Coordinator (채용 운영)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=41",
-       "date": "20261120"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -14123,15 +14106,25 @@
      "first_seen": "2026-11-11T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-11T13:00:52+00:00",
-   "last_success": "2026-11-11T13:00:52+00:00",
+   "last_check": "2026-11-11T15:00:51+00:00",
+   "last_success": "2026-11-11T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 10,
-   "fingerprint": "c01f9e88c871a76e",
+   "fingerprint": "5e43f05077cfecdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T13:00:52+00:00",
      "status": "ok",
@@ -14441,16 +14434,6 @@
     },
     {
      "at": "2026-11-09T05:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T02:44:59+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
