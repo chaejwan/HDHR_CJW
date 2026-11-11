@@ -2344,8 +2344,8 @@
      "first_seen": "2026-11-11T09:00:42+00:00"
     }
    },
-   "last_check": "2026-11-11T15:00:41+00:00",
-   "last_success": "2026-11-11T15:00:41+00:00",
+   "last_check": "2026-11-11T17:00:42+00:00",
+   "last_success": "2026-11-11T17:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2353,6 +2353,16 @@
    "fingerprint": "71b1bdbe3e81cc55",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T17:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 79,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T15:00:41+00:00",
      "status": "ok",
@@ -2707,22 +2717,6 @@
        "title": "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20144",
        "date": "2026.11.23 15:00"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-09T05:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 75,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] 업무혁신팀 장내매매(국내/해외주식, 파생) 업무개발 경력 직원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20142",
-       "date": "2026.11.20 23:59"
       }
      ]
     }
@@ -6928,8 +6922,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-11T15:00:42+00:00",
-   "last_success": "2026-11-11T15:00:42+00:00",
+   "last_check": "2026-11-11T17:00:43+00:00",
+   "last_success": "2026-11-11T17:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6937,6 +6931,16 @@
    "fingerprint": "3582d92ac9a2239d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T17:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T15:00:42+00:00",
      "status": "ok",
@@ -7219,16 +7223,6 @@
     },
     {
      "at": "2026-11-09T07:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T05:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10659,8 +10653,8 @@
      "first_seen": "2026-11-11T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-11T15:00:48+00:00",
-   "last_success": "2026-11-11T15:00:48+00:00",
+   "last_check": "2026-11-11T17:00:48+00:00",
+   "last_success": "2026-11-11T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10668,6 +10662,16 @@
    "fingerprint": "665cb56246cc6203",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T15:00:48+00:00",
      "status": "ok",
@@ -11099,27 +11103,6 @@
       {
        "title": "[SK케미칼] Pharma사업 구매 담당자 경력 모집",
        "url": "https://www.skcareers.com/Recruit/Detail/R262448",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-09T05:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 114,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262444",
-       "date": ""
-      },
-      {
-       "title": "반도체 제조 기준정보 (MDM) 전문가 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262445",
        "date": ""
       }
      ]
@@ -13070,15 +13053,25 @@
      "first_seen": "2026-11-11T01:00:45+00:00"
     }
    },
-   "last_check": "2026-11-11T15:00:49+00:00",
-   "last_success": "2026-11-11T15:00:49+00:00",
+   "last_check": "2026-11-11T17:00:50+00:00",
+   "last_success": "2026-11-11T17:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "1db9dbca7f2bf9fd",
+   "fingerprint": "c27c052741a9cdb1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T17:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T15:00:49+00:00",
      "status": "ok",
@@ -13384,16 +13377,6 @@
     },
     {
      "at": "2026-11-09T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 51,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T05:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14106,8 +14089,8 @@
      "first_seen": "2026-11-11T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-11T15:00:51+00:00",
-   "last_success": "2026-11-11T15:00:51+00:00",
+   "last_check": "2026-11-11T17:00:52+00:00",
+   "last_success": "2026-11-11T17:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14115,6 +14098,16 @@
    "fingerprint": "5e43f05077cfecdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-11T17:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-11T15:00:51+00:00",
      "status": "ok",
@@ -14424,16 +14417,6 @@
     },
     {
      "at": "2026-11-09T07:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-09T05:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
