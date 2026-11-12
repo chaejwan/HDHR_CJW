@@ -1,32 +1,43 @@
 {
- "at": "2026-11-12T01:00:44+00:00",
+ "at": "2026-11-12T03:00:51+00:00",
  "checked": 5,
  "new_total": 6,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 11-13 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 11-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 12,
   "alerts": 0,
   "since": "2026-11-12T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43131424782",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43145246790",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 79,
+   "status": "new",
+   "item_count": 81,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화투자증권] 오퍼레이션팀_법인결제 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20166",
+     "date": "2026.11.25 15:00"
+    },
+    {
+     "title": "[한화투자증권] 오퍼레이션팀_본사 텔러 직무 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20165",
+     "date": "2026.11.25 15:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,24 +57,29 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 133,
+   "item_count": 137,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "용인 부속의원 전문의(안과) 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262483",
+     "title": "[SK에어플러스] 용인 BSGS Operator(교대)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262487",
      "date": ""
     },
     {
-     "title": "보안 진단 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262485",
+     "title": "[SK에어플러스] 용인 기계 테크니션",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262488",
      "date": ""
     },
     {
-     "title": "Sr. SNS 마케팅 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262486",
+     "title": "[SK에어플러스] 용인 전/계장 테크니션",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262489",
+     "date": ""
+    },
+    {
+     "title": "SK플라즈마 생산 계약직 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262491",
      "date": ""
     }
    ]
@@ -73,28 +89,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
-   "item_count": 58,
+   "status": "ok",
+   "item_count": 59,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=95",
-     "date": "20261125"
-    },
-    {
-     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (양재본사)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=93",
-     "date": "20261125"
-    },
-    {
-     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (남양연구소)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=94",
-     "date": "20261125"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
