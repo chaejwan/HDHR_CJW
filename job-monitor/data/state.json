@@ -2380,8 +2380,8 @@
      "first_seen": "2026-11-12T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-12T15:00:43+00:00",
-   "last_success": "2026-11-12T15:00:43+00:00",
+   "last_check": "2026-11-12T17:00:55+00:00",
+   "last_success": "2026-11-12T17:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2389,6 +2389,16 @@
    "fingerprint": "4f669bbd6092772a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-12T17:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 83,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-12T15:00:43+00:00",
      "status": "ok",
@@ -2753,16 +2763,6 @@
     },
     {
      "at": "2026-11-10T07:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 73,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T04:40:20+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6973,8 +6973,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-12T15:00:44+00:00",
-   "last_success": "2026-11-12T15:00:44+00:00",
+   "last_check": "2026-11-12T17:00:56+00:00",
+   "last_success": "2026-11-12T17:00:56+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6982,6 +6982,16 @@
    "fingerprint": "3cf091a5df2349b6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-12T17:00:56+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-12T15:00:44+00:00",
      "status": "ok",
@@ -7264,16 +7274,6 @@
     },
     {
      "at": "2026-11-10T07:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T04:40:20+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10794,8 +10794,8 @@
      "first_seen": "2026-11-12T09:00:45+00:00"
     }
    },
-   "last_check": "2026-11-12T15:00:46+00:00",
-   "last_success": "2026-11-12T15:00:46+00:00",
+   "last_check": "2026-11-12T17:00:58+00:00",
+   "last_success": "2026-11-12T17:00:58+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10803,6 +10803,16 @@
    "fingerprint": "3c59cfc0215b20fe",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-12T17:00:58+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 143,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-12T15:00:46+00:00",
      "status": "ok",
@@ -11289,16 +11299,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-10T04:40:23+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 118,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13270,8 +13270,8 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-12T15:00:48+00:00",
-   "last_success": "2026-11-12T15:00:48+00:00",
+   "last_check": "2026-11-12T17:00:58+00:00",
+   "last_success": "2026-11-12T17:00:58+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -13279,6 +13279,16 @@
    "fingerprint": "ba704358757ac81c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-12T17:00:58+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 53,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-12T15:00:48+00:00",
      "status": "ok",
@@ -13596,22 +13606,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T04:40:23+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 울산공장 연료시설 관리",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=259",
-       "date": "20261208"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -14317,8 +14311,8 @@
      "first_seen": "2026-11-11T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-12T15:00:50+00:00",
-   "last_success": "2026-11-12T15:00:50+00:00",
+   "last_check": "2026-11-12T17:01:00+00:00",
+   "last_success": "2026-11-12T17:01:00+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14326,6 +14320,16 @@
    "fingerprint": "dca00e37ccbe0f00",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-12T17:01:00+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-12T15:00:50+00:00",
      "status": "ok",
@@ -14629,16 +14633,6 @@
     },
     {
      "at": "2026-11-10T07:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 7,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T04:40:25+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
