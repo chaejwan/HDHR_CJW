@@ -1,7 +1,7 @@
 {
- "at": "2026-11-12T09:00:50+00:00",
+ "at": "2026-11-12T11:00:52+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,30 +14,19 @@
   "since": "2026-11-12T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43187647129",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43205343897",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 84,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "경력직 채용_IT보안팀 (클라우드 엔지니어)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20176",
-     "date": "2026.11.26 15:00"
-    },
-    {
-     "title": "[EPC] Solar EPC Field Team 경력직 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20173",
-     "date": "2026.11.30 00:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -56,18 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 145,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[SK에어플러스] 용인 Gas Plant 생산 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262496",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
