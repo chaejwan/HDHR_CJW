@@ -1,20 +1,20 @@
 {
- "at": "2026-11-12T21:00:56+00:00",
+ "at": "2026-11-12T23:00:47+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 25건 · 점검 0건). 11-13 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 25,
+  "items": 0,
   "alerts": 0,
-  "since": "2026-11-12T01:00:44+00:00",
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43305910040",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43325053843",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,12 +45,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 143,
+   "status": "new",
+   "item_count": 144,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "SK피아이씨글로벌 회계 경력사원 채용(원가/손익)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262465",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
