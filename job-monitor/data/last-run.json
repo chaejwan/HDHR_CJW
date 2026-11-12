@@ -1,32 +1,43 @@
 {
- "at": "2026-11-12T05:00:54+00:00",
+ "at": "2026-11-12T07:00:45+00:00",
  "checked": 5,
  "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 17건 · 점검 0건). 11-13 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 22건 · 점검 0건). 11-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 17,
+  "items": 22,
   "alerts": 0,
   "since": "2026-11-12T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43158458031",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43172092999",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 81,
+   "status": "new",
+   "item_count": 82,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "금융 BD(Business Developer) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20169",
+     "date": "2026.11.29 23:59"
+    },
+    {
+     "title": "Endpoint 보안솔루션 구축/운영 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20167",
+     "date": "2026.11.29 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,34 +57,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 142,
+   "item_count": 144,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK온 AI 인프라 구축 및 운영 담당자 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262456",
+     "title": "이동전화 품질측정 및 업무지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262495",
      "date": ""
     },
     {
-     "title": "[SK케미칼(GC)] 내수/수출 영업지원 계약직 경력 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262490",
-     "date": ""
-    },
-    {
-     "title": "설비(Utility) 분야 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262454",
-     "date": ""
-    },
-    {
-     "title": "반도체 Utility AX 시스템 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262455",
-     "date": ""
-    },
-    {
-     "title": "반도체 R&D 시스템 어플리케이션 설계 및 리딩 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262477",
+     "title": "[SK케미칼(GC)] 보훈 대상 내수/수출 영업지원 계약직 경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262493",
      "date": ""
     }
    ]
@@ -83,12 +79,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 59,
+   "status": "new",
+   "item_count": 60,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 울산공장 홍보사원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=264",
+     "date": "20261119"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
