@@ -1,20 +1,20 @@
 {
- "at": "2026-11-11T23:00:53+00:00",
+ "at": "2026-11-12T01:00:44+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 6,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 11-13 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 6,
   "alerts": 0,
-  "since": "",
+  "since": "2026-11-12T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43116412389",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43131424782",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,24 +45,56 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 130,
+   "status": "new",
+   "item_count": 133,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "용인 부속의원 전문의(안과) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262483",
+     "date": ""
+    },
+    {
+     "title": "보안 진단 엔지니어",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262485",
+     "date": ""
+    },
+    {
+     "title": "Sr. SNS 마케팅 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262486",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 54,
+   "status": "new",
+   "item_count": 58,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=95",
+     "date": "20261125"
+    },
+    {
+     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (양재본사)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=93",
+     "date": "20261125"
+    },
+    {
+     "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (남양연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=94",
+     "date": "20261125"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
