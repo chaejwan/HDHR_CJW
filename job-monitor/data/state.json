@@ -2422,15 +2422,25 @@
      "first_seen": "2026-11-13T17:00:48+00:00"
     }
    },
-   "last_check": "2026-11-13T17:00:48+00:00",
-   "last_success": "2026-11-13T17:00:48+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-13T19:00:39+00:00",
+   "last_success": "2026-11-13T19:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 88,
    "fingerprint": "e867a04cebe45d0c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T19:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T17:00:48+00:00",
      "status": "new",
@@ -2802,32 +2812,6 @@
        "title": "한화시스템 디자이너(제안서, 홍보자료) 계약직 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20157",
        "date": "2026.11.29 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-11T07:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20161",
-       "date": "2026.11.18 15:00"
-      },
-      {
-       "title": "[한화투자증권] AI팀_AI서비스 기획 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20160",
-       "date": "2026.11.18 15:00"
-      },
-      {
-       "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(울산)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20158",
-       "date": "2026.11.25 15:00"
       }
      ]
     }
@@ -7033,8 +7017,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-13T17:00:48+00:00",
-   "last_success": "2026-11-13T17:00:48+00:00",
+   "last_check": "2026-11-13T19:00:40+00:00",
+   "last_success": "2026-11-13T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7042,6 +7026,16 @@
    "fingerprint": "cda182a721908ff9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T17:00:48+00:00",
      "status": "ok",
@@ -7324,16 +7318,6 @@
     },
     {
      "at": "2026-11-11T09:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-11T07:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10920,8 +10904,8 @@
      "first_seen": "2026-11-13T11:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T17:00:50+00:00",
-   "last_success": "2026-11-13T17:00:50+00:00",
+   "last_check": "2026-11-13T19:00:43+00:00",
+   "last_success": "2026-11-13T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10929,6 +10913,16 @@
    "fingerprint": "d25425f481991a47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T17:00:50+00:00",
      "status": "ok",
@@ -11364,16 +11358,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-11T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 131,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13345,8 +13329,8 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T17:00:51+00:00",
-   "last_success": "2026-11-13T17:00:51+00:00",
+   "last_check": "2026-11-13T19:00:44+00:00",
+   "last_success": "2026-11-13T19:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -13354,6 +13338,16 @@
    "fingerprint": "6113b270897c29e0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T19:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T17:00:51+00:00",
      "status": "ok",
@@ -13658,16 +13652,6 @@
     },
     {
      "at": "2026-11-11T09:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-11T07:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14392,8 +14376,8 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T17:00:52+00:00",
-   "last_success": "2026-11-13T17:00:52+00:00",
+   "last_check": "2026-11-13T19:00:45+00:00",
+   "last_success": "2026-11-13T19:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14401,6 +14385,16 @@
    "fingerprint": "771bbaf2292a1c60",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T19:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T17:00:52+00:00",
      "status": "ok",
@@ -14694,16 +14688,6 @@
     },
     {
      "at": "2026-11-11T09:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-11T07:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
