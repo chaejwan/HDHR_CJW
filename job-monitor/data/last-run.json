@@ -1,20 +1,20 @@
 {
- "at": "2026-11-13T05:00:47+00:00",
+ "at": "2026-11-13T07:00:48+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 11-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 9,
+  "items": 12,
   "alerts": 0,
   "since": "2026-11-13T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43369139949",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43382624591",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 86,
+   "item_count": 88,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "한화시스템 지능형 소나 연구원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20177",
+     "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
      "date": "2026.11.29 23:59"
+    },
+    {
+     "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
+     "date": "2026.11.30 08:00"
     }
    ]
   },
@@ -51,12 +56,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 147,
+   "status": "new",
+   "item_count": 148,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262500",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",

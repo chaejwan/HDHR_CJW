@@ -2402,17 +2402,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20177",
      "date": "2026.11.29 23:59",
      "first_seen": "2026-11-13T05:00:37+00:00"
+    },
+    "88d7498b9fd76eca": {
+     "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-13T07:00:39+00:00"
+    },
+    "9ad1c33a73704e30": {
+     "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
+     "date": "2026.11.30 08:00",
+     "first_seen": "2026-11-13T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-13T05:00:37+00:00",
-   "last_success": "2026-11-13T05:00:37+00:00",
+   "last_check": "2026-11-13T07:00:39+00:00",
+   "last_success": "2026-11-13T07:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 86,
-   "fingerprint": "da81592aeb38cd94",
+   "item_count": 88,
+   "fingerprint": "21d9b3ba70601f9b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T07:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
+       "date": "2026.11.30 08:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-13T05:00:37+00:00",
      "status": "new",
@@ -2807,16 +2840,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2833,7 +2856,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T05:00:37+00:00"
+   "last_new_at": "2026-11-13T07:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7020,8 +7043,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-13T05:00:38+00:00",
-   "last_success": "2026-11-13T05:00:38+00:00",
+   "last_check": "2026-11-13T07:00:40+00:00",
+   "last_success": "2026-11-13T07:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7029,6 +7052,16 @@
    "fingerprint": "3cf091a5df2349b6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T07:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T05:00:38+00:00",
      "status": "ok",
@@ -7311,16 +7344,6 @@
     },
     {
      "at": "2026-11-10T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T19:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10863,17 +10886,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262499",
      "date": "",
      "first_seen": "2026-11-13T03:00:50+00:00"
+    },
+    "2d6fc362b37af0c4": {
+     "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262500",
+     "date": "",
+     "first_seen": "2026-11-13T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T05:00:41+00:00",
-   "last_success": "2026-11-13T05:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-13T07:00:42+00:00",
+   "last_success": "2026-11-13T07:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 147,
-   "fingerprint": "9ac82d30e2225abd",
+   "item_count": 148,
+   "fingerprint": "582461236302dcaf",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T07:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262500",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-13T05:00:41+00:00",
      "status": "ok",
@@ -11309,16 +11354,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 125,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11335,7 +11370,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T03:00:50+00:00"
+   "last_new_at": "2026-11-13T07:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13290,15 +13325,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T05:00:43+00:00",
-   "last_success": "2026-11-13T05:00:43+00:00",
+   "last_check": "2026-11-13T07:00:43+00:00",
+   "last_success": "2026-11-13T07:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "9e43f6fe95b63ac2",
+   "fingerprint": "6caeeadf58905552",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T05:00:43+00:00",
      "status": "ok",
@@ -13609,16 +13654,6 @@
     },
     {
      "at": "2026-11-10T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T19:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14343,8 +14378,8 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T05:00:44+00:00",
-   "last_success": "2026-11-13T05:00:44+00:00",
+   "last_check": "2026-11-13T07:00:45+00:00",
+   "last_success": "2026-11-13T07:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14352,6 +14387,16 @@
    "fingerprint": "78ca9eb701d3251d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T07:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 12,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T05:00:44+00:00",
      "status": "ok",
@@ -14673,16 +14718,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T19:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14784,6 +14819,33 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20177",
     "date": "2026.11.29 23:59",
     "found_at": "2026-11-13T05:00:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-13T07:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
+    "date": "2026.11.30 08:00",
+    "found_at": "2026-11-13T07:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262500",
+    "date": "",
+    "found_at": "2026-11-13T07:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -14791,33 +14853,6 @@
   "last_sent": "2026-11-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[특수선사업부] R&D 분야 경력사원 채용경력특수선사업부R&D함정성능연구(EMI/EMC/EMP/RADHAZ 해석 기술 개발)외경력 3년 이상정규직부산외2026. 10. 25, 14:59까지D-17",
-   "url": "https://recruit-hanwhaocean.com/ko/o/239805",
-   "date": "",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용경력특수선사업부사업관리외사업관리외경력 5년 이상외정규직거제외2026. 10. 25, 14:59까지D-17",
-   "url": "https://recruit-hanwhaocean.com/ko/o/239802",
-   "date": "",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "수소충전소 O&M 담당 채용 (경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262186",
-   "date": "",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19290,6 +19325,33 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20177",
    "date": "2026.11.29 23:59",
    "found_at": "2026-11-13T05:00:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-13T07:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
+   "date": "2026.11.30 08:00",
+   "found_at": "2026-11-13T07:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262500",
+   "date": "",
+   "found_at": "2026-11-13T07:00:48+00:00"
   }
  ]
 }
