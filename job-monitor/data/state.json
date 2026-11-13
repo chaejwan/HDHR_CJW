@@ -2416,8 +2416,8 @@
      "first_seen": "2026-11-13T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-13T09:00:38+00:00",
-   "last_success": "2026-11-13T09:00:38+00:00",
+   "last_check": "2026-11-13T11:00:39+00:00",
+   "last_success": "2026-11-13T11:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2425,6 +2425,16 @@
    "fingerprint": "ca5b3abf6c69c9a9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T11:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T09:00:38+00:00",
      "status": "ok",
@@ -2830,16 +2840,6 @@
        "date": "2026.11.30 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-10T23:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7043,8 +7043,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-13T09:00:39+00:00",
-   "last_success": "2026-11-13T09:00:39+00:00",
+   "last_check": "2026-11-13T11:00:40+00:00",
+   "last_success": "2026-11-13T11:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7052,6 +7052,16 @@
    "fingerprint": "3cf091a5df2349b6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T11:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T09:00:39+00:00",
      "status": "ok",
@@ -7334,16 +7344,6 @@
     },
     {
      "at": "2026-11-11T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T23:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10898,17 +10898,83 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262502",
      "date": "",
      "first_seen": "2026-11-13T09:00:44+00:00"
+    },
+    "ba0459edeb2b14ef": {
+     "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+     "date": "",
+     "first_seen": "2026-11-13T11:00:42+00:00"
+    },
+    "d9a79937d49ecfda": {
+     "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262504",
+     "date": "",
+     "first_seen": "2026-11-13T11:00:42+00:00"
+    },
+    "888e1fd7d737e189": {
+     "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262505",
+     "date": "",
+     "first_seen": "2026-11-13T11:00:42+00:00"
+    },
+    "46aff88f7afaf692": {
+     "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+     "date": "",
+     "first_seen": "2026-11-13T11:00:42+00:00"
+    },
+    "b7a9683a89327b5c": {
+     "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262507",
+     "date": "",
+     "first_seen": "2026-11-13T11:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T09:00:44+00:00",
-   "last_success": "2026-11-13T09:00:44+00:00",
+   "last_check": "2026-11-13T11:00:42+00:00",
+   "last_success": "2026-11-13T11:00:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 150,
-   "fingerprint": "800b6092739d7e60",
+   "item_count": 155,
+   "fingerprint": "28a51b3da9c4a29d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T11:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 5,
+     "item_count": 155,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262504",
+       "date": ""
+      },
+      {
+       "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262505",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+       "date": ""
+      },
+      {
+       "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262507",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-13T09:00:44+00:00",
      "status": "new",
@@ -11356,16 +11422,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-10T23:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 125,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11382,7 +11438,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T09:00:44+00:00"
+   "last_new_at": "2026-11-13T11:00:42+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13337,15 +13393,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T09:00:45+00:00",
-   "last_success": "2026-11-13T09:00:45+00:00",
+   "last_check": "2026-11-13T11:00:43+00:00",
+   "last_success": "2026-11-13T11:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "27c95d6b9e7fe8b9",
+   "fingerprint": "e04c5225ce222723",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T11:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T09:00:45+00:00",
      "status": "ok",
@@ -13663,16 +13729,6 @@
        "date": "20261125"
       }
      ]
-    },
-    {
-     "at": "2026-11-10T23:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14390,8 +14446,8 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T09:00:48+00:00",
-   "last_success": "2026-11-13T09:00:48+00:00",
+   "last_check": "2026-11-13T11:00:45+00:00",
+   "last_success": "2026-11-13T11:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14399,6 +14455,16 @@
    "fingerprint": "78ca9eb701d3251d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T11:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T09:00:48+00:00",
      "status": "ok",
@@ -14720,16 +14786,6 @@
        "date": "2026.11.11 ~ 2026.11.24"
       }
      ]
-    },
-    {
-     "at": "2026-11-10T23:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14867,6 +14923,51 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262502",
     "date": "",
     "found_at": "2026-11-13T09:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+    "date": "",
+    "found_at": "2026-11-13T11:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262504",
+    "date": "",
+    "found_at": "2026-11-13T11:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262505",
+    "date": "",
+    "found_at": "2026-11-13T11:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+    "date": "",
+    "found_at": "2026-11-13T11:00:48+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262507",
+    "date": "",
+    "found_at": "2026-11-13T11:00:48+00:00"
    }
   ],
   "alerts": [],
@@ -14874,51 +14975,6 @@
   "last_sent": "2026-11-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "IR Manager 신입 구성원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262188",
-   "date": "",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[특수선사업부] 설계∙사업관리∙품질관리 분야 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19948",
-   "date": "2026.10.25 23:59",
-   "found_at": "2026-10-08T11:00:48+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[특수선사업부] R&D 분야 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19947",
-   "date": "2026.10.25 23:59",
-   "found_at": "2026-10-08T11:00:48+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[특수선사업부] 원자력 추진 함정 설계∙인허가∙품질 분야 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19946",
-   "date": "2026.10.25 23:59",
-   "found_at": "2026-10-08T11:00:48+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[인재풀 등록] 특수선사업부 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19949",
-   "date": "2026.12.31 23:59",
-   "found_at": "2026-10-08T11:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19373,6 +19429,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262502",
    "date": "",
    "found_at": "2026-11-13T09:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+   "date": "",
+   "found_at": "2026-11-13T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262504",
+   "date": "",
+   "found_at": "2026-11-13T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262505",
+   "date": "",
+   "found_at": "2026-11-13T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+   "date": "",
+   "found_at": "2026-11-13T11:00:48+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262507",
+   "date": "",
+   "found_at": "2026-11-13T11:00:48+00:00"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
- "at": "2026-11-13T09:00:50+00:00",
+ "at": "2026-11-13T11:00:48+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 11-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 18건 · 점검 0건). 11-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 13,
+  "items": 18,
   "alerts": 0,
   "since": "2026-11-13T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43397718138",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43413538138",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,14 +46,34 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 150,
+   "item_count": 155,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "SK온 Global물류팀 사무운영원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262502",
+     "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262504",
+     "date": ""
+    },
+    {
+     "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262505",
+     "date": ""
+    },
+    {
+     "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+     "date": ""
+    },
+    {
+     "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262507",
      "date": ""
     }
    ]
