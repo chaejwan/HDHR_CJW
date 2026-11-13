@@ -1,20 +1,20 @@
 {
- "at": "2026-11-13T01:00:44+00:00",
+ "at": "2026-11-13T03:00:55+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 5,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 11-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 8,
   "alerts": 0,
   "since": "2026-11-13T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43341543440",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43356010001",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 83,
+   "item_count": 85,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "(주)한화 글로벌부문 바이오소재 경력/신입사원 채용 (생산/품질)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
-     "date": "2026.11.30 15:00"
+     "title": "한화시스템 Global HR Manager 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20175",
+     "date": "2026.11.30 23:59"
+    },
+    {
+     "title": "한화시스템 Recruiter 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20174",
+     "date": "2026.11.30 23:59"
     }
    ]
   },
@@ -51,12 +56,28 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 144,
+   "status": "new",
+   "item_count": 147,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[아이지이] 플랜트 기계 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262498",
+     "date": ""
+    },
+    {
+     "title": "[아이지이] 공정 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262497",
+     "date": ""
+    },
+    {
+     "title": "[아이지이] 플랜트 계기 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262499",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -75,23 +96,12 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
+   "status": "ok",
    "item_count": 12,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "삼성화재 경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
-     "url": "https://www.samsungcareers.com/hr/?no=23492",
-     "date": "2026.11.13 ~ 2026.11.23"
-    },
-    {
-     "title": "삼성중공업 경력사원 채용(운반선/해양공사 공정관리)",
-     "url": "https://www.samsungcareers.com/hr/?no=23507",
-     "date": "2026.11.13 ~ 2026.11.26"
-    }
-   ]
+   "new_items": []
   }
  ]
 }

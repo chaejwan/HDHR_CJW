@@ -2384,17 +2384,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
      "date": "2026.11.30 15:00",
      "first_seen": "2026-11-13T01:00:33+00:00"
+    },
+    "78cabb74dfe80ba5": {
+     "title": "한화시스템 Global HR Manager 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20175",
+     "date": "2026.11.30 23:59",
+     "first_seen": "2026-11-13T03:00:39+00:00"
+    },
+    "8e1ba7348976a826": {
+     "title": "한화시스템 Recruiter 경력채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20174",
+     "date": "2026.11.30 23:59",
+     "first_seen": "2026-11-13T03:00:39+00:00"
     }
    },
-   "last_check": "2026-11-13T01:00:33+00:00",
-   "last_success": "2026-11-13T01:00:33+00:00",
+   "last_check": "2026-11-13T03:00:39+00:00",
+   "last_success": "2026-11-13T03:00:39+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 83,
-   "fingerprint": "42867e6d9bf78da3",
+   "item_count": 85,
+   "fingerprint": "0e8011e3bf429844",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T03:00:39+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 Global HR Manager 경력채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20175",
+       "date": "2026.11.30 23:59"
+      },
+      {
+       "title": "한화시스템 Recruiter 경력채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20174",
+       "date": "2026.11.30 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-13T01:00:33+00:00",
      "status": "new",
@@ -2772,16 +2805,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T15:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2798,7 +2821,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T01:00:33+00:00"
+   "last_new_at": "2026-11-13T03:00:39+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6985,8 +7008,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-13T01:00:35+00:00",
-   "last_success": "2026-11-13T01:00:35+00:00",
+   "last_check": "2026-11-13T03:00:40+00:00",
+   "last_success": "2026-11-13T03:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6994,6 +7017,16 @@
    "fingerprint": "3cf091a5df2349b6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T03:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T01:00:35+00:00",
      "status": "ok",
@@ -7276,16 +7309,6 @@
     },
     {
      "at": "2026-11-10T17:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 15,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10810,17 +10833,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262465",
      "date": "",
      "first_seen": "2026-11-12T23:00:42+00:00"
+    },
+    "b1a75d360c584415": {
+     "title": "[아이지이] 플랜트 기계 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262498",
+     "date": "",
+     "first_seen": "2026-11-13T03:00:50+00:00"
+    },
+    "588d58b3ee6863a7": {
+     "title": "[아이지이] 공정 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262497",
+     "date": "",
+     "first_seen": "2026-11-13T03:00:50+00:00"
+    },
+    "a4edf5da31ebfe01": {
+     "title": "[아이지이] 플랜트 계기 담당 경력 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262499",
+     "date": "",
+     "first_seen": "2026-11-13T03:00:50+00:00"
     }
    },
-   "last_check": "2026-11-13T01:00:38+00:00",
-   "last_success": "2026-11-13T01:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-13T03:00:50+00:00",
+   "last_success": "2026-11-13T03:00:50+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 144,
-   "fingerprint": "9c6ff54810e65eb7",
+   "item_count": 147,
+   "fingerprint": "9ac82d30e2225abd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T03:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 147,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[아이지이] 플랜트 기계 담당 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262498",
+       "date": ""
+      },
+      {
+       "title": "[아이지이] 공정 담당 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262497",
+       "date": ""
+      },
+      {
+       "title": "[아이지이] 플랜트 계기 담당 경력 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262499",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-13T01:00:38+00:00",
      "status": "ok",
@@ -11240,16 +11307,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T15:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 125,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11266,7 +11323,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-12T23:00:42+00:00"
+   "last_new_at": "2026-11-13T03:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13221,15 +13278,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T01:00:39+00:00",
-   "last_success": "2026-11-13T01:00:39+00:00",
+   "last_check": "2026-11-13T03:00:51+00:00",
+   "last_success": "2026-11-13T03:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "4ce312a25be2a9a1",
+   "fingerprint": "857cdae8283b880b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T03:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T01:00:39+00:00",
      "status": "ok",
@@ -13540,16 +13607,6 @@
     },
     {
      "at": "2026-11-10T17:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 53,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-10T15:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14274,15 +14331,25 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T01:00:42+00:00",
-   "last_success": "2026-11-13T01:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-13T03:00:53+00:00",
+   "last_success": "2026-11-13T03:00:53+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 12,
    "fingerprint": "78ca9eb701d3251d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T03:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 12,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T01:00:42+00:00",
      "status": "new",
@@ -14604,16 +14671,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-10T15:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 6,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14661,6 +14718,51 @@
     "url": "https://www.samsungcareers.com/hr/?no=23507",
     "date": "2026.11.13 ~ 2026.11.26",
     "found_at": "2026-11-13T01:00:44+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 Global HR Manager 경력채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20175",
+    "date": "2026.11.30 23:59",
+    "found_at": "2026-11-13T03:00:55+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 Recruiter 경력채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20174",
+    "date": "2026.11.30 23:59",
+    "found_at": "2026-11-13T03:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[아이지이] 플랜트 기계 담당 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262498",
+    "date": "",
+    "found_at": "2026-11-13T03:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[아이지이] 공정 담당 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262497",
+    "date": "",
+    "found_at": "2026-11-13T03:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[아이지이] 플랜트 계기 담당 경력 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262499",
+    "date": "",
+    "found_at": "2026-11-13T03:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -14668,51 +14770,6 @@
   "last_sent": "2026-11-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "인프라 보안 관리 전문가 영입 (계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262185",
-   "date": "",
-   "found_at": "2026-10-08T07:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Salesforce CRM 개발/운영 및 솔루션 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262150",
-   "date": "",
-   "found_at": "2026-10-08T07:00:46+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "Private 클라우드 기획 및 운영 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "Data Scientist 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943",
-   "date": "2026.10.18 23:59",
-   "found_at": "2026-10-08T09:00:47+00:00"
-  },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
    "site_name": "한화오션",
@@ -19167,6 +19224,51 @@
    "url": "https://www.samsungcareers.com/hr/?no=23507",
    "date": "2026.11.13 ~ 2026.11.26",
    "found_at": "2026-11-13T01:00:44+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 Global HR Manager 경력채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20175",
+   "date": "2026.11.30 23:59",
+   "found_at": "2026-11-13T03:00:55+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 Recruiter 경력채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20174",
+   "date": "2026.11.30 23:59",
+   "found_at": "2026-11-13T03:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[아이지이] 플랜트 기계 담당 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262498",
+   "date": "",
+   "found_at": "2026-11-13T03:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[아이지이] 공정 담당 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262497",
+   "date": "",
+   "found_at": "2026-11-13T03:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[아이지이] 플랜트 계기 담당 경력 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262499",
+   "date": "",
+   "found_at": "2026-11-13T03:00:55+00:00"
   }
  ]
 }
