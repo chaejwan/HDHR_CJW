@@ -1,43 +1,32 @@
 {
- "at": "2026-11-13T07:00:48+00:00",
+ "at": "2026-11-13T09:00:50+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 11-16 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 11-16 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 12,
+  "items": 13,
   "alerts": 0,
   "since": "2026-11-13T01:00:44+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43382624591",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43397718138",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 88,
+   "status": "ok",
+   "item_count": 87,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
-     "date": "2026.11.29 23:59"
-    },
-    {
-     "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
-     "date": "2026.11.30 08:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,14 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 148,
+   "item_count": 150,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262500",
+     "title": "SK온 Global물류팀 사무운영원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262502",
      "date": ""
     }
    ]
@@ -87,7 +76,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 12,
+   "item_count": 11,
    "method": "pattern",
    "note": "",
    "error": "",
