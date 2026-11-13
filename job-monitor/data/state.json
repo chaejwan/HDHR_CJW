@@ -2414,17 +2414,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
      "date": "2026.11.30 08:00",
      "first_seen": "2026-11-13T07:00:39+00:00"
+    },
+    "d4137fb568d31e3a": {
+     "title": "한화시스템 보안담당·기술보호책임자 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-13T17:00:48+00:00"
     }
    },
-   "last_check": "2026-11-13T15:00:41+00:00",
-   "last_success": "2026-11-13T13:00:39+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-11-13T17:00:48+00:00",
+   "last_success": "2026-11-13T17:00:48+00:00",
+   "last_status": "new",
+   "last_error": "",
    "last_method": "json",
-   "item_count": 87,
-   "fingerprint": "ca5b3abf6c69c9a9",
+   "item_count": 88,
+   "fingerprint": "e867a04cebe45d0c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T17:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화시스템 보안담당·기술보호책임자 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
+       "date": "2026.11.29 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-13T15:00:41+00:00",
      "status": "error",
@@ -2808,36 +2830,10 @@
        "date": "2026.11.25 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-11T05:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 76,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[판교R&D센터] 연구소 Utility 설비 운영 및 장비 Hook-up 담당 경력직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20156",
-       "date": "2026.11.25 23:59"
-      },
-      {
-       "title": "[한화에어로스페이스] 지원실 정보보호팀 해외사업 정보보호 담당자 경력직 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20154",
-       "date": "2026.11.26 23:30"
-      },
-      {
-       "title": "그룹 HR 시스템 운영 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20153",
-       "date": "2026.11.29 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
     "(주)한화 글로벌부문 여수사업장 전문직(생산) 신입사원 채용",
@@ -2850,7 +2846,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T07:00:39+00:00"
+   "last_new_at": "2026-11-13T17:00:48+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7037,8 +7033,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-13T15:03:08+00:00",
-   "last_success": "2026-11-13T15:03:08+00:00",
+   "last_check": "2026-11-13T17:00:48+00:00",
+   "last_success": "2026-11-13T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7046,6 +7042,16 @@
    "fingerprint": "cda182a721908ff9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T15:03:08+00:00",
      "status": "ok",
@@ -7328,16 +7334,6 @@
     },
     {
      "at": "2026-11-11T07:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-11T05:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10924,8 +10920,8 @@
      "first_seen": "2026-11-13T11:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T15:03:11+00:00",
-   "last_success": "2026-11-13T15:03:11+00:00",
+   "last_check": "2026-11-13T17:00:50+00:00",
+   "last_success": "2026-11-13T17:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10933,6 +10929,16 @@
    "fingerprint": "d25425f481991a47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T17:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T15:03:11+00:00",
      "status": "ok",
@@ -11368,27 +11374,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-11T05:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 131,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "리더십교육 운영 및 사무지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262480",
-       "date": ""
-      },
-      {
-       "title": "AI Platform Operation 구성원 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262476",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13360,15 +13345,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T15:03:12+00:00",
-   "last_success": "2026-11-13T15:03:12+00:00",
+   "last_check": "2026-11-13T17:00:51+00:00",
+   "last_success": "2026-11-13T17:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "26b06cce1222e7c4",
+   "fingerprint": "6113b270897c29e0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T17:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T15:03:12+00:00",
      "status": "ok",
@@ -13673,16 +13668,6 @@
     },
     {
      "at": "2026-11-11T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 55,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-11T05:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14407,8 +14392,8 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-13T15:03:14+00:00",
-   "last_success": "2026-11-13T15:03:14+00:00",
+   "last_check": "2026-11-13T17:00:52+00:00",
+   "last_success": "2026-11-13T17:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14416,6 +14401,16 @@
    "fingerprint": "771bbaf2292a1c60",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-13T17:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-13T15:03:14+00:00",
      "status": "ok",
@@ -14716,16 +14711,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-11T05:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14908,6 +14893,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262507",
     "date": "",
     "found_at": "2026-11-13T11:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화시스템 보안담당·기술보호책임자 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-13T17:00:54+00:00"
    }
   ],
   "alerts": [],
@@ -14915,15 +14909,6 @@
   "last_sent": "2026-11-12T23:00:49+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 부산도시가스 신입사원(G2) 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262174",
-   "date": "",
-   "found_at": "2026-10-11T15:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19414,6 +19399,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262507",
    "date": "",
    "found_at": "2026-11-13T11:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화시스템 보안담당·기술보호책임자 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-13T17:00:54+00:00"
   }
  ]
 }
