@@ -2422,8 +2422,8 @@
      "first_seen": "2026-11-13T17:00:48+00:00"
     }
    },
-   "last_check": "2026-11-14T11:00:38+00:00",
-   "last_success": "2026-11-14T11:00:38+00:00",
+   "last_check": "2026-11-14T13:00:40+00:00",
+   "last_success": "2026-11-14T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2431,6 +2431,16 @@
    "fingerprint": "e867a04cebe45d0c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T11:00:38+00:00",
      "status": "ok",
@@ -2793,16 +2803,6 @@
        "date": "2026.11.25 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-12T01:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 79,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7006,8 +7006,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-14T11:00:39+00:00",
-   "last_success": "2026-11-14T11:00:39+00:00",
+   "last_check": "2026-11-14T13:00:40+00:00",
+   "last_success": "2026-11-14T13:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7015,6 +7015,16 @@
    "fingerprint": "cda182a721908ff9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T13:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T11:00:39+00:00",
      "status": "ok",
@@ -7297,16 +7307,6 @@
     },
     {
      "at": "2026-11-12T03:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-12T01:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10893,8 +10893,8 @@
      "first_seen": "2026-11-13T11:00:42+00:00"
     }
    },
-   "last_check": "2026-11-14T11:00:44+00:00",
-   "last_success": "2026-11-14T11:00:44+00:00",
+   "last_check": "2026-11-14T13:00:43+00:00",
+   "last_success": "2026-11-14T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10902,6 +10902,16 @@
    "fingerprint": "d25425f481991a47",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T11:00:44+00:00",
      "status": "ok",
@@ -11312,32 +11322,6 @@
       {
        "title": "SK플라즈마 생산 계약직 구성원 모집",
        "url": "https://www.skcareers.com/Recruit/Detail/R262491",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-12T01:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 133,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "용인 부속의원 전문의(안과) 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262483",
-       "date": ""
-      },
-      {
-       "title": "보안 진단 엔지니어",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262485",
-       "date": ""
-      },
-      {
-       "title": "Sr. SNS 마케팅 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262486",
        "date": ""
       }
      ]
@@ -13312,15 +13296,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-14T11:00:45+00:00",
-   "last_success": "2026-11-14T11:00:45+00:00",
+   "last_check": "2026-11-14T13:00:44+00:00",
+   "last_success": "2026-11-14T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "428c653ab374a451",
+   "fingerprint": "483c1c9f29c7480d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T11:00:45+00:00",
      "status": "ok",
@@ -13616,32 +13610,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-12T01:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 58,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=95",
-       "date": "20261125"
-      },
-      {
-       "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (양재본사)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=93",
-       "date": "20261125"
-      },
-      {
-       "title": "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (남양연구소)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=94",
-       "date": "20261125"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -14359,8 +14327,8 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-14T11:00:47+00:00",
-   "last_success": "2026-11-14T11:00:47+00:00",
+   "last_check": "2026-11-14T13:00:46+00:00",
+   "last_success": "2026-11-14T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14368,6 +14336,16 @@
    "fingerprint": "771bbaf2292a1c60",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T11:00:47+00:00",
      "status": "ok",
@@ -14661,16 +14639,6 @@
     },
     {
      "at": "2026-11-12T03:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-12T01:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
