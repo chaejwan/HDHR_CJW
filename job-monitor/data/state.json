@@ -2422,8 +2422,8 @@
      "first_seen": "2026-11-13T17:00:48+00:00"
     }
    },
-   "last_check": "2026-11-14T13:00:40+00:00",
-   "last_success": "2026-11-14T13:00:40+00:00",
+   "last_check": "2026-11-14T15:00:39+00:00",
+   "last_success": "2026-11-14T15:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2431,6 +2431,16 @@
    "fingerprint": "e867a04cebe45d0c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T13:00:40+00:00",
      "status": "ok",
@@ -2782,27 +2792,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-12T03:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] 오퍼레이션팀_법인결제 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20166",
-       "date": "2026.11.25 15:00"
-      },
-      {
-       "title": "[한화투자증권] 오퍼레이션팀_본사 텔러 직무 경력 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20165",
-       "date": "2026.11.25 15:00"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7006,15 +6995,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-14T13:00:40+00:00",
-   "last_success": "2026-11-14T13:00:40+00:00",
+   "last_check": "2026-11-14T15:00:39+00:00",
+   "last_success": "2026-11-14T15:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 14,
-   "fingerprint": "cda182a721908ff9",
+   "fingerprint": "cac5540e93c2cde9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T15:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T13:00:40+00:00",
      "status": "ok",
@@ -7297,16 +7296,6 @@
     },
     {
      "at": "2026-11-12T05:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-12T03:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10893,15 +10882,25 @@
      "first_seen": "2026-11-13T11:00:42+00:00"
     }
    },
-   "last_check": "2026-11-14T13:00:43+00:00",
-   "last_success": "2026-11-14T13:00:43+00:00",
+   "last_check": "2026-11-14T15:00:45+00:00",
+   "last_success": "2026-11-14T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 154,
-   "fingerprint": "d25425f481991a47",
+   "fingerprint": "a06254322a0b34c0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T13:00:43+00:00",
      "status": "ok",
@@ -11291,37 +11290,6 @@
       {
        "title": "반도체 R&D 시스템 어플리케이션 설계 및 리딩 전문가 영입",
        "url": "https://www.skcareers.com/Recruit/Detail/R262477",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-12T03:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 137,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[SK에어플러스] 용인 BSGS Operator(교대)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262487",
-       "date": ""
-      },
-      {
-       "title": "[SK에어플러스] 용인 기계 테크니션",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262488",
-       "date": ""
-      },
-      {
-       "title": "[SK에어플러스] 용인 전/계장 테크니션",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262489",
-       "date": ""
-      },
-      {
-       "title": "SK플라즈마 생산 계약직 구성원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262491",
        "date": ""
       }
      ]
@@ -13296,15 +13264,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-14T13:00:44+00:00",
-   "last_success": "2026-11-14T13:00:44+00:00",
+   "last_check": "2026-11-14T15:00:46+00:00",
+   "last_success": "2026-11-14T15:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 54,
-   "fingerprint": "483c1c9f29c7480d",
+   "fingerprint": "4968e9e3b4909400",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T15:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 54,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T13:00:44+00:00",
      "status": "ok",
@@ -13593,16 +13571,6 @@
     },
     {
      "at": "2026-11-12T05:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 59,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-12T03:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14327,15 +14295,25 @@
      "first_seen": "2026-11-13T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-14T13:00:46+00:00",
-   "last_success": "2026-11-14T13:00:46+00:00",
+   "last_check": "2026-11-14T15:00:47+00:00",
+   "last_success": "2026-11-14T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 11,
-   "fingerprint": "771bbaf2292a1c60",
+   "fingerprint": "80e61882ed23dc86",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-14T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-14T13:00:46+00:00",
      "status": "ok",
@@ -14629,16 +14607,6 @@
     },
     {
      "at": "2026-11-12T05:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-12T03:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
