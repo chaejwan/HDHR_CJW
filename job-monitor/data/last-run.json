@@ -1,20 +1,20 @@
 {
- "at": "2026-11-15T21:00:47+00:00",
+ "at": "2026-11-15T23:00:50+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 19건 · 점검 0건). 11-16 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 19,
+  "items": 0,
   "alerts": 0,
-  "since": "2026-11-13T01:00:44+00:00",
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43761212353",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43772408937",
  "results": [
   {
    "site_id": "hanwhain",
@@ -69,12 +69,18 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 11,
+   "status": "new",
+   "item_count": 12,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)",
+     "url": "https://www.samsungcareers.com/hr/?no=23523",
+     "date": "2026.11.16 ~ 2026.12.07"
+    }
+   ]
   }
  ]
 }

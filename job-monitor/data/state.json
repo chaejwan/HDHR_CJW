@@ -2422,8 +2422,8 @@
      "first_seen": "2026-11-13T17:00:48+00:00"
     }
    },
-   "last_check": "2026-11-15T21:00:38+00:00",
-   "last_success": "2026-11-15T21:00:38+00:00",
+   "last_check": "2026-11-15T23:00:41+00:00",
+   "last_success": "2026-11-15T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2431,6 +2431,16 @@
    "fingerprint": "3cf97ea591e02e48",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-15T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 63,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-15T21:00:38+00:00",
      "status": "ok",
@@ -2719,16 +2729,6 @@
     },
     {
      "at": "2026-11-13T13:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T11:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -6939,8 +6939,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-15T21:00:39+00:00",
-   "last_success": "2026-11-15T21:00:39+00:00",
+   "last_check": "2026-11-15T23:00:43+00:00",
+   "last_success": "2026-11-15T23:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6948,6 +6948,16 @@
    "fingerprint": "268c4671f5fc3b76",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-15T23:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-15T21:00:39+00:00",
      "status": "ok",
@@ -7230,16 +7240,6 @@
     },
     {
      "at": "2026-11-13T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T11:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10826,8 +10826,8 @@
      "first_seen": "2026-11-13T11:00:42+00:00"
     }
    },
-   "last_check": "2026-11-15T21:00:42+00:00",
-   "last_success": "2026-11-15T21:00:42+00:00",
+   "last_check": "2026-11-15T23:00:45+00:00",
+   "last_success": "2026-11-15T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -10835,6 +10835,16 @@
    "fingerprint": "c2aa315b25898d4d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-15T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 142,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-15T21:00:42+00:00",
      "status": "ok",
@@ -11124,42 +11134,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T11:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 5,
-     "item_count": 155,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262503",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262504",
-       "date": ""
-      },
-      {
-       "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262505",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262506",
-       "date": ""
-      },
-      {
-       "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262507",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13131,15 +13105,25 @@
      "first_seen": "2026-11-12T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-15T21:00:43+00:00",
-   "last_success": "2026-11-15T21:00:43+00:00",
+   "last_check": "2026-11-15T23:00:46+00:00",
+   "last_success": "2026-11-15T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 52,
-   "fingerprint": "8708e2f889dee3af",
+   "fingerprint": "8b209fc0372b166f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-15T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 52,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-15T21:00:43+00:00",
      "status": "ok",
@@ -13422,16 +13406,6 @@
     },
     {
      "at": "2026-11-13T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14154,17 +14128,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23507",
      "date": "2026.11.13 ~ 2026.11.26",
      "first_seen": "2026-11-13T01:00:42+00:00"
+    },
+    "e052863cd0920e40": {
+     "title": "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)",
+     "url": "https://www.samsungcareers.com/hr/?no=23523",
+     "date": "2026.11.16 ~ 2026.12.07",
+     "first_seen": "2026-11-15T23:00:48+00:00"
     }
    },
-   "last_check": "2026-11-15T21:00:45+00:00",
-   "last_success": "2026-11-15T21:00:45+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-15T23:00:48+00:00",
+   "last_success": "2026-11-15T23:00:48+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 11,
-   "fingerprint": "383bd939c1fd8700",
+   "item_count": 12,
+   "fingerprint": "9e93e6ed316998f2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-15T23:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 12,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)",
+       "url": "https://www.samsungcareers.com/hr/?no=23523",
+       "date": "2026.11.16 ~ 2026.12.07"
+      }
+     ]
+    },
     {
      "at": "2026-11-15T21:00:45+00:00",
      "status": "ok",
@@ -14454,223 +14450,32 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T11:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)",
     "삼성화재 경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
     "삼성중공업 경력사원 채용(운반선/해양공사 공정관리)",
     "삼성전자 DX부문 경력사원 채용(Visual Display, Digital Appliances, 생산기술연구소, Global CS센터, Global EHS실, 한국총괄)",
-    "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)",
-    "삼성E&A 경력사원 채용(첨단산업 설계, 시공, 공무)"
+    "삼성E&A 경력사원 채용(안전관리, 보건관리, 중장비 기술안전, 품질관리)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T01:00:42+00:00"
+   "last_new_at": "2026-11-15T23:00:48+00:00"
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 바이오소재 경력/신입사원 채용 (생산/품질)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20151",
-    "date": "2026.11.30 15:00",
-    "found_at": "2026-11-13T01:00:44+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성화재 경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
-    "url": "https://www.samsungcareers.com/hr/?no=23492",
-    "date": "2026.11.13 ~ 2026.11.23",
-    "found_at": "2026-11-13T01:00:44+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성중공업 경력사원 채용(운반선/해양공사 공정관리)",
-    "url": "https://www.samsungcareers.com/hr/?no=23507",
-    "date": "2026.11.13 ~ 2026.11.26",
-    "found_at": "2026-11-13T01:00:44+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 Global HR Manager 경력채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20175",
-    "date": "2026.11.30 23:59",
-    "found_at": "2026-11-13T03:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 Recruiter 경력채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20174",
-    "date": "2026.11.30 23:59",
-    "found_at": "2026-11-13T03:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[아이지이] 플랜트 기계 담당 경력 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262498",
-    "date": "",
-    "found_at": "2026-11-13T03:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[아이지이] 공정 담당 경력 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262497",
-    "date": "",
-    "found_at": "2026-11-13T03:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[아이지이] 플랜트 계기 담당 경력 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262499",
-    "date": "",
-    "found_at": "2026-11-13T03:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 지능형 소나 연구원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20177",
-    "date": "2026.11.29 23:59",
-    "found_at": "2026-11-13T05:00:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화모멘텀㈜] 2026 하반기 경력사원 인재 모집(HR•엔지니어 직군)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20181",
-    "date": "2026.11.29 23:59",
-    "found_at": "2026-11-13T07:00:48+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "2026년 하반기 채용전제형 신입사원(인턴) 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20180",
-    "date": "2026.11.30 08:00",
-    "found_at": "2026-11-13T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "'26년 11월 토목사업 Project 공사(토목), 공무 경력직(촉탁직) 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262500",
-    "date": "",
-    "found_at": "2026-11-13T07:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 Global물류팀 사무운영원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262502",
-    "date": "",
-    "found_at": "2026-11-13T09:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262503",
-    "date": "",
-    "found_at": "2026-11-13T11:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 품질보증 약사(제조관리자) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262504",
-    "date": "",
-    "found_at": "2026-11-13T11:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[신입] SK바이오텍 품질보증 약사(제조관리자) 신입사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262505",
-    "date": "",
-    "found_at": "2026-11-13T11:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262506",
-    "date": "",
-    "found_at": "2026-11-13T11:00:48+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262507",
-    "date": "",
-    "found_at": "2026-11-13T11:00:48+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 보안담당·기술보호책임자 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
-    "date": "2026.11.29 23:59",
-    "found_at": "2026-11-13T17:00:54+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-11-13T01:00:44+00:00",
-  "last_sent": "2026-11-12T23:00:49+00:00"
+  "since": "",
+  "last_sent": "2026-11-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "프로젝트 구매·납기 및 물류관리",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262192",
-   "date": "",
-   "found_at": "2026-10-12T01:03:12+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19161,6 +18966,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
    "date": "2026.11.29 23:59",
    "found_at": "2026-11-13T17:00:54+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)",
+   "url": "https://www.samsungcareers.com/hr/?no=23523",
+   "date": "2026.11.16 ~ 2026.12.07",
+   "found_at": "2026-11-15T23:00:50+00:00"
   }
  ]
 }
