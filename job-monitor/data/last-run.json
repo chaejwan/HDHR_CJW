@@ -1,7 +1,7 @@
 {
- "at": "2026-11-16T09:00:51+00:00",
+ "at": "2026-11-16T11:00:53+00:00",
  "checked": 5,
- "new_total": 10,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-11-16T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43835919511",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43853889445",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,63 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 157,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "통계 및 사무지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262514",
-     "date": ""
-    },
-    {
-     "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262525",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262519",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262323",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262517",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262520",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262521",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262522",
-     "date": ""
-    },
-    {
-     "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262524",
-     "date": ""
-    },
-    {
-     "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262523",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
