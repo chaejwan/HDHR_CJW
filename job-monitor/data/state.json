@@ -2464,15 +2464,25 @@
      "first_seen": "2026-11-16T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-16T13:00:41+00:00",
-   "last_success": "2026-11-16T11:00:41+00:00",
-   "last_status": "error",
-   "last_error": "응답 시간 초과 (45초) (3회 시도)",
+   "last_check": "2026-11-16T15:00:42+00:00",
+   "last_success": "2026-11-16T15:00:42+00:00",
+   "last_status": "ok",
+   "last_error": "",
    "last_method": "json",
    "item_count": 70,
    "fingerprint": "39a58a5ac94f897e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T15:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T13:00:41+00:00",
      "status": "error",
@@ -2800,20 +2810,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T03:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 1,
+   "consecutive_errors": 0,
    "sample_titles": [
     "한화손보(주) 경력직 채용 - 방재컨설팅",
     "경력직 채용_대체투자RM팀",
@@ -7013,15 +7013,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T13:03:08+00:00",
-   "last_success": "2026-11-16T13:03:08+00:00",
+   "last_check": "2026-11-16T15:00:43+00:00",
+   "last_success": "2026-11-16T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 16,
-   "fingerprint": "dfe60e919ed42d31",
+   "fingerprint": "4f71941b10c2c6ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T13:03:08+00:00",
      "status": "ok",
@@ -7304,16 +7314,6 @@
     },
     {
      "at": "2026-11-14T05:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T03:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10996,15 +10996,25 @@
      "first_seen": "2026-11-16T09:00:44+00:00"
     }
    },
-   "last_check": "2026-11-16T13:03:12+00:00",
-   "last_success": "2026-11-16T13:03:12+00:00",
+   "last_check": "2026-11-16T15:00:48+00:00",
+   "last_success": "2026-11-16T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 157,
-   "fingerprint": "b264d10a489df762",
+   "item_count": 151,
+   "fingerprint": "faad642fbcbddadd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T13:03:12+00:00",
      "status": "ok",
@@ -11377,26 +11387,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T03:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "제조 물류자동화(AMHS) 전문가 영입",
-    "생산기획 경력사원 채용",
-    "SHE(환경관리자) 경력사원 채용",
-    "Project Management 경력사원 채용",
-    "백신 원료의약품 제조공정 개발 경력사원 채용"
+    "[11월] Talent hy-way (Maintenance/Operator)",
+    "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
+    "Digital Twin 사업 PM/PL 영입 (계약직)",
+    "SK플라즈마 제조관리 약사 채용",
+    "이동전화 품질측정 및 업무지원 담당자"
    ],
    "health": {
     "issue": "",
@@ -13580,15 +13580,25 @@
      "first_seen": "2026-11-16T07:00:45+00:00"
     }
    },
-   "last_check": "2026-11-16T13:03:13+00:00",
-   "last_success": "2026-11-16T13:03:13+00:00",
+   "last_check": "2026-11-16T15:00:49+00:00",
+   "last_success": "2026-11-16T15:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "3a46ac6deb380885",
+   "fingerprint": "b628a74bdc4d720f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T15:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T13:03:13+00:00",
      "status": "ok",
@@ -14059,16 +14069,6 @@
     },
     {
      "at": "2026-11-14T05:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T03:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14811,15 +14811,25 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T13:03:16+00:00",
-   "last_success": "2026-11-16T13:03:16+00:00",
+   "last_check": "2026-11-16T15:00:51+00:00",
+   "last_success": "2026-11-16T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 10,
-   "fingerprint": "c6522c84f3760c55",
+   "fingerprint": "3ce57793a566b7a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T13:03:16+00:00",
      "status": "ok",
@@ -15119,16 +15129,6 @@
     },
     {
      "at": "2026-11-14T05:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T03:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
