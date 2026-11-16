@@ -2464,8 +2464,8 @@
      "first_seen": "2026-11-16T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-16T21:00:41+00:00",
-   "last_success": "2026-11-16T21:00:41+00:00",
+   "last_check": "2026-11-16T23:00:40+00:00",
+   "last_success": "2026-11-16T23:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2473,6 +2473,16 @@
    "fingerprint": "39a58a5ac94f897e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T23:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T21:00:41+00:00",
      "status": "ok",
@@ -2793,16 +2803,6 @@
     },
     {
      "at": "2026-11-14T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T11:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7013,8 +7013,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T21:00:42+00:00",
-   "last_success": "2026-11-16T21:00:42+00:00",
+   "last_check": "2026-11-16T23:00:41+00:00",
+   "last_success": "2026-11-16T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7022,6 +7022,16 @@
    "fingerprint": "4f71941b10c2c6ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T21:00:42+00:00",
      "status": "ok",
@@ -7304,16 +7314,6 @@
     },
     {
      "at": "2026-11-14T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T11:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11002,8 +11002,8 @@
      "first_seen": "2026-11-16T17:00:51+00:00"
     }
    },
-   "last_check": "2026-11-16T21:00:44+00:00",
-   "last_success": "2026-11-16T21:00:44+00:00",
+   "last_check": "2026-11-16T23:00:47+00:00",
+   "last_success": "2026-11-16T23:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11011,6 +11011,16 @@
    "fingerprint": "5e1fa32dabc93ac2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T23:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 152,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T21:00:44+00:00",
      "status": "ok",
@@ -11382,16 +11392,6 @@
     },
     {
      "at": "2026-11-14T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13592,15 +13592,25 @@
      "first_seen": "2026-11-16T07:00:45+00:00"
     }
    },
-   "last_check": "2026-11-16T21:00:46+00:00",
-   "last_success": "2026-11-16T21:00:46+00:00",
+   "last_check": "2026-11-16T23:00:48+00:00",
+   "last_success": "2026-11-16T23:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "30de6743c16b5cf1",
+   "fingerprint": "723ca62c30b10926",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T23:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T21:00:46+00:00",
      "status": "ok",
@@ -14071,16 +14081,6 @@
     },
     {
      "at": "2026-11-14T13:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T11:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14823,8 +14823,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T21:00:48+00:00",
-   "last_success": "2026-11-16T21:00:48+00:00",
+   "last_check": "2026-11-16T23:00:51+00:00",
+   "last_success": "2026-11-16T23:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14832,6 +14832,16 @@
    "fingerprint": "3ce57793a566b7a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T23:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T21:00:48+00:00",
      "status": "ok",
@@ -15138,16 +15148,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T11:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15168,578 +15168,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[HR실] Payroll 담당자(계약직) 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20138",
-    "date": "2026.11.20 23:59",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 케미칼 부문 급여/근태 담당자 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20150",
-    "date": "2026.11.27 15:00",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화에어로스페이스] 항공사업부 2026년 하반기 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19712",
-    "date": "2026.11.29 23:59",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "회계관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=424",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "항공추진시스템용 모터 제어 SW 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=392",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "차량 소프트웨어 구매",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=390",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "지식재산(IP)법무",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=421",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "정책 연구",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=398",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "자금 기획/운영/조달",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=423",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "외환(FX) 관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=422",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "오디오/라디오 시스템 소프트웨어 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=408",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "에너지 기술/시장 동향 연구",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=399",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "신사업 법인 운영 관리 및 Value-up 추진",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=394",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "로보틱스 및 AI 기술 전략",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=395",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "도장 품질보증 (울산공장)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=426",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "네트워크 시스템 소프트웨어 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=409",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "글로벌 인재 채용",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=411",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "글로벌 경영체계 운영",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=428",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "공장 기계설비 공사 기획/설계/관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=429",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "건설사업 예산관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=393",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[통합보안] Mobility Security Engineer - AD보안",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=418",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[통합보안] Infra Security Engineer - Public Cloud Security",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=425",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[통합보안] Information Security Inspection - 그룹 사이버 보안",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=412",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[제조AI] 제조 비전 AI 모델 운영 및 최적화",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=400",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[ICT] Service Planner - Web, Commerce 기획/운영",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=416",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[ICT] Platform Engineer",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=410",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[ICT] IT Project Manager - AX 과제 기획/관리/평가",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=414",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[ICT] Backend Developer - 아키텍처",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=415",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[ICT] Backend Developer - MLOps 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=413",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "SDV 통합제어기 하드웨어(회로) 설계",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=406",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "SDV 통합제어기 하드웨어(기구) 설계",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=407",
-    "date": "20261130",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[로보틱스랩] 로보틱스 SW 검증/품질 관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=401",
-    "date": "20261231",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "SDV 통합제어기 MCU 응용 소프트웨어 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=404",
-    "date": "20271030",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "SDV 통합제어기 MCU 시스템 소프트웨어 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=403",
-    "date": "20271030",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "SDV OS 기능 사양 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=402",
-    "date": "20271030",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "In-Vehicle Infotainment 시스템 소프트웨어 개발",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=405",
-    "date": "20271030",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[로보틱스랩] 로보틱스 HW 검증/품질 관리",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=391",
-    "date": "20261231",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성SDI 경력사원 채용(전자재료사업부, 중대형사업부(ESS))",
-    "url": "https://www.samsungcareers.com/hr/?no=23437",
-    "date": "2026.11.16 ~ 2026.11.30",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성E&A 경력사원 채용(심리상담)",
-    "url": "https://www.samsungcareers.com/hr/?no=23496",
-    "date": "2026.11.16 ~ 2026.11.30",
-    "found_at": "2026-11-16T01:00:49+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK플라즈마 튀르키예 주재원 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262511",
-    "date": "",
-    "found_at": "2026-11-16T02:51:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "전기차 충전기 H/W 평가 담당 (3년이상)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262510",
-    "date": "",
-    "found_at": "2026-11-16T02:51:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 행정지원",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=268",
-    "date": "20261130",
-    "found_at": "2026-11-16T02:51:47+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 남양연구소 소내 물류 운송(부품 운송)",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
-    "date": "20261130",
-    "found_at": "2026-11-16T02:51:47+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[상선사업부] 구매 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20187",
-    "date": "2026.12.31 23:59",
-    "found_at": "2026-11-16T05:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[상선사업부] 설계 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20185",
-    "date": "2026.12.31 23:59",
-    "found_at": "2026-11-16T05:00:51+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 법인사업부 '퇴직연금 사업기획 및 운영' 전문인력 경력채용(과장~차장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20190",
-    "date": "2026.11.30 15:00",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화생명] 법인사업부 '퇴직연금 DC/IRP 영업 담당' 전문인력 경력채용(대리~과장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20188",
-    "date": "2026.11.30 15:00",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262323",
-    "date": "",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262517",
-    "date": "",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "컨설팅 프로젝트 PMO (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262518",
-    "date": "",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "보안 기술 엔지니어",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262516",
-    "date": "",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[계약직] 광주하이테크센터 고객응대 및 수납",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=269",
-    "date": "20261129",
-    "found_at": "2026-11-16T07:00:50+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "통계 및 사무지원 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262514",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262525",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262519",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262323",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262517",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262520",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262521",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262522",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262524",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262523",
-    "date": "",
-    "found_at": "2026-11-16T09:00:51+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262526",
-    "date": "",
-    "found_at": "2026-11-16T17:00:58+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-11-16T01:00:49+00:00",
-  "last_sent": "2026-11-15T23:00:52+00:00"
+  "since": "",
+  "last_sent": "2026-11-16T23:00:55+00:00"
  },
  "archive": [
   {
