@@ -2440,15 +2440,25 @@
      "first_seen": "2026-11-16T01:00:36+00:00"
     }
    },
-   "last_check": "2026-11-16T01:00:36+00:00",
-   "last_success": "2026-11-16T01:00:36+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-16T02:51:35+00:00",
+   "last_success": "2026-11-16T02:51:35+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 66,
    "fingerprint": "fdff75f9617b62ad",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T02:51:35+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 66,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T01:00:36+00:00",
      "status": "new",
@@ -2760,16 +2770,6 @@
        "date": "2026.11.29 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-13T15:00:41+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -6973,15 +6973,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T01:00:37+00:00",
-   "last_success": "2026-11-16T01:00:37+00:00",
+   "last_check": "2026-11-16T02:51:36+00:00",
+   "last_success": "2026-11-16T02:51:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 14,
-   "fingerprint": "268c4671f5fc3b76",
+   "item_count": 16,
+   "fingerprint": "dfe60e919ed42d31",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T02:51:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T01:00:37+00:00",
      "status": "ok",
@@ -7264,16 +7274,6 @@
     },
     {
      "at": "2026-11-13T17:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T15:03:08+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10858,17 +10858,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262507",
      "date": "",
      "first_seen": "2026-11-13T11:00:42+00:00"
+    },
+    "5f1fabfcfa7486dd": {
+     "title": "SK플라즈마 튀르키예 주재원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262511",
+     "date": "",
+     "first_seen": "2026-11-16T02:51:40+00:00"
+    },
+    "7f0cea3b70c97a9c": {
+     "title": "전기차 충전기 H/W 평가 담당 (3년이상)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262510",
+     "date": "",
+     "first_seen": "2026-11-16T02:51:40+00:00"
     }
    },
-   "last_check": "2026-11-16T01:00:43+00:00",
-   "last_success": "2026-11-16T01:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-16T02:51:40+00:00",
+   "last_success": "2026-11-16T02:51:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 142,
-   "fingerprint": "c2aa315b25898d4d",
+   "item_count": 144,
+   "fingerprint": "3a61466369ec898c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T02:51:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 튀르키예 주재원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262511",
+       "date": ""
+      },
+      {
+       "title": "전기차 충전기 H/W 평가 담당 (3년이상)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262510",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-16T01:00:43+00:00",
      "status": "ok",
@@ -11158,16 +11191,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T15:03:11+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11184,7 +11207,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-13T11:00:42+00:00"
+   "last_new_at": "2026-11-16T02:51:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13341,17 +13364,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=391",
      "date": "20261231",
      "first_seen": "2026-11-16T01:00:44+00:00"
+    },
+    "b9c0d7cea2d14013": {
+     "title": "[계약직] 행정지원",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=268",
+     "date": "20261130",
+     "first_seen": "2026-11-16T02:51:42+00:00"
+    },
+    "d563e569ffac803b": {
+     "title": "[계약직] 남양연구소 소내 물류 운송(부품 운송)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
+     "date": "20261130",
+     "first_seen": "2026-11-16T02:51:42+00:00"
     }
    },
-   "last_check": "2026-11-16T01:00:44+00:00",
-   "last_success": "2026-11-16T01:00:44+00:00",
+   "last_check": "2026-11-16T02:51:42+00:00",
+   "last_success": "2026-11-16T02:51:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 93,
-   "fingerprint": "ccc0422bc977cc86",
+   "item_count": 95,
+   "fingerprint": "2bbb31348dde6912",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T02:51:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 행정지원",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=268",
+       "date": "20261130"
+      },
+      {
+       "title": "[계약직] 남양연구소 소내 물류 운송(부품 운송)",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
+       "date": "20261130"
+      }
+     ]
+    },
     {
      "at": "2026-11-16T01:00:44+00:00",
      "status": "new",
@@ -13812,16 +13868,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T15:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13838,7 +13884,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T01:00:44+00:00"
+   "last_new_at": "2026-11-16T02:51:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -14557,15 +14603,25 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T01:00:47+00:00",
-   "last_success": "2026-11-16T01:00:47+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-16T02:51:44+00:00",
+   "last_success": "2026-11-16T02:51:44+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 14,
    "fingerprint": "c6522c84f3760c55",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T02:51:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T01:00:47+00:00",
      "status": "new",
@@ -14865,16 +14921,6 @@
     },
     {
      "at": "2026-11-13T17:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T15:03:14+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15253,6 +15299,42 @@
     "url": "https://www.samsungcareers.com/hr/?no=23496",
     "date": "2026.11.16 ~ 2026.11.30",
     "found_at": "2026-11-16T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 튀르키예 주재원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262511",
+    "date": "",
+    "found_at": "2026-11-16T02:51:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "전기차 충전기 H/W 평가 담당 (3년이상)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262510",
+    "date": "",
+    "found_at": "2026-11-16T02:51:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 행정지원",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=268",
+    "date": "20261130",
+    "found_at": "2026-11-16T02:51:47+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 남양연구소 소내 물류 운송(부품 운송)",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
+    "date": "20261130",
+    "found_at": "2026-11-16T02:51:47+00:00"
    }
   ],
   "alerts": [],
@@ -15260,42 +15342,6 @@
   "last_sent": "2026-11-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "퍼포먼스마케팅 디지털 광고 소재 제작 디자이너",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262213",
-   "date": "",
-   "found_at": "2026-10-13T09:00:54+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(인천)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19971",
-   "date": "2026.10.27 15:00",
-   "found_at": "2026-10-13T13:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(서울)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19970",
-   "date": "2026.10.27 15:00",
-   "found_at": "2026-10-13T13:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(울산)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19969",
-   "date": "2026.10.27 15:00",
-   "found_at": "2026-10-13T13:00:50+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -19759,6 +19805,42 @@
    "url": "https://www.samsungcareers.com/hr/?no=23496",
    "date": "2026.11.16 ~ 2026.11.30",
    "found_at": "2026-11-16T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 튀르키예 주재원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262511",
+   "date": "",
+   "found_at": "2026-11-16T02:51:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "전기차 충전기 H/W 평가 담당 (3년이상)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262510",
+   "date": "",
+   "found_at": "2026-11-16T02:51:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 행정지원",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=268",
+   "date": "20261130",
+   "found_at": "2026-11-16T02:51:47+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 남양연구소 소내 물류 운송(부품 운송)",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
+   "date": "20261130",
+   "found_at": "2026-11-16T02:51:47+00:00"
   }
  ]
 }
