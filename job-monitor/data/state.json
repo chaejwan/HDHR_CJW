@@ -2464,8 +2464,8 @@
      "first_seen": "2026-11-16T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-16T15:00:42+00:00",
-   "last_success": "2026-11-16T15:00:42+00:00",
+   "last_check": "2026-11-16T17:00:48+00:00",
+   "last_success": "2026-11-16T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2473,6 +2473,16 @@
    "fingerprint": "39a58a5ac94f897e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T15:00:42+00:00",
      "status": "ok",
@@ -2793,16 +2803,6 @@
     },
     {
      "at": "2026-11-14T07:00:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T05:00:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7013,8 +7013,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T15:00:43+00:00",
-   "last_success": "2026-11-16T15:00:43+00:00",
+   "last_check": "2026-11-16T17:00:49+00:00",
+   "last_success": "2026-11-16T17:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7022,6 +7022,16 @@
    "fingerprint": "4f71941b10c2c6ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T17:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T15:00:43+00:00",
      "status": "ok",
@@ -7304,16 +7314,6 @@
     },
     {
      "at": "2026-11-14T07:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T05:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10994,17 +10994,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262523",
      "date": "",
      "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "857247d1b08cbd15": {
+     "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262526",
+     "date": "",
+     "first_seen": "2026-11-16T17:00:51+00:00"
     }
    },
-   "last_check": "2026-11-16T15:00:48+00:00",
-   "last_success": "2026-11-16T15:00:48+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-16T17:00:51+00:00",
+   "last_success": "2026-11-16T17:00:51+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 151,
-   "fingerprint": "faad642fbcbddadd",
+   "item_count": 152,
+   "fingerprint": "5e1fa32dabc93ac2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T17:00:51+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 152,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262526",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-16T15:00:48+00:00",
      "status": "ok",
@@ -11377,16 +11399,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T05:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11403,7 +11415,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T09:00:44+00:00"
+   "last_new_at": "2026-11-16T17:00:51+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13580,15 +13592,25 @@
      "first_seen": "2026-11-16T07:00:45+00:00"
     }
    },
-   "last_check": "2026-11-16T15:00:49+00:00",
-   "last_success": "2026-11-16T15:00:49+00:00",
+   "last_check": "2026-11-16T17:00:52+00:00",
+   "last_success": "2026-11-16T17:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "b628a74bdc4d720f",
+   "fingerprint": "8df0033dd9550410",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T17:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T15:00:49+00:00",
      "status": "ok",
@@ -14059,16 +14081,6 @@
     },
     {
      "at": "2026-11-14T07:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T05:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14811,8 +14823,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T15:00:51+00:00",
-   "last_success": "2026-11-16T15:00:51+00:00",
+   "last_check": "2026-11-16T17:00:55+00:00",
+   "last_success": "2026-11-16T17:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14820,6 +14832,16 @@
    "fingerprint": "3ce57793a566b7a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T17:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T15:00:51+00:00",
      "status": "ok",
@@ -15119,16 +15141,6 @@
     },
     {
      "at": "2026-11-14T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T05:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15714,6 +15726,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262523",
     "date": "",
     "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262526",
+    "date": "",
+    "found_at": "2026-11-16T17:00:58+00:00"
    }
   ],
   "alerts": [],
@@ -15721,15 +15742,6 @@
   "last_sent": "2026-11-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262231",
-   "date": "",
-   "found_at": "2026-10-14T01:59:20+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20220,6 +20232,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262523",
    "date": "",
    "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262526",
+   "date": "",
+   "found_at": "2026-11-16T17:00:58+00:00"
   }
  ]
 }
