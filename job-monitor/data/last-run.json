@@ -1,43 +1,32 @@
 {
- "at": "2026-11-16T07:00:50+00:00",
+ "at": "2026-11-16T09:00:51+00:00",
  "checked": 5,
- "new_total": 7,
+ "new_total": 10,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 52건 · 점검 0건). 11-17 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 62건 · 점검 0건). 11-17 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 52,
+  "items": 62,
   "alerts": 0,
   "since": "2026-11-16T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43820728269",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/43835919511",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 70,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화생명] 법인사업부 '퇴직연금 사업기획 및 운영' 전문인력 경력채용(과장~차장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20190",
-     "date": "2026.11.30 15:00"
-    },
-    {
-     "title": "[한화생명] 법인사업부 '퇴직연금 DC/IRP 영업 담당' 전문인력 경력채용(대리~과장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20188",
-     "date": "2026.11.30 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,29 +46,59 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 149,
+   "item_count": 157,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집",
+     "title": "통계 및 사무지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+     "date": ""
+    },
+    {
+     "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262525",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262519",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
      "url": "https://www.skcareers.com/Recruit/Detail/R262323",
      "date": ""
     },
     {
-     "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집",
+     "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
      "url": "https://www.skcareers.com/Recruit/Detail/R262517",
      "date": ""
     },
     {
-     "title": "컨설팅 프로젝트 PMO (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262518",
+     "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262520",
      "date": ""
     },
     {
-     "title": "보안 기술 엔지니어",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262516",
+     "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262521",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262522",
+     "date": ""
+    },
+    {
+     "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262524",
+     "date": ""
+    },
+    {
+     "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262523",
      "date": ""
     }
    ]
@@ -89,18 +108,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
-   "item_count": 96,
+   "status": "ok",
+   "item_count": 95,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 광주하이테크센터 고객응대 및 수납",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=269",
-     "date": "20261129"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
@@ -108,7 +121,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 14,
+   "item_count": 10,
    "method": "pattern",
    "note": "",
    "error": "",

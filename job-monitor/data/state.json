@@ -2464,15 +2464,25 @@
      "first_seen": "2026-11-16T07:00:39+00:00"
     }
    },
-   "last_check": "2026-11-16T07:00:39+00:00",
-   "last_success": "2026-11-16T07:00:39+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-16T09:00:38+00:00",
+   "last_success": "2026-11-16T09:00:38+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 70,
    "fingerprint": "39a58a5ac94f897e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T09:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 70,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T07:00:39+00:00",
      "status": "new",
@@ -2798,16 +2808,6 @@
      "new_count": 0,
      "item_count": 88,
      "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T21:00:39+00:00",
-     "status": "error",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 0,
-     "error": "응답 시간 초과 (45초) (3회 시도)",
      "note": "",
      "new": []
     }
@@ -7013,8 +7013,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T07:00:40+00:00",
-   "last_success": "2026-11-16T07:00:40+00:00",
+   "last_check": "2026-11-16T09:00:39+00:00",
+   "last_success": "2026-11-16T09:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7022,6 +7022,16 @@
    "fingerprint": "dfe60e919ed42d31",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T07:00:40+00:00",
      "status": "ok",
@@ -7304,16 +7314,6 @@
     },
     {
      "at": "2026-11-13T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T21:03:07+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10934,17 +10934,138 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262516",
      "date": "",
      "first_seen": "2026-11-16T07:00:44+00:00"
+    },
+    "11ca1ce879ff3a36": {
+     "title": "통계 및 사무지원 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "650605bbd0c9f2a5": {
+     "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262525",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "94809655691e161f": {
+     "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262519",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "7934c440d04e54a4": {
+     "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262323",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "99110a03e9cc3fca": {
+     "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262517",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "3733f03e1b13be13": {
+     "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262520",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "bce6843aaf206fa8": {
+     "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262521",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "c74e07d5b88b9aa5": {
+     "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262522",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "5c18277525e4858f": {
+     "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262524",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
+    },
+    "c077b2d5e45fb2aa": {
+     "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262523",
+     "date": "",
+     "first_seen": "2026-11-16T09:00:44+00:00"
     }
    },
-   "last_check": "2026-11-16T07:00:44+00:00",
-   "last_success": "2026-11-16T07:00:44+00:00",
+   "last_check": "2026-11-16T09:00:44+00:00",
+   "last_success": "2026-11-16T09:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 149,
-   "fingerprint": "48fa4a0acb96319c",
+   "item_count": 157,
+   "fingerprint": "b264d10a489df762",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T09:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 10,
+     "item_count": 157,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "통계 및 사무지원 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+       "date": ""
+      },
+      {
+       "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262525",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262519",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262323",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262517",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262520",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262521",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262522",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262524",
+       "date": ""
+      },
+      {
+       "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262523",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-16T07:00:44+00:00",
      "status": "new",
@@ -11266,16 +11387,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T21:03:12+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11292,7 +11403,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T07:00:44+00:00"
+   "last_new_at": "2026-11-16T09:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13469,15 +13580,25 @@
      "first_seen": "2026-11-16T07:00:45+00:00"
     }
    },
-   "last_check": "2026-11-16T07:00:45+00:00",
-   "last_success": "2026-11-16T07:00:45+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-16T09:00:45+00:00",
+   "last_success": "2026-11-16T09:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 96,
-   "fingerprint": "e161b5de90685f0e",
+   "item_count": 95,
+   "fingerprint": "84b2c28500b03d94",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T09:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T07:00:45+00:00",
      "status": "new",
@@ -13955,26 +14076,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T21:03:14+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
     "[계약직] 울산공장 홍보사원",
     "[계약직] 연구소 정부과제 행정업무 지원",
     "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)",
-    "[계약직] 행정지원 (장애인 제한경쟁)"
+    "[계약직] 행정지원 (장애인 제한경쟁)",
+    "[계약직] Recruiting Coordinator (글로벌 인재 채용 운영)"
    ],
    "health": {
     "issue": "",
@@ -14700,15 +14811,25 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T07:00:47+00:00",
-   "last_success": "2026-11-16T07:00:47+00:00",
+   "last_check": "2026-11-16T09:00:48+00:00",
+   "last_success": "2026-11-16T09:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 14,
+   "item_count": 10,
    "fingerprint": "c6522c84f3760c55",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T09:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T07:00:47+00:00",
      "status": "ok",
@@ -15008,16 +15129,6 @@
     },
     {
      "at": "2026-11-13T23:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T21:03:18+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15513,6 +15624,96 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=269",
     "date": "20261129",
     "found_at": "2026-11-16T07:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "통계 및 사무지원 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262525",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262519",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262323",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262517",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262520",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262521",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262522",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262524",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262523",
+    "date": "",
+    "found_at": "2026-11-16T09:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -15520,96 +15721,6 @@
   "last_sent": "2026-11-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "조직도입마케터",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19972",
-   "date": "2026.10.19 15:00",
-   "found_at": "2026-10-13T23:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "경력직 채용_상품전략팀",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19964",
-   "date": "2026.10.28 15:00",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "2026년 하반기 SK이노베이션계열 신입사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262183",
-   "date": "",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK온 기계/전기 설비 관리 기술직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262203",
-   "date": "",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 EPI기술 엔지니어 사무직 경력 수시 채용_청주공장",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262227",
-   "date": "",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 Metrology & Inspection Tool 엔지니어 사무직 경력 수시 채용_청주공장",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262228",
-   "date": "",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 EPI Cleaner 엔지니어 사무직 경력 수시 채용_청주공장",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262229",
-   "date": "",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[아르바이트] 사내 문서 데이터 정비/이관",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=89",
-   "date": "20261026",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "삼성SDI 경력사원 채용(중대형사업부, 소형사업부, AX/PI센터)",
-   "url": "https://www.samsungcareers.com/hr/?no=23324",
-   "date": "2026.10.14 ~ 2026.10.23",
-   "found_at": "2026-10-14T01:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262233",
-   "date": "",
-   "found_at": "2026-10-14T01:59:20+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20019,6 +20130,96 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=269",
    "date": "20261129",
    "found_at": "2026-11-16T07:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "통계 및 사무지원 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262525",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262519",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262323",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262517",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262520",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262521",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262522",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262524",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262523",
+   "date": "",
+   "found_at": "2026-11-16T09:00:51+00:00"
   }
  ]
 }
