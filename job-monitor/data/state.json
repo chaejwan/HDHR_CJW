@@ -2438,17 +2438,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19712",
      "date": "2026.11.29 23:59",
      "first_seen": "2026-11-16T01:00:36+00:00"
+    },
+    "caa3c80c01e1b62c": {
+     "title": "[상선사업부] 구매 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20187",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-11-16T05:00:42+00:00"
+    },
+    "aa45be6bccd1126c": {
+     "title": "[상선사업부] 설계 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20185",
+     "date": "2026.12.31 23:59",
+     "first_seen": "2026-11-16T05:00:42+00:00"
     }
    },
-   "last_check": "2026-11-16T02:51:35+00:00",
-   "last_success": "2026-11-16T02:51:35+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-16T05:00:42+00:00",
+   "last_success": "2026-11-16T05:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 66,
-   "fingerprint": "fdff75f9617b62ad",
+   "item_count": 68,
+   "fingerprint": "631ef76899c744e8",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T05:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 68,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[상선사업부] 구매 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20187",
+       "date": "2026.12.31 23:59"
+      },
+      {
+       "title": "[상선사업부] 설계 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20185",
+       "date": "2026.12.31 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-16T02:51:35+00:00",
      "status": "ok",
@@ -2754,22 +2787,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-13T17:00:48+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "한화시스템 보안담당·기술보호책임자 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20184",
-       "date": "2026.11.29 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -2786,7 +2803,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T01:00:36+00:00"
+   "last_new_at": "2026-11-16T05:00:42+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -6973,8 +6990,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T02:51:36+00:00",
-   "last_success": "2026-11-16T02:51:36+00:00",
+   "last_check": "2026-11-16T05:00:43+00:00",
+   "last_success": "2026-11-16T05:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -6982,6 +6999,16 @@
    "fingerprint": "dfe60e919ed42d31",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T05:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T02:51:36+00:00",
      "status": "ok",
@@ -7264,16 +7291,6 @@
     },
     {
      "at": "2026-11-13T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T17:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -10872,15 +10889,25 @@
      "first_seen": "2026-11-16T02:51:40+00:00"
     }
    },
-   "last_check": "2026-11-16T02:51:40+00:00",
-   "last_success": "2026-11-16T02:51:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-16T05:00:45+00:00",
+   "last_success": "2026-11-16T05:00:45+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 144,
-   "fingerprint": "3a61466369ec898c",
+   "item_count": 145,
+   "fingerprint": "a7bd0d35f2cc8c79",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T05:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 145,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T02:51:40+00:00",
      "status": "new",
@@ -11174,16 +11201,6 @@
     },
     {
      "at": "2026-11-13T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T17:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13378,15 +13395,25 @@
      "first_seen": "2026-11-16T02:51:42+00:00"
     }
    },
-   "last_check": "2026-11-16T02:51:42+00:00",
-   "last_success": "2026-11-16T02:51:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-16T05:00:46+00:00",
+   "last_success": "2026-11-16T05:00:46+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "2bbb31348dde6912",
+   "fingerprint": "0c4d1bf3ca685eb0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T05:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T02:51:42+00:00",
      "status": "new",
@@ -13851,16 +13878,6 @@
     },
     {
      "at": "2026-11-13T19:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T17:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14603,8 +14620,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T02:51:44+00:00",
-   "last_success": "2026-11-16T02:51:44+00:00",
+   "last_check": "2026-11-16T05:00:49+00:00",
+   "last_success": "2026-11-16T05:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14612,6 +14629,16 @@
    "fingerprint": "c6522c84f3760c55",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-16T05:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 14,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T02:51:44+00:00",
      "status": "ok",
@@ -14911,16 +14938,6 @@
     },
     {
      "at": "2026-11-13T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-13T17:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15335,6 +15352,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
     "date": "20261130",
     "found_at": "2026-11-16T02:51:47+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[상선사업부] 구매 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20187",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-11-16T05:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[상선사업부] 설계 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20185",
+    "date": "2026.12.31 23:59",
+    "found_at": "2026-11-16T05:00:51+00:00"
    }
   ],
   "alerts": [],
@@ -15342,24 +15377,6 @@
   "last_sent": "2026-11-15T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화손해보험(주) 계약직 채용 - GA지점 총무 채용(포항)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19968",
-   "date": "2026.10.27 15:00",
-   "found_at": "2026-10-13T13:00:50+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Procurement 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262212",
-   "date": "",
-   "found_at": "2026-10-13T13:00:50+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19841,6 +19858,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
    "date": "20261130",
    "found_at": "2026-11-16T02:51:47+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[상선사업부] 구매 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20187",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-11-16T05:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[상선사업부] 설계 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20185",
+   "date": "2026.12.31 23:59",
+   "found_at": "2026-11-16T05:00:51+00:00"
   }
  ]
 }
