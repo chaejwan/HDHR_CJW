@@ -2542,8 +2542,8 @@
      "first_seen": "2026-11-17T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-17T13:00:41+00:00",
-   "last_success": "2026-11-17T13:00:41+00:00",
+   "last_check": "2026-11-17T15:00:43+00:00",
+   "last_success": "2026-11-17T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2551,6 +2551,16 @@
    "fingerprint": "9f75a48df0423200",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T13:00:41+00:00",
      "status": "ok",
@@ -2940,16 +2950,6 @@
     },
     {
      "at": "2026-11-15T05:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-15T03:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7160,15 +7160,25 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-17T13:00:42+00:00",
-   "last_success": "2026-11-17T13:00:42+00:00",
+   "last_check": "2026-11-17T15:00:44+00:00",
+   "last_success": "2026-11-17T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 16,
-   "fingerprint": "4f71941b10c2c6ca",
+   "fingerprint": "2fb831ba2197192d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T13:00:42+00:00",
      "status": "ok",
@@ -7451,16 +7461,6 @@
     },
     {
      "at": "2026-11-15T05:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-15T03:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11201,17 +11201,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262513",
      "date": "",
      "first_seen": "2026-11-17T11:00:51+00:00"
+    },
+    "25d7871654fe6b5b": {
+     "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262534",
+     "date": "",
+     "first_seen": "2026-11-17T15:00:55+00:00"
+    },
+    "e5d0e19472f4b13a": {
+     "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262535",
+     "date": "",
+     "first_seen": "2026-11-17T15:00:55+00:00"
     }
    },
-   "last_check": "2026-11-17T13:00:47+00:00",
-   "last_success": "2026-11-17T13:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-17T15:00:55+00:00",
+   "last_success": "2026-11-17T15:00:55+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 160,
-   "fingerprint": "ce2c434a45b22082",
+   "fingerprint": "f0867a0489563d25",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T15:00:55+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262534",
+       "date": ""
+      },
+      {
+       "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262535",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-17T13:00:47+00:00",
      "status": "ok",
@@ -11639,33 +11672,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-15T03:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
-    "Digital Twin 사업 PM/PL 영입 (계약직)",
     "SK플라즈마 제조관리 약사 채용",
     "이동전화 품질측정 및 업무지원 담당자",
-    "SK키파운드리 RTD/RTS Engineer 분야 경력 채용"
+    "SK키파운드리 RTD/RTS Engineer 분야 경력 채용",
+    "AI Agent 엔지니어 영입",
+    "AI Data 엔지니어 영입"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-17T11:00:51+00:00"
+   "last_new_at": "2026-11-17T15:00:55+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13848,15 +13871,25 @@
      "first_seen": "2026-11-17T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-17T13:00:49+00:00",
-   "last_success": "2026-11-17T13:00:49+00:00",
+   "last_check": "2026-11-17T15:00:57+00:00",
+   "last_success": "2026-11-17T15:00:57+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "8779b758d992ce41",
+   "fingerprint": "a4f04dd1509c2c57",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T15:00:57+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T13:00:49+00:00",
      "status": "ok",
@@ -14333,16 +14366,6 @@
     },
     {
      "at": "2026-11-15T05:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-15T03:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15085,15 +15108,25 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-17T13:00:51+00:00",
-   "last_success": "2026-11-17T13:00:51+00:00",
+   "last_check": "2026-11-17T15:01:00+00:00",
+   "last_success": "2026-11-17T15:01:00+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 9,
-   "fingerprint": "3ce57793a566b7a1",
+   "fingerprint": "31615243ca5df942",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T15:01:00+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T13:00:51+00:00",
      "status": "ok",
@@ -15400,16 +15433,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-15T03:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15637,6 +15660,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262513",
     "date": "",
     "found_at": "2026-11-17T11:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262534",
+    "date": "",
+    "found_at": "2026-11-17T15:01:01+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262535",
+    "date": "",
+    "found_at": "2026-11-17T15:01:01+00:00"
    }
   ],
   "alerts": [],
@@ -15644,24 +15685,6 @@
   "last_sent": "2026-11-16T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "태양광 발전사업 현장 인허가 및 대외협력",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=384",
-   "date": "20261029",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "실내건축 공간기획",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=368",
-   "date": "20261029",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -20143,6 +20166,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262513",
    "date": "",
    "found_at": "2026-11-17T11:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262534",
+   "date": "",
+   "found_at": "2026-11-17T15:01:01+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262535",
+   "date": "",
+   "found_at": "2026-11-17T15:01:01+00:00"
   }
  ]
 }
