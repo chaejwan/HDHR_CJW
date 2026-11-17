@@ -2462,17 +2462,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20188",
      "date": "2026.11.30 15:00",
      "first_seen": "2026-11-16T07:00:39+00:00"
+    },
+    "dde0da0af3caae4c": {
+     "title": "[한화투자증권] FICC파생운용팀 경력직채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20193",
+     "date": "2026.11.30 15:00",
+     "first_seen": "2026-11-17T01:00:41+00:00"
     }
    },
-   "last_check": "2026-11-16T23:00:40+00:00",
-   "last_success": "2026-11-16T23:00:40+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-17T01:00:41+00:00",
+   "last_success": "2026-11-17T01:00:41+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 70,
-   "fingerprint": "39a58a5ac94f897e",
+   "item_count": 71,
+   "fingerprint": "b67557ff3d57f8e0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T01:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 71,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] FICC파생운용팀 경력직채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20193",
+       "date": "2026.11.30 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-16T23:00:40+00:00",
      "status": "ok",
@@ -2800,16 +2822,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T13:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -2826,7 +2838,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T07:00:39+00:00"
+   "last_new_at": "2026-11-17T01:00:41+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7013,8 +7025,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-16T23:00:41+00:00",
-   "last_success": "2026-11-16T23:00:41+00:00",
+   "last_check": "2026-11-17T01:00:41+00:00",
+   "last_success": "2026-11-17T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7022,6 +7034,16 @@
    "fingerprint": "4f71941b10c2c6ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T23:00:41+00:00",
      "status": "ok",
@@ -7304,16 +7326,6 @@
     },
     {
      "at": "2026-11-14T15:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T13:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11000,17 +11012,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262526",
      "date": "",
      "first_seen": "2026-11-16T17:00:51+00:00"
+    },
+    "c18c5a6de755b8ec": {
+     "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262528",
+     "date": "",
+     "first_seen": "2026-11-17T01:00:44+00:00"
     }
    },
-   "last_check": "2026-11-16T23:00:47+00:00",
-   "last_success": "2026-11-16T23:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-17T01:00:44+00:00",
+   "last_success": "2026-11-17T01:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 152,
-   "fingerprint": "5e1fa32dabc93ac2",
+   "item_count": 153,
+   "fingerprint": "ecc69aca899ddb80",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T01:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 153,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262528",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-16T23:00:47+00:00",
      "status": "ok",
@@ -11389,16 +11423,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11415,7 +11439,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T17:00:51+00:00"
+   "last_new_at": "2026-11-17T01:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13592,15 +13616,25 @@
      "first_seen": "2026-11-16T07:00:45+00:00"
     }
    },
-   "last_check": "2026-11-16T23:00:48+00:00",
-   "last_success": "2026-11-16T23:00:48+00:00",
+   "last_check": "2026-11-17T01:00:45+00:00",
+   "last_success": "2026-11-17T01:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 95,
-   "fingerprint": "723ca62c30b10926",
+   "fingerprint": "52e5a9af57500dac",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T01:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 95,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T23:00:48+00:00",
      "status": "ok",
@@ -14071,16 +14105,6 @@
     },
     {
      "at": "2026-11-14T15:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T13:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14823,8 +14847,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-16T23:00:51+00:00",
-   "last_success": "2026-11-16T23:00:51+00:00",
+   "last_check": "2026-11-17T01:00:47+00:00",
+   "last_success": "2026-11-17T01:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14832,6 +14856,16 @@
    "fingerprint": "3ce57793a566b7a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T01:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-16T23:00:51+00:00",
      "status": "ok",
@@ -15138,16 +15172,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T13:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15168,30 +15192,31 @@
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] FICC파생운용팀 경력직채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20193",
+    "date": "2026.11.30 15:00",
+    "found_at": "2026-11-17T01:00:49+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262528",
+    "date": "",
+    "found_at": "2026-11-17T01:00:49+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-17T01:00:49+00:00",
   "last_sent": "2026-11-16T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[영광] 수입 검사 담당 (경력)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262232",
-   "date": "",
-   "found_at": "2026-10-14T01:59:20+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 통합방공솔루션 개발 부문 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19973",
-   "date": "2026.11.01 23:59",
-   "found_at": "2026-10-14T03:00:51+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19673,6 +19698,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262526",
    "date": "",
    "found_at": "2026-11-16T17:00:58+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] FICC파생운용팀 경력직채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20193",
+   "date": "2026.11.30 15:00",
+   "found_at": "2026-11-17T01:00:49+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 Global PJT 담당 기술지원 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262528",
+   "date": "",
+   "found_at": "2026-11-17T01:00:49+00:00"
   }
  ]
 }
