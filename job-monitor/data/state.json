@@ -2474,17 +2474,116 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20178",
      "date": "2026.11.22 23:59",
      "first_seen": "2026-11-17T05:00:39+00:00"
+    },
+    "a3bf49cffd5057ea": {
+     "title": "(주)한화 글로벌부문 여수사업장 전문직(품질) 신입사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20192",
+     "date": "2026.11.25 23:00",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "f3c10df0d897fdfd": {
+     "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20204",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "a2d2bb44b8eddd51": {
+     "title": "ERP 컨설턴트 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20203",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "b2dc90de953fb3d9": {
+     "title": "AX 전략기획 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20201",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "972a4514ea205832": {
+     "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20200",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "ee804e19f8d0d672": {
+     "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20198",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "077117eba34cae9f": {
+     "title": "AI Agent Project Manager 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20197",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
+    },
+    "c8c78b391ae46010": {
+     "title": "VLM Project Manager 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196",
+     "date": "2026.11.29 23:59",
+     "first_seen": "2026-11-17T07:00:36+00:00"
     }
    },
-   "last_check": "2026-11-17T05:00:39+00:00",
-   "last_success": "2026-11-17T05:00:39+00:00",
+   "last_check": "2026-11-17T07:00:36+00:00",
+   "last_success": "2026-11-17T07:00:36+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 72,
-   "fingerprint": "91f48c5d88576af8",
+   "item_count": 78,
+   "fingerprint": "c5c71a6ce08cfce9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T07:00:36+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 8,
+     "item_count": 78,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화 글로벌부문 여수사업장 전문직(품질) 신입사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20192",
+       "date": "2026.11.25 23:00"
+      },
+      {
+       "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20204",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "ERP 컨설턴트 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20203",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "AX 전략기획 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20201",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20200",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20198",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "AI Agent Project Manager 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20197",
+       "date": "2026.11.29 23:59"
+      },
+      {
+       "title": "VLM Project Manager 경력사원 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196",
+       "date": "2026.11.29 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-17T05:00:39+00:00",
      "status": "new",
@@ -2824,33 +2923,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T19:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화손보(주) 경력직 채용 - 방재컨설팅",
-    "경력직 채용_대체투자RM팀",
     "한화솔루션 인사이트 PLS사업부 디지털 헬스케어 서비스 기획",
     "[한화투자증권] AI팀_AI프로덕트 개발 직무 경력 채용",
-    "[한화투자증권] AI팀_AI서비스 기획 직무 경력 채용"
+    "[한화투자증권] AI팀_AI서비스 기획 직무 경력 채용",
+    "경력직 채용_실물투자팀",
+    "[한화에어로스페이스] 항공사업부 전문직 신입 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-17T05:00:39+00:00"
+   "last_new_at": "2026-11-17T07:00:36+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7037,8 +7126,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-17T05:00:40+00:00",
-   "last_success": "2026-11-17T05:00:40+00:00",
+   "last_check": "2026-11-17T07:00:37+00:00",
+   "last_success": "2026-11-17T07:00:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7046,6 +7135,16 @@
    "fingerprint": "4f71941b10c2c6ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T07:00:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T05:00:40+00:00",
      "status": "ok",
@@ -7328,16 +7427,6 @@
     },
     {
      "at": "2026-11-14T21:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T19:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11036,17 +11125,94 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262527",
      "date": "",
      "first_seen": "2026-11-17T03:00:46+00:00"
+    },
+    "30d9e129ccfa273f": {
+     "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262530",
+     "date": "",
+     "first_seen": "2026-11-17T07:00:40+00:00"
+    },
+    "1fe36028002f1387": {
+     "title": "Facility Engineering (설비 운영 및 고압가스 안전관리) 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262512",
+     "date": "",
+     "first_seen": "2026-11-17T07:00:40+00:00"
+    },
+    "fb9a20836f247efc": {
+     "title": "Corportate Planning (경영기획) 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+     "date": "",
+     "first_seen": "2026-11-17T07:00:40+00:00"
+    },
+    "3ae5ea7817d6de79": {
+     "title": "AX Engineering (AI Application 개발) 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262529",
+     "date": "",
+     "first_seen": "2026-11-17T07:00:40+00:00"
+    },
+    "8307f16fbb11f57e": {
+     "title": "2027년 상반기 SK가스 기술엔지니어(설비기술) 채용연계형 인턴 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262531",
+     "date": "",
+     "first_seen": "2026-11-17T07:00:40+00:00"
+    },
+    "7bd52eae17cc3771": {
+     "title": "[경력] SK바이오텍 Microbiology QA Specialist 경력사원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262532",
+     "date": "",
+     "first_seen": "2026-11-17T07:00:40+00:00"
     }
    },
-   "last_check": "2026-11-17T05:00:43+00:00",
-   "last_success": "2026-11-17T05:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-17T07:00:40+00:00",
+   "last_success": "2026-11-17T07:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 155,
-   "fingerprint": "30e130c494416f06",
+   "item_count": 160,
+   "fingerprint": "35634cdac7012f1c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T07:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 6,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262530",
+       "date": ""
+      },
+      {
+       "title": "Facility Engineering (설비 운영 및 고압가스 안전관리) 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262512",
+       "date": ""
+      },
+      {
+       "title": "Corportate Planning (경영기획) 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+       "date": ""
+      },
+      {
+       "title": "AX Engineering (AI Application 개발) 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262529",
+       "date": ""
+      },
+      {
+       "title": "2027년 상반기 SK가스 기술엔지니어(설비기술) 채용연계형 인턴 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262531",
+       "date": ""
+      },
+      {
+       "title": "[경력] SK바이오텍 Microbiology QA Specialist 경력사원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262532",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-17T05:00:43+00:00",
      "status": "ok",
@@ -11437,33 +11603,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T19:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[11월] Talent hy-way (Maintenance/Operator)",
     "SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가 영입",
     "Digital Twin 사업 PM/PL 영입 (계약직)",
     "SK플라즈마 제조관리 약사 채용",
-    "이동전화 품질측정 및 업무지원 담당자"
+    "이동전화 품질측정 및 업무지원 담당자",
+    "SK키파운드리 RTD/RTS Engineer 분야 경력 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-17T03:00:46+00:00"
+   "last_new_at": "2026-11-17T07:00:40+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13638,17 +13794,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=269",
      "date": "20261129",
      "first_seen": "2026-11-16T07:00:45+00:00"
+    },
+    "74667ad4cf65f551": {
+     "title": "[계약직] 시화하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=271",
+     "date": "20261130",
+     "first_seen": "2026-11-17T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-17T05:00:44+00:00",
-   "last_success": "2026-11-17T05:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-17T07:00:42+00:00",
+   "last_success": "2026-11-17T07:00:42+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 96,
-   "fingerprint": "ed3cb1d5d7d94b49",
+   "item_count": 97,
+   "fingerprint": "237806f94530e76d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T07:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 시화하이테크센터 고객응대 및 수납",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=271",
+       "date": "20261130"
+      }
+     ]
+    },
     {
      "at": "2026-11-17T05:00:44+00:00",
      "status": "ok",
@@ -14126,16 +14304,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14152,7 +14320,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-16T07:00:45+00:00"
+   "last_new_at": "2026-11-17T07:00:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -14871,8 +15039,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-17T05:00:46+00:00",
-   "last_success": "2026-11-17T05:00:46+00:00",
+   "last_check": "2026-11-17T07:00:44+00:00",
+   "last_success": "2026-11-17T07:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14880,6 +15048,16 @@
    "fingerprint": "3ce57793a566b7a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T05:00:46+00:00",
      "status": "ok",
@@ -15186,16 +15364,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15252,6 +15420,141 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20178",
     "date": "2026.11.22 23:59",
     "found_at": "2026-11-17T05:00:48+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 여수사업장 전문직(품질) 신입사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20192",
+    "date": "2026.11.25 23:00",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20204",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "ERP 컨설턴트 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20203",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "AX 전략기획 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20201",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20200",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20198",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "AI Agent Project Manager 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20197",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "VLM Project Manager 경력사원 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196",
+    "date": "2026.11.29 23:59",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262530",
+    "date": "",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Facility Engineering (설비 운영 및 고압가스 안전관리) 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262512",
+    "date": "",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Corportate Planning (경영기획) 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+    "date": "",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "AX Engineering (AI Application 개발) 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262529",
+    "date": "",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2027년 상반기 SK가스 기술엔지니어(설비기술) 채용연계형 인턴 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262531",
+    "date": "",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[경력] SK바이오텍 Microbiology QA Specialist 경력사원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262532",
+    "date": "",
+    "found_at": "2026-11-17T07:00:46+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 시화하이테크센터 고객응대 및 수납",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=271",
+    "date": "20261130",
+    "found_at": "2026-11-17T07:00:46+00:00"
    }
   ],
   "alerts": [],
@@ -15259,141 +15562,6 @@
   "last_sent": "2026-11-16T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 설비엔지니어(자동화) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262234",
-   "date": "",
-   "found_at": "2026-10-14T05:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 설비엔지니어(생산/유틸리티) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262235",
-   "date": "",
-   "found_at": "2026-10-14T05:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 설비엔지니어(기계/배관) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262237",
-   "date": "",
-   "found_at": "2026-10-14T05:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 설비엔지니어(전기/계장) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262239",
-   "date": "",
-   "found_at": "2026-10-14T05:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 설비엔지니어(공장/자동화) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262240",
-   "date": "",
-   "found_at": "2026-10-14T05:00:48+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명] 브랜드전략팀 '브랜드 디자인' 경력채용 (대리-과장급)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19975",
-   "date": "2026.10.27 15:00",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] 2D/3D 장면 재구성 엔지니어 신입 인재 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262241",
-   "date": "",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] 개발 PM 경력 인재 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262243",
-   "date": "",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[경력] SK바이오텍 공정엔지니어(공정/자동화) 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262240",
-   "date": "",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "DevSecOps 엔지니어",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262206",
-   "date": "",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "개인정보보호 전문가",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262207",
-   "date": "",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-   "date": "",
-   "found_at": "2026-10-14T07:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트/삼강에스앤씨] 장애인 구성원 모집(재택근무)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262244",
-   "date": "",
-   "found_at": "2026-10-14T09:00:54+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK오션플랜트] 경영기획 구성원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262245",
-   "date": "",
-   "found_at": "2026-10-14T09:00:54+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK케미칼] 청주공장 원가회계 담당자 경력 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262246",
-   "date": "",
-   "found_at": "2026-10-14T09:00:54+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19758,6 +19926,141 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20178",
    "date": "2026.11.22 23:59",
    "found_at": "2026-11-17T05:00:48+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 여수사업장 전문직(품질) 신입사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20192",
+   "date": "2026.11.25 23:00",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20204",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "ERP 컨설턴트 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20203",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "AX 전략기획 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20201",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20200",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20198",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "AI Agent Project Manager 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20197",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "VLM Project Manager 경력사원 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196",
+   "date": "2026.11.29 23:59",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262530",
+   "date": "",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Facility Engineering (설비 운영 및 고압가스 안전관리) 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262512",
+   "date": "",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Corportate Planning (경영기획) 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+   "date": "",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "AX Engineering (AI Application 개발) 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262529",
+   "date": "",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2027년 상반기 SK가스 기술엔지니어(설비기술) 채용연계형 인턴 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262531",
+   "date": "",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[경력] SK바이오텍 Microbiology QA Specialist 경력사원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262532",
+   "date": "",
+   "found_at": "2026-11-17T07:00:46+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 시화하이테크센터 고객응대 및 수납",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=271",
+   "date": "20261130",
+   "found_at": "2026-11-17T07:00:46+00:00"
   }
  ]
 }
