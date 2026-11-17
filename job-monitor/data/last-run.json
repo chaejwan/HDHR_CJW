@@ -1,7 +1,7 @@
 {
- "at": "2026-11-17T15:01:01+00:00",
+ "at": "2026-11-17T17:00:56+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,7 +14,7 @@
   "since": "2026-11-17T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44109395330",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44132191414",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,23 +45,12 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 160,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262534",
-     "date": ""
-    },
-    {
-     "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262535",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
