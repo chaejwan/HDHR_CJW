@@ -2542,15 +2542,25 @@
      "first_seen": "2026-11-17T09:00:38+00:00"
     }
    },
-   "last_check": "2026-11-17T09:00:38+00:00",
-   "last_success": "2026-11-17T09:00:38+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-17T11:00:43+00:00",
+   "last_success": "2026-11-17T11:00:43+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 81,
    "fingerprint": "9f75a48df0423200",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T11:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 81,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T09:00:38+00:00",
      "status": "new",
@@ -2940,16 +2950,6 @@
     },
     {
      "at": "2026-11-15T01:00:36+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T23:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7160,8 +7160,8 @@
      "first_seen": "2026-10-30T02:41:06+00:00"
     }
    },
-   "last_check": "2026-11-17T09:00:39+00:00",
-   "last_success": "2026-11-17T09:00:39+00:00",
+   "last_check": "2026-11-17T11:00:44+00:00",
+   "last_success": "2026-11-17T11:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7169,6 +7169,16 @@
    "fingerprint": "4f71941b10c2c6ca",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T11:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 16,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T09:00:39+00:00",
      "status": "ok",
@@ -7451,16 +7461,6 @@
     },
     {
      "at": "2026-11-15T01:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T23:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11195,17 +11195,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262532",
      "date": "",
      "first_seen": "2026-11-17T07:00:40+00:00"
+    },
+    "8e1632b7c5bdd88f": {
+     "title": "Corporate Planning (경영기획) 경력사원 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+     "date": "",
+     "first_seen": "2026-11-17T11:00:51+00:00"
     }
    },
-   "last_check": "2026-11-17T09:00:41+00:00",
-   "last_success": "2026-11-17T09:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-17T11:00:51+00:00",
+   "last_success": "2026-11-17T11:00:51+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 159,
-   "fingerprint": "164103c5fe8e50b6",
+   "item_count": 160,
+   "fingerprint": "ce2c434a45b22082",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T11:00:51+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Corporate Planning (경영기획) 경력사원 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-17T09:00:41+00:00",
      "status": "ok",
@@ -11627,16 +11649,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11653,7 +11665,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-17T07:00:40+00:00"
+   "last_new_at": "2026-11-17T11:00:51+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13836,15 +13848,25 @@
      "first_seen": "2026-11-17T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-17T09:00:42+00:00",
-   "last_success": "2026-11-17T09:00:42+00:00",
+   "last_check": "2026-11-17T11:00:52+00:00",
+   "last_success": "2026-11-17T11:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "7f9d9b34202fe87a",
+   "fingerprint": "418dfd0f7a382759",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T11:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T09:00:42+00:00",
      "status": "ok",
@@ -14321,16 +14343,6 @@
     },
     {
      "at": "2026-11-15T01:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 54,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-14T23:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15073,8 +15085,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-17T09:00:44+00:00",
-   "last_success": "2026-11-17T09:00:44+00:00",
+   "last_check": "2026-11-17T11:00:54+00:00",
+   "last_success": "2026-11-17T11:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15082,6 +15094,16 @@
    "fingerprint": "3ce57793a566b7a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-17T11:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-17T09:00:44+00:00",
      "status": "ok",
@@ -15388,16 +15410,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-14T23:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15616,6 +15628,15 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20206",
     "date": "2026.11.29 23:59",
     "found_at": "2026-11-17T09:00:45+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Corporate Planning (경영기획) 경력사원 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+    "date": "",
+    "found_at": "2026-11-17T11:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -15623,15 +15644,6 @@
   "last_sent": "2026-11-16T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] BSP 브링업/Interface/Agent 개발 경력 인재 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262249",
-   "date": "",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -20122,6 +20134,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20206",
    "date": "2026.11.29 23:59",
    "found_at": "2026-11-17T09:00:45+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Corporate Planning (경영기획) 경력사원 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262513",
+   "date": "",
+   "found_at": "2026-11-17T11:00:55+00:00"
   }
  ]
 }
