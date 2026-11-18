@@ -1,38 +1,32 @@
 {
- "at": "2026-11-18T07:00:52+00:00",
+ "at": "2026-11-18T09:00:55+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-19 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 11-19 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 8,
   "alerts": 0,
   "since": "2026-11-18T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44255541652",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44271899462",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 84,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화생명] 데이터전략팀 'Data Scientist' 경력채용 (대리~과장)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20213",
-     "date": "2026.12.02 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -51,30 +45,30 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 160,
+   "status": "new",
+   "item_count": 161,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "자금 담당 (8~16년차)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262541",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 99,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[아르바이트] 건강검진 업무 보조(울산공장)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=96",
-     "date": "20261202"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",

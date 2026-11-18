@@ -2572,15 +2572,25 @@
      "first_seen": "2026-11-18T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-18T07:00:41+00:00",
-   "last_success": "2026-11-18T07:00:41+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-18T09:00:48+00:00",
+   "last_success": "2026-11-18T09:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 84,
    "fingerprint": "7e29a822978aadb0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T09:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T07:00:41+00:00",
      "status": "new",
@@ -2998,16 +3008,6 @@
     },
     {
      "at": "2026-11-15T23:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 63,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-15T21:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7224,8 +7224,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-18T07:00:42+00:00",
-   "last_success": "2026-11-18T07:00:42+00:00",
+   "last_check": "2026-11-18T09:00:49+00:00",
+   "last_success": "2026-11-18T09:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7233,6 +7233,16 @@
    "fingerprint": "a80e1971a3c3b1fa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T09:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T07:00:42+00:00",
      "status": "ok",
@@ -7521,16 +7531,6 @@
     },
     {
      "at": "2026-11-15T23:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-15T21:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11283,17 +11283,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262535",
      "date": "",
      "first_seen": "2026-11-17T15:00:55+00:00"
+    },
+    "bbf039ec6f832183": {
+     "title": "자금 담당 (8~16년차)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262541",
+     "date": "",
+     "first_seen": "2026-11-18T09:00:50+00:00"
     }
    },
-   "last_check": "2026-11-18T07:00:47+00:00",
-   "last_success": "2026-11-18T07:00:47+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-18T09:00:50+00:00",
+   "last_success": "2026-11-18T09:00:50+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 160,
-   "fingerprint": "f0867a0489563d25",
+   "item_count": 161,
+   "fingerprint": "df91a8029d20e155",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T09:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "자금 담당 (8~16년차)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262541",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-18T07:00:47+00:00",
      "status": "ok",
@@ -11732,16 +11754,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-15T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 142,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11758,7 +11770,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-17T15:00:55+00:00"
+   "last_new_at": "2026-11-18T09:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13947,15 +13959,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-18T07:00:48+00:00",
-   "last_success": "2026-11-18T07:00:48+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-18T09:00:51+00:00",
+   "last_success": "2026-11-18T09:00:51+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 99,
-   "fingerprint": "4f15ed8443eae472",
+   "fingerprint": "3db87acf157d7f72",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T09:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T07:00:48+00:00",
      "status": "new",
@@ -14438,16 +14460,6 @@
     },
     {
      "at": "2026-11-15T23:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 52,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-15T21:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15190,8 +15202,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-18T07:00:51+00:00",
-   "last_success": "2026-11-18T07:00:51+00:00",
+   "last_check": "2026-11-18T09:00:54+00:00",
+   "last_success": "2026-11-18T09:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15199,6 +15211,16 @@
    "fingerprint": "31615243ca5df942",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T09:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T07:00:51+00:00",
      "status": "ok",
@@ -15505,16 +15527,6 @@
        "date": "2026.11.16 ~ 2026.12.07"
       }
      ]
-    },
-    {
-     "at": "2026-11-15T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15598,6 +15610,15 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=96",
     "date": "20261202",
     "found_at": "2026-11-18T07:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "자금 담당 (8~16년차)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262541",
+    "date": "",
+    "found_at": "2026-11-18T09:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -15605,15 +15626,6 @@
   "last_sent": "2026-11-17T23:01:01+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[제조AI] 무선통신 자율 운영 시스템 개발",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=382",
-   "date": "20261029",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -20104,6 +20116,15 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=96",
    "date": "20261202",
    "found_at": "2026-11-18T07:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "자금 담당 (8~16년차)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262541",
+   "date": "",
+   "found_at": "2026-11-18T09:00:55+00:00"
   }
  ]
 }
