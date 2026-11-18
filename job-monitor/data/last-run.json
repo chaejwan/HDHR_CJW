@@ -1,7 +1,7 @@
 {
- "at": "2026-11-18T03:00:53+00:00",
+ "at": "2026-11-18T04:33:23+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,30 +14,19 @@
   "since": "2026-11-18T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44227334741",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44238102805",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 86,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "제조 대외영업 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20215",
-     "date": "2026.11.29 23:59"
-    },
-    {
-     "title": "구매포털(SRM) 시스템 운영 담당자 경력사원 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20214",
-     "date": "2026.11.29 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -69,7 +58,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 97,
+   "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
