@@ -2572,8 +2572,8 @@
      "first_seen": "2026-11-18T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-18T13:00:40+00:00",
-   "last_success": "2026-11-18T13:00:40+00:00",
+   "last_check": "2026-11-18T15:00:47+00:00",
+   "last_success": "2026-11-18T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2581,6 +2581,16 @@
    "fingerprint": "7e29a822978aadb0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T13:00:40+00:00",
      "status": "ok",
@@ -2989,16 +2999,6 @@
        "date": "2026.12.31 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-16T02:51:35+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 66,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7208,15 +7208,25 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-18T13:00:41+00:00",
-   "last_success": "2026-11-18T13:00:41+00:00",
+   "last_check": "2026-11-18T15:00:48+00:00",
+   "last_success": "2026-11-18T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 17,
-   "fingerprint": "a80e1971a3c3b1fa",
+   "fingerprint": "cb5822d5af261bdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T13:00:41+00:00",
      "status": "ok",
@@ -7505,16 +7515,6 @@
     },
     {
      "at": "2026-11-16T05:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T02:51:36+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11281,15 +11281,25 @@
      "first_seen": "2026-11-18T11:00:45+00:00"
     }
    },
-   "last_check": "2026-11-18T13:00:44+00:00",
-   "last_success": "2026-11-18T13:00:44+00:00",
+   "last_check": "2026-11-18T15:00:54+00:00",
+   "last_success": "2026-11-18T15:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 162,
-   "fingerprint": "dcc2b8e4c6996195",
+   "item_count": 160,
+   "fingerprint": "f0bb72ea8ab02ccd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T15:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T13:00:44+00:00",
      "status": "ok",
@@ -11729,37 +11739,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T02:51:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 144,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 튀르키예 주재원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262511",
-       "date": ""
-      },
-      {
-       "title": "전기차 충전기 H/W 평가 담당 (3년이상)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262510",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SK플라즈마 제조관리 약사 채용",
-    "이동전화 품질측정 및 업무지원 담당자",
     "SK키파운드리 RTD/RTS Engineer 분야 경력 채용",
     "AI Agent 엔지니어 영입",
-    "AI Data 엔지니어 영입"
+    "AI Data 엔지니어 영입",
+    "AI Model 엔지니어 영입",
+    "AI Agent 개발자 전문가 영입"
    ],
    "health": {
     "issue": "",
@@ -13955,15 +13944,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-18T13:00:45+00:00",
-   "last_success": "2026-11-18T13:00:45+00:00",
+   "last_check": "2026-11-18T15:00:55+00:00",
+   "last_success": "2026-11-18T15:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 99,
-   "fingerprint": "ece476b5f49eadc9",
+   "fingerprint": "9ccfd313753db3a9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T15:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T13:00:45+00:00",
      "status": "ok",
@@ -14271,27 +14270,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T02:51:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 행정지원",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=268",
-       "date": "20261130"
-      },
-      {
-       "title": "[계약직] 남양연구소 소내 물류 운송(부품 운송)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=267",
-       "date": "20261130"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -15027,15 +15005,25 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-18T13:00:49+00:00",
-   "last_success": "2026-11-18T13:00:49+00:00",
+   "last_check": "2026-11-18T15:00:59+00:00",
+   "last_success": "2026-11-18T15:00:59+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 9,
-   "fingerprint": "31615243ca5df942",
+   "fingerprint": "26512bad25ffcdde",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T15:00:59+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T13:00:49+00:00",
      "status": "ok",
@@ -15318,16 +15306,6 @@
     },
     {
      "at": "2026-11-16T05:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 14,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T02:51:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
