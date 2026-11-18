@@ -2572,8 +2572,8 @@
      "first_seen": "2026-11-18T07:00:41+00:00"
     }
    },
-   "last_check": "2026-11-18T19:00:44+00:00",
-   "last_success": "2026-11-18T19:00:44+00:00",
+   "last_check": "2026-11-18T21:00:50+00:00",
+   "last_success": "2026-11-18T21:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2581,6 +2581,16 @@
    "fingerprint": "7e29a822978aadb0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T21:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 84,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T19:00:44+00:00",
      "status": "ok",
@@ -2960,16 +2970,6 @@
     },
     {
      "at": "2026-11-16T11:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T09:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7186,8 +7186,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-18T19:00:45+00:00",
-   "last_success": "2026-11-18T19:00:45+00:00",
+   "last_check": "2026-11-18T21:00:51+00:00",
+   "last_success": "2026-11-18T21:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7195,6 +7195,16 @@
    "fingerprint": "cb5822d5af261bdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T21:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T19:00:45+00:00",
      "status": "ok",
@@ -7483,16 +7493,6 @@
     },
     {
      "at": "2026-11-16T11:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T09:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11259,8 +11259,8 @@
      "first_seen": "2026-11-18T11:00:45+00:00"
     }
    },
-   "last_check": "2026-11-18T19:00:48+00:00",
-   "last_success": "2026-11-18T19:00:48+00:00",
+   "last_check": "2026-11-18T21:00:52+00:00",
+   "last_success": "2026-11-18T21:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11268,6 +11268,16 @@
    "fingerprint": "f0bb72ea8ab02ccd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T21:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T19:00:48+00:00",
      "status": "ok",
@@ -11635,67 +11645,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T09:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 10,
-     "item_count": 157,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "통계 및 사무지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262514",
-       "date": ""
-      },
-      {
-       "title": "SK피아이씨글로벌 영업부문 전환형 인턴 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262525",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 선박/플랜트 기술영업 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262519",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 해양플랜트 설계 공정관리 구성원 모집(경력/신입)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262323",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 해양플랜트 구조설계 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262517",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 해양플랜트 선장설계 구성원 모집(경력/신입)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262520",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 해양플랜트 선실·공조설계 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262521",
-       "date": ""
-      },
-      {
-       "title": "[SK오션플랜트] 해양플랜트 전계장설계 구성원 모집(경력)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262522",
-       "date": ""
-      },
-      {
-       "title": "[SK케미칼] 청주공장 의약품 생산·공정관리 담당 신입(전환형 인턴) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262524",
-       "date": ""
-      },
-      {
-       "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262523",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13901,15 +13850,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-18T19:00:50+00:00",
-   "last_success": "2026-11-18T19:00:50+00:00",
+   "last_check": "2026-11-18T21:00:53+00:00",
+   "last_success": "2026-11-18T21:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 99,
-   "fingerprint": "581103cb4ed583dc",
+   "fingerprint": "1d16eaba79db2e3b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T21:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T19:00:50+00:00",
      "status": "ok",
@@ -14204,16 +14163,6 @@
     },
     {
      "at": "2026-11-16T11:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T09:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14956,8 +14905,8 @@
      "first_seen": "2026-11-16T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-18T19:00:53+00:00",
-   "last_success": "2026-11-18T19:00:53+00:00",
+   "last_check": "2026-11-18T21:00:55+00:00",
+   "last_success": "2026-11-18T21:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14965,6 +14914,16 @@
    "fingerprint": "26512bad25ffcdde",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-18T21:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-18T19:00:53+00:00",
      "status": "ok",
@@ -15247,16 +15206,6 @@
     },
     {
      "at": "2026-11-16T11:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T09:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
