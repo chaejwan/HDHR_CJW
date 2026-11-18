@@ -1,20 +1,20 @@
 {
- "at": "2026-11-18T09:00:55+00:00",
+ "at": "2026-11-18T11:00:50+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 8건 · 점검 0건). 11-19 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-19 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 8,
+  "items": 9,
   "alerts": 0,
   "since": "2026-11-18T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44271899462",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44290689830",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,14 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 161,
+   "item_count": 162,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "자금 담당 (8~16년차)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262541",
+     "title": "IT인프라 아웃소싱 PMO/품질관리 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262537",
      "date": ""
     }
    ]
