@@ -1,32 +1,48 @@
 {
- "at": "2026-11-19T07:00:54+00:00",
+ "at": "2026-11-19T09:00:56+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-20 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 11-20 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 11,
   "alerts": 0,
   "since": "2026-11-19T01:00:52+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44476324680",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44492480934",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 88,
+   "status": "new",
+   "item_count": 90,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화투자증권] 경력 변호사 채용(차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20219",
+     "date": "2026.12.09 15:00"
+    },
+    {
+     "title": "한화시스템 유무인복합체계 개발 분야 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20225",
+     "date": "2026.12.13 23:59"
+    },
+    {
+     "title": "한화시스템 서보시스템 엔지니어 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20223",
+     "date": "2026.12.13 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -45,12 +61,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 161,
+   "status": "new",
+   "item_count": 162,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "대전HR 물품 검수 사무지원직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262546",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -58,7 +80,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 99,
+   "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
