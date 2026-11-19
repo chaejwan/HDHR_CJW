@@ -2618,17 +2618,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20223",
      "date": "2026.12.13 23:59",
      "first_seen": "2026-11-19T09:00:49+00:00"
+    },
+    "9639024e929850b7": {
+     "title": "[한화솔루션 큐셀부문] 제조HR실 HR Mgmt.팀 인사운영 담당자",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
+     "date": "2026.11.30 23:59",
+     "first_seen": "2026-11-19T11:00:41+00:00"
     }
    },
-   "last_check": "2026-11-19T09:00:49+00:00",
-   "last_success": "2026-11-19T09:00:49+00:00",
+   "last_check": "2026-11-19T11:00:41+00:00",
+   "last_success": "2026-11-19T11:00:41+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 90,
-   "fingerprint": "db51453ce0d44881",
+   "item_count": 91,
+   "fingerprint": "98cd218155de76e2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T11:00:41+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화솔루션 큐셀부문] 제조HR실 HR Mgmt.팀 인사운영 담당자",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
+       "date": "2026.11.30 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-19T09:00:49+00:00",
      "status": "new",
@@ -3059,16 +3081,6 @@
        "date": "2026.11.30 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-16T23:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3085,7 +3097,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-19T09:00:49+00:00"
+   "last_new_at": "2026-11-19T11:00:41+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7278,8 +7290,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T09:00:49+00:00",
-   "last_success": "2026-11-19T09:00:49+00:00",
+   "last_check": "2026-11-19T11:00:42+00:00",
+   "last_success": "2026-11-19T11:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7287,6 +7299,16 @@
    "fingerprint": "cb5822d5af261bdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T11:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T09:00:49+00:00",
      "status": "ok",
@@ -7575,16 +7597,6 @@
     },
     {
      "at": "2026-11-17T01:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T23:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11369,15 +11381,25 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-19T09:00:51+00:00",
-   "last_success": "2026-11-19T09:00:51+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-19T11:00:49+00:00",
+   "last_success": "2026-11-19T11:00:49+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 162,
    "fingerprint": "f3240d373a82cf9b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T11:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 162,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T09:00:51+00:00",
      "status": "new",
@@ -11757,16 +11779,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-16T23:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 152,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13972,15 +13984,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T09:00:52+00:00",
-   "last_success": "2026-11-19T09:00:52+00:00",
+   "last_check": "2026-11-19T11:00:50+00:00",
+   "last_success": "2026-11-19T11:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 98,
-   "fingerprint": "b4ebfa51071b0b90",
+   "fingerprint": "24c7ebecd48b3613",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T11:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T09:00:52+00:00",
      "status": "ok",
@@ -14275,16 +14297,6 @@
     },
     {
      "at": "2026-11-17T01:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T23:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15033,8 +15045,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T09:00:54+00:00",
-   "last_success": "2026-11-19T09:00:54+00:00",
+   "last_check": "2026-11-19T11:00:53+00:00",
+   "last_success": "2026-11-19T11:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15042,6 +15054,16 @@
    "fingerprint": "a9e18970582b91d7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T11:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T09:00:54+00:00",
      "status": "ok",
@@ -15337,16 +15359,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T23:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15466,6 +15478,15 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262546",
     "date": "",
     "found_at": "2026-11-19T09:00:56+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화솔루션 큐셀부문] 제조HR실 HR Mgmt.팀 인사운영 담당자",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
+    "date": "2026.11.30 23:59",
+    "found_at": "2026-11-19T11:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -15473,15 +15494,6 @@
   "last_sent": "2026-11-18T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[SK인텔릭스] 정수기/공기청정기 설계 경력 인재 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262253",
-   "date": "",
-   "found_at": "2026-10-15T03:00:48+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19972,6 +19984,15 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262546",
    "date": "",
    "found_at": "2026-11-19T09:00:56+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화솔루션 큐셀부문] 제조HR실 HR Mgmt.팀 인사운영 담당자",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
+   "date": "2026.11.30 23:59",
+   "found_at": "2026-11-19T11:00:55+00:00"
   }
  ]
 }
