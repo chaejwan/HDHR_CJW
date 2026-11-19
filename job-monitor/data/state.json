@@ -2626,8 +2626,8 @@
      "first_seen": "2026-11-19T11:00:41+00:00"
     }
    },
-   "last_check": "2026-11-19T13:00:41+00:00",
-   "last_success": "2026-11-19T13:00:41+00:00",
+   "last_check": "2026-11-19T15:00:43+00:00",
+   "last_success": "2026-11-19T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2635,6 +2635,16 @@
    "fingerprint": "98cd218155de76e2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T13:00:41+00:00",
      "status": "ok",
@@ -3065,16 +3075,6 @@
        "date": "2026.11.22 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-17T03:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 71,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -7284,15 +7284,25 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T13:00:42+00:00",
-   "last_success": "2026-11-19T13:00:42+00:00",
+   "last_check": "2026-11-19T15:00:44+00:00",
+   "last_success": "2026-11-19T15:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 17,
-   "fingerprint": "cb5822d5af261bdc",
+   "fingerprint": "c5f9a1f2f235a732",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T15:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T13:00:42+00:00",
      "status": "ok",
@@ -7581,16 +7591,6 @@
     },
     {
      "at": "2026-11-17T05:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T03:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11375,15 +11375,25 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-19T13:00:45+00:00",
-   "last_success": "2026-11-19T13:00:45+00:00",
+   "last_check": "2026-11-19T15:00:47+00:00",
+   "last_success": "2026-11-19T15:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 162,
-   "fingerprint": "f3240d373a82cf9b",
+   "item_count": 161,
+   "fingerprint": "1aa129f05f13dbbb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T15:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T13:00:45+00:00",
      "status": "ok",
@@ -11751,32 +11761,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T03:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "증권사 IT 및 AX 시스템 전문가 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262527",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "SK키파운드리 RTD/RTS Engineer 분야 경력 채용",
     "AI Agent 엔지니어 영입",
     "AI Data 엔지니어 영입",
     "AI Model 엔지니어 영입",
-    "AI Agent 개발자 전문가 영입"
+    "AI Agent 개발자 전문가 영입",
+    "AI 플랫폼 아키텍트 전문가 영입"
    ],
    "health": {
     "issue": "",
@@ -13972,15 +13966,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T13:00:47+00:00",
-   "last_success": "2026-11-19T13:00:47+00:00",
+   "last_check": "2026-11-19T15:00:48+00:00",
+   "last_success": "2026-11-19T15:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 98,
-   "fingerprint": "45561cf5a4053aff",
+   "item_count": 97,
+   "fingerprint": "5aa9fba9ffff0018",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T15:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T13:00:47+00:00",
      "status": "ok",
@@ -14282,26 +14286,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T03:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 울산공장 홍보사원",
     "[계약직] Recruiting Coordinator (글로벌 인재 채용 운영)",
     "[계약직] 행정지원 (장애인 제한경쟁)",
     "[계약직] 사상하이테크센터 파츠딜리버리",
-    "[계약직] R&D 임원 통번역사(남양)"
+    "[계약직] R&D 임원 통번역사(남양)",
+    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)"
    ],
    "health": {
     "issue": "",
@@ -15033,15 +15027,25 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T13:00:49+00:00",
-   "last_success": "2026-11-19T13:00:49+00:00",
+   "last_check": "2026-11-19T15:00:51+00:00",
+   "last_success": "2026-11-19T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 10,
-   "fingerprint": "a9e18970582b91d7",
+   "fingerprint": "a2ec74b15f3737a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T13:00:49+00:00",
      "status": "ok",
@@ -15330,16 +15334,6 @@
     },
     {
      "at": "2026-11-17T05:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T03:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
