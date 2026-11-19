@@ -2626,8 +2626,8 @@
      "first_seen": "2026-11-19T11:00:41+00:00"
     }
    },
-   "last_check": "2026-11-19T15:00:43+00:00",
-   "last_success": "2026-11-19T15:00:43+00:00",
+   "last_check": "2026-11-19T17:00:48+00:00",
+   "last_success": "2026-11-19T17:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2635,6 +2635,16 @@
    "fingerprint": "98cd218155de76e2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T17:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T15:00:43+00:00",
      "status": "ok",
@@ -3057,22 +3067,6 @@
        "title": "VLM Project Manager 경력사원 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196",
        "date": "2026.11.29 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-17T05:00:39+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 72,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화에어로스페이스] MRO사업부 SCM 담당자 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20178",
-       "date": "2026.11.22 23:59"
       }
      ]
     }
@@ -7284,8 +7278,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T15:00:44+00:00",
-   "last_success": "2026-11-19T15:00:44+00:00",
+   "last_check": "2026-11-19T17:00:49+00:00",
+   "last_success": "2026-11-19T17:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7293,6 +7287,16 @@
    "fingerprint": "c5f9a1f2f235a732",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T17:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T15:00:44+00:00",
      "status": "ok",
@@ -7581,16 +7585,6 @@
     },
     {
      "at": "2026-11-17T07:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T05:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11375,8 +11369,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-19T15:00:47+00:00",
-   "last_success": "2026-11-19T15:00:47+00:00",
+   "last_check": "2026-11-19T17:00:51+00:00",
+   "last_success": "2026-11-19T17:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11384,6 +11378,16 @@
    "fingerprint": "1aa129f05f13dbbb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T17:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T15:00:47+00:00",
      "status": "ok",
@@ -11751,16 +11755,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-17T05:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 155,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13966,15 +13960,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T15:00:48+00:00",
-   "last_success": "2026-11-19T15:00:48+00:00",
+   "last_check": "2026-11-19T17:00:52+00:00",
+   "last_success": "2026-11-19T17:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "5aa9fba9ffff0018",
+   "fingerprint": "5e1fc76ffd93597b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T17:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T15:00:48+00:00",
      "status": "ok",
@@ -14276,16 +14280,6 @@
        "date": "20261130"
       }
      ]
-    },
-    {
-     "at": "2026-11-17T05:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15027,8 +15021,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T15:00:51+00:00",
-   "last_success": "2026-11-19T15:00:51+00:00",
+   "last_check": "2026-11-19T17:00:54+00:00",
+   "last_success": "2026-11-19T17:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15036,6 +15030,16 @@
    "fingerprint": "a2ec74b15f3737a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T17:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T15:00:51+00:00",
      "status": "ok",
@@ -15324,16 +15328,6 @@
     },
     {
      "at": "2026-11-17T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T05:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
