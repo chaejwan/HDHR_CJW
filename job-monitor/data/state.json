@@ -2626,8 +2626,8 @@
      "first_seen": "2026-11-19T11:00:41+00:00"
     }
    },
-   "last_check": "2026-11-19T17:00:48+00:00",
-   "last_success": "2026-11-19T17:00:48+00:00",
+   "last_check": "2026-11-19T19:00:51+00:00",
+   "last_success": "2026-11-19T19:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2635,6 +2635,16 @@
    "fingerprint": "98cd218155de76e2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T19:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T17:00:48+00:00",
      "status": "ok",
@@ -3015,57 +3025,6 @@
       {
        "title": "구매시스템 PI/구축 담당자 경력사원 채용",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20206",
-       "date": "2026.11.29 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-17T07:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 8,
-     "item_count": 78,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "(주)한화 글로벌부문 여수사업장 전문직(품질) 신입사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20192",
-       "date": "2026.11.25 23:00"
-      },
-      {
-       "title": "Business Development (사업개발, 수주활동 지원) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20204",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "ERP 컨설턴트 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20203",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "AX 전략기획 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20201",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20200",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20198",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "AI Agent Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20197",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "VLM Project Manager 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196",
        "date": "2026.11.29 23:59"
       }
      ]
@@ -7278,8 +7237,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T17:00:49+00:00",
-   "last_success": "2026-11-19T17:00:49+00:00",
+   "last_check": "2026-11-19T19:00:52+00:00",
+   "last_success": "2026-11-19T19:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7287,6 +7246,16 @@
    "fingerprint": "c5f9a1f2f235a732",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T19:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T17:00:49+00:00",
      "status": "ok",
@@ -7575,16 +7544,6 @@
     },
     {
      "at": "2026-11-17T09:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T07:00:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11369,8 +11328,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-19T17:00:51+00:00",
-   "last_success": "2026-11-19T17:00:51+00:00",
+   "last_check": "2026-11-19T19:00:53+00:00",
+   "last_success": "2026-11-19T19:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11378,6 +11337,16 @@
    "fingerprint": "1aa129f05f13dbbb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T19:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T17:00:51+00:00",
      "status": "ok",
@@ -11714,47 +11683,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T07:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 6,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 PV/PMS 신입(전환형 인턴) 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262530",
-       "date": ""
-      },
-      {
-       "title": "Facility Engineering (설비 운영 및 고압가스 안전관리) 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262512",
-       "date": ""
-      },
-      {
-       "title": "Corportate Planning (경영기획) 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262513",
-       "date": ""
-      },
-      {
-       "title": "AX Engineering (AI Application 개발) 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262529",
-       "date": ""
-      },
-      {
-       "title": "2027년 상반기 SK가스 기술엔지니어(설비기술) 채용연계형 인턴 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262531",
-       "date": ""
-      },
-      {
-       "title": "[경력] SK바이오텍 Microbiology QA Specialist 경력사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262532",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13960,8 +13888,8 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T17:00:52+00:00",
-   "last_success": "2026-11-19T17:00:52+00:00",
+   "last_check": "2026-11-19T19:00:54+00:00",
+   "last_success": "2026-11-19T19:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -13969,6 +13897,16 @@
    "fingerprint": "5e1fc76ffd93597b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T19:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T17:00:52+00:00",
      "status": "ok",
@@ -14264,22 +14202,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T07:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 시화하이테크센터 고객응대 및 수납",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=271",
-       "date": "20261130"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -15021,8 +14943,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T17:00:54+00:00",
-   "last_success": "2026-11-19T17:00:54+00:00",
+   "last_check": "2026-11-19T19:00:56+00:00",
+   "last_success": "2026-11-19T19:00:56+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15030,6 +14952,16 @@
    "fingerprint": "a2ec74b15f3737a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T19:00:56+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T17:00:54+00:00",
      "status": "ok",
@@ -15322,16 +15254,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
      "error": "",
      "note": "",
      "new": []
