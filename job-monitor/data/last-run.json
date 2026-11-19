@@ -1,20 +1,20 @@
 {
- "at": "2026-11-18T23:00:58+00:00",
+ "at": "2026-11-19T01:00:52+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 4,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 11-20 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 4,
   "alerts": 0,
-  "since": "",
+  "since": "2026-11-19T01:00:52+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44416876855",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44433537905",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,13 +22,18 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 85,
+   "item_count": 86,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "한화솔루션 운영부문 인사지원팀 인사운영담당",
+     "title": "RX(Robot Transformation) 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20222",
+     "date": "2026.11.29 23:59"
+    },
+    {
+     "title": "한화솔루션 운영부문 인사운영 경력직 채용",
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20220",
      "date": "2026.12.06 23:00"
     }
@@ -51,12 +56,18 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
+   "status": "new",
    "item_count": 160,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "호텔 분야 ITO Application 운영 PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
@@ -75,12 +86,18 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 9,
+   "status": "new",
+   "item_count": 10,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
+     "url": "https://www.samsungcareers.com/hr/?no=23525",
+     "date": "2026.11.19 ~ 2026.11.30"
+    }
+   ]
   }
  ]
 }
