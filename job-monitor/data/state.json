@@ -2626,8 +2626,8 @@
      "first_seen": "2026-11-19T11:00:41+00:00"
     }
    },
-   "last_check": "2026-11-19T21:00:42+00:00",
-   "last_success": "2026-11-19T21:00:42+00:00",
+   "last_check": "2026-11-19T23:00:41+00:00",
+   "last_success": "2026-11-19T23:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2635,6 +2635,16 @@
    "fingerprint": "98cd218155de76e2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T23:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T21:00:42+00:00",
      "status": "ok",
@@ -2995,16 +3005,6 @@
     },
     {
      "at": "2026-11-17T13:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T11:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7221,8 +7221,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T21:00:43+00:00",
-   "last_success": "2026-11-19T21:00:43+00:00",
+   "last_check": "2026-11-19T23:00:42+00:00",
+   "last_success": "2026-11-19T23:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7230,6 +7230,16 @@
    "fingerprint": "c5f9a1f2f235a732",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T23:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T21:00:43+00:00",
      "status": "ok",
@@ -7518,16 +7528,6 @@
     },
     {
      "at": "2026-11-17T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T11:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11312,8 +11312,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-19T21:00:45+00:00",
-   "last_success": "2026-11-19T21:00:45+00:00",
+   "last_check": "2026-11-19T23:00:46+00:00",
+   "last_success": "2026-11-19T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11321,6 +11321,16 @@
    "fingerprint": "1aa129f05f13dbbb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T21:00:45+00:00",
      "status": "ok",
@@ -11651,22 +11661,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T11:00:51+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "Corporate Planning (경영기획) 경력사원 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262513",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13872,15 +13866,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T21:00:46+00:00",
-   "last_success": "2026-11-19T21:00:46+00:00",
+   "last_check": "2026-11-19T23:00:47+00:00",
+   "last_success": "2026-11-19T23:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "5e1fc76ffd93597b",
+   "fingerprint": "3ca87872d9e8494f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T23:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T21:00:46+00:00",
      "status": "ok",
@@ -14169,16 +14173,6 @@
     },
     {
      "at": "2026-11-17T13:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T11:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14927,8 +14921,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T21:00:48+00:00",
-   "last_success": "2026-11-19T21:00:48+00:00",
+   "last_check": "2026-11-19T23:00:49+00:00",
+   "last_success": "2026-11-19T23:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14936,6 +14930,16 @@
    "fingerprint": "a2ec74b15f3737a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T23:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T21:00:48+00:00",
      "status": "ok",
@@ -15231,16 +15235,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T11:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15261,119 +15255,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "RX(Robot Transformation) 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20222",
-    "date": "2026.11.29 23:59",
-    "found_at": "2026-11-19T01:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화솔루션 운영부문 인사운영 경력직 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20220",
-    "date": "2026.12.06 23:00",
-    "found_at": "2026-11-19T01:00:52+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "호텔 분야 ITO Application 운영 PL 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262544",
-    "date": "",
-    "found_at": "2026-11-19T01:00:52+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-    "url": "https://www.samsungcareers.com/hr/?no=23525",
-    "date": "2026.11.19 ~ 2026.11.30",
-    "found_at": "2026-11-19T01:00:52+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20226",
-    "date": "2026.11.25 15:00",
-    "found_at": "2026-11-19T03:00:55+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
-    "date": "2026.11.25 15:00",
-    "found_at": "2026-11-19T03:00:55+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "'26년 11월 건축사업 공무(건축) 경력직(촉탁직) 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262542",
-    "date": "",
-    "found_at": "2026-11-19T04:15:38+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 경력 변호사 채용(차장급)",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20219",
-    "date": "2026.12.09 15:00",
-    "found_at": "2026-11-19T09:00:56+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 유무인복합체계 개발 분야 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20225",
-    "date": "2026.12.13 23:59",
-    "found_at": "2026-11-19T09:00:56+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "한화시스템 서보시스템 엔지니어 경력사원 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20223",
-    "date": "2026.12.13 23:59",
-    "found_at": "2026-11-19T09:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "대전HR 물품 검수 사무지원직 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262546",
-    "date": "",
-    "found_at": "2026-11-19T09:00:56+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화솔루션 큐셀부문] 제조HR실 HR Mgmt.팀 인사운영 담당자",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
-    "date": "2026.11.30 23:59",
-    "found_at": "2026-11-19T11:00:55+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-11-19T01:00:52+00:00",
-  "last_sent": "2026-11-18T23:01:00+00:00"
+  "since": "",
+  "last_sent": "2026-11-19T23:00:52+00:00"
  },
  "archive": [
   {
