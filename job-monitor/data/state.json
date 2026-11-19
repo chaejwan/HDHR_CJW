@@ -2588,17 +2588,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20220",
      "date": "2026.12.06 23:00",
      "first_seen": "2026-11-19T01:00:39+00:00"
+    },
+    "36dd173e40f52f1b": {
+     "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20226",
+     "date": "2026.11.25 15:00",
+     "first_seen": "2026-11-19T03:00:48+00:00"
+    },
+    "1839b2b33719548e": {
+     "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
+     "date": "2026.11.25 15:00",
+     "first_seen": "2026-11-19T03:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T01:00:39+00:00",
-   "last_success": "2026-11-19T01:00:39+00:00",
+   "last_check": "2026-11-19T03:00:48+00:00",
+   "last_success": "2026-11-19T03:00:48+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 86,
-   "fingerprint": "db69b67265801821",
+   "item_count": 88,
+   "fingerprint": "ded761d5b9f6e5da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T03:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20226",
+       "date": "2026.11.25 15:00"
+      },
+      {
+       "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
+       "date": "2026.11.25 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-19T01:00:39+00:00",
      "status": "new",
@@ -3002,16 +3035,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T15:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3028,7 +3051,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-19T01:00:39+00:00"
+   "last_new_at": "2026-11-19T03:00:48+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7221,8 +7244,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T01:00:40+00:00",
-   "last_success": "2026-11-19T01:00:40+00:00",
+   "last_check": "2026-11-19T03:00:48+00:00",
+   "last_success": "2026-11-19T03:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7230,6 +7253,16 @@
    "fingerprint": "cb5822d5af261bdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T03:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T01:00:40+00:00",
      "status": "ok",
@@ -7518,16 +7551,6 @@
     },
     {
      "at": "2026-11-16T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T15:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11300,15 +11323,25 @@
      "first_seen": "2026-11-19T01:00:44+00:00"
     }
    },
-   "last_check": "2026-11-19T01:00:44+00:00",
-   "last_success": "2026-11-19T01:00:44+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-19T03:00:50+00:00",
+   "last_success": "2026-11-19T03:00:50+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 160,
    "fingerprint": "15206ad5812add68",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T03:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T01:00:44+00:00",
      "status": "new",
@@ -11682,16 +11715,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-16T15:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -13897,15 +13920,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T01:00:46+00:00",
-   "last_success": "2026-11-19T01:00:46+00:00",
+   "last_check": "2026-11-19T03:00:51+00:00",
+   "last_success": "2026-11-19T03:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 99,
-   "fingerprint": "ee332594acbe264c",
+   "fingerprint": "ea737298468f94ea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T03:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T01:00:46+00:00",
      "status": "ok",
@@ -14200,16 +14233,6 @@
     },
     {
      "at": "2026-11-16T17:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T15:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14958,15 +14981,25 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T01:00:49+00:00",
-   "last_success": "2026-11-19T01:00:49+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-19T03:00:53+00:00",
+   "last_success": "2026-11-19T03:00:53+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 10,
    "fingerprint": "a9e18970582b91d7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T03:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T01:00:49+00:00",
      "status": "new",
@@ -15262,16 +15295,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T15:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15328,6 +15351,24 @@
     "url": "https://www.samsungcareers.com/hr/?no=23525",
     "date": "2026.11.19 ~ 2026.11.30",
     "found_at": "2026-11-19T01:00:52+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20226",
+    "date": "2026.11.25 15:00",
+    "found_at": "2026-11-19T03:00:55+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
+    "date": "2026.11.25 15:00",
+    "found_at": "2026-11-19T03:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -15335,24 +15376,6 @@
   "last_sent": "2026-11-18T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] IT Project Manager - Sales System PM",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=376",
-   "date": "20261029",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[ICT] IT Project Manager - Aftersales Service Systems",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=378",
-   "date": "20261029",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -19834,6 +19857,24 @@
    "url": "https://www.samsungcareers.com/hr/?no=23525",
    "date": "2026.11.19 ~ 2026.11.30",
    "found_at": "2026-11-19T01:00:52+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20226",
+   "date": "2026.11.25 15:00",
+   "found_at": "2026-11-19T03:00:55+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
+   "date": "2026.11.25 15:00",
+   "found_at": "2026-11-19T03:00:55+00:00"
   }
  ]
 }
