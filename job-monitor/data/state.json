@@ -2602,15 +2602,25 @@
      "first_seen": "2026-11-19T03:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T03:00:48+00:00",
-   "last_success": "2026-11-19T03:00:48+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-19T04:15:27+00:00",
+   "last_success": "2026-11-19T04:15:27+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 88,
    "fingerprint": "ded761d5b9f6e5da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T04:15:27+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 88,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T03:00:48+00:00",
      "status": "new",
@@ -3018,16 +3028,6 @@
     },
     {
      "at": "2026-11-16T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 70,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T17:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7244,8 +7244,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-19T03:00:48+00:00",
-   "last_success": "2026-11-19T03:00:48+00:00",
+   "last_check": "2026-11-19T04:15:27+00:00",
+   "last_success": "2026-11-19T04:15:27+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7253,6 +7253,16 @@
    "fingerprint": "cb5822d5af261bdc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T04:15:27+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T03:00:48+00:00",
      "status": "ok",
@@ -7541,16 +7551,6 @@
     },
     {
      "at": "2026-11-16T19:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T17:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11321,17 +11321,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262544",
      "date": "",
      "first_seen": "2026-11-19T01:00:44+00:00"
+    },
+    "e03c9da54ba9befc": {
+     "title": "'26년 11월 건축사업 공무(건축) 경력직(촉탁직) 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262542",
+     "date": "",
+     "first_seen": "2026-11-19T04:15:33+00:00"
     }
    },
-   "last_check": "2026-11-19T03:00:50+00:00",
-   "last_success": "2026-11-19T03:00:50+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-19T04:15:33+00:00",
+   "last_success": "2026-11-19T04:15:33+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 160,
-   "fingerprint": "15206ad5812add68",
+   "item_count": 161,
+   "fingerprint": "f1fa1c7251a919c1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T04:15:33+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "'26년 11월 건축사업 공무(건축) 경력직(촉탁직) 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262542",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-19T03:00:50+00:00",
      "status": "ok",
@@ -11699,22 +11721,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T17:00:51+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 152,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262526",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11731,7 +11737,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-19T01:00:44+00:00"
+   "last_new_at": "2026-11-19T04:15:33+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13920,15 +13926,25 @@
      "first_seen": "2026-11-18T07:00:48+00:00"
     }
    },
-   "last_check": "2026-11-19T03:00:51+00:00",
-   "last_success": "2026-11-19T03:00:51+00:00",
+   "last_check": "2026-11-19T04:15:34+00:00",
+   "last_success": "2026-11-19T04:15:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 99,
-   "fingerprint": "ea737298468f94ea",
+   "fingerprint": "8a261198a67545d9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T04:15:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T03:00:51+00:00",
      "status": "ok",
@@ -14223,16 +14239,6 @@
     },
     {
      "at": "2026-11-16T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-16T17:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14981,8 +14987,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-19T03:00:53+00:00",
-   "last_success": "2026-11-19T03:00:53+00:00",
+   "last_check": "2026-11-19T04:15:37+00:00",
+   "last_success": "2026-11-19T04:15:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14990,6 +14996,16 @@
    "fingerprint": "a9e18970582b91d7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-19T04:15:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-19T03:00:53+00:00",
      "status": "ok",
@@ -15285,16 +15301,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-16T17:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15369,6 +15375,15 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
     "date": "2026.11.25 15:00",
     "found_at": "2026-11-19T03:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "'26년 11월 건축사업 공무(건축) 경력직(촉탁직) 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262542",
+    "date": "",
+    "found_at": "2026-11-19T04:15:38+00:00"
    }
   ],
   "alerts": [],
@@ -15376,15 +15391,6 @@
   "last_sent": "2026-11-18T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "GBC 부동산 재무분석 및 지원업무",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=381",
-   "date": "20261029",
-   "found_at": "2026-10-15T01:00:46+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -19875,6 +19881,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20224",
    "date": "2026.11.25 15:00",
    "found_at": "2026-11-19T03:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "'26년 11월 건축사업 공무(건축) 경력직(촉탁직) 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262542",
+   "date": "",
+   "found_at": "2026-11-19T04:15:38+00:00"
   }
  ]
 }
