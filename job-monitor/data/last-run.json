@@ -1,32 +1,48 @@
 {
- "at": "2026-11-20T01:00:51+00:00",
+ "at": "2026-11-20T03:01:12+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 1건 · 점검 0건). 11-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 11-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 1,
+  "items": 4,
   "alerts": 0,
   "since": "2026-11-20T01:00:51+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44650324768",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44664735749",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 91,
+   "status": "new",
+   "item_count": 94,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "경력직 채용_펀드회계팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
+     "date": "2026.12.04 15:00"
+    },
+    {
+     "title": "경력직 채용_IT보안팀 (보안 엔지니어)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20229",
+     "date": "2026.12.04 15:00"
+    },
+    {
+     "title": "[한화라이프랩] IT 기획·운영 리더",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
+     "date": "2026.12.06 23:59"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,18 +73,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[계약직] 인사행정 보조 (장애인 제한경쟁)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=273",
-     "date": "20261130"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",

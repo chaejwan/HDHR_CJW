@@ -2624,17 +2624,61 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
      "date": "2026.11.30 23:59",
      "first_seen": "2026-11-19T11:00:41+00:00"
+    },
+    "7ee1a7db174728f0": {
+     "title": "경력직 채용_펀드회계팀",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
+     "date": "2026.12.04 15:00",
+     "first_seen": "2026-11-20T03:00:40+00:00"
+    },
+    "846af074e67ae7fc": {
+     "title": "경력직 채용_IT보안팀 (보안 엔지니어)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20229",
+     "date": "2026.12.04 15:00",
+     "first_seen": "2026-11-20T03:00:40+00:00"
+    },
+    "068f17911dace065": {
+     "title": "[한화라이프랩] IT 기획·운영 리더",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
+     "date": "2026.12.06 23:59",
+     "first_seen": "2026-11-20T03:00:40+00:00"
     }
    },
-   "last_check": "2026-11-20T01:00:39+00:00",
-   "last_success": "2026-11-20T01:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-20T03:00:40+00:00",
+   "last_success": "2026-11-20T03:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 91,
-   "fingerprint": "98cd218155de76e2",
+   "item_count": 94,
+   "fingerprint": "aaa4cdbf26394abd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T03:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 94,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "경력직 채용_펀드회계팀",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
+       "date": "2026.12.04 15:00"
+      },
+      {
+       "title": "경력직 채용_IT보안팀 (보안 엔지니어)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20229",
+       "date": "2026.12.04 15:00"
+      },
+      {
+       "title": "[한화라이프랩] IT 기획·운영 리더",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
+       "date": "2026.12.06 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-20T01:00:39+00:00",
      "status": "ok",
@@ -3002,16 +3046,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T15:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 81,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3028,7 +3062,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-19T11:00:41+00:00"
+   "last_new_at": "2026-11-20T03:00:40+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7221,8 +7255,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-20T01:00:40+00:00",
-   "last_success": "2026-11-20T01:00:40+00:00",
+   "last_check": "2026-11-20T03:00:42+00:00",
+   "last_success": "2026-11-20T03:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7230,6 +7264,16 @@
    "fingerprint": "c5f9a1f2f235a732",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T03:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T01:00:40+00:00",
      "status": "ok",
@@ -7518,16 +7562,6 @@
     },
     {
      "at": "2026-11-17T17:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 16,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11312,8 +11346,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-20T01:00:45+00:00",
-   "last_success": "2026-11-20T01:00:45+00:00",
+   "last_check": "2026-11-20T03:00:55+00:00",
+   "last_success": "2026-11-20T03:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11321,6 +11355,16 @@
    "fingerprint": "1aa129f05f13dbbb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T03:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 161,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T01:00:45+00:00",
      "status": "ok",
@@ -11640,27 +11684,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T15:00:55+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 의약품 영업 담당자(MR) 경력사원 모집 (대구/경상북도)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262534",
-       "date": ""
-      },
-      {
-       "title": "SK플라즈마 의약품 영업 담당자(MR) 신입(전환형 인턴) 모집 [대구/경상북도]",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262535",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13872,15 +13895,25 @@
      "first_seen": "2026-11-20T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-20T01:00:46+00:00",
-   "last_success": "2026-11-20T01:00:46+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-20T03:01:02+00:00",
+   "last_success": "2026-11-20T03:01:02+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 98,
-   "fingerprint": "9cdc4fca0a4ee606",
+   "fingerprint": "f4fa0816646bfd75",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T03:01:02+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T01:00:46+00:00",
      "status": "new",
@@ -14175,16 +14208,6 @@
     },
     {
      "at": "2026-11-17T17:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-17T15:00:57+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14933,8 +14956,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-20T01:00:49+00:00",
-   "last_success": "2026-11-20T01:00:49+00:00",
+   "last_check": "2026-11-20T03:01:09+00:00",
+   "last_success": "2026-11-20T03:01:09+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14942,6 +14965,16 @@
    "fingerprint": "a2ec74b15f3737a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T03:01:09+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T01:00:49+00:00",
      "status": "ok",
@@ -15237,16 +15270,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-17T15:01:00+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15276,6 +15299,33 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=273",
     "date": "20261130",
     "found_at": "2026-11-20T01:00:51+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_펀드회계팀",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
+    "date": "2026.12.04 15:00",
+    "found_at": "2026-11-20T03:01:12+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "경력직 채용_IT보안팀 (보안 엔지니어)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20229",
+    "date": "2026.12.04 15:00",
+    "found_at": "2026-11-20T03:01:12+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화라이프랩] IT 기획·운영 리더",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
+    "date": "2026.12.06 23:59",
+    "found_at": "2026-11-20T03:01:12+00:00"
    }
   ],
   "alerts": [],
@@ -15283,33 +15333,6 @@
   "last_sent": "2026-11-19T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK키파운드리 정보보안(취약점 진단) 경력 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262255",
-   "date": "",
-   "found_at": "2026-10-15T03:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Recruiting Coordinator(체험형 인턴)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262256",
-   "date": "",
-   "found_at": "2026-10-15T05:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명]사무지원직(비서) 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19984",
-   "date": "2026.10.28 15:00",
-   "found_at": "2026-10-15T07:00:49+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19782,6 +19805,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=273",
    "date": "20261130",
    "found_at": "2026-11-20T01:00:51+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_펀드회계팀",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
+   "date": "2026.12.04 15:00",
+   "found_at": "2026-11-20T03:01:12+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "경력직 채용_IT보안팀 (보안 엔지니어)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20229",
+   "date": "2026.12.04 15:00",
+   "found_at": "2026-11-20T03:01:12+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화라이프랩] IT 기획·운영 리더",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
+   "date": "2026.12.06 23:59",
+   "found_at": "2026-11-20T03:01:12+00:00"
   }
  ]
 }
