@@ -1,20 +1,20 @@
 {
- "at": "2026-11-20T05:00:52+00:00",
+ "at": "2026-11-20T07:00:55+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 11-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 6,
+  "items": 7,
   "alerts": 0,
   "since": "2026-11-20T01:00:51+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44678139681",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44691797077",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 95,
+   "item_count": 96,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[제조HR실] HR Mgmt.팀 인사기획·운영 담당자 (미국 근무)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20237",
-     "date": "2026.12.07 00:00"
+     "title": "[한화생명] AX지원팀 'AI 엔지니어(모델링)' 경력채용 (대리급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20230",
+     "date": "2026.12.03 15:00"
     }
    ]
   },
@@ -52,7 +52,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 161,
+   "item_count": 160,
    "method": "json",
    "note": "",
    "error": "",
