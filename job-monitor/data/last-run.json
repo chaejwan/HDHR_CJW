@@ -1,20 +1,20 @@
 {
- "at": "2026-11-20T04:03:30+00:00",
+ "at": "2026-11-20T05:00:52+00:00",
  "checked": 5,
  "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 11-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 11-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 6,
   "alerts": 0,
   "since": "2026-11-20T01:00:51+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44671792569",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44678139681",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,15 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 94,
+   "item_count": 95,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화라이프랩] IT 기획·운영 리더 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
-     "date": "2026.12.06 23:59"
+     "title": "[제조HR실] HR Mgmt.팀 인사기획·운영 담당자 (미국 근무)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20237",
+     "date": "2026.12.07 00:00"
     }
    ]
   },
