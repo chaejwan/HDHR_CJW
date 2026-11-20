@@ -1,20 +1,20 @@
 {
- "at": "2026-11-20T03:01:12+00:00",
+ "at": "2026-11-20T04:03:30+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 4건 · 점검 0건). 11-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 11-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 4,
+  "items": 5,
   "alerts": 0,
   "since": "2026-11-20T01:00:51+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44664735749",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44671792569",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,17 +28,7 @@
    "error": "",
    "new_items": [
     {
-     "title": "경력직 채용_펀드회계팀",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
-     "date": "2026.12.04 15:00"
-    },
-    {
-     "title": "경력직 채용_IT보안팀 (보안 엔지니어)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20229",
-     "date": "2026.12.04 15:00"
-    },
-    {
-     "title": "[한화라이프랩] IT 기획·운영 리더",
+     "title": "[한화라이프랩] IT 기획·운영 리더 채용",
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20234",
      "date": "2026.12.06 23:59"
     }
