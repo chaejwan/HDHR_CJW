@@ -1,20 +1,20 @@
 {
- "at": "2026-11-20T09:00:54+00:00",
+ "at": "2026-11-20T09:58:42+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 12건 · 점검 0건). 11-23 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 13건 · 점검 0건). 11-23 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 12,
+  "items": 13,
   "alerts": 0,
   "since": "2026-11-20T01:00:51+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44707071448",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/44715204385",
  "results": [
   {
    "site_id": "hanwhain",
@@ -28,28 +28,8 @@
    "error": "",
    "new_items": [
     {
-     "title": "[한화생명] 대체투자사업부 '글로벌 실물자산(부동산/인프라)·PD 투자 및 운용' 경력채용(과~차장급)",
+     "title": "[한화생명] 대체투자사업부 '국내외 실물자산(부동산/인프라), 크레딧(PD, 인수금융) 투자 및 운용' 경력채용(과~차장급)",
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
-     "date": "2026.12.03 15:00"
-    },
-    {
-     "title": "[한화투자증권] CX성장팀_퍼포먼스 마케팅 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20236",
-     "date": "2026.12.03 15:00"
-    },
-    {
-     "title": "[한화투자증권] CX성장팀_마케팅 전략/기획 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20235",
-     "date": "2026.12.03 15:00"
-    },
-    {
-     "title": "[한화투자증권] 브랜드성장팀_브랜드 통합 마케팅 전략/기획 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20233",
-     "date": "2026.12.03 15:00"
-    },
-    {
-     "title": "[한화투자증권] 브랜드성장팀_브랜드 전략/기획 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20232",
      "date": "2026.12.03 15:00"
     }
    ]

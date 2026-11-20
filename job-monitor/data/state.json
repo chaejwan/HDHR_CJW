@@ -2690,17 +2690,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20232",
      "date": "2026.12.03 15:00",
      "first_seen": "2026-11-20T09:00:43+00:00"
+    },
+    "fa3b48bd692895d9": {
+     "title": "[한화생명] 대체투자사업부 '국내외 실물자산(부동산/인프라), 크레딧(PD, 인수금융) 투자 및 운용' 경력채용(과~차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+     "date": "2026.12.03 15:00",
+     "first_seen": "2026-11-20T09:58:30+00:00"
     }
    },
-   "last_check": "2026-11-20T09:00:43+00:00",
-   "last_success": "2026-11-20T09:00:43+00:00",
+   "last_check": "2026-11-20T09:58:30+00:00",
+   "last_success": "2026-11-20T09:58:30+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
    "item_count": 100,
-   "fingerprint": "90fca4b5e24fe4d5",
+   "fingerprint": "04dc925001db260a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T09:58:30+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화생명] 대체투자사업부 '국내외 실물자산(부동산/인프라), 크레딧(PD, 인수금융) 투자 및 운용' 경력채용(과~차장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+       "date": "2026.12.03 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-20T09:00:43+00:00",
      "status": "new",
@@ -3117,27 +3139,6 @@
        "date": "2026.11.29 23:59"
       }
      ]
-    },
-    {
-     "at": "2026-11-18T01:00:36+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 83,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "영업지원 담당자 경력사원 채용 (계약직)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20210",
-       "date": "2026.11.29 23:59"
-      },
-      {
-       "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20199",
-       "date": "2026.11.29 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -3154,7 +3155,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-20T09:00:43+00:00"
+   "last_new_at": "2026-11-20T09:58:30+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7347,8 +7348,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-20T09:00:44+00:00",
-   "last_success": "2026-11-20T09:00:44+00:00",
+   "last_check": "2026-11-20T09:58:31+00:00",
+   "last_success": "2026-11-20T09:58:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7356,6 +7357,16 @@
    "fingerprint": "c5f9a1f2f235a732",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T09:58:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T09:00:44+00:00",
      "status": "ok",
@@ -7645,22 +7656,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-18T01:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[경영지원] 근무/근태관리 (계약직) 채용",
-       "url": "https://recruit-hanwhaocean.com/ko/o/245331",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11438,8 +11433,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-20T09:00:48+00:00",
-   "last_success": "2026-11-20T09:00:48+00:00",
+   "last_check": "2026-11-20T09:58:36+00:00",
+   "last_success": "2026-11-20T09:58:36+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11447,6 +11442,16 @@
    "fingerprint": "2a4bc818fa3deecc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T09:58:36+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T09:00:48+00:00",
      "status": "ok",
@@ -11759,16 +11764,6 @@
     },
     {
      "at": "2026-11-18T03:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-18T01:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13987,15 +13982,25 @@
      "first_seen": "2026-11-20T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-20T09:00:49+00:00",
-   "last_success": "2026-11-20T09:00:49+00:00",
+   "last_check": "2026-11-20T09:58:37+00:00",
+   "last_success": "2026-11-20T09:58:37+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "6fe443033d2d12a9",
+   "fingerprint": "6c117646bb7bb42a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T09:58:37+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T09:00:49+00:00",
      "status": "ok",
@@ -14290,16 +14295,6 @@
     },
     {
      "at": "2026-11-18T03:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-18T01:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15048,8 +15043,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-20T09:00:51+00:00",
-   "last_success": "2026-11-20T09:00:51+00:00",
+   "last_check": "2026-11-20T09:58:40+00:00",
+   "last_success": "2026-11-20T09:58:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15057,6 +15052,16 @@
    "fingerprint": "a2ec74b15f3737a1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-20T09:58:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-20T09:00:51+00:00",
      "status": "ok",
@@ -15352,16 +15357,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-18T01:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15490,6 +15485,15 @@
     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20232",
     "date": "2026.12.03 15:00",
     "found_at": "2026-11-20T09:00:54+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 대체투자사업부 '국내외 실물자산(부동산/인프라), 크레딧(PD, 인수금융) 투자 및 운용' 경력채용(과~차장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+    "date": "2026.12.03 15:00",
+    "found_at": "2026-11-20T09:58:42+00:00"
    }
   ],
   "alerts": [],
@@ -15497,15 +15501,6 @@
   "last_sent": "2026-11-19T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "에이닷 음악 추천 서비스 운영 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262258",
-   "date": "",
-   "found_at": "2026-10-16T01:00:43+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19996,6 +19991,15 @@
    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20232",
    "date": "2026.12.03 15:00",
    "found_at": "2026-11-20T09:00:54+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 대체투자사업부 '국내외 실물자산(부동산/인프라), 크레딧(PD, 인수금융) 투자 및 운용' 경력채용(과~차장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+   "date": "2026.12.03 15:00",
+   "found_at": "2026-11-20T09:58:42+00:00"
   }
  ]
 }
