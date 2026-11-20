@@ -20,6 +20,7 @@ from datetime import datetime, timedelta, timezone   # noqa: E402
 from jobmon import config as config_mod       # noqa: E402
 from jobmon import digest as digest_mod       # noqa: E402
 from jobmon import extract as extract_mod     # noqa: E402
+from jobmon import history as history_mod     # noqa: E402
 from jobmon import notify as notify_mod       # noqa: E402
 from jobmon import server as server_mod       # noqa: E402
 from jobmon import store as store_mod         # noqa: E402
@@ -657,6 +658,107 @@ class SettingsPageBranchTest(unittest.TestCase):
     def test_main_is_not_the_only_guess(self):
         self.assertNotIn("branch = 'main';", self.app,
                          "기본 브랜치를 main 으로 단정하는 코드가 남아 있습니다")
+
+
+class HistoryMarkdownTest(unittest.TestCase):
+    """사내망용 공고 이력 표 (github.com 에서 보는 data/HISTORY.md).
+
+    사내망은 github.io(설정 화면)를 막고 github.com 은 열어 두었다.
+    설정 화면 '채용 공고 이력' 과 같은 목록이 같은 칸으로 나와야 한다.
+    """
+
+    CFG = {"digest": {"timezone": "Asia/Seoul", "utc_offset_hours": 9},
+           "sites": [{"id": "hw", "name": "한화"}, {"id": "sk", "name": "SK"}],
+           "page_url": "https://example.github.io/monitor/"}
+
+    @staticmethod
+    def _rows(md):
+        return [line for line in md.splitlines() if line.startswith("| ") and "---" not in line][1:]
+
+    @staticmethod
+    def _cells(line):
+        # 백슬래시로 막아 둔 | 는 칸 나눔이 아니다
+        return [c.strip() for c in re.split(r"(?<!\\)\|", line)[1:-1]]
+
+    def _state(self, rows):
+        return {"sites": {}, "archive": rows}
+
+    def test_same_columns_and_order_as_the_settings_page(self):
+        state = self._state([
+            {"site_id": "sk", "site_name": "옛 이름", "title": "먼저 찾은 공고",
+             "url": "https://sk.example/1", "date": "20261203", "found_at": "2026-11-19T23:00:00+00:00"},
+            {"site_id": "hw", "site_name": "한화", "title": "나중에 찾은 공고",
+             "url": "https://hw.example/2", "date": "2026.12.03 15:00", "found_at": "2026-11-20T09:00:54+00:00"},
+        ])
+        now = datetime(2026, 11, 20, 9, 30, tzinfo=timezone.utc)
+        md = history_mod.render(state, self.CFG, now)
+        rows = self._rows(md)
+        self.assertEqual(len(rows), 2)
+        self.assertEqual(self._cells(rows[0]), ["한화", "[나중에 찾은 공고](https://hw.example/2)",
+                                                "2026-12-03 15:00", "2026-11-20 18:00"])
+        # 회사 이름은 지금 설정의 이름으로, 날짜만 있는 마감은 하이픈으로, 발견은 한국 시각으로
+        self.assertEqual(self._cells(rows[1]), ["SK", "[먼저 찾은 공고](https://sk.example/1)",
+                                                "2026-12-03", "2026-11-20 08:00"])
+        self.assertIn("마지막 갱신 **2026-11-20 18:30**", md)
+        self.assertIn("SK 1 · 한화 1", md)
+        self.assertIn("(https://example.github.io/monitor/)", md)
+
+    def test_titles_from_sites_cannot_break_the_table_or_add_links(self):
+        state = self._state([
+            {"site_id": "hw", "title": "A|B [가짜](javascript:alert(1)) <script>x</script> *굵게*",
+             "url": "javascript:alert(1)", "date": "", "found_at": "2026-11-20T00:00:00+00:00"},
+            {"site_id": "hw", "title": "주소에 | 와 괄호",
+             "url": "https://hw.example/a|b(c) d", "date": "", "found_at": "2026-11-19T00:00:00+00:00"},
+        ])
+        rows = self._rows(history_mod.render(state, self.CFG))
+        first, second = (self._cells(row) for row in rows)
+        self.assertEqual(len(first), 4)
+        self.assertEqual(len(second), 4)
+        self.assertNotIn("](javascript", first[1].replace("\\]", ""))   # http(s) 가 아니면 링크를 걸지 않는다
+        self.assertNotIn("<script>", first[1])
+        self.assertEqual(first[2], "—")
+        self.assertIn("(https://hw.example/a%7Cb%28c%29%20d)", second[1])
+
+    def test_empty_archive(self):
+        md = history_mod.render(self._state([]), self.CFG)
+        self.assertIn("아직 발견한 공고가 없습니다.", md)
+        self.assertEqual(self._rows(md), [])
+
+    def test_saving_state_also_writes_the_table(self):
+        folder = tempfile.mkdtemp()
+        path = os.path.join(folder, "config.json")
+        config_mod.save(path, {"sites": [{"id": "hw", "name": "한화", "url": "https://hw.example"}]})
+        monitor = Monitor(path)
+        monitor.save_state({"sites": {}, "archive": [
+            {"site_id": "hw", "title": "공고", "url": "https://hw.example/1",
+             "date": "", "found_at": "2026-11-20T00:00:00+00:00"}]})
+        written = os.path.join(os.path.dirname(monitor.state_path), "HISTORY.md")
+        with open(written, encoding="utf-8") as fh:
+            self.assertIn("[공고](https://hw.example/1)", fh.read())
+
+    def test_workflow_commits_the_table(self):
+        # 코드만 넣고 워크플로에 빠뜨리면 표가 저장소에 올라가지 않는다 (예전 시크릿 누락과 같은 실수)
+        path = os.path.join(os.path.dirname(BASE_DIR), ".github", "workflows", "job-monitor.yml")
+        if not os.path.exists(path):
+            self.skipTest("워크플로 파일이 없는 곳에서 실행 중")
+        with open(path, encoding="utf-8") as fh:
+            self.assertIn("job-monitor/data/HISTORY.md", fh.read())
+
+    def test_mail_links_the_table_for_office_pcs(self):
+        with_link = notify_mod.footer("https://example.github.io/monitor/", "https://github.com/x/y/HISTORY.md")
+        self.assertIn("href='https://github.com/x/y/HISTORY.md'", with_link)
+        self.assertIn("사내 PC", with_link)
+        self.assertNotIn("사내 PC", notify_mod.footer("https://example.github.io/monitor/"))
+        _subject, text, _html = notify_mod.render(
+            [{"site_name": "한화", "site_url": "https://hw.example",
+              "new_items": [{"title": "공고", "url": "https://hw.example/1"}]}],
+            history_url="https://github.com/x/y/HISTORY.md")
+        self.assertIn("사내 PC에서 모아 보기: https://github.com/x/y/HISTORY.md", text)
+
+    def test_history_url_survives_config_round_trip(self):
+        path = os.path.join(tempfile.mkdtemp(), "config.json")
+        config_mod.save(path, {"history_url": " https://github.com/x/y/HISTORY.md "})
+        self.assertEqual(config_mod.load(path)["history_url"], "https://github.com/x/y/HISTORY.md")
 
 
 class DigestTest(unittest.TestCase):

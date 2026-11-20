@@ -12,6 +12,7 @@ from . import config as config_mod
 from . import digest as digest_mod
 from . import extract as extract_mod
 from . import fetch as fetch_mod
+from . import history as history_mod
 from . import notify as notify_mod
 from . import store as store_mod
 
@@ -57,6 +58,8 @@ class Monitor:
         data_dir = os.path.join(os.path.dirname(self.config_path), "data")
         self.state_path = os.path.abspath(state_path or os.path.join(data_dir, "state.json"))
         self.log_path = os.path.abspath(log_path or os.path.join(data_dir, "monitor.log"))
+        # github.com 에서 보는 공고 이력 표 (사내망에서 설정 화면이 막혀 있을 때 쓴다)
+        self.history_path = os.path.join(os.path.dirname(self.state_path), history_mod.FILE_NAME)
         self._lock = threading.RLock()
         self._stop = threading.Event()
         self._thread = None
@@ -78,6 +81,10 @@ class Monitor:
     def save_state(self, state: dict) -> None:
         with self._lock:
             store_mod.save(self.state_path, state)
+            try:
+                history_mod.write(self.history_path, state, self.load_config())
+            except Exception as exc:   # 이력 표를 못 써도 확인 기록 저장은 이미 끝났다
+                print(f"공고 이력 표(HISTORY.md)를 쓰지 못했습니다: {exc}", flush=True)
 
     def log(self, message: str) -> None:
         line = f"[{store_mod.now_iso()}] {message}"
@@ -440,11 +447,13 @@ class Monitor:
         if pending_items:
             held = store_mod.held_results(state)
             subject, text, html = notify_mod.render(held, prefix, since=box.get("since", ""),
-                                                    page_url=cfg.get("page_url") or "")
+                                                    page_url=cfg.get("page_url") or "",
+                                                    history_url=cfg.get("history_url") or "")
             mails.append(("새 공고", posting_to, subject, text, html))
         if pending_alerts:
             subject, text, html = notify_mod.render_alerts(pending_alerts, results, prefix,
-                                                           page_url=cfg.get("page_url") or "")
+                                                           page_url=cfg.get("page_url") or "",
+                                                    history_url=cfg.get("history_url") or "")
             mails.append(("점검 안내", admin_to, subject, text, html))
 
         if not email_cfg.get("enabled"):

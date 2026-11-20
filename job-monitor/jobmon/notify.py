@@ -26,13 +26,21 @@ def resolve_password(email_cfg: dict) -> str:
 
 BODY_STYLE = ("<div style=\"font-family:'Malgun Gothic',AppleSDGothicNeo-Regular,sans-serif;"
               "font-size:14px;color:#1f2328;line-height:1.6\">")
-def footer(page_url: str = "") -> str:
-    """맨 아래 한 줄. 이력 페이지 주소를 알면 '채용공고 모니터' 에 링크를 건다."""
+def footer(page_url: str = "", history_url: str = "") -> str:
+    """맨 아래 한 줄. 이력 페이지 주소를 알면 '채용공고 모니터' 에 링크를 건다.
+
+    사내망에서는 설정 화면(github.io)이 막혀 있어, github.com 에서 보는
+    공고 이력 표 주소가 있으면 그 링크도 함께 단다.
+    """
     name = "채용공고 모니터"
     if page_url:
         name = (f"<a href='{html_mod.escape(page_url)}' style='color:#0969da'>{name}</a>")
+    extra = ""
+    if history_url:
+        extra = (f" 사내 PC에서는 <a href='{html_mod.escape(history_url)}' "
+                 "style='color:#0969da'>공고 이력(사내망용)</a>을 열어 보세요.")
     return ("<p style='margin-top:24px;color:#656d76;font-size:12px'>"
-            f"{name}가 자동으로 보낸 메일입니다.</p></div>")
+            f"{name}가 자동으로 보낸 메일입니다.{extra}</p></div>")
 
 
 def _period(since: str) -> str:
@@ -47,7 +55,7 @@ def _period(since: str) -> str:
 
 
 def render(results: list, subject_prefix: str = "[채용 알림]", since: str = "",
-           page_url: str = ""):
+           page_url: str = "", history_url: str = ""):
     """새 공고 알림 메일 (공고를 받아 볼 사람들에게 가는 메일).
 
     사이트 점검 안내나 접속 실패 같은 운영 이야기는 여기 넣지 않는다.
@@ -94,12 +102,14 @@ def render(results: list, subject_prefix: str = "[채용 알림]", since: str = 
     if page_url:
         text_lines.append("")
         text_lines.append(f"지난 공고까지 모아 보기: {page_url}")
-    html_parts.append(footer(page_url))
+    if history_url:
+        text_lines.append(f"사내 PC에서 모아 보기: {history_url}")
+    html_parts.append(footer(page_url, history_url))
     return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
 
 
 def render_alerts(alerts: list, results: list = None, subject_prefix: str = "[채용 알림]",
-                  page_url: str = ""):
+                  page_url: str = "", history_url: str = ""):
     """사이트 점검 안내 메일 (관리자에게만 가는 메일).
 
     감시가 조용히 망가진 정황과, 이번에 접속하지 못한 사이트를 담는다.
@@ -144,7 +154,7 @@ def render_alerts(alerts: list, results: list = None, subject_prefix: str = "[�
             )
         html_parts.append("</ul>")
 
-    html_parts.append(footer(page_url))
+    html_parts.append(footer(page_url, history_url))
     return subject, "\n".join(text_lines).strip() + "\n", "".join(html_parts)
 
 

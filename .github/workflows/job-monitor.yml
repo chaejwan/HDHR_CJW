@@ -117,7 +117,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add job-monitor/data/state.json job-monitor/data/last-run.json job-monitor/data/email-status.json 2>/dev/null || true
+          # 파일 하나가 없으면 git add 전체가 실패하므로 하나씩, 있는 것만 담는다.
+          for f in job-monitor/data/state.json job-monitor/data/last-run.json \
+                   job-monitor/data/email-status.json job-monitor/data/HISTORY.md; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then
             echo "바뀐 내용이 없어 커밋하지 않습니다."
             exit 0

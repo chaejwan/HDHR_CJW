@@ -23,6 +23,7 @@ DEFAULT_CONFIG = {
     "check_interval_hours": 24,
     "notify_on_first_run": False,
     "page_url": "",               # 설정 화면 주소 (메일에서 '공고 이력 보기' 로 연결)
+    "history_url": "",            # github.com 에서 보는 공고 이력 표 (사내망용, data/HISTORY.md)
     # 설정 화면을 열 때 물어보는 비밀번호. 비밀번호 자체는 저장하지 않고 해시만 둔다.
     # 정적 페이지라 '완전한 잠금' 은 아니고, 모르는 사람이 우연히 들여다보는 것을 막는 용도.
     "access": {"enabled": False, "salt": "", "hash": "", "hint": ""},
@@ -159,6 +160,7 @@ def normalize(config: dict) -> dict:
     )
     cfg["notify_on_first_run"] = bool(cfg.get("notify_on_first_run"))
     cfg["page_url"] = (cfg.get("page_url") or "").strip()
+    cfg["history_url"] = (cfg.get("history_url") or "").strip()
 
     access = cfg["access"]
     access["enabled"] = bool(access.get("enabled"))
