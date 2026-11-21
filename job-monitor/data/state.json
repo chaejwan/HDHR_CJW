@@ -2698,8 +2698,8 @@
      "first_seen": "2026-11-20T09:58:30+00:00"
     }
    },
-   "last_check": "2026-11-21T11:00:40+00:00",
-   "last_success": "2026-11-21T11:00:40+00:00",
+   "last_check": "2026-11-21T13:00:43+00:00",
+   "last_success": "2026-11-21T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2707,6 +2707,16 @@
    "fingerprint": "ad2aeb6d375b5643",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T11:00:40+00:00",
      "status": "ok",
@@ -3077,16 +3087,6 @@
     },
     {
      "at": "2026-11-19T07:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T04:15:27+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7303,8 +7303,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-21T11:00:41+00:00",
-   "last_success": "2026-11-21T11:00:41+00:00",
+   "last_check": "2026-11-21T13:00:44+00:00",
+   "last_success": "2026-11-21T13:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7312,6 +7312,16 @@
    "fingerprint": "ece1b9003799f057",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T13:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T11:00:41+00:00",
      "status": "ok",
@@ -7594,16 +7604,6 @@
     },
     {
      "at": "2026-11-19T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T04:15:27+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11388,8 +11388,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-21T11:00:45+00:00",
-   "last_success": "2026-11-21T11:00:45+00:00",
+   "last_check": "2026-11-21T13:00:47+00:00",
+   "last_success": "2026-11-21T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11397,6 +11397,16 @@
    "fingerprint": "2c96369d3f75710b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 151,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T11:00:45+00:00",
      "status": "ok",
@@ -11692,22 +11702,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-19T04:15:33+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 161,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "'26년 11월 건축사업 공무(건축) 경력직(촉탁직) 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262542",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13919,15 +13913,25 @@
      "first_seen": "2026-11-20T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-21T11:00:46+00:00",
-   "last_success": "2026-11-21T11:00:46+00:00",
+   "last_check": "2026-11-21T13:00:48+00:00",
+   "last_success": "2026-11-21T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "b9db097e252345eb",
+   "fingerprint": "4577f32468c4e09f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T11:00:46+00:00",
      "status": "ok",
@@ -14216,16 +14220,6 @@
     },
     {
      "at": "2026-11-19T07:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 99,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T04:15:34+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14974,8 +14968,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-21T11:00:48+00:00",
-   "last_success": "2026-11-21T11:00:48+00:00",
+   "last_check": "2026-11-21T13:00:50+00:00",
+   "last_success": "2026-11-21T13:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14983,6 +14977,16 @@
    "fingerprint": "7b33b272ea586636",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T13:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T11:00:48+00:00",
      "status": "ok",
@@ -15265,16 +15269,6 @@
     },
     {
      "at": "2026-11-19T07:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T04:15:37+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
