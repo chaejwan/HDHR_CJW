@@ -2698,8 +2698,8 @@
      "first_seen": "2026-11-20T09:58:30+00:00"
     }
    },
-   "last_check": "2026-11-21T15:00:44+00:00",
-   "last_success": "2026-11-21T15:00:44+00:00",
+   "last_check": "2026-11-21T17:00:49+00:00",
+   "last_success": "2026-11-21T17:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2707,6 +2707,16 @@
    "fingerprint": "ad2aeb6d375b5643",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T17:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 98,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T15:00:44+00:00",
      "status": "ok",
@@ -3066,32 +3076,6 @@
        "title": "[한화솔루션 큐셀부문] 제조HR실 HR Mgmt.팀 인사운영 담당자",
        "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20228",
        "date": "2026.11.30 23:59"
-      }
-     ]
-    },
-    {
-     "at": "2026-11-19T09:00:49+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 90,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화투자증권] 경력 변호사 채용(차장급)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20219",
-       "date": "2026.12.09 15:00"
-      },
-      {
-       "title": "한화시스템 유무인복합체계 개발 분야 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20225",
-       "date": "2026.12.13 23:59"
-      },
-      {
-       "title": "한화시스템 서보시스템 엔지니어 경력사원 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20223",
-       "date": "2026.12.13 23:59"
       }
      ]
     }
@@ -7303,8 +7287,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-21T15:00:45+00:00",
-   "last_success": "2026-11-21T15:00:45+00:00",
+   "last_check": "2026-11-21T17:00:50+00:00",
+   "last_success": "2026-11-21T17:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7312,6 +7296,16 @@
    "fingerprint": "2dc79d0f65193cad",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T17:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T15:00:45+00:00",
      "status": "ok",
@@ -7594,16 +7588,6 @@
     },
     {
      "at": "2026-11-19T11:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T09:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11388,8 +11372,8 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-21T15:00:51+00:00",
-   "last_success": "2026-11-21T15:00:51+00:00",
+   "last_check": "2026-11-21T17:00:51+00:00",
+   "last_success": "2026-11-21T17:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11397,6 +11381,16 @@
    "fingerprint": "bbaa89f148f764c7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T17:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 150,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T15:00:51+00:00",
      "status": "ok",
@@ -11686,22 +11680,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-19T09:00:51+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 162,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "대전HR 물품 검수 사무지원직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262546",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -13913,8 +13891,8 @@
      "first_seen": "2026-11-20T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-21T15:00:52+00:00",
-   "last_success": "2026-11-21T15:00:52+00:00",
+   "last_check": "2026-11-21T17:00:52+00:00",
+   "last_success": "2026-11-21T17:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -13922,6 +13900,16 @@
    "fingerprint": "8372d47447779b1a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T17:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T15:00:52+00:00",
      "status": "ok",
@@ -14210,16 +14198,6 @@
     },
     {
      "at": "2026-11-19T11:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T09:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14968,8 +14946,8 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-21T15:00:55+00:00",
-   "last_success": "2026-11-21T15:00:55+00:00",
+   "last_check": "2026-11-21T17:00:54+00:00",
+   "last_success": "2026-11-21T17:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14977,6 +14955,16 @@
    "fingerprint": "9efa6a34abebe5b4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-21T17:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-21T15:00:55+00:00",
      "status": "ok",
@@ -15259,16 +15247,6 @@
     },
     {
      "at": "2026-11-19T11:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-19T09:00:54+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
