@@ -2698,15 +2698,25 @@
      "first_seen": "2026-11-20T09:58:30+00:00"
     }
    },
-   "last_check": "2026-11-22T13:00:37+00:00",
-   "last_success": "2026-11-22T13:00:37+00:00",
+   "last_check": "2026-11-22T15:00:43+00:00",
+   "last_success": "2026-11-22T15:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "00dce84ee43d82a8",
+   "item_count": 87,
+   "fingerprint": "7d1e375136a1e45c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-22T15:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-22T13:00:37+00:00",
      "status": "ok",
@@ -3034,32 +3044,16 @@
        "date": "2026.12.03 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-20T05:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 95,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[제조HR실] HR Mgmt.팀 인사기획·운영 담당자 (미국 근무)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20237",
-       "date": "2026.12.07 00:00"
-      }
-     ]
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "한화커넥트 공간 콘텐츠 및 프로모션 기획/운영 경력직 채용 (보훈대상자 우대)",
-    "[한화에어로스페이스] MRO사업부 SCM 담당자 채용",
-    "[한화세미텍] 2027년 상반기 경력사원 채용(R&D/QA/재무/구매)",
-    "[판교R&D센터] 탠덤 태양전지용 ALD 공정 개발 연구원 채용",
-    "한화시스템 글로벌마케팅 및 해외영업 부문 경력사원 채용"
+    "[한화세미텍] 2027년 상반기 채용전제형 인턴 채용(영업/CS)",
+    "경력직 채용_기관컨설팅1센터 (단기 계약직)",
+    "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
+    "한화시스템 해양 해외영업 경력사원 채용",
+    "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)"
    ],
    "health": {
     "issue": "",
@@ -7259,15 +7253,25 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-22T13:00:38+00:00",
-   "last_success": "2026-11-22T13:00:38+00:00",
+   "last_check": "2026-11-22T15:00:45+00:00",
+   "last_success": "2026-11-22T15:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 17,
-   "fingerprint": "2dc79d0f65193cad",
+   "fingerprint": "56e78883ee8cfd7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-22T15:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-22T13:00:38+00:00",
      "status": "ok",
@@ -7550,16 +7554,6 @@
     },
     {
      "at": "2026-11-20T07:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T05:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11344,15 +11338,25 @@
      "first_seen": "2026-11-19T09:00:51+00:00"
     }
    },
-   "last_check": "2026-11-22T13:00:42+00:00",
-   "last_success": "2026-11-22T13:00:42+00:00",
+   "last_check": "2026-11-22T15:00:50+00:00",
+   "last_success": "2026-11-22T15:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 150,
-   "fingerprint": "bbaa89f148f764c7",
+   "item_count": 130,
+   "fingerprint": "5e1fe53ffe93723a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-22T15:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 130,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-22T13:00:42+00:00",
      "status": "ok",
@@ -11642,26 +11646,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T05:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 161,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[SK케미칼] 의약품 생산공정관리 담당자 경력 모집",
-    "SK키파운드리 Technical Marketing 분야 경력 채용",
-    "[SK가스] 어드밴스드(PDH) 사업부문 현장운전원 채용(신입)",
-    "[SK에어플러스] 용인 Gas Plant 배관 시공 현장감독(계약직)",
-    "[엔솔브] 태양광 사업 기획 및 운영 담당 구성원 채용 (경력)"
+    "용인 부속의원 전문의(안과) 채용",
+    "[신입] SK바이오텍 생산운전원 신입사원 모집",
+    "[SK네트웍스서비스]2026년 11월 Solution 영업 사원 채용 (디지털인프라)",
+    "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
+    "Salesforce CRM 개발/운영 및 솔루션 전문가 영입"
    ],
    "health": {
     "issue": "",
@@ -13863,15 +13857,25 @@
      "first_seen": "2026-11-20T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-22T13:00:43+00:00",
-   "last_success": "2026-11-22T13:00:43+00:00",
+   "last_check": "2026-11-22T15:00:51+00:00",
+   "last_success": "2026-11-22T15:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "e53604109df9812b",
+   "item_count": 96,
+   "fingerprint": "ce83393b9de40b96",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-22T15:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 96,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-22T13:00:43+00:00",
      "status": "ok",
@@ -14161,26 +14165,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T05:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] Recruiting Coordinator (글로벌 인재 채용 운영)",
     "[계약직] 행정지원 (장애인 제한경쟁)",
     "[계약직] 사상하이테크센터 파츠딜리버리",
     "[계약직] R&D 임원 통번역사(남양)",
-    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)"
+    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
+    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (양재본사)"
    ],
    "health": {
     "issue": "",
@@ -14912,15 +14906,25 @@
      "first_seen": "2026-11-19T01:00:49+00:00"
     }
    },
-   "last_check": "2026-11-22T13:00:45+00:00",
-   "last_success": "2026-11-22T13:00:45+00:00",
+   "last_check": "2026-11-22T15:00:53+00:00",
+   "last_success": "2026-11-22T15:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 10,
-   "fingerprint": "9efa6a34abebe5b4",
+   "fingerprint": "f76b16e7281f5312",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-22T15:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 10,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-22T13:00:45+00:00",
      "status": "ok",
@@ -15203,16 +15207,6 @@
     },
     {
      "at": "2026-11-20T07:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T05:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
