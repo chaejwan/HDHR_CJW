@@ -1,20 +1,20 @@
 {
- "at": "2026-11-23T21:00:56+00:00",
+ "at": "2026-11-23T23:00:58+00:00",
  "checked": 5,
- "new_total": 0,
+ "new_total": 1,
  "email": {
-  "sent": false,
+  "sent": true,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 15건 · 점검 0건). 11-24 08:00 에 보냅니다."
+  "skipped": ""
  },
  "alerts": [],
  "pending": {
-  "items": 15,
+  "items": 0,
   "alerts": 0,
-  "since": "2026-11-23T01:00:49+00:00",
+  "since": "",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45265212410",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45284960107",
  "results": [
   {
    "site_id": "hanwhain",
@@ -57,12 +57,18 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 98,
+   "status": "new",
+   "item_count": 99,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 산업간호사 (연구소)",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=274",
+     "date": "20261207"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",

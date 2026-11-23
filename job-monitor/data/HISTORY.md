@@ -2,7 +2,7 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-24 06:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-24 08:01** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
 SK 237 · 한화 174 · 현대자동차 65 · 삼성 21 · 한화오션 3
 
@@ -10,6 +10,7 @@ SK 237 · 한화 174 · 현대자동차 65 · 삼성 21 · 한화오션 3
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 현대자동차 | [\[계약직\] 산업간호사 \(연구소\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=274) | 2026-12-07 | 2026-11-24 08:00 |
 | 한화 | [\[한화생명\] 대체투자사업부 '국내 실물자산\(부동산/인프라\), 인수금융 투자 및 운용' 경력채용\(과\~차장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247) | 2026-12-07 15:00 | 2026-11-23 22:00 |
 | 한화 | [\[한화생명\] 대체투자사업부 '글로벌 실물자산\(부동산/인프라\), PD 투자 및 운용' 경력채용\(과\~차장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240) | 2026-12-07 15:00 | 2026-11-23 22:00 |
 | 한화 | [\(주\)한화보은사업장 전문직\(생산\) 계약직 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246) | 2026-11-30 23:59 | 2026-11-23 20:00 |
@@ -509,4 +510,3 @@ SK 237 · 한화 174 · 현대자동차 65 · 삼성 21 · 한화오션 3
 | 한화 | [\(주\)한화 글로벌부문 화약류 제조기사 채용 \(계약직\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19987) | 2026-11-01 18:00 | 2026-10-19 12:00 |
 | SK | [공공 IT 센터 인프라 설계 및 구축 전문가](https://www.skcareers.com/Recruit/Detail/R261948) | — | 2026-10-19 12:00 |
 | 현대자동차 | [\[계약직\] 경영연구 사무운영보조 \(장애인 제한경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241) | 2026-11-02 | 2026-10-19 12:00 |
-| 현대자동차 | [\[소프티어 부트캠프\] Backend Developer](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=189) | 2026-11-03 | 2026-10-19 10:00 |
