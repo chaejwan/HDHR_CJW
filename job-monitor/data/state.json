@@ -2702,17 +2702,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20242",
      "date": "2026.12.13 23:59",
      "first_seen": "2026-11-23T05:00:40+00:00"
+    },
+    "149de25d5d0f9ffb": {
+     "title": "한화커넥트 시설/공사관리 경력직 채용 (보훈대상자 우대)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244",
+     "date": "2026.12.06 23:00",
+     "first_seen": "2026-11-23T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-23T07:00:43+00:00",
-   "last_success": "2026-11-23T07:00:43+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-23T09:00:40+00:00",
+   "last_success": "2026-11-23T09:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 85,
-   "fingerprint": "48fb34452fc89dbc",
+   "item_count": 86,
+   "fingerprint": "00086bcaae3d5364",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T09:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "한화커넥트 시설/공사관리 경력직 채용 (보훈대상자 우대)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244",
+       "date": "2026.12.06 23:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-23T07:00:43+00:00",
      "status": "ok",
@@ -3008,16 +3030,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3034,7 +3046,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T05:00:40+00:00"
+   "last_new_at": "2026-11-23T09:00:40+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7227,8 +7239,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-23T07:00:44+00:00",
-   "last_success": "2026-11-23T07:00:44+00:00",
+   "last_check": "2026-11-23T09:00:41+00:00",
+   "last_success": "2026-11-23T09:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7236,6 +7248,16 @@
    "fingerprint": "56e78883ee8cfd7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T09:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T07:00:44+00:00",
      "status": "ok",
@@ -7518,16 +7540,6 @@
     },
     {
      "at": "2026-11-20T23:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T21:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11334,17 +11346,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262553",
      "date": "",
      "first_seen": "2026-11-23T07:00:47+00:00"
+    },
+    "2b659f11b616f118": {
+     "title": "Product Manager",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262555",
+     "date": "",
+     "first_seen": "2026-11-23T09:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T07:00:47+00:00",
-   "last_success": "2026-11-23T07:00:47+00:00",
+   "last_check": "2026-11-23T09:00:47+00:00",
+   "last_success": "2026-11-23T09:00:47+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 134,
-   "fingerprint": "2ea56caa33460ad4",
+   "item_count": 135,
+   "fingerprint": "f0aa6fd1a4f4027b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T09:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 135,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "Product Manager",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262555",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-23T07:00:47+00:00",
      "status": "new",
@@ -11657,33 +11691,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T21:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "용인 부속의원 전문의(안과) 채용",
     "[신입] SK바이오텍 생산운전원 신입사원 모집",
     "2027년 상반기 SK가스 기술엔지니어(사업기술/R&D) 채용연계형 인턴 모집",
     "Salesforce CRM 개발/운영 및 솔루션 전문가 영입",
-    "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)"
+    "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+    "SK온 AI 인프라 구축 및 운영 담당자 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T07:00:47+00:00"
+   "last_new_at": "2026-11-23T09:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13882,17 +13906,50 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97",
      "date": "20261130",
      "first_seen": "2026-11-23T05:00:47+00:00"
+    },
+    "62539d872c9fa808": {
+     "title": "[계약직] 부산하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=275",
+     "date": "20261206",
+     "first_seen": "2026-11-23T09:00:49+00:00"
+    },
+    "5e50c3b8cb951c93": {
+     "title": "[계약직] 동부하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
+     "date": "20261206",
+     "first_seen": "2026-11-23T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-23T07:00:48+00:00",
-   "last_success": "2026-11-23T07:00:48+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-23T09:00:49+00:00",
+   "last_success": "2026-11-23T09:00:49+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 97,
-   "fingerprint": "1010ce62f5f49461",
+   "item_count": 99,
+   "fingerprint": "74fcbc9a852a9e7d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T09:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 99,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[계약직] 부산하이테크센터 고객응대 및 수납",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=275",
+       "date": "20261206"
+      },
+      {
+       "title": "[계약직] 동부하이테크센터 고객응대 및 수납",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
+       "date": "20261206"
+      }
+     ]
+    },
     {
      "at": "2026-11-23T07:00:48+00:00",
      "status": "ok",
@@ -14188,16 +14245,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14214,7 +14261,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T05:00:47+00:00"
+   "last_new_at": "2026-11-23T09:00:49+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -14945,15 +14992,25 @@
      "first_seen": "2026-11-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T07:00:51+00:00",
-   "last_success": "2026-11-23T07:00:51+00:00",
+   "last_check": "2026-11-23T09:00:53+00:00",
+   "last_success": "2026-11-23T09:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 11,
-   "fingerprint": "fe844fbe22e50e7c",
+   "item_count": 9,
+   "fingerprint": "b0a3760d16cf98ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T09:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T07:00:51+00:00",
      "status": "ok",
@@ -15249,16 +15306,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T21:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15342,6 +15389,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262553",
     "date": "",
     "found_at": "2026-11-23T07:00:53+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "한화커넥트 시설/공사관리 경력직 채용 (보훈대상자 우대)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244",
+    "date": "2026.12.06 23:00",
+    "found_at": "2026-11-23T09:00:55+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Product Manager",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262555",
+    "date": "",
+    "found_at": "2026-11-23T09:00:55+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 부산하이테크센터 고객응대 및 수납",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=275",
+    "date": "20261206",
+    "found_at": "2026-11-23T09:00:55+00:00"
+   },
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[계약직] 동부하이테크센터 고객응대 및 수납",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
+    "date": "20261206",
+    "found_at": "2026-11-23T09:00:55+00:00"
    }
   ],
   "alerts": [],
@@ -15349,42 +15432,6 @@
   "last_sent": "2026-11-22T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 소나 센서 연구원 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244",
-   "date": "2026.11.01 23:59",
-   "found_at": "2026-10-16T05:00:47+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화솔루션 큐셀부문] Global HR실 조직문화 담당자",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19996",
-   "date": "2026.10.30 15:00",
-   "found_at": "2026-10-16T07:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Global Partnership Management 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262263",
-   "date": "",
-   "found_at": "2026-10-16T07:00:47+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262265",
-   "date": "",
-   "found_at": "2026-10-16T07:00:47+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -19848,6 +19895,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262553",
    "date": "",
    "found_at": "2026-11-23T07:00:53+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "한화커넥트 시설/공사관리 경력직 채용 (보훈대상자 우대)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244",
+   "date": "2026.12.06 23:00",
+   "found_at": "2026-11-23T09:00:55+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Product Manager",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262555",
+   "date": "",
+   "found_at": "2026-11-23T09:00:55+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 부산하이테크센터 고객응대 및 수납",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=275",
+   "date": "20261206",
+   "found_at": "2026-11-23T09:00:55+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[계약직] 동부하이테크센터 고객응대 및 수납",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
+   "date": "20261206",
+   "found_at": "2026-11-23T09:00:55+00:00"
   }
  ]
 }

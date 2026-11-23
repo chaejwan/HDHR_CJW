@@ -1,32 +1,38 @@
 {
- "at": "2026-11-23T07:00:53+00:00",
+ "at": "2026-11-23T09:00:55+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-24 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 11-24 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 11,
   "alerts": 0,
   "since": "2026-11-23T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45128030571",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45143227369",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 85,
+   "status": "new",
+   "item_count": 86,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "한화커넥트 시설/공사관리 경력직 채용 (보훈대상자 우대)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244",
+     "date": "2026.12.06 23:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,19 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 134,
+   "item_count": 135,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[SK오션플랜트/삼강에스앤씨] 보세/통관담당 구성원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262552",
-     "date": ""
-    },
-    {
-     "title": "Client Engineer (Android) – TMAP AUTO 개발",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262553",
+     "title": "Product Manager",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262555",
      "date": ""
     }
    ]
@@ -68,12 +69,23 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 97,
+   "status": "new",
+   "item_count": 99,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 부산하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=275",
+     "date": "20261206"
+    },
+    {
+     "title": "[계약직] 동부하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
+     "date": "20261206"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
@@ -81,7 +93,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 11,
+   "item_count": 9,
    "method": "pattern",
    "note": "",
    "error": "",

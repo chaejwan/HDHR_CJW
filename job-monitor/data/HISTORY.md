@@ -2,14 +2,18 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-23 16:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-23 18:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 239 · 한화 173 · 현대자동차 64 · 삼성 21 · 한화오션 3
+SK 238 · 한화 172 · 현대자동차 66 · 삼성 21 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 한화 | [한화커넥트 시설/공사관리 경력직 채용 \(보훈대상자 우대\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244) | 2026-12-06 23:00 | 2026-11-23 18:00 |
+| SK | [Product Manager](https://www.skcareers.com/Recruit/Detail/R262555) | — | 2026-11-23 18:00 |
+| 현대자동차 | [\[계약직\] 부산하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=275) | 2026-12-06 | 2026-11-23 18:00 |
+| 현대자동차 | [\[계약직\] 동부하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276) | 2026-12-06 | 2026-11-23 18:00 |
 | SK | [\[SK오션플랜트/삼강에스앤씨\] 보세/통관담당 구성원 모집](https://www.skcareers.com/Recruit/Detail/R262552) | — | 2026-11-23 16:00 |
 | SK | [Client Engineer \(Android\) – TMAP AUTO 개발](https://www.skcareers.com/Recruit/Detail/R262553) | — | 2026-11-23 16:00 |
 | 한화 | [\[한화라이프랩\] 업무지원팀 담당자 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20242) | 2026-12-13 23:59 | 2026-11-23 14:00 |
@@ -506,7 +510,3 @@ SK 239 · 한화 173 · 현대자동차 64 · 삼성 21 · 한화오션 3
 | SK | [반도체 Cloud/AI Platform 개발/운영 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262266) | — | 2026-10-16 20:00 |
 | 한화 | [\[한화생명\] 사내 변호사 경력직 채용 \(정규직, 과장\~부장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19995) | 2026-11-02 15:00 | 2026-10-16 18:00 |
 | 현대자동차 | [\[계약직\] 남부하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=238) | 2026-10-25 | 2026-10-16 18:00 |
-| 한화 | [\[한화솔루션 큐셀부문\] Global HR실 조직문화 담당자](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19996) | 2026-10-30 15:00 | 2026-10-16 16:00 |
-| SK | [Global Partnership Management 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262263) | — | 2026-10-16 16:00 |
-| SK | [생산공정 데이터 분석 및 효율화\(O/E\) 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262265) | — | 2026-10-16 16:00 |
-| 한화 | [한화시스템 소나 센서 연구원 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244) | 2026-11-01 23:59 | 2026-10-16 14:00 |
