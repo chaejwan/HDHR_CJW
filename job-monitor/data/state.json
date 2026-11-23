@@ -2708,17 +2708,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244",
      "date": "2026.12.06 23:00",
      "first_seen": "2026-11-23T09:00:40+00:00"
+    },
+    "1140711db41fba23": {
+     "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246",
+     "date": "2026.11.30 23:59",
+     "first_seen": "2026-11-23T11:00:48+00:00"
     }
    },
-   "last_check": "2026-11-23T09:00:40+00:00",
-   "last_success": "2026-11-23T09:00:40+00:00",
+   "last_check": "2026-11-23T11:00:48+00:00",
+   "last_success": "2026-11-23T11:00:48+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 86,
-   "fingerprint": "00086bcaae3d5364",
+   "item_count": 87,
+   "fingerprint": "a7ae5e20414282e0",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T11:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246",
+       "date": "2026.11.30 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-23T09:00:40+00:00",
      "status": "new",
@@ -3020,16 +3042,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T23:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3046,7 +3058,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T09:00:40+00:00"
+   "last_new_at": "2026-11-23T11:00:48+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7239,8 +7251,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-23T09:00:41+00:00",
-   "last_success": "2026-11-23T09:00:41+00:00",
+   "last_check": "2026-11-23T11:00:49+00:00",
+   "last_success": "2026-11-23T11:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7248,6 +7260,16 @@
    "fingerprint": "56e78883ee8cfd7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T11:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T09:00:41+00:00",
      "status": "ok",
@@ -7530,16 +7552,6 @@
     },
     {
      "at": "2026-11-21T01:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T23:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11352,17 +11364,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262555",
      "date": "",
      "first_seen": "2026-11-23T09:00:47+00:00"
+    },
+    "6c60b0a92b8d1df1": {
+     "title": "초대형 AI 모델 연구원",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262509",
+     "date": "",
+     "first_seen": "2026-11-23T11:00:50+00:00"
     }
    },
-   "last_check": "2026-11-23T09:00:47+00:00",
-   "last_success": "2026-11-23T09:00:47+00:00",
+   "last_check": "2026-11-23T11:00:50+00:00",
+   "last_success": "2026-11-23T11:00:50+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 135,
-   "fingerprint": "f0aa6fd1a4f4027b",
+   "item_count": 136,
+   "fingerprint": "d67217ce0b37a04b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T11:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 136,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "초대형 AI 모델 연구원",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262509",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-23T09:00:47+00:00",
      "status": "new",
@@ -11681,16 +11715,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T23:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11707,7 +11731,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T09:00:47+00:00"
+   "last_new_at": "2026-11-23T11:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13920,15 +13944,25 @@
      "first_seen": "2026-11-23T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-23T09:00:49+00:00",
-   "last_success": "2026-11-23T09:00:49+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-23T11:00:52+00:00",
+   "last_success": "2026-11-23T11:00:52+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 99,
-   "fingerprint": "74fcbc9a852a9e7d",
+   "item_count": 100,
+   "fingerprint": "c86cfc6091e2e094",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T11:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T09:00:49+00:00",
      "status": "new",
@@ -14228,16 +14262,6 @@
     },
     {
      "at": "2026-11-21T01:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T23:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14992,8 +15016,8 @@
      "first_seen": "2026-11-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T09:00:53+00:00",
-   "last_success": "2026-11-23T09:00:53+00:00",
+   "last_check": "2026-11-23T11:00:55+00:00",
+   "last_success": "2026-11-23T11:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15001,6 +15025,16 @@
    "fingerprint": "b0a3760d16cf98ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T11:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T09:00:53+00:00",
      "status": "ok",
@@ -15296,16 +15330,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T23:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15425,6 +15449,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
     "date": "20261206",
     "found_at": "2026-11-23T09:00:55+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246",
+    "date": "2026.11.30 23:59",
+    "found_at": "2026-11-23T11:00:57+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "초대형 AI 모델 연구원",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262509",
+    "date": "",
+    "found_at": "2026-11-23T11:00:57+00:00"
    }
   ],
   "alerts": [],
@@ -15432,24 +15474,6 @@
   "last_sent": "2026-11-22T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명] 사내 변호사 경력직 채용 (정규직, 과장~부장급)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19995",
-   "date": "2026.11.02 15:00",
-   "found_at": "2026-10-16T09:00:53+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 남부하이테크센터 고객응대 및 수납",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=238",
-   "date": "20261025",
-   "found_at": "2026-10-16T09:00:53+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19931,6 +19955,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=276",
    "date": "20261206",
    "found_at": "2026-11-23T09:00:55+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화보은사업장 전문직(생산) 계약직 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246",
+   "date": "2026.11.30 23:59",
+   "found_at": "2026-11-23T11:00:57+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "초대형 AI 모델 연구원",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262509",
+   "date": "",
+   "found_at": "2026-11-23T11:00:57+00:00"
   }
  ]
 }
