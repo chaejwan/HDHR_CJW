@@ -2,14 +2,17 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-23 12:47** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-23 14:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 236 · 한화 175 · 현대자동차 64 · 삼성 22 · 한화오션 3
+SK 237 · 한화 175 · 현대자동차 64 · 삼성 21 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 한화 | [\[한화라이프랩\] 업무지원팀 담당자 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20242) | 2026-12-13 23:59 | 2026-11-23 14:00 |
+| SK | [\[신입\] SK바이오텍 Small Molecule\&Peptide 분석 연구원\(R\&D\) 신입사원 모집](https://www.skcareers.com/Recruit/Detail/R262551) | — | 2026-11-23 14:00 |
+| 현대자동차 | [\[아르바이트\] 사무보조 \(아산공장\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97) | 2026-11-30 | 2026-11-23 14:00 |
 | SK | [SK온 Cell Validation 기술직 채용](https://www.skcareers.com/Recruit/Detail/R262548) | — | 2026-11-23 10:00 |
 | 삼성 | [삼성물산 패션부문 경력사원 채용\(브랜드마케팅, 퍼포먼스마케팅, 패션디자이너, Buying MD, 홀서비스\)](https://www.samsungcareers.com/hr/?no=23543) | 2026-11-23 \~ 2026-12-03 | 2026-11-23 10:00 |
 | 한화 | [\[한화생명\] 대체투자사업부 '국내외 실물자산\(부동산/인프라\), 크레딧\(PD, 인수금융\) 투자 및 운용' 경력채용\(과\~차장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240) | 2026-12-03 15:00 | 2026-11-20 18:58 |
@@ -507,6 +510,3 @@ SK 236 · 한화 175 · 현대자동차 64 · 삼성 22 · 한화오션 3
 | 한화 | [\(주\)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992) | 2026-10-29 18:00 | 2026-10-16 14:00 |
 | 한화 | [한화시스템 소나 신호처리\(AI\) 연구원 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260) | 2026-11-01 23:59 | 2026-10-16 14:00 |
 | 한화 | [한화시스템 소나 센서 연구원 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244) | 2026-11-01 23:59 | 2026-10-16 14:00 |
-| 한화 | [\[한화투자증권\] PLUS사업추진팀 콘텐츠 관리자 경력채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19981) | 2026-10-28 23:59 | 2026-10-16 12:00 |
-| 현대자동차 | [\[계약직\] 품질/보증 행정지원](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=237) | 2026-10-30 | 2026-10-16 12:00 |
-| 삼성 | [삼성물산 패션부문 경력사원 채용\(마케팅, 온라인컨텐츠기획, 패션디자이너, Buying MD, 홀서비스\)](https://www.samsungcareers.com/hr/?no=23304) | 2026-10-16 \~ 2026-10-27 | 2026-10-16 10:00 |
