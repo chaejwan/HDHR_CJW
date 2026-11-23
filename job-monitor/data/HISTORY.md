@@ -2,14 +2,16 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-23 20:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-23 22:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 239 · 한화 172 · 현대자동차 65 · 삼성 21 · 한화오션 3
+SK 237 · 한화 174 · 현대자동차 65 · 삼성 21 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 한화 | [\[한화생명\] 대체투자사업부 '국내 실물자산\(부동산/인프라\), 인수금융 투자 및 운용' 경력채용\(과\~차장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247) | 2026-12-07 15:00 | 2026-11-23 22:00 |
+| 한화 | [\[한화생명\] 대체투자사업부 '글로벌 실물자산\(부동산/인프라\), PD 투자 및 운용' 경력채용\(과\~차장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240) | 2026-12-07 15:00 | 2026-11-23 22:00 |
 | 한화 | [\(주\)한화보은사업장 전문직\(생산\) 계약직 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246) | 2026-11-30 23:59 | 2026-11-23 20:00 |
 | SK | [초대형 AI 모델 연구원](https://www.skcareers.com/Recruit/Detail/R262509) | — | 2026-11-23 20:00 |
 | 한화 | [한화커넥트 시설/공사관리 경력직 채용 \(보훈대상자 우대\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20244) | 2026-12-06 23:00 | 2026-11-23 18:00 |
@@ -508,5 +510,3 @@ SK 239 · 한화 172 · 현대자동차 65 · 삼성 21 · 한화오션 3
 | SK | [공공 IT 센터 인프라 설계 및 구축 전문가](https://www.skcareers.com/Recruit/Detail/R261948) | — | 2026-10-19 12:00 |
 | 현대자동차 | [\[계약직\] 경영연구 사무운영보조 \(장애인 제한경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241) | 2026-11-02 | 2026-10-19 12:00 |
 | 현대자동차 | [\[소프티어 부트캠프\] Backend Developer](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=189) | 2026-11-03 | 2026-10-19 10:00 |
-| SK | ['26년 10월 토목사업 Project 공사\(토목\) 경력직\(촉탁직\) 채용](https://www.skcareers.com/Recruit/Detail/R262261) | — | 2026-10-17 00:00 |
-| SK | [반도체 Cloud/AI Platform 개발/운영 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262266) | — | 2026-10-16 20:00 |

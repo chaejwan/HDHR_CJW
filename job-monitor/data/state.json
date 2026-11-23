@@ -2714,17 +2714,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20246",
      "date": "2026.11.30 23:59",
      "first_seen": "2026-11-23T11:00:48+00:00"
+    },
+    "75be3929f05fab9f": {
+     "title": "[한화생명] 대체투자사업부 '국내 실물자산(부동산/인프라), 인수금융 투자 및 운용' 경력채용(과~차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247",
+     "date": "2026.12.07 15:00",
+     "first_seen": "2026-11-23T13:00:44+00:00"
+    },
+    "0e5607b1cb097091": {
+     "title": "[한화생명] 대체투자사업부 '글로벌 실물자산(부동산/인프라), PD 투자 및 운용' 경력채용(과~차장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+     "date": "2026.12.07 15:00",
+     "first_seen": "2026-11-23T13:00:44+00:00"
     }
    },
-   "last_check": "2026-11-23T11:00:48+00:00",
-   "last_success": "2026-11-23T11:00:48+00:00",
+   "last_check": "2026-11-23T13:00:44+00:00",
+   "last_success": "2026-11-23T13:00:44+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 87,
-   "fingerprint": "a7ae5e20414282e0",
+   "item_count": 89,
+   "fingerprint": "2ef08ed57ab5d977",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T13:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화생명] 대체투자사업부 '국내 실물자산(부동산/인프라), 인수금융 투자 및 운용' 경력채용(과~차장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247",
+       "date": "2026.12.07 15:00"
+      },
+      {
+       "title": "[한화생명] 대체투자사업부 '글로벌 실물자산(부동산/인프라), PD 투자 및 운용' 경력채용(과~차장급)",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+       "date": "2026.12.07 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-23T11:00:48+00:00",
      "status": "new",
@@ -3032,16 +3065,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3058,7 +3081,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T11:00:48+00:00"
+   "last_new_at": "2026-11-23T13:00:44+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7251,8 +7274,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-23T11:00:49+00:00",
-   "last_success": "2026-11-23T11:00:49+00:00",
+   "last_check": "2026-11-23T13:00:45+00:00",
+   "last_success": "2026-11-23T13:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7260,6 +7283,16 @@
    "fingerprint": "56e78883ee8cfd7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T11:00:49+00:00",
      "status": "ok",
@@ -7542,16 +7575,6 @@
     },
     {
      "at": "2026-11-21T03:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T01:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11372,15 +11395,25 @@
      "first_seen": "2026-11-23T11:00:50+00:00"
     }
    },
-   "last_check": "2026-11-23T11:00:50+00:00",
-   "last_success": "2026-11-23T11:00:50+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-23T13:00:48+00:00",
+   "last_success": "2026-11-23T13:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 136,
    "fingerprint": "d67217ce0b37a04b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 136,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T11:00:50+00:00",
      "status": "new",
@@ -11698,16 +11731,6 @@
     },
     {
      "at": "2026-11-21T03:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T01:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -13944,15 +13967,25 @@
      "first_seen": "2026-11-23T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-23T11:00:52+00:00",
-   "last_success": "2026-11-23T11:00:52+00:00",
+   "last_check": "2026-11-23T13:00:49+00:00",
+   "last_success": "2026-11-23T13:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 100,
-   "fingerprint": "c86cfc6091e2e094",
+   "fingerprint": "865d5ae87860ae97",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T13:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T11:00:52+00:00",
      "status": "ok",
@@ -14252,16 +14285,6 @@
     },
     {
      "at": "2026-11-21T03:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T01:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15016,8 +15039,8 @@
      "first_seen": "2026-11-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T11:00:55+00:00",
-   "last_success": "2026-11-23T11:00:55+00:00",
+   "last_check": "2026-11-23T13:00:53+00:00",
+   "last_success": "2026-11-23T13:00:53+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15025,6 +15048,16 @@
    "fingerprint": "b0a3760d16cf98ee",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T13:00:53+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T11:00:55+00:00",
      "status": "ok",
@@ -15320,16 +15353,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T01:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15467,6 +15490,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262509",
     "date": "",
     "found_at": "2026-11-23T11:00:57+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 대체투자사업부 '국내 실물자산(부동산/인프라), 인수금융 투자 및 운용' 경력채용(과~차장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247",
+    "date": "2026.12.07 15:00",
+    "found_at": "2026-11-23T13:00:54+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화생명] 대체투자사업부 '글로벌 실물자산(부동산/인프라), PD 투자 및 운용' 경력채용(과~차장급)",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+    "date": "2026.12.07 15:00",
+    "found_at": "2026-11-23T13:00:54+00:00"
    }
   ],
   "alerts": [],
@@ -15474,24 +15515,6 @@
   "last_sent": "2026-11-22T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262266",
-   "date": "",
-   "found_at": "2026-10-16T11:00:48+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "'26년 10월 토목사업 Project 공사(토목) 경력직(촉탁직) 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262261",
-   "date": "",
-   "found_at": "2026-10-16T15:00:50+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -19973,6 +19996,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262509",
    "date": "",
    "found_at": "2026-11-23T11:00:57+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 대체투자사업부 '국내 실물자산(부동산/인프라), 인수금융 투자 및 운용' 경력채용(과~차장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247",
+   "date": "2026.12.07 15:00",
+   "found_at": "2026-11-23T13:00:54+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화생명] 대체투자사업부 '글로벌 실물자산(부동산/인프라), PD 투자 및 운용' 경력채용(과~차장급)",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
+   "date": "2026.12.07 15:00",
+   "found_at": "2026-11-23T13:00:54+00:00"
   }
  ]
 }
