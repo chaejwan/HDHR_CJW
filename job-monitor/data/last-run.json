@@ -1,7 +1,7 @@
 {
- "at": "2026-11-23T13:00:54+00:00",
+ "at": "2026-11-23T15:00:56+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,30 +14,19 @@
   "since": "2026-11-23T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45179676643",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45200372644",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 89,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화생명] 대체투자사업부 '국내 실물자산(부동산/인프라), 인수금융 투자 및 운용' 경력채용(과~차장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20247",
-     "date": "2026.12.07 15:00"
-    },
-    {
-     "title": "[한화생명] 대체투자사업부 '글로벌 실물자산(부동산/인프라), PD 투자 및 운용' 경력채용(과~차장급)",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
-     "date": "2026.12.07 15:00"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -57,7 +46,7 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "ok",
-   "item_count": 136,
+   "item_count": 134,
    "method": "json",
    "note": "",
    "error": "",
@@ -69,7 +58,7 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "ok",
-   "item_count": 100,
+   "item_count": 98,
    "method": "json",
    "note": "",
    "error": "",
