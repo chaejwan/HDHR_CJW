@@ -2704,15 +2704,25 @@
      "first_seen": "2026-11-23T05:00:40+00:00"
     }
    },
-   "last_check": "2026-11-23T05:00:40+00:00",
-   "last_success": "2026-11-23T05:00:40+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-23T07:00:43+00:00",
+   "last_success": "2026-11-23T07:00:43+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 87,
-   "fingerprint": "a38d249784e1ca18",
+   "item_count": 85,
+   "fingerprint": "48fb34452fc89dbc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T07:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 85,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T05:00:40+00:00",
      "status": "new",
@@ -3008,26 +3018,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "경력직 채용_기관컨설팅1센터 (단기 계약직)",
-    "한화손보(주) 계약직 채용 - 전속영업부문 사무보조 채용(경기)",
     "한화시스템 해양 해외영업 경력사원 채용",
     "한화손보(주) 계약직 채용 - GA지점 총무 채용(충주)",
-    "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)"
+    "한화손보(주) 계약직 채용 - GA지점 총무 채용(서울)",
+    "[한화투자증권] 오퍼레이션팀_법인결제 직무 경력 채용",
+    "[한화투자증권] 오퍼레이션팀_본사 텔러 직무 경력 채용"
    ],
    "health": {
     "issue": "",
@@ -7227,8 +7227,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-23T05:00:41+00:00",
-   "last_success": "2026-11-23T05:00:41+00:00",
+   "last_check": "2026-11-23T07:00:44+00:00",
+   "last_success": "2026-11-23T07:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7236,6 +7236,16 @@
    "fingerprint": "56e78883ee8cfd7b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T07:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T05:00:41+00:00",
      "status": "ok",
@@ -7518,16 +7528,6 @@
     },
     {
      "at": "2026-11-20T21:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T19:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11322,17 +11322,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262551",
      "date": "",
      "first_seen": "2026-11-23T05:00:46+00:00"
+    },
+    "f150a2aaf0b679b6": {
+     "title": "[SK오션플랜트/삼강에스앤씨] 보세/통관담당 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262552",
+     "date": "",
+     "first_seen": "2026-11-23T07:00:47+00:00"
+    },
+    "bf56bab49acf75de": {
+     "title": "Client Engineer (Android) – TMAP AUTO 개발",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262553",
+     "date": "",
+     "first_seen": "2026-11-23T07:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T05:00:46+00:00",
-   "last_success": "2026-11-23T05:00:46+00:00",
+   "last_check": "2026-11-23T07:00:47+00:00",
+   "last_success": "2026-11-23T07:00:47+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 132,
-   "fingerprint": "555057ff05026c7e",
+   "item_count": 134,
+   "fingerprint": "2ea56caa33460ad4",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T07:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 134,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK오션플랜트/삼강에스앤씨] 보세/통관담당 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262552",
+       "date": ""
+      },
+      {
+       "title": "Client Engineer (Android) – TMAP AUTO 개발",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262553",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-23T05:00:46+00:00",
      "status": "new",
@@ -11634,16 +11667,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T19:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11660,7 +11683,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T05:00:46+00:00"
+   "last_new_at": "2026-11-23T07:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13861,15 +13884,25 @@
      "first_seen": "2026-11-23T05:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T05:00:47+00:00",
-   "last_success": "2026-11-23T05:00:47+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-23T07:00:48+00:00",
+   "last_success": "2026-11-23T07:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 97,
-   "fingerprint": "c32672814e52c10b",
+   "fingerprint": "1010ce62f5f49461",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T07:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 97,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T05:00:47+00:00",
      "status": "new",
@@ -14158,16 +14191,6 @@
     },
     {
      "at": "2026-11-20T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-20T19:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14922,8 +14945,8 @@
      "first_seen": "2026-11-23T01:00:47+00:00"
     }
    },
-   "last_check": "2026-11-23T05:00:50+00:00",
-   "last_success": "2026-11-23T05:00:50+00:00",
+   "last_check": "2026-11-23T07:00:51+00:00",
+   "last_success": "2026-11-23T07:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -14931,6 +14954,16 @@
    "fingerprint": "fe844fbe22e50e7c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-23T07:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T05:00:50+00:00",
      "status": "ok",
@@ -15226,16 +15259,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-20T19:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15301,6 +15324,24 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97",
     "date": "20261130",
     "found_at": "2026-11-23T05:00:52+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트/삼강에스앤씨] 보세/통관담당 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262552",
+    "date": "",
+    "found_at": "2026-11-23T07:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Client Engineer (Android) – TMAP AUTO 개발",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262553",
+    "date": "",
+    "found_at": "2026-11-23T07:00:53+00:00"
    }
   ],
   "alerts": [],
@@ -15308,24 +15349,6 @@
   "last_sent": "2026-11-22T23:00:53+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992",
-   "date": "2026.10.29 18:00",
-   "found_at": "2026-10-16T05:00:47+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "한화시스템 소나 신호처리(AI) 연구원 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260",
-   "date": "2026.11.01 23:59",
-   "found_at": "2026-10-16T05:00:47+00:00"
-  },
   {
    "site_id": "hanwhain",
    "site_name": "한화",
@@ -19807,6 +19830,24 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97",
    "date": "20261130",
    "found_at": "2026-11-23T05:00:52+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트/삼강에스앤씨] 보세/통관담당 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262552",
+   "date": "",
+   "found_at": "2026-11-23T07:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Client Engineer (Android) – TMAP AUTO 개발",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262553",
+   "date": "",
+   "found_at": "2026-11-23T07:00:53+00:00"
   }
  ]
 }

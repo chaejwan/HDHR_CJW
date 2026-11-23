@@ -1,38 +1,32 @@
 {
- "at": "2026-11-23T05:00:52+00:00",
+ "at": "2026-11-23T07:00:53+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 11-24 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-24 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 7,
   "alerts": 0,
   "since": "2026-11-23T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45115127108",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45128030571",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 87,
+   "status": "ok",
+   "item_count": 85,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[한화라이프랩] 업무지원팀 담당자 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20242",
-     "date": "2026.12.13 23:59"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -52,14 +46,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 132,
+   "item_count": 134,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[신입] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 신입사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262551",
+     "title": "[SK오션플랜트/삼강에스앤씨] 보세/통관담당 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262552",
+     "date": ""
+    },
+    {
+     "title": "Client Engineer (Android) – TMAP AUTO 개발",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262553",
      "date": ""
     }
    ]
@@ -69,18 +68,12 @@
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 97,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[아르바이트] 사무보조 (아산공장)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97",
-     "date": "20261130"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",

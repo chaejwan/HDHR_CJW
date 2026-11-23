@@ -2,14 +2,16 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-23 14:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-23 16:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 237 · 한화 175 · 현대자동차 64 · 삼성 21 · 한화오션 3
+SK 239 · 한화 173 · 현대자동차 64 · 삼성 21 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [\[SK오션플랜트/삼강에스앤씨\] 보세/통관담당 구성원 모집](https://www.skcareers.com/Recruit/Detail/R262552) | — | 2026-11-23 16:00 |
+| SK | [Client Engineer \(Android\) – TMAP AUTO 개발](https://www.skcareers.com/Recruit/Detail/R262553) | — | 2026-11-23 16:00 |
 | 한화 | [\[한화라이프랩\] 업무지원팀 담당자 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20242) | 2026-12-13 23:59 | 2026-11-23 14:00 |
 | SK | [\[신입\] SK바이오텍 Small Molecule\&Peptide 분석 연구원\(R\&D\) 신입사원 모집](https://www.skcareers.com/Recruit/Detail/R262551) | — | 2026-11-23 14:00 |
 | 현대자동차 | [\[아르바이트\] 사무보조 \(아산공장\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97) | 2026-11-30 | 2026-11-23 14:00 |
@@ -507,6 +509,4 @@ SK 237 · 한화 175 · 현대자동차 64 · 삼성 21 · 한화오션 3
 | 한화 | [\[한화솔루션 큐셀부문\] Global HR실 조직문화 담당자](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19996) | 2026-10-30 15:00 | 2026-10-16 16:00 |
 | SK | [Global Partnership Management 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262263) | — | 2026-10-16 16:00 |
 | SK | [생산공정 데이터 분석 및 효율화\(O/E\) 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262265) | — | 2026-10-16 16:00 |
-| 한화 | [\(주\)한화 글로벌부문 여수사업장 생산 엔지니어 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19992) | 2026-10-29 18:00 | 2026-10-16 14:00 |
-| 한화 | [한화시스템 소나 신호처리\(AI\) 연구원 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19260) | 2026-11-01 23:59 | 2026-10-16 14:00 |
 | 한화 | [한화시스템 소나 센서 연구원 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19244) | 2026-11-01 23:59 | 2026-10-16 14:00 |
