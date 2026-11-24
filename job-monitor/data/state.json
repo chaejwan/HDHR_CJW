@@ -2746,8 +2746,8 @@
      "first_seen": "2026-11-24T06:58:42+00:00"
     }
    },
-   "last_check": "2026-11-24T21:00:40+00:00",
-   "last_success": "2026-11-24T21:00:40+00:00",
+   "last_check": "2026-11-24T23:00:39+00:00",
+   "last_success": "2026-11-24T23:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2755,6 +2755,16 @@
    "fingerprint": "1d07e11b0db66d98",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T23:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 91,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T21:00:40+00:00",
      "status": "ok",
@@ -3083,16 +3093,6 @@
     },
     {
      "at": "2026-11-22T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T11:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7309,8 +7309,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T21:00:41+00:00",
-   "last_success": "2026-11-24T21:00:41+00:00",
+   "last_check": "2026-11-24T23:00:39+00:00",
+   "last_success": "2026-11-24T23:00:39+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7318,6 +7318,16 @@
    "fingerprint": "2188187cab80ca45",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T23:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T21:00:41+00:00",
      "status": "ok",
@@ -7600,16 +7610,6 @@
     },
     {
      "at": "2026-11-22T13:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T11:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11496,8 +11496,8 @@
      "first_seen": "2026-11-24T11:00:49+00:00"
     }
    },
-   "last_check": "2026-11-24T21:00:44+00:00",
-   "last_success": "2026-11-24T21:00:44+00:00",
+   "last_check": "2026-11-24T23:00:45+00:00",
+   "last_success": "2026-11-24T23:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11505,6 +11505,16 @@
    "fingerprint": "c658fc44106b843d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T23:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 142,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T21:00:44+00:00",
      "status": "ok",
@@ -11882,16 +11892,6 @@
     },
     {
      "at": "2026-11-22T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T11:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14140,15 +14140,25 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T21:00:45+00:00",
-   "last_success": "2026-11-24T21:00:45+00:00",
+   "last_check": "2026-11-24T23:00:46+00:00",
+   "last_success": "2026-11-24T23:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "983e13d99417493d",
+   "fingerprint": "332be291d6d75046",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T23:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T21:00:45+00:00",
      "status": "ok",
@@ -14460,16 +14470,6 @@
     },
     {
      "at": "2026-11-22T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T11:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15236,8 +15236,8 @@
      "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-24T21:00:48+00:00",
-   "last_success": "2026-11-24T21:00:48+00:00",
+   "last_check": "2026-11-24T23:00:49+00:00",
+   "last_success": "2026-11-24T23:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15245,6 +15245,16 @@
    "fingerprint": "9c23372f5874dcd2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T23:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T21:00:48+00:00",
      "status": "ok",
@@ -15551,16 +15561,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T11:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15581,164 +15581,10 @@
   }
  },
  "outbox": {
-  "items": [
-   {
-    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-    "site_name": "현대자동차",
-    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-    "title": "[통합보안] Mobility Security Engineer - 차량보안",
-    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
-    "date": "20261130",
-    "found_at": "2026-11-24T01:00:47+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
-    "url": "https://www.samsungcareers.com/hr/?no=23563",
-    "date": "2026.11.24 ~ 2026.12.07",
-    "found_at": "2026-11-24T01:00:47+00:00"
-   },
-   {
-    "site_id": "samsungcareers-com-hr",
-    "site_name": "삼성",
-    "site_link": "https://www.samsungcareers.com/hr/",
-    "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
-    "url": "https://www.samsungcareers.com/hr/?no=23545",
-    "date": "2026.11.24 ~ 2026.12.07",
-    "found_at": "2026-11-24T01:00:47+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "광고 사업 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262559",
-    "date": "",
-    "found_at": "2026-11-24T03:00:53+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "앱광고 수익화 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262560",
-    "date": "",
-    "found_at": "2026-11-24T03:00:53+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
-    "date": "2026.12.06 00:00",
-    "found_at": "2026-11-24T05:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[11월] 월간 hy-way(경력)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262558",
-    "date": "",
-    "found_at": "2026-11-24T05:00:56+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
-    "date": "2026.12.07 15:00",
-    "found_at": "2026-11-24T06:58:57+00:00"
-   },
-   {
-    "site_id": "hanwhain",
-    "site_name": "한화",
-    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-    "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
-    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
-    "date": "2026.12.07 15:00",
-    "found_at": "2026-11-24T06:58:57+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "SK온 IP 담당자 채용",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262561",
-    "date": "",
-    "found_at": "2026-11-24T06:58:57+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262565",
-    "date": "",
-    "found_at": "2026-11-24T06:58:57+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262544",
-    "date": "",
-    "found_at": "2026-11-24T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "광고 영업 담당자",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262567",
-    "date": "",
-    "found_at": "2026-11-24T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262563",
-    "date": "",
-    "found_at": "2026-11-24T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262564",
-    "date": "",
-    "found_at": "2026-11-24T09:00:54+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262568",
-    "date": "",
-    "found_at": "2026-11-24T11:00:56+00:00"
-   },
-   {
-    "site_id": "sk-sk-careers",
-    "site_name": "SK",
-    "site_link": "https://www.skcareers.com/Recruit",
-    "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
-    "url": "https://www.skcareers.com/Recruit/Detail/R262569",
-    "date": "",
-    "found_at": "2026-11-24T11:00:56+00:00"
-   }
-  ],
+  "items": [],
   "alerts": [],
-  "since": "2026-11-24T01:00:47+00:00",
-  "last_sent": "2026-11-23T23:01:00+00:00"
+  "since": "",
+  "last_sent": "2026-11-24T23:00:52+00:00"
  },
  "archive": [
   {
