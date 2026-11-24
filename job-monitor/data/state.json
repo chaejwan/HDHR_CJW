@@ -2732,17 +2732,50 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
      "date": "2026.12.06 00:00",
      "first_seen": "2026-11-24T05:00:43+00:00"
+    },
+    "8423329eabb8b035": {
+     "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
+     "date": "2026.12.07 15:00",
+     "first_seen": "2026-11-24T06:58:42+00:00"
+    },
+    "2f63b1a478a5d3b3": {
+     "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
+     "date": "2026.12.07 15:00",
+     "first_seen": "2026-11-24T06:58:42+00:00"
     }
    },
-   "last_check": "2026-11-24T05:00:43+00:00",
-   "last_success": "2026-11-24T05:00:43+00:00",
+   "last_check": "2026-11-24T06:58:42+00:00",
+   "last_success": "2026-11-24T06:58:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 90,
-   "fingerprint": "5500c5d4e7e82998",
+   "item_count": 92,
+   "fingerprint": "68ffec95405cf36f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T06:58:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
+       "date": "2026.12.07 15:00"
+      },
+      {
+       "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
+       "date": "2026.12.07 15:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-24T05:00:43+00:00",
      "status": "new",
@@ -3067,16 +3100,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T19:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3093,7 +3116,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T05:00:43+00:00"
+   "last_new_at": "2026-11-24T06:58:42+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7286,8 +7309,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T05:00:44+00:00",
-   "last_success": "2026-11-24T05:00:44+00:00",
+   "last_check": "2026-11-24T06:58:43+00:00",
+   "last_success": "2026-11-24T06:58:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7295,6 +7318,16 @@
    "fingerprint": "13df40681aa02ab1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T06:58:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T05:00:44+00:00",
      "status": "ok",
@@ -7577,16 +7610,6 @@
     },
     {
      "at": "2026-11-21T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T19:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11423,17 +11446,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262558",
      "date": "",
      "first_seen": "2026-11-24T05:00:50+00:00"
+    },
+    "03881ec04344228c": {
+     "title": "SK온 IP 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262561",
+     "date": "",
+     "first_seen": "2026-11-24T06:58:50+00:00"
+    },
+    "81c37679e801db3f": {
+     "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262565",
+     "date": "",
+     "first_seen": "2026-11-24T06:58:50+00:00"
     }
    },
-   "last_check": "2026-11-24T05:00:50+00:00",
-   "last_success": "2026-11-24T05:00:50+00:00",
+   "last_check": "2026-11-24T06:58:50+00:00",
+   "last_success": "2026-11-24T06:58:50+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 137,
-   "fingerprint": "57024cc8ddb8a91f",
+   "item_count": 139,
+   "fingerprint": "45a6cdaa45fa211c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T06:58:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 139,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK온 IP 담당자 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262561",
+       "date": ""
+      },
+      {
+       "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262565",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-24T05:00:50+00:00",
      "status": "new",
@@ -11775,16 +11831,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T19:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11801,7 +11847,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T05:00:50+00:00"
+   "last_new_at": "2026-11-24T06:58:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14026,15 +14072,25 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T05:00:51+00:00",
-   "last_success": "2026-11-24T05:00:51+00:00",
+   "last_check": "2026-11-24T06:58:51+00:00",
+   "last_success": "2026-11-24T06:58:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "cf94819ec5619a79",
+   "fingerprint": "eb79ab7e8be141cc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T06:58:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T05:00:51+00:00",
      "status": "ok",
@@ -14346,16 +14402,6 @@
     },
     {
      "at": "2026-11-21T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T19:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15122,8 +15168,8 @@
      "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-24T05:00:54+00:00",
-   "last_success": "2026-11-24T05:00:54+00:00",
+   "last_check": "2026-11-24T06:58:55+00:00",
+   "last_success": "2026-11-24T06:58:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15131,6 +15177,16 @@
    "fingerprint": "88ac266a4e47759c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T06:58:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T05:00:54+00:00",
      "status": "ok",
@@ -15437,16 +15493,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T19:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15530,6 +15576,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262558",
     "date": "",
     "found_at": "2026-11-24T05:00:56+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
+    "date": "2026.12.07 15:00",
+    "found_at": "2026-11-24T06:58:57+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
+    "date": "2026.12.07 15:00",
+    "found_at": "2026-11-24T06:58:57+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK온 IP 담당자 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262561",
+    "date": "",
+    "found_at": "2026-11-24T06:58:57+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262565",
+    "date": "",
+    "found_at": "2026-11-24T06:58:57+00:00"
    }
   ],
   "alerts": [],
@@ -15537,42 +15619,6 @@
   "last_sent": "2026-11-23T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력직 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262271",
-   "date": "",
-   "found_at": "2026-10-19T07:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 해외 영입 인재 행정 지원",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240",
-   "date": "20261102",
-   "found_at": "2026-10-19T07:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 사옥 운영 행정지원 (장애인 제한경쟁)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242",
-   "date": "20261102",
-   "found_at": "2026-10-19T07:00:47+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 개인정보보호 업무 보조 (장애인 제한 경쟁)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243",
-   "date": "20261102",
-   "found_at": "2026-10-19T07:00:47+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20036,6 +20082,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262558",
    "date": "",
    "found_at": "2026-11-24T05:00:56+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
+   "date": "2026.12.07 15:00",
+   "found_at": "2026-11-24T06:58:57+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
+   "date": "2026.12.07 15:00",
+   "found_at": "2026-11-24T06:58:57+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK온 IP 담당자 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262561",
+   "date": "",
+   "found_at": "2026-11-24T06:58:57+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262565",
+   "date": "",
+   "found_at": "2026-11-24T06:58:57+00:00"
   }
  ]
 }

@@ -2,14 +2,18 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-24 14:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-24 15:58** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 236 · 한화 173 · 현대자동차 65 · 삼성 23 · 한화오션 3
+SK 237 · 한화 175 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 한화 | [\[한화투자증권\] 투자금융2팀 인수금융 경력 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249) | 2026-12-07 15:00 | 2026-11-24 15:58 |
+| 한화 | [\(주\)한화 글로벌부문 ESH실 안전보건기획 팀장 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245) | 2026-12-07 15:00 | 2026-11-24 15:58 |
+| SK | [SK온 IP 담당자 채용](https://www.skcareers.com/Recruit/Detail/R262561) | — | 2026-11-24 15:58 |
+| SK | [\[SK오션플랜트\] Compliance·기업법무 구성원 모집](https://www.skcareers.com/Recruit/Detail/R262565) | — | 2026-11-24 15:58 |
 | 한화 | [\[한화문화재단 / 퐁피두센터 한화\] 어시스턴트 큐레이터 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248) | 2026-12-06 00:00 | 2026-11-24 14:00 |
 | SK | [\[11월\] 월간 hy-way\(경력\)](https://www.skcareers.com/Recruit/Detail/R262558) | — | 2026-11-24 14:00 |
 | SK | [광고 사업 담당자](https://www.skcareers.com/Recruit/Detail/R262559) | — | 2026-11-24 12:00 |
@@ -506,7 +510,3 @@ SK 236 · 한화 173 · 현대자동차 65 · 삼성 23 · 한화오션 3
 | SK | [구매 시스템 운영 지원 담당자](https://www.skcareers.com/Recruit/Detail/R262272) | — | 2026-10-19 18:00 |
 | SK | [SK피아이씨글로벌 회계\(세무/재무\) 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262214) | — | 2026-10-19 18:00 |
 | SK | [SK피아이씨글로벌 SHE\(환경/화학물질관리\)직무 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262271) | — | 2026-10-19 18:00 |
-| SK | [SK피아이씨글로벌 SHE\(환경/화학물질관리\)직무 경력직 채용](https://www.skcareers.com/Recruit/Detail/R262271) | — | 2026-10-19 16:00 |
-| 현대자동차 | [\[계약직\] 해외 영입 인재 행정 지원](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240) | 2026-11-02 | 2026-10-19 16:00 |
-| 현대자동차 | [\[계약직\] 사옥 운영 행정지원 \(장애인 제한경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242) | 2026-11-02 | 2026-10-19 16:00 |
-| 현대자동차 | [\[계약직\] 개인정보보호 업무 보조 \(장애인 제한 경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243) | 2026-11-02 | 2026-10-19 16:00 |

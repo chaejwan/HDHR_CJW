@@ -1,20 +1,20 @@
 {
- "at": "2026-11-24T05:00:56+00:00",
+ "at": "2026-11-24T06:58:57+00:00",
  "checked": 5,
- "new_total": 2,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-25 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 11-25 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 7,
+  "items": 11,
   "alerts": 0,
   "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45330273429",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45344430792",
  "results": [
   {
    "site_id": "hanwhain",
@@ -22,15 +22,20 @@
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
    "status": "new",
-   "item_count": 90,
+   "item_count": 92,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
-     "date": "2026.12.06 00:00"
+     "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
+     "date": "2026.12.07 15:00"
+    },
+    {
+     "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
+     "date": "2026.12.07 15:00"
     }
    ]
   },
@@ -52,14 +57,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 137,
+   "item_count": 139,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[11월] 월간 hy-way(경력)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+     "title": "SK온 IP 담당자 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262561",
+     "date": ""
+    },
+    {
+     "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262565",
      "date": ""
     }
    ]
