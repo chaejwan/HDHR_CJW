@@ -2,14 +2,18 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-24 16:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-24 18:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 237 · 한화 175 · 현대자동차 62 · 삼성 23 · 한화오션 3
+SK 238 · 한화 174 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [호텔 분야 ITO Application 운영 PL 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262544) | — | 2026-11-24 18:00 |
+| SK | [광고 영업 담당자](https://www.skcareers.com/Recruit/Detail/R262567) | — | 2026-11-24 18:00 |
+| SK | [제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262563) | — | 2026-11-24 18:00 |
+| SK | [반도체 제조 기준정보 \(MDM\) 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262564) | — | 2026-11-24 18:00 |
 | 한화 | [\[한화투자증권\] 투자금융2팀 인수금융 경력 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249) | 2026-12-07 15:00 | 2026-11-24 15:58 |
 | 한화 | [\(주\)한화 글로벌부문 ESH실 안전보건기획 팀장 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245) | 2026-12-07 15:00 | 2026-11-24 15:58 |
 | SK | [SK온 IP 담당자 채용](https://www.skcareers.com/Recruit/Detail/R262561) | — | 2026-11-24 15:58 |
@@ -506,7 +510,3 @@ SK 237 · 한화 175 · 현대자동차 62 · 삼성 23 · 한화오션 3
 | SK | [SK키파운드리 구매 분야 경력 채용](https://www.skcareers.com/Recruit/Detail/R262273) | — | 2026-10-20 10:00 |
 | SK | [\[나래에너지서비스\(O\&M\) 이천/청주사업소 장애인 사원 영입](https://www.skcareers.com/Recruit/Detail/R262276) | — | 2026-10-20 10:00 |
 | 삼성 | [에스원 경력사원 채용\(오피스데스크, 안전관리자\)](https://www.samsungcareers.com/hr/?no=23364) | 2026-10-20 \~ 2026-11-06 | 2026-10-20 10:00 |
-| 한화 | [\[해양솔루션부문\] LNG, 해양사업 사업/전략 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985) | 2026-10-31 23:59 | 2026-10-19 20:00 |
-| SK | [구매 시스템 운영 지원 담당자](https://www.skcareers.com/Recruit/Detail/R262272) | — | 2026-10-19 18:00 |
-| SK | [SK피아이씨글로벌 회계\(세무/재무\) 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262214) | — | 2026-10-19 18:00 |
-| SK | [SK피아이씨글로벌 SHE\(환경/화학물질관리\)직무 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262271) | — | 2026-10-19 18:00 |

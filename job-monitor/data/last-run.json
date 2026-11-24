@@ -1,19 +1,101 @@
 {
- "at": "2026-11-24T07:00:42+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-11-24T09:00:54+00:00",
+ "checked": 5,
+ "new_total": 4,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 11-25 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 15건 · 점검 0건). 11-25 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 11,
+  "items": 15,
   "alerts": 0,
   "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45344674001",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45361103864",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "ok",
+   "item_count": 92,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 17,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 142,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+     "date": ""
+    },
+    {
+     "title": "광고 영업 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262567",
+     "date": ""
+    },
+    {
+     "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262563",
+     "date": ""
+    },
+    {
+     "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262564",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "ok",
+   "item_count": 101,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 8,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }

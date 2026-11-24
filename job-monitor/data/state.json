@@ -2746,15 +2746,25 @@
      "first_seen": "2026-11-24T06:58:42+00:00"
     }
    },
-   "last_check": "2026-11-24T06:58:42+00:00",
-   "last_success": "2026-11-24T06:58:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-24T09:00:47+00:00",
+   "last_success": "2026-11-24T09:00:47+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 92,
-   "fingerprint": "68ffec95405cf36f",
+   "fingerprint": "ea83c721265c65bb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T09:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T06:58:42+00:00",
      "status": "new",
@@ -3083,16 +3093,6 @@
     },
     {
      "at": "2026-11-21T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T21:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7309,8 +7309,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T06:58:43+00:00",
-   "last_success": "2026-11-24T06:58:43+00:00",
+   "last_check": "2026-11-24T09:00:48+00:00",
+   "last_success": "2026-11-24T09:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7318,6 +7318,16 @@
    "fingerprint": "13df40681aa02ab1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T09:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T06:58:43+00:00",
      "status": "ok",
@@ -7600,16 +7610,6 @@
     },
     {
      "at": "2026-11-21T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T21:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11458,17 +11458,72 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262565",
      "date": "",
      "first_seen": "2026-11-24T06:58:50+00:00"
+    },
+    "650b7e1928214dfd": {
+     "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+     "date": "",
+     "first_seen": "2026-11-24T09:00:49+00:00"
+    },
+    "81828fcde1d36c2b": {
+     "title": "광고 영업 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262567",
+     "date": "",
+     "first_seen": "2026-11-24T09:00:49+00:00"
+    },
+    "fe835dd3466a7143": {
+     "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262563",
+     "date": "",
+     "first_seen": "2026-11-24T09:00:49+00:00"
+    },
+    "ed0dbe315c61ff8a": {
+     "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262564",
+     "date": "",
+     "first_seen": "2026-11-24T09:00:49+00:00"
     }
    },
-   "last_check": "2026-11-24T06:58:50+00:00",
-   "last_success": "2026-11-24T06:58:50+00:00",
+   "last_check": "2026-11-24T09:00:49+00:00",
+   "last_success": "2026-11-24T09:00:49+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 139,
-   "fingerprint": "45a6cdaa45fa211c",
+   "item_count": 142,
+   "fingerprint": "4dbb9fabf3e7d94a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T09:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 4,
+     "item_count": 142,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+       "date": ""
+      },
+      {
+       "title": "광고 영업 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262567",
+       "date": ""
+      },
+      {
+       "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262563",
+       "date": ""
+      },
+      {
+       "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262564",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-24T06:58:50+00:00",
      "status": "new",
@@ -11821,16 +11876,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11847,7 +11892,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T06:58:50+00:00"
+   "last_new_at": "2026-11-24T09:00:49+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14072,15 +14117,25 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T06:58:51+00:00",
-   "last_success": "2026-11-24T06:58:51+00:00",
+   "last_check": "2026-11-24T09:00:50+00:00",
+   "last_success": "2026-11-24T09:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "eb79ab7e8be141cc",
+   "fingerprint": "8b47cd94045c7a3f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T09:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T06:58:51+00:00",
      "status": "ok",
@@ -14392,16 +14447,6 @@
     },
     {
      "at": "2026-11-21T23:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T21:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15168,15 +15213,25 @@
      "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-24T06:58:55+00:00",
-   "last_success": "2026-11-24T06:58:55+00:00",
+   "last_check": "2026-11-24T09:00:52+00:00",
+   "last_success": "2026-11-24T09:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 11,
-   "fingerprint": "88ac266a4e47759c",
+   "item_count": 8,
+   "fingerprint": "bc37debdc8e99bd6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T09:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T06:58:55+00:00",
      "status": "ok",
@@ -15483,16 +15538,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15612,6 +15657,42 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262565",
     "date": "",
     "found_at": "2026-11-24T06:58:57+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+    "date": "",
+    "found_at": "2026-11-24T09:00:54+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "광고 영업 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262567",
+    "date": "",
+    "found_at": "2026-11-24T09:00:54+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262563",
+    "date": "",
+    "found_at": "2026-11-24T09:00:54+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262564",
+    "date": "",
+    "found_at": "2026-11-24T09:00:54+00:00"
    }
   ],
   "alerts": [],
@@ -15619,42 +15700,6 @@
   "last_sent": "2026-11-23T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "구매 시스템 운영 지원 담당자",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262272",
-   "date": "",
-   "found_at": "2026-10-19T09:00:50+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK피아이씨글로벌 회계(세무/재무) 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262214",
-   "date": "",
-   "found_at": "2026-10-19T09:00:50+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK피아이씨글로벌 SHE(환경/화학물질관리)직무 경력사원 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262271",
-   "date": "",
-   "found_at": "2026-10-19T09:00:50+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[해양솔루션부문] LNG, 해양사업 사업/전략 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19985",
-   "date": "2026.10.31 23:59",
-   "found_at": "2026-10-19T11:00:49+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20118,6 +20163,42 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262565",
    "date": "",
    "found_at": "2026-11-24T06:58:57+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+   "date": "",
+   "found_at": "2026-11-24T09:00:54+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "광고 영업 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262567",
+   "date": "",
+   "found_at": "2026-11-24T09:00:54+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262563",
+   "date": "",
+   "found_at": "2026-11-24T09:00:54+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262564",
+   "date": "",
+   "found_at": "2026-11-24T09:00:54+00:00"
   }
  ]
 }
