@@ -1,20 +1,20 @@
 {
- "at": "2026-11-24T09:00:54+00:00",
+ "at": "2026-11-24T11:00:56+00:00",
  "checked": 5,
- "new_total": 4,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 15건 · 점검 0건). 11-25 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 17건 · 점검 0건). 11-25 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 15,
+  "items": 17,
   "alerts": 0,
   "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45361103864",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45380139926",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,29 +46,19 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 142,
+   "item_count": 144,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262544",
+     "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262568",
      "date": ""
     },
     {
-     "title": "광고 영업 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262567",
-     "date": ""
-    },
-    {
-     "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262563",
-     "date": ""
-    },
-    {
-     "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262564",
+     "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262569",
      "date": ""
     }
    ]

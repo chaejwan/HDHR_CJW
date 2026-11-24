@@ -2,7 +2,7 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-24 18:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-24 20:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
 SK 238 · 한화 174 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
@@ -10,6 +10,8 @@ SK 238 · 한화 174 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [제조AI 장비/품질 자동화 시스템 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262568) | — | 2026-11-24 20:00 |
+| SK | [제조 AI 장비/품질 자동화 시스템 전문가 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262569) | — | 2026-11-24 20:00 |
 | SK | [호텔 분야 ITO Application 운영 PL 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262544) | — | 2026-11-24 18:00 |
 | SK | [광고 영업 담당자](https://www.skcareers.com/Recruit/Detail/R262567) | — | 2026-11-24 18:00 |
 | SK | [제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262563) | — | 2026-11-24 18:00 |
@@ -507,6 +509,4 @@ SK 238 · 한화 174 · 현대자동차 62 · 삼성 23 · 한화오션 3
 | 한화 | [\(주\)한화 글로벌부문 F/W 개발 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002) | 2026-11-02 15:00 | 2026-10-20 12:00 |
 | 한화 | [\[한화생명\] IT개발팀 'Backend Developer' 경력채용\(사원\~대리\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000) | 2026-11-02 15:00 | 2026-10-20 12:00 |
 | SK | [IT 네트워크 전문가 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262280) | — | 2026-10-20 12:00 |
-| SK | [SK키파운드리 구매 분야 경력 채용](https://www.skcareers.com/Recruit/Detail/R262273) | — | 2026-10-20 10:00 |
-| SK | [\[나래에너지서비스\(O\&M\) 이천/청주사업소 장애인 사원 영입](https://www.skcareers.com/Recruit/Detail/R262276) | — | 2026-10-20 10:00 |
 | 삼성 | [에스원 경력사원 채용\(오피스데스크, 안전관리자\)](https://www.samsungcareers.com/hr/?no=23364) | 2026-10-20 \~ 2026-11-06 | 2026-10-20 10:00 |

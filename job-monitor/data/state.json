@@ -2746,8 +2746,8 @@
      "first_seen": "2026-11-24T06:58:42+00:00"
     }
    },
-   "last_check": "2026-11-24T09:00:47+00:00",
-   "last_success": "2026-11-24T09:00:47+00:00",
+   "last_check": "2026-11-24T11:00:43+00:00",
+   "last_success": "2026-11-24T11:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2755,6 +2755,16 @@
    "fingerprint": "ea83c721265c65bb",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T11:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T09:00:47+00:00",
      "status": "ok",
@@ -3083,16 +3093,6 @@
     },
     {
      "at": "2026-11-22T01:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T23:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7309,8 +7309,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T09:00:48+00:00",
-   "last_success": "2026-11-24T09:00:48+00:00",
+   "last_check": "2026-11-24T11:00:44+00:00",
+   "last_success": "2026-11-24T11:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7318,6 +7318,16 @@
    "fingerprint": "13df40681aa02ab1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T11:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T09:00:48+00:00",
      "status": "ok",
@@ -7600,16 +7610,6 @@
     },
     {
      "at": "2026-11-22T01:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T23:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11482,17 +11482,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262564",
      "date": "",
      "first_seen": "2026-11-24T09:00:49+00:00"
+    },
+    "0b1a787d1ddd07af": {
+     "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262568",
+     "date": "",
+     "first_seen": "2026-11-24T11:00:49+00:00"
+    },
+    "83cf0fa2f42ba277": {
+     "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262569",
+     "date": "",
+     "first_seen": "2026-11-24T11:00:49+00:00"
     }
    },
-   "last_check": "2026-11-24T09:00:49+00:00",
-   "last_success": "2026-11-24T09:00:49+00:00",
+   "last_check": "2026-11-24T11:00:49+00:00",
+   "last_success": "2026-11-24T11:00:49+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 142,
-   "fingerprint": "4dbb9fabf3e7d94a",
+   "item_count": 144,
+   "fingerprint": "550cc2043eaa1830",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T11:00:49+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 144,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262568",
+       "date": ""
+      },
+      {
+       "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262569",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-24T09:00:49+00:00",
      "status": "new",
@@ -11866,16 +11899,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T23:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11892,7 +11915,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T09:00:49+00:00"
+   "last_new_at": "2026-11-24T11:00:49+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14117,8 +14140,8 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T09:00:50+00:00",
-   "last_success": "2026-11-24T09:00:50+00:00",
+   "last_check": "2026-11-24T11:00:50+00:00",
+   "last_success": "2026-11-24T11:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -14126,6 +14149,16 @@
    "fingerprint": "8b47cd94045c7a3f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T11:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T09:00:50+00:00",
      "status": "ok",
@@ -14437,16 +14470,6 @@
     },
     {
      "at": "2026-11-22T01:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T23:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15213,8 +15236,8 @@
      "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-24T09:00:52+00:00",
-   "last_success": "2026-11-24T09:00:52+00:00",
+   "last_check": "2026-11-24T11:00:54+00:00",
+   "last_success": "2026-11-24T11:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15222,6 +15245,16 @@
    "fingerprint": "bc37debdc8e99bd6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T11:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T09:00:52+00:00",
      "status": "ok",
@@ -15528,16 +15561,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T23:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15693,6 +15716,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262564",
     "date": "",
     "found_at": "2026-11-24T09:00:54+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262568",
+    "date": "",
+    "found_at": "2026-11-24T11:00:56+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262569",
+    "date": "",
+    "found_at": "2026-11-24T11:00:56+00:00"
    }
   ],
   "alerts": [],
@@ -15700,24 +15741,6 @@
   "last_sent": "2026-11-23T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK키파운드리 구매 분야 경력 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262273",
-   "date": "",
-   "found_at": "2026-10-20T01:00:45+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "[나래에너지서비스(O&M) 이천/청주사업소 장애인 사원 영입",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262276",
-   "date": "",
-   "found_at": "2026-10-20T01:00:45+00:00"
-  },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
@@ -20199,6 +20222,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262564",
    "date": "",
    "found_at": "2026-11-24T09:00:54+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262568",
+   "date": "",
+   "found_at": "2026-11-24T11:00:56+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262569",
+   "date": "",
+   "found_at": "2026-11-24T11:00:56+00:00"
   }
  ]
 }
