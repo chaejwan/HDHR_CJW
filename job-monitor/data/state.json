@@ -2728,8 +2728,8 @@
      "first_seen": "2026-11-23T13:00:44+00:00"
     }
    },
-   "last_check": "2026-11-24T01:00:38+00:00",
-   "last_success": "2026-11-24T01:00:38+00:00",
+   "last_check": "2026-11-24T03:00:44+00:00",
+   "last_success": "2026-11-24T03:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2737,6 +2737,16 @@
    "fingerprint": "2ef08ed57ab5d977",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T03:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T01:00:38+00:00",
      "status": "ok",
@@ -3048,16 +3058,6 @@
     },
     {
      "at": "2026-11-21T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7274,8 +7274,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T01:00:38+00:00",
-   "last_success": "2026-11-24T01:00:38+00:00",
+   "last_check": "2026-11-24T03:00:45+00:00",
+   "last_success": "2026-11-24T03:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7283,6 +7283,16 @@
    "fingerprint": "13df40681aa02ab1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T03:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T01:00:38+00:00",
      "status": "ok",
@@ -7565,16 +7575,6 @@
     },
     {
      "at": "2026-11-21T17:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T15:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11393,17 +11393,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262509",
      "date": "",
      "first_seen": "2026-11-23T11:00:50+00:00"
+    },
+    "5be585a181b5d56a": {
+     "title": "광고 사업 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262559",
+     "date": "",
+     "first_seen": "2026-11-24T03:00:47+00:00"
+    },
+    "225533e6a7e7e368": {
+     "title": "앱광고 수익화 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262560",
+     "date": "",
+     "first_seen": "2026-11-24T03:00:47+00:00"
     }
    },
-   "last_check": "2026-11-24T01:00:41+00:00",
-   "last_success": "2026-11-24T01:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-24T03:00:47+00:00",
+   "last_success": "2026-11-24T03:00:47+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 134,
-   "fingerprint": "2b80ae02ea0a221e",
+   "item_count": 136,
+   "fingerprint": "145de65ddf627364",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T03:00:47+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 136,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "광고 사업 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262559",
+       "date": ""
+      },
+      {
+       "title": "앱광고 수익화 담당자",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262560",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-24T01:00:41+00:00",
      "status": "ok",
@@ -11728,16 +11761,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T15:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11754,7 +11777,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T11:00:50+00:00"
+   "last_new_at": "2026-11-24T03:00:47+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -13979,15 +14002,25 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T01:00:42+00:00",
-   "last_success": "2026-11-24T01:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-24T03:00:48+00:00",
+   "last_success": "2026-11-24T03:00:48+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "21685d0638fa58dc",
+   "fingerprint": "5b33aa5d01830296",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T03:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T01:00:42+00:00",
      "status": "new",
@@ -14299,16 +14332,6 @@
     },
     {
      "at": "2026-11-21T17:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T15:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15075,15 +15098,25 @@
      "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-24T01:00:46+00:00",
-   "last_success": "2026-11-24T01:00:46+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-24T03:00:52+00:00",
+   "last_success": "2026-11-24T03:00:52+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 11,
    "fingerprint": "88ac266a4e47759c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T03:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T01:00:46+00:00",
      "status": "new",
@@ -15390,16 +15423,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T15:00:55+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15447,6 +15470,24 @@
     "url": "https://www.samsungcareers.com/hr/?no=23545",
     "date": "2026.11.24 ~ 2026.12.07",
     "found_at": "2026-11-24T01:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "광고 사업 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262559",
+    "date": "",
+    "found_at": "2026-11-24T03:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "앱광고 수익화 담당자",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262560",
+    "date": "",
+    "found_at": "2026-11-24T03:00:53+00:00"
    }
   ],
   "alerts": [],
@@ -15454,24 +15495,6 @@
   "last_sent": "2026-11-23T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
-   "date": "20261102",
-   "found_at": "2026-10-19T03:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Client Engineer (Android)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262268",
-   "date": "",
-   "found_at": "2026-10-19T05:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19953,6 +19976,24 @@
    "url": "https://www.samsungcareers.com/hr/?no=23545",
    "date": "2026.11.24 ~ 2026.12.07",
    "found_at": "2026-11-24T01:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "광고 사업 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262559",
+   "date": "",
+   "found_at": "2026-11-24T03:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "앱광고 수익화 담당자",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262560",
+   "date": "",
+   "found_at": "2026-11-24T03:00:53+00:00"
   }
  ]
 }

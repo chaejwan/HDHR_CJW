@@ -1,20 +1,20 @@
 {
- "at": "2026-11-24T01:00:47+00:00",
+ "at": "2026-11-24T03:00:53+00:00",
  "checked": 5,
- "new_total": 3,
+ "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-25 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 11-25 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 5,
   "alerts": 0,
   "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45301698984",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45316448960",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,53 +45,47 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "ok",
-   "item_count": 134,
+   "status": "new",
+   "item_count": 136,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "광고 사업 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262559",
+     "date": ""
+    },
+    {
+     "title": "앱광고 수익화 담당자",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262560",
+     "date": ""
+    }
+   ]
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "new",
+   "status": "ok",
    "item_count": 101,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "[통합보안] Mobility Security Engineer - 차량보안",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
-     "date": "20261130"
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "samsungcareers-com-hr",
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "new",
+   "status": "ok",
    "item_count": 11,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
-     "url": "https://www.samsungcareers.com/hr/?no=23563",
-     "date": "2026.11.24 ~ 2026.12.07"
-    },
-    {
-     "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
-     "url": "https://www.samsungcareers.com/hr/?no=23545",
-     "date": "2026.11.24 ~ 2026.12.07"
-    }
-   ]
+   "new_items": []
   }
  ]
 }

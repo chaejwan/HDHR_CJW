@@ -2,14 +2,16 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-24 10:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-24 12:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 236 · 한화 172 · 현대자동차 66 · 삼성 23 · 한화오션 3
+SK 237 · 한화 172 · 현대자동차 65 · 삼성 23 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [광고 사업 담당자](https://www.skcareers.com/Recruit/Detail/R262559) | — | 2026-11-24 12:00 |
+| SK | [앱광고 수익화 담당자](https://www.skcareers.com/Recruit/Detail/R262560) | — | 2026-11-24 12:00 |
 | 현대자동차 | [\[통합보안\] Mobility Security Engineer - 차량보안](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430) | 2026-11-30 | 2026-11-24 10:00 |
 | 삼성 | [삼성중공업 경력사원 채용\(보건관리, 외국인 안전관리\)](https://www.samsungcareers.com/hr/?no=23563) | 2026-11-24 \~ 2026-12-07 | 2026-11-24 10:00 |
 | 삼성 | [삼성문화재단 경력사원 채용\(개인정보보호, AI·IT보안\)](https://www.samsungcareers.com/hr/?no=23545) | 2026-11-24 \~ 2026-12-07 | 2026-11-24 10:00 |
@@ -506,7 +508,5 @@ SK 236 · 한화 172 · 현대자동차 66 · 삼성 23 · 한화오션 3
 | 현대자동차 | [\[계약직\] 해외 영입 인재 행정 지원](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=240) | 2026-11-02 | 2026-10-19 16:00 |
 | 현대자동차 | [\[계약직\] 사옥 운영 행정지원 \(장애인 제한경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=242) | 2026-11-02 | 2026-10-19 16:00 |
 | 현대자동차 | [\[계약직\] 개인정보보호 업무 보조 \(장애인 제한 경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=243) | 2026-11-02 | 2026-10-19 16:00 |
-| SK | [Client Engineer \(Android\)](https://www.skcareers.com/Recruit/Detail/R262268) | — | 2026-10-19 14:00 |
 | SK | [Client Engineer \(iOS\)](https://www.skcareers.com/Recruit/Detail/R262269) | — | 2026-10-19 14:00 |
 | SK | [Navigation SDK Engineer](https://www.skcareers.com/Recruit/Detail/R262270) | — | 2026-10-19 14:00 |
-| 현대자동차 | [\[계약직\] 경영연구 사무운영보조 \(장애인 제한경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241) | 2026-11-02 | 2026-10-19 12:00 |
