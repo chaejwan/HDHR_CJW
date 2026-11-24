@@ -1,32 +1,38 @@
 {
- "at": "2026-11-24T03:00:53+00:00",
+ "at": "2026-11-24T05:00:56+00:00",
  "checked": 5,
  "new_total": 2,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 5건 · 점검 0건). 11-25 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 7건 · 점검 0건). 11-25 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 5,
+  "items": 7,
   "alerts": 0,
   "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45316448960",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45330273429",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 89,
+   "status": "new",
+   "item_count": 90,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
+     "date": "2026.12.06 00:00"
+    }
+   ]
   },
   {
    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
@@ -46,19 +52,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 136,
+   "item_count": 137,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "광고 사업 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262559",
-     "date": ""
-    },
-    {
-     "title": "앱광고 수익화 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262560",
+     "title": "[11월] 월간 hy-way(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262558",
      "date": ""
     }
    ]

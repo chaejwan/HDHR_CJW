@@ -2726,17 +2726,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20240",
      "date": "2026.12.07 15:00",
      "first_seen": "2026-11-23T13:00:44+00:00"
+    },
+    "f96138cb5e64b265": {
+     "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
+     "date": "2026.12.06 00:00",
+     "first_seen": "2026-11-24T05:00:43+00:00"
     }
    },
-   "last_check": "2026-11-24T03:00:44+00:00",
-   "last_success": "2026-11-24T03:00:44+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-24T05:00:43+00:00",
+   "last_success": "2026-11-24T05:00:43+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 89,
-   "fingerprint": "2ef08ed57ab5d977",
+   "item_count": 90,
+   "fingerprint": "5500c5d4e7e82998",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T05:00:43+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 90,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
+       "date": "2026.12.06 00:00"
+      }
+     ]
+    },
     {
      "at": "2026-11-24T03:00:44+00:00",
      "status": "ok",
@@ -3055,16 +3077,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T17:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3081,7 +3093,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T13:00:44+00:00"
+   "last_new_at": "2026-11-24T05:00:43+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7274,8 +7286,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T03:00:45+00:00",
-   "last_success": "2026-11-24T03:00:45+00:00",
+   "last_check": "2026-11-24T05:00:44+00:00",
+   "last_success": "2026-11-24T05:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7283,6 +7295,16 @@
    "fingerprint": "13df40681aa02ab1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T05:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T03:00:45+00:00",
      "status": "ok",
@@ -7565,16 +7587,6 @@
     },
     {
      "at": "2026-11-21T19:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T17:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11405,17 +11417,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262560",
      "date": "",
      "first_seen": "2026-11-24T03:00:47+00:00"
+    },
+    "42ce1ed5b6f2a0d2": {
+     "title": "[11월] 월간 hy-way(경력)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+     "date": "",
+     "first_seen": "2026-11-24T05:00:50+00:00"
     }
    },
-   "last_check": "2026-11-24T03:00:47+00:00",
-   "last_success": "2026-11-24T03:00:47+00:00",
+   "last_check": "2026-11-24T05:00:50+00:00",
+   "last_success": "2026-11-24T05:00:50+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 136,
-   "fingerprint": "145de65ddf627364",
+   "item_count": 137,
+   "fingerprint": "57024cc8ddb8a91f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T05:00:50+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 137,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[11월] 월간 hy-way(경력)",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-24T03:00:47+00:00",
      "status": "new",
@@ -11751,16 +11785,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T17:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11777,7 +11801,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T03:00:47+00:00"
+   "last_new_at": "2026-11-24T05:00:50+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14002,15 +14026,25 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T03:00:48+00:00",
-   "last_success": "2026-11-24T03:00:48+00:00",
+   "last_check": "2026-11-24T05:00:51+00:00",
+   "last_success": "2026-11-24T05:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "5b33aa5d01830296",
+   "fingerprint": "cf94819ec5619a79",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T05:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T03:00:48+00:00",
      "status": "ok",
@@ -14322,16 +14356,6 @@
     },
     {
      "at": "2026-11-21T19:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T17:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15098,8 +15122,8 @@
      "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-24T03:00:52+00:00",
-   "last_success": "2026-11-24T03:00:52+00:00",
+   "last_check": "2026-11-24T05:00:54+00:00",
+   "last_success": "2026-11-24T05:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15107,6 +15131,16 @@
    "fingerprint": "88ac266a4e47759c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T05:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T03:00:52+00:00",
      "status": "ok",
@@ -15413,16 +15447,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T17:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15488,6 +15512,24 @@
     "url": "https://www.skcareers.com/Recruit/Detail/R262560",
     "date": "",
     "found_at": "2026-11-24T03:00:53+00:00"
+   },
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
+    "date": "2026.12.06 00:00",
+    "found_at": "2026-11-24T05:00:56+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[11월] 월간 hy-way(경력)",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+    "date": "",
+    "found_at": "2026-11-24T05:00:56+00:00"
    }
   ],
   "alerts": [],
@@ -15495,24 +15537,6 @@
   "last_sent": "2026-11-23T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Client Engineer (iOS)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262269",
-   "date": "",
-   "found_at": "2026-10-19T05:00:46+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "Navigation SDK Engineer",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262270",
-   "date": "",
-   "found_at": "2026-10-19T05:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -19994,6 +20018,24 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262560",
    "date": "",
    "found_at": "2026-11-24T03:00:53+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[한화문화재단 / 퐁피두센터 한화] 어시스턴트 큐레이터 채용",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20248",
+   "date": "2026.12.06 00:00",
+   "found_at": "2026-11-24T05:00:56+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[11월] 월간 hy-way(경력)",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+   "date": "",
+   "found_at": "2026-11-24T05:00:56+00:00"
   }
  ]
 }
