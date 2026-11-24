@@ -1,7 +1,7 @@
 {
- "at": "2026-11-24T06:58:57+00:00",
- "checked": 5,
- "new_total": 4,
+ "at": "2026-11-24T07:00:42+00:00",
+ "checked": 0,
+ "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
@@ -14,89 +14,6 @@
   "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45344430792",
- "results": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "new",
-   "item_count": 92,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "[한화투자증권] 투자금융2팀 인수금융 경력 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20249",
-     "date": "2026.12.07 15:00"
-    },
-    {
-     "title": "(주)한화 글로벌부문 ESH실 안전보건기획 팀장 채용",
-     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
-     "date": "2026.12.07 15:00"
-    }
-   ]
-  },
-  {
-   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
-   "site_name": "한화오션",
-   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
-   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
-   "status": "ok",
-   "item_count": 17,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
-   "item_count": 139,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": [
-    {
-     "title": "SK온 IP 담당자 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262561",
-     "date": ""
-    },
-    {
-     "title": "[SK오션플랜트] Compliance·기업법무 구성원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262565",
-     "date": ""
-    }
-   ]
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 101,
-   "method": "json",
-   "note": "",
-   "error": "",
-   "new_items": []
-  },
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_url": "https://www.samsungcareers.com/hr/list.data",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 11,
-   "method": "pattern",
-   "note": "",
-   "error": "",
-   "new_items": []
-  }
- ]
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45344674001",
+ "results": []
 }
