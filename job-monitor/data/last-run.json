@@ -1,20 +1,20 @@
 {
- "at": "2026-11-23T23:00:58+00:00",
+ "at": "2026-11-24T01:00:47+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
-  "sent": true,
+  "sent": false,
   "error": "",
-  "skipped": ""
+  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-25 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 0,
+  "items": 3,
   "alerts": 0,
-  "since": "",
+  "since": "2026-11-24T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45284960107",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45301698984",
  "results": [
   {
    "site_id": "hanwhain",
@@ -58,15 +58,15 @@
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
    "status": "new",
-   "item_count": 99,
+   "item_count": 101,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[계약직] 산업간호사 (연구소)",
-     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=274",
-     "date": "20261207"
+     "title": "[통합보안] Mobility Security Engineer - 차량보안",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
+     "date": "20261130"
     }
    ]
   },
@@ -75,12 +75,23 @@
    "site_name": "삼성",
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
-   "status": "ok",
-   "item_count": 9,
+   "status": "new",
+   "item_count": 11,
    "method": "pattern",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
+     "url": "https://www.samsungcareers.com/hr/?no=23563",
+     "date": "2026.11.24 ~ 2026.12.07"
+    },
+    {
+     "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
+     "url": "https://www.samsungcareers.com/hr/?no=23545",
+     "date": "2026.11.24 ~ 2026.12.07"
+    }
+   ]
   }
  ]
 }

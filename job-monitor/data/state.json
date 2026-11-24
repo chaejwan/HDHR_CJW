@@ -2728,8 +2728,8 @@
      "first_seen": "2026-11-23T13:00:44+00:00"
     }
    },
-   "last_check": "2026-11-23T23:00:41+00:00",
-   "last_success": "2026-11-23T23:00:41+00:00",
+   "last_check": "2026-11-24T01:00:38+00:00",
+   "last_success": "2026-11-24T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2737,6 +2737,16 @@
    "fingerprint": "2ef08ed57ab5d977",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T23:00:41+00:00",
      "status": "ok",
@@ -3048,16 +3058,6 @@
     },
     {
      "at": "2026-11-21T15:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 98,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T13:00:43+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7274,8 +7274,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-23T23:00:42+00:00",
-   "last_success": "2026-11-23T23:00:42+00:00",
+   "last_check": "2026-11-24T01:00:38+00:00",
+   "last_success": "2026-11-24T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7283,6 +7283,16 @@
    "fingerprint": "13df40681aa02ab1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T23:00:42+00:00",
      "status": "ok",
@@ -7565,16 +7575,6 @@
     },
     {
      "at": "2026-11-21T15:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T13:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11395,8 +11395,8 @@
      "first_seen": "2026-11-23T11:00:50+00:00"
     }
    },
-   "last_check": "2026-11-23T23:00:53+00:00",
-   "last_success": "2026-11-23T23:00:53+00:00",
+   "last_check": "2026-11-24T01:00:41+00:00",
+   "last_success": "2026-11-24T01:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11404,6 +11404,16 @@
    "fingerprint": "2b80ae02ea0a221e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T01:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 134,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-23T23:00:53+00:00",
      "status": "ok",
@@ -11725,16 +11735,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-21T13:00:47+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 151,
      "error": "",
      "note": "",
      "new": []
@@ -13971,17 +13971,39 @@
      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=274",
      "date": "20261207",
      "first_seen": "2026-11-23T23:00:54+00:00"
+    },
+    "97c211ada8c676c9": {
+     "title": "[통합보안] Mobility Security Engineer - 차량보안",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
+     "date": "20261130",
+     "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-23T23:00:54+00:00",
-   "last_success": "2026-11-23T23:00:54+00:00",
+   "last_check": "2026-11-24T01:00:42+00:00",
+   "last_success": "2026-11-24T01:00:42+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 99,
-   "fingerprint": "cb7416603ee7a548",
+   "item_count": 101,
+   "fingerprint": "21685d0638fa58dc",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T01:00:42+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[통합보안] Mobility Security Engineer - 차량보안",
+       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
+       "date": "20261130"
+      }
+     ]
+    },
     {
      "at": "2026-11-23T23:00:54+00:00",
      "status": "new",
@@ -14294,33 +14316,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T13:00:48+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[계약직] 행정지원 (장애인 제한경쟁)",
     "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
     "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (양재본사)",
     "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (남양연구소)",
-    "[계약직] 고양하이테크센터 드라이버"
+    "[계약직] 고양하이테크센터 드라이버",
+    "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T23:00:54+00:00"
+   "last_new_at": "2026-11-24T01:00:42+00:00"
   },
   "samsungcareers-com-hr": {
    "seen": {
@@ -15049,17 +15061,50 @@
      "url": "https://www.samsungcareers.com/hr/?no=23543",
      "date": "2026.11.23 ~ 2026.12.03",
      "first_seen": "2026-11-23T01:00:47+00:00"
+    },
+    "d33a4bbec8c3e5e8": {
+     "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
+     "url": "https://www.samsungcareers.com/hr/?no=23563",
+     "date": "2026.11.24 ~ 2026.12.07",
+     "first_seen": "2026-11-24T01:00:46+00:00"
+    },
+    "76e45c277da1c572": {
+     "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
+     "url": "https://www.samsungcareers.com/hr/?no=23545",
+     "date": "2026.11.24 ~ 2026.12.07",
+     "first_seen": "2026-11-24T01:00:46+00:00"
     }
    },
-   "last_check": "2026-11-23T23:00:57+00:00",
-   "last_success": "2026-11-23T23:00:57+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-24T01:00:46+00:00",
+   "last_success": "2026-11-24T01:00:46+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 9,
-   "fingerprint": "3e109a9b67a5a6ca",
+   "item_count": 11,
+   "fingerprint": "88ac266a4e47759c",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-24T01:00:46+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 11,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
+       "url": "https://www.samsungcareers.com/hr/?no=23563",
+       "date": "2026.11.24 ~ 2026.12.07"
+      },
+      {
+       "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
+       "url": "https://www.samsungcareers.com/hr/?no=23545",
+       "date": "2026.11.24 ~ 2026.12.07"
+      }
+     ]
+    },
     {
      "at": "2026-11-23T23:00:57+00:00",
      "status": "ok",
@@ -15355,69 +15400,60 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-21T13:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
+    "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
     "삼성물산 패션부문 경력사원 채용(브랜드마케팅, 퍼포먼스마케팅, 패션디자이너, Buying MD, 홀서비스)",
     "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-    "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)",
-    "삼성SDI 경력사원 채용(전자재료사업부, 중대형사업부(ESS))",
-    "삼성E&A 경력사원 채용(심리상담)"
+    "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-23T01:00:47+00:00"
+   "last_new_at": "2026-11-24T01:00:46+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+    "site_name": "현대자동차",
+    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+    "title": "[통합보안] Mobility Security Engineer - 차량보안",
+    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
+    "date": "20261130",
+    "found_at": "2026-11-24T01:00:47+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
+    "url": "https://www.samsungcareers.com/hr/?no=23563",
+    "date": "2026.11.24 ~ 2026.12.07",
+    "found_at": "2026-11-24T01:00:47+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
+    "url": "https://www.samsungcareers.com/hr/?no=23545",
+    "date": "2026.11.24 ~ 2026.12.07",
+    "found_at": "2026-11-24T01:00:47+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-24T01:00:47+00:00",
   "last_sent": "2026-11-23T23:01:00+00:00"
  },
  "archive": [
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 케미칼소재 R&D 연구원 채용 (계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19988",
-   "date": "2026.10.30 17:00",
-   "found_at": "2026-10-19T03:00:49+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 화약류 제조기사 채용 (계약직)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19987",
-   "date": "2026.11.01 18:00",
-   "found_at": "2026-10-19T03:00:49+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "공공 IT 센터 인프라 설계 및 구축 전문가",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261948",
-   "date": "",
-   "found_at": "2026-10-19T03:00:49+00:00"
-  },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
@@ -19890,6 +19926,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=274",
    "date": "20261207",
    "found_at": "2026-11-23T23:00:58+00:00"
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "title": "[통합보안] Mobility Security Engineer - 차량보안",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
+   "date": "20261130",
+   "found_at": "2026-11-24T01:00:47+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
+   "url": "https://www.samsungcareers.com/hr/?no=23563",
+   "date": "2026.11.24 ~ 2026.12.07",
+   "found_at": "2026-11-24T01:00:47+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
+   "url": "https://www.samsungcareers.com/hr/?no=23545",
+   "date": "2026.11.24 ~ 2026.12.07",
+   "found_at": "2026-11-24T01:00:47+00:00"
   }
  ]
 }
