@@ -2,14 +2,19 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-25 10:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-25 12:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 239 · 한화 173 · 현대자동차 62 · 삼성 23 · 한화오션 3
+SK 240 · 한화 172 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [\[신입\] SK바이오텍 구매 물품 검수 및 관리 보조원 계약사원 모집](https://www.skcareers.com/Recruit/Detail/R262573) | — | 2026-11-25 12:00 |
+| SK | [산업에너지사업부 환경관리원 채용](https://www.skcareers.com/Recruit/Detail/R262575) | — | 2026-11-25 12:00 |
+| SK | [\[신입\] SK바이오텍 사무보조원 계약사원 모집](https://www.skcareers.com/Recruit/Detail/R262572) | — | 2026-11-25 12:00 |
+| SK | [제조 P\&T AI, MES 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262570) | — | 2026-11-25 12:00 |
+| SK | [제조 P\&T AI, MES 전문가 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262571) | — | 2026-11-25 12:00 |
 | 한화 | [\[판교R\&D센터\] 우주용 태양전지 CIC/SCA 공정 및 구조 개발](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20250) | 2026-12-09 23:59 | 2026-11-25 10:00 |
 | SK | [SK플라즈마 구매팀장 채용](https://www.skcareers.com/Recruit/Detail/R262577) | — | 2026-11-25 10:00 |
 | SK | [\[SK케미칼\(GC\)\] 고분자 중합 담당 계약직 채용](https://www.skcareers.com/Recruit/Detail/R262574) | — | 2026-11-25 10:00 |
@@ -497,10 +502,6 @@ SK 239 · 한화 173 · 현대자동차 62 · 삼성 23 · 한화오션 3
 | 한화 | [\(주\)한화 글로벌부문 안전보건 기획/운영 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20004) | 2026-11-02 15:00 | 2026-10-20 18:00 |
 | SK | [디앤디프라퍼티솔루션 오피스 운영 매니저\(코워킹 스페이스\) 모집의 건](https://www.skcareers.com/Recruit/Detail/R262295) | — | 2026-10-20 18:00 |
 | 현대자동차 | [\[계약직\] 글로벌상생협력센터 \(GPC\) 교육 운영\_AI 특화 공동훈련센터](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244) | 2026-11-03 | 2026-10-20 18:00 |
-| 한화 | [\[한화생명\] 정보보호팀 '정보보호' 경력채용\(사원\~차장\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20001) | 2026-11-04 15:00 | 2026-10-20 16:00 |
-| SK | [\[SK에어플러스\] 프로젝트 구매·납기 및 물류관리](https://www.skcareers.com/Recruit/Detail/R262192) | — | 2026-10-20 16:00 |
-| SK | [\[SK에어코어\] 산업가스 플랜트 전기설계 및 엔지니어링](https://www.skcareers.com/Recruit/Detail/R262284) | — | 2026-10-20 16:00 |
-| SK | [\[SK에어코어\] 산업가스 플랜트 공정설계 및 엔지니어링](https://www.skcareers.com/Recruit/Detail/R262285) | — | 2026-10-20 16:00 |
 | SK | [\[SK에어코어\] 산업가스 플랜트 계장설계 및 엔지니어링](https://www.skcareers.com/Recruit/Detail/R262286) | — | 2026-10-20 16:00 |
 | SK | [\[SK에어코어\] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링\(계약직\)](https://www.skcareers.com/Recruit/Detail/R262287) | — | 2026-10-20 16:00 |
 | SK | [\[SK에어코어\] 산업가스 플랜트 토목·건축·구조\(CAS\) 현장 시공관리\(계약직\)](https://www.skcareers.com/Recruit/Detail/R262289) | — | 2026-10-20 16:00 |
@@ -509,4 +510,3 @@ SK 239 · 한화 173 · 현대자동차 62 · 삼성 23 · 한화오션 3
 | SK | [\[SK에어코어\] 산업가스 플랜트 배관 현장 시공관리\(계약직\)](https://www.skcareers.com/Recruit/Detail/R262292) | — | 2026-10-20 16:00 |
 | SK | [\[SK오션플랜트\] 해양플랜트 프로젝트 PM 모집\(경력\)](https://www.skcareers.com/Recruit/Detail/R262288) | — | 2026-10-20 16:00 |
 | SK | [총무 담당 \(3년 이상\)](https://www.skcareers.com/Recruit/Detail/R262293) | — | 2026-10-20 16:00 |
-| SK | [SK온 보안정책 담당자 채용](https://www.skcareers.com/Recruit/Detail/R262277) | — | 2026-10-20 14:00 |
