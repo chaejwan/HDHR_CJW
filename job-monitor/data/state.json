@@ -2744,17 +2744,39 @@
      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20245",
      "date": "2026.12.07 15:00",
      "first_seen": "2026-11-24T06:58:42+00:00"
+    },
+    "134139438fe2b859": {
+     "title": "[판교R&D센터] 우주용 태양전지 CIC/SCA 공정 및 구조 개발",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20250",
+     "date": "2026.12.09 23:59",
+     "first_seen": "2026-11-25T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T23:00:39+00:00",
-   "last_success": "2026-11-24T23:00:39+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-25T01:00:37+00:00",
+   "last_success": "2026-11-25T01:00:37+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 91,
-   "fingerprint": "1d07e11b0db66d98",
+   "item_count": 92,
+   "fingerprint": "923704c6260fef3e",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T01:00:37+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 92,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[판교R&D센터] 우주용 태양전지 CIC/SCA 공정 및 구조 개발",
+       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20250",
+       "date": "2026.12.09 23:59"
+      }
+     ]
+    },
     {
      "at": "2026-11-24T23:00:39+00:00",
      "status": "ok",
@@ -3090,16 +3112,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T13:00:37+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -3116,7 +3128,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T06:58:42+00:00"
+   "last_new_at": "2026-11-25T01:00:37+00:00"
   },
   "recruit-hanwhaocean-com-ko-intro-5089e10": {
    "seen": {
@@ -7309,8 +7321,8 @@
      "first_seen": "2026-11-18T01:00:37+00:00"
     }
    },
-   "last_check": "2026-11-24T23:00:39+00:00",
-   "last_success": "2026-11-24T23:00:39+00:00",
+   "last_check": "2026-11-25T01:00:38+00:00",
+   "last_success": "2026-11-25T01:00:38+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7318,6 +7330,16 @@
    "fingerprint": "2188187cab80ca45",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T01:00:38+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 17,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T23:00:39+00:00",
      "status": "ok",
@@ -7600,16 +7622,6 @@
     },
     {
      "at": "2026-11-22T15:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T13:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11494,17 +11506,61 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262569",
      "date": "",
      "first_seen": "2026-11-24T11:00:49+00:00"
+    },
+    "59e232e0c95caac2": {
+     "title": "SK플라즈마 구매팀장 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262577",
+     "date": "",
+     "first_seen": "2026-11-25T01:00:44+00:00"
+    },
+    "50c2666f689fd928": {
+     "title": "[SK케미칼(GC)] 고분자 중합 담당 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262574",
+     "date": "",
+     "first_seen": "2026-11-25T01:00:44+00:00"
+    },
+    "ed6c05bdf2f65fd1": {
+     "title": "[SK케미칼(GC)] 보훈대상 고분자 중합 담당 계약직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262576",
+     "date": "",
+     "first_seen": "2026-11-25T01:00:44+00:00"
     }
    },
-   "last_check": "2026-11-24T23:00:45+00:00",
-   "last_success": "2026-11-24T23:00:45+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-25T01:00:44+00:00",
+   "last_success": "2026-11-25T01:00:44+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 142,
-   "fingerprint": "c658fc44106b843d",
+   "item_count": 145,
+   "fingerprint": "1b9a97c7e46d2c16",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T01:00:44+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 3,
+     "item_count": 145,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "SK플라즈마 구매팀장 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262577",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼(GC)] 고분자 중합 담당 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262574",
+       "date": ""
+      },
+      {
+       "title": "[SK케미칼(GC)] 보훈대상 고분자 중합 담당 계약직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262576",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-24T23:00:45+00:00",
      "status": "ok",
@@ -11889,16 +11945,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T13:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 150,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11915,7 +11961,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T11:00:49+00:00"
+   "last_new_at": "2026-11-25T01:00:44+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14140,15 +14186,25 @@
      "first_seen": "2026-11-24T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-24T23:00:46+00:00",
-   "last_success": "2026-11-24T23:00:46+00:00",
+   "last_check": "2026-11-25T01:00:45+00:00",
+   "last_success": "2026-11-25T01:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "332be291d6d75046",
+   "fingerprint": "6628e1fe40665534",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T01:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-24T23:00:46+00:00",
      "status": "ok",
@@ -14464,16 +14520,6 @@
      "reset": false,
      "new_count": 0,
      "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T13:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 97,
      "error": "",
      "note": "",
      "new": []
@@ -15234,17 +15280,39 @@
      "url": "https://www.samsungcareers.com/hr/?no=23545",
      "date": "2026.11.24 ~ 2026.12.07",
      "first_seen": "2026-11-24T01:00:46+00:00"
+    },
+    "7da296668185bf52": {
+     "title": "삼성생명 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
+     "url": "https://www.samsungcareers.com/hr/?no=23547",
+     "date": "2026.11.25 ~ 2026.12.07",
+     "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-24T23:00:49+00:00",
-   "last_success": "2026-11-24T23:00:49+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-25T01:00:48+00:00",
+   "last_success": "2026-11-25T01:00:48+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 8,
-   "fingerprint": "9c23372f5874dcd2",
+   "item_count": 9,
+   "fingerprint": "36d72ae31caae189",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T01:00:48+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "삼성생명 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
+       "url": "https://www.samsungcareers.com/hr/?no=23547",
+       "date": "2026.11.25 ~ 2026.12.07"
+      }
+     ]
+    },
     {
      "at": "2026-11-24T23:00:49+00:00",
      "status": "ok",
@@ -15551,87 +15619,78 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T13:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
+    "삼성생명 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
     "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
     "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
     "삼성물산 패션부문 경력사원 채용(브랜드마케팅, 퍼포먼스마케팅, 패션디자이너, Buying MD, 홀서비스)",
-    "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)",
-    "삼성디스플레이 경력사원 채용(연구개발, 제조기술, 상품기획/영업, 품질, 건설/환경안전)"
+    "삼성E&A 프로젝트계약직 경력사원 채용(사업, 설계, 시공, 안전/보건, 품질)"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-24T01:00:46+00:00"
+   "last_new_at": "2026-11-25T01:00:48+00:00"
   }
  },
  "outbox": {
-  "items": [],
+  "items": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "title": "[판교R&D센터] 우주용 태양전지 CIC/SCA 공정 및 구조 개발",
+    "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20250",
+    "date": "2026.12.09 23:59",
+    "found_at": "2026-11-25T01:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "SK플라즈마 구매팀장 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262577",
+    "date": "",
+    "found_at": "2026-11-25T01:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼(GC)] 고분자 중합 담당 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262574",
+    "date": "",
+    "found_at": "2026-11-25T01:00:50+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK케미칼(GC)] 보훈대상 고분자 중합 담당 계약직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262576",
+    "date": "",
+    "found_at": "2026-11-25T01:00:50+00:00"
+   },
+   {
+    "site_id": "samsungcareers-com-hr",
+    "site_name": "삼성",
+    "site_link": "https://www.samsungcareers.com/hr/",
+    "title": "삼성생명 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
+    "url": "https://www.samsungcareers.com/hr/?no=23547",
+    "date": "2026.11.25 ~ 2026.12.07",
+    "found_at": "2026-11-25T01:00:50+00:00"
+   }
+  ],
   "alerts": [],
-  "since": "",
+  "since": "2026-11-25T01:00:50+00:00",
   "last_sent": "2026-11-24T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "samsungcareers-com-hr",
-   "site_name": "삼성",
-   "site_link": "https://www.samsungcareers.com/hr/",
-   "title": "에스원 경력사원 채용(오피스데스크, 안전관리자)",
-   "url": "https://www.samsungcareers.com/hr/?no=23364",
-   "date": "2026.10.20 ~ 2026.11.06",
-   "found_at": "2026-10-20T01:00:45+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "(주)한화 글로벌부문 F/W 개발 경력사원 채용",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20002",
-   "date": "2026.11.02 15:00",
-   "found_at": "2026-10-20T03:00:56+00:00"
-  },
-  {
-   "site_id": "hanwhain",
-   "site_name": "한화",
-   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "title": "[한화생명] IT개발팀 'Backend Developer' 경력채용(사원~대리)",
-   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20000",
-   "date": "2026.11.02 15:00",
-   "found_at": "2026-10-20T03:00:56+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "IT 네트워크 전문가 영입 (계약직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262280",
-   "date": "",
-   "found_at": "2026-10-20T03:00:56+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK이터닉스 회계 담당 경력사원 모집",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262282",
-   "date": "",
-   "found_at": "2026-10-20T05:00:46+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20086,6 +20145,51 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262569",
    "date": "",
    "found_at": "2026-11-24T11:00:56+00:00"
+  },
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "title": "[판교R&D센터] 우주용 태양전지 CIC/SCA 공정 및 구조 개발",
+   "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20250",
+   "date": "2026.12.09 23:59",
+   "found_at": "2026-11-25T01:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "SK플라즈마 구매팀장 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262577",
+   "date": "",
+   "found_at": "2026-11-25T01:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼(GC)] 고분자 중합 담당 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262574",
+   "date": "",
+   "found_at": "2026-11-25T01:00:50+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK케미칼(GC)] 보훈대상 고분자 중합 담당 계약직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262576",
+   "date": "",
+   "found_at": "2026-11-25T01:00:50+00:00"
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "title": "삼성생명 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
+   "url": "https://www.samsungcareers.com/hr/?no=23547",
+   "date": "2026.11.25 ~ 2026.12.07",
+   "found_at": "2026-11-25T01:00:50+00:00"
   }
  ]
 }
