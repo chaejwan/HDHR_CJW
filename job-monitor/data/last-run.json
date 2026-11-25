@@ -1,20 +1,20 @@
 {
- "at": "2026-11-25T03:00:51+00:00",
+ "at": "2026-11-25T05:00:54+00:00",
  "checked": 5,
- "new_total": 5,
+ "new_total": 1,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 11-26 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 11건 · 점검 0건). 11-26 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 10,
+  "items": 11,
   "alerts": 0,
   "since": "2026-11-25T01:00:50+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45536930869",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45550587074",
  "results": [
   {
    "site_id": "hanwhain",
@@ -46,34 +46,14 @@
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
    "status": "new",
-   "item_count": 150,
+   "item_count": 151,
    "method": "json",
    "note": "",
    "error": "",
    "new_items": [
     {
-     "title": "[신입] SK바이오텍 구매 물품 검수 및 관리 보조원 계약사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262573",
-     "date": ""
-    },
-    {
-     "title": "산업에너지사업부 환경관리원 채용",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262575",
-     "date": ""
-    },
-    {
-     "title": "[신입] SK바이오텍 사무보조원 계약사원 모집",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262572",
-     "date": ""
-    },
-    {
-     "title": "제조 P&T AI, MES 전문가 영입",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262570",
-     "date": ""
-    },
-    {
-     "title": "제조 P&T AI, MES 전문가 영입 (계약직)",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262571",
+     "title": "HRIS 구축 PM/PL 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262566",
      "date": ""
     }
    ]

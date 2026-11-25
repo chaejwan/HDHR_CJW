@@ -2,7 +2,7 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-25 12:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-25 14:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
 SK 240 · 한화 172 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
@@ -10,6 +10,7 @@ SK 240 · 한화 172 · 현대자동차 62 · 삼성 23 · 한화오션 3
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [HRIS 구축 PM/PL 영입](https://www.skcareers.com/Recruit/Detail/R262566) | — | 2026-11-25 14:00 |
 | SK | [\[신입\] SK바이오텍 구매 물품 검수 및 관리 보조원 계약사원 모집](https://www.skcareers.com/Recruit/Detail/R262573) | — | 2026-11-25 12:00 |
 | SK | [산업에너지사업부 환경관리원 채용](https://www.skcareers.com/Recruit/Detail/R262575) | — | 2026-11-25 12:00 |
 | SK | [\[신입\] SK바이오텍 사무보조원 계약사원 모집](https://www.skcareers.com/Recruit/Detail/R262572) | — | 2026-11-25 12:00 |
@@ -502,7 +503,6 @@ SK 240 · 한화 172 · 현대자동차 62 · 삼성 23 · 한화오션 3
 | 한화 | [\(주\)한화 글로벌부문 안전보건 기획/운영 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20004) | 2026-11-02 15:00 | 2026-10-20 18:00 |
 | SK | [디앤디프라퍼티솔루션 오피스 운영 매니저\(코워킹 스페이스\) 모집의 건](https://www.skcareers.com/Recruit/Detail/R262295) | — | 2026-10-20 18:00 |
 | 현대자동차 | [\[계약직\] 글로벌상생협력센터 \(GPC\) 교육 운영\_AI 특화 공동훈련센터](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244) | 2026-11-03 | 2026-10-20 18:00 |
-| SK | [\[SK에어코어\] 산업가스 플랜트 계장설계 및 엔지니어링](https://www.skcareers.com/Recruit/Detail/R262286) | — | 2026-10-20 16:00 |
 | SK | [\[SK에어코어\] 산업가스 플랜트 토목·건축·구조 설계 및 엔지니어링\(계약직\)](https://www.skcareers.com/Recruit/Detail/R262287) | — | 2026-10-20 16:00 |
 | SK | [\[SK에어코어\] 산업가스 플랜트 토목·건축·구조\(CAS\) 현장 시공관리\(계약직\)](https://www.skcareers.com/Recruit/Detail/R262289) | — | 2026-10-20 16:00 |
 | SK | [\[SK에어코어\] 산업가스 플랜트 전기·계장\(E\&I\) 현장 시공관리\(계약직\)](https://www.skcareers.com/Recruit/Detail/R262290) | — | 2026-10-20 16:00 |
