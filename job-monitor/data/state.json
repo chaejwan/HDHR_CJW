@@ -2764,8 +2764,8 @@
      "first_seen": "2026-11-25T07:00:37+00:00"
     }
    },
-   "last_check": "2026-11-25T15:00:48+00:00",
-   "last_success": "2026-11-25T15:00:48+00:00",
+   "last_check": "2026-11-25T17:00:49+00:00",
+   "last_success": "2026-11-25T17:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2773,6 +2773,16 @@
    "fingerprint": "13400d551c246d3d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T17:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T15:00:48+00:00",
      "status": "ok",
@@ -3119,22 +3129,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-23T05:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[한화라이프랩] 업무지원팀 담당자 채용",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20242",
-       "date": "2026.12.13 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7350,8 +7344,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-25T15:00:49+00:00",
-   "last_success": "2026-11-25T15:00:49+00:00",
+   "last_check": "2026-11-25T17:00:50+00:00",
+   "last_success": "2026-11-25T17:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7359,6 +7353,16 @@
    "fingerprint": "f58e7aa99fc49296",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T17:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T15:00:49+00:00",
      "status": "ok",
@@ -7647,16 +7651,6 @@
     },
     {
      "at": "2026-11-23T07:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-23T05:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11651,8 +11645,8 @@
      "first_seen": "2026-11-25T09:00:45+00:00"
     }
    },
-   "last_check": "2026-11-25T15:00:55+00:00",
-   "last_success": "2026-11-25T15:00:55+00:00",
+   "last_check": "2026-11-25T17:00:51+00:00",
+   "last_success": "2026-11-25T17:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11660,6 +11654,16 @@
    "fingerprint": "03191366a0558d11",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T17:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T15:00:55+00:00",
      "status": "ok",
@@ -12124,22 +12128,6 @@
       {
        "title": "Client Engineer (Android) – TMAP AUTO 개발",
        "url": "https://www.skcareers.com/Recruit/Detail/R262553",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-23T05:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 132,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[신입] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 신입사원 모집",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262551",
        "date": ""
       }
      ]
@@ -14402,8 +14390,8 @@
      "first_seen": "2026-11-25T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-25T15:00:57+00:00",
-   "last_success": "2026-11-25T15:00:57+00:00",
+   "last_check": "2026-11-25T17:00:52+00:00",
+   "last_success": "2026-11-25T17:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -14411,6 +14399,16 @@
    "fingerprint": "3f57316cd70df8a2",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T17:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 100,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T15:00:57+00:00",
      "status": "ok",
@@ -14739,22 +14737,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-23T05:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 97,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[아르바이트] 사무보조 (아산공장)",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=97",
-       "date": "20261130"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -15520,8 +15502,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-25T15:01:00+00:00",
-   "last_success": "2026-11-25T15:01:00+00:00",
+   "last_check": "2026-11-25T17:00:55+00:00",
+   "last_success": "2026-11-25T17:00:55+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15529,6 +15511,16 @@
    "fingerprint": "bcdf7ab55114b6b6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T17:00:55+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T15:01:00+00:00",
      "status": "ok",
@@ -15828,16 +15820,6 @@
     },
     {
      "at": "2026-11-23T07:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-23T05:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
