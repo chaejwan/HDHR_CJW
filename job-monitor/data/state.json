@@ -2764,15 +2764,25 @@
      "first_seen": "2026-11-25T07:00:37+00:00"
     }
    },
-   "last_check": "2026-11-25T07:00:37+00:00",
-   "last_success": "2026-11-25T07:00:37+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-25T09:00:39+00:00",
+   "last_success": "2026-11-25T09:00:39+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 89,
    "fingerprint": "8fbedc990467f45a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T09:00:39+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T07:00:37+00:00",
      "status": "new",
@@ -3118,16 +3128,6 @@
     },
     {
      "at": "2026-11-22T23:00:39+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-22T21:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7342,17 +7342,39 @@
      "url": "https://recruit-hanwhaocean.com/ko/o/245331",
      "date": "",
      "first_seen": "2026-11-18T01:00:37+00:00"
+    },
+    "35b8812f45fedcf6": {
+     "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용",
+     "url": "https://recruit-hanwhaocean.com/ko/o/246248",
+     "date": "",
+     "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-25T07:00:38+00:00",
-   "last_success": "2026-11-25T07:00:38+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-25T09:00:40+00:00",
+   "last_success": "2026-11-25T09:00:40+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "pattern",
-   "item_count": 17,
-   "fingerprint": "2188187cab80ca45",
+   "item_count": 18,
+   "fingerprint": "2abc0c545436bda7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T09:00:40+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용",
+       "url": "https://recruit-hanwhaocean.com/ko/o/246248",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-25T07:00:38+00:00",
      "status": "ok",
@@ -7642,33 +7664,23 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T21:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[제조총괄] 안전팀 경력사원(계약직) 채용",
+    "[경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+    "[경영지원] 외국인 근로자 정착 지원(계약직) 채용",
     "[경영지원] 근무/근태관리 (계약직) 채용",
     "[경영지원] 회계결산 경력사원 채용",
-    "[경영지원] 인사행정 지원 사무직 채용",
-    "[경영지원] 정보보호 경력사원 채용"
+    "[경영지원] 인사행정 지원 사무직 채용"
    ],
    "health": {
     "issue": "",
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-18T01:00:37+00:00"
+   "last_new_at": "2026-11-25T09:00:40+00:00"
   },
   "sk-sk-careers": {
    "seen": {
@@ -11625,17 +11637,50 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262586",
      "date": "",
      "first_seen": "2026-11-25T07:00:41+00:00"
+    },
+    "08bdc0ccd59cc359": {
+     "title": "2026년 전자해석 신입/경력 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262590",
+     "date": "",
+     "first_seen": "2026-11-25T09:00:45+00:00"
+    },
+    "1be4ddd0199b0995": {
+     "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262547",
+     "date": "",
+     "first_seen": "2026-11-25T09:00:45+00:00"
     }
    },
-   "last_check": "2026-11-25T07:00:41+00:00",
-   "last_success": "2026-11-25T07:00:41+00:00",
+   "last_check": "2026-11-25T09:00:45+00:00",
+   "last_success": "2026-11-25T09:00:45+00:00",
    "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 158,
-   "fingerprint": "9bc30d0f8b5b7617",
+   "item_count": 160,
+   "fingerprint": "58fb7fa99d7c056b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T09:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 2,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "2026년 전자해석 신입/경력 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262590",
+       "date": ""
+      },
+      {
+       "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262547",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-25T07:00:41+00:00",
      "status": "new",
@@ -12104,16 +12149,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T21:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 130,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12130,7 +12165,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-25T07:00:41+00:00"
+   "last_new_at": "2026-11-25T09:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14373,15 +14408,25 @@
      "first_seen": "2026-11-25T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-25T07:00:42+00:00",
-   "last_success": "2026-11-25T07:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-25T09:00:46+00:00",
+   "last_success": "2026-11-25T09:00:46+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
-   "item_count": 104,
-   "fingerprint": "37d41e86ab70620c",
+   "item_count": 101,
+   "fingerprint": "6092210ea0ca46ea",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T09:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T07:00:42+00:00",
      "status": "new",
@@ -14716,26 +14761,16 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T21:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
    "consecutive_errors": 0,
    "sample_titles": [
-    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (울산공장)",
-    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (양재본사)",
-    "[아르바이트] 연말정산 및 퇴직자 정산 사무보조 (남양연구소)",
     "[계약직] 고양하이테크센터 드라이버",
-    "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)"
+    "[계약직] 사무환경 운영 및 행정 지원 (장애인 제한경쟁)",
+    "[계약직] 행정지원 (장애인 제한경쟁)",
+    "[계약직] 이동식 안전체험관 운영 및 보조",
+    "[계약직] 대전하이테크센터 파츠딜리버리"
    ],
    "health": {
     "issue": "",
@@ -15491,8 +15526,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-25T07:00:45+00:00",
-   "last_success": "2026-11-25T07:00:45+00:00",
+   "last_check": "2026-11-25T09:00:51+00:00",
+   "last_success": "2026-11-25T09:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15500,6 +15535,16 @@
    "fingerprint": "36d72ae31caae189",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T09:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T07:00:45+00:00",
      "status": "ok",
@@ -15812,16 +15857,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-22T21:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 10,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -16049,6 +16084,33 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=280",
     "date": "20261206",
     "found_at": "2026-11-25T07:00:46+00:00"
+   },
+   {
+    "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+    "site_name": "한화오션",
+    "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+    "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용",
+    "url": "https://recruit-hanwhaocean.com/ko/o/246248",
+    "date": "",
+    "found_at": "2026-11-25T09:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "2026년 전자해석 신입/경력 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262590",
+    "date": "",
+    "found_at": "2026-11-25T09:00:53+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262547",
+    "date": "",
+    "found_at": "2026-11-25T09:00:53+00:00"
    }
   ],
   "alerts": [],
@@ -16056,33 +16118,6 @@
   "last_sent": "2026-11-24T23:00:52+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 SHE 안전 사무직 대졸신입 수시 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262296",
-   "date": "",
-   "found_at": "2026-10-20T15:01:00+00:00"
-  },
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK실트론 HR 대졸신입 수시 채용",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262297",
-   "date": "",
-   "found_at": "2026-10-20T15:01:00+00:00"
-  },
-  {
-   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
-   "site_name": "현대자동차",
-   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=387",
-   "date": "20261231",
-   "found_at": "2026-10-20T23:00:45+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20555,6 +20590,33 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=280",
    "date": "20261206",
    "found_at": "2026-11-25T07:00:46+00:00"
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용",
+   "url": "https://recruit-hanwhaocean.com/ko/o/246248",
+   "date": "",
+   "found_at": "2026-11-25T09:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "2026년 전자해석 신입/경력 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262590",
+   "date": "",
+   "found_at": "2026-11-25T09:00:53+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262547",
+   "date": "",
+   "found_at": "2026-11-25T09:00:53+00:00"
   }
  ]
 }
