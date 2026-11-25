@@ -2764,8 +2764,8 @@
      "first_seen": "2026-11-25T07:00:37+00:00"
     }
    },
-   "last_check": "2026-11-25T11:00:42+00:00",
-   "last_success": "2026-11-25T11:00:42+00:00",
+   "last_check": "2026-11-25T13:00:42+00:00",
+   "last_success": "2026-11-25T13:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2773,6 +2773,16 @@
    "fingerprint": "8fbedc990467f45a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T13:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 89,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T11:00:42+00:00",
      "status": "ok",
@@ -3118,16 +3128,6 @@
     },
     {
      "at": "2026-11-23T03:00:49+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 86,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-23T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7350,8 +7350,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-25T11:00:43+00:00",
-   "last_success": "2026-11-25T11:00:43+00:00",
+   "last_check": "2026-11-25T13:00:43+00:00",
+   "last_success": "2026-11-25T13:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7359,6 +7359,16 @@
    "fingerprint": "2abc0c545436bda7",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T13:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T11:00:43+00:00",
      "status": "ok",
@@ -7647,16 +7657,6 @@
     },
     {
      "at": "2026-11-23T03:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-23T01:00:40+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11651,8 +11651,8 @@
      "first_seen": "2026-11-25T09:00:45+00:00"
     }
    },
-   "last_check": "2026-11-25T11:00:48+00:00",
-   "last_success": "2026-11-25T11:00:48+00:00",
+   "last_check": "2026-11-25T13:00:47+00:00",
+   "last_success": "2026-11-25T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11660,6 +11660,16 @@
    "fingerprint": "58fb7fa99d7c056b",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 160,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T11:00:48+00:00",
      "status": "ok",
@@ -12133,22 +12143,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-23T01:00:43+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 131,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK온 Cell Validation 기술직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262548",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -14408,15 +14402,25 @@
      "first_seen": "2026-11-25T07:00:42+00:00"
     }
    },
-   "last_check": "2026-11-25T11:00:50+00:00",
-   "last_success": "2026-11-25T11:00:50+00:00",
+   "last_check": "2026-11-25T13:00:48+00:00",
+   "last_success": "2026-11-25T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 101,
-   "fingerprint": "5dc09b792200dfac",
+   "fingerprint": "3f0188aac83160aa",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 101,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T11:00:50+00:00",
      "status": "ok",
@@ -14744,16 +14748,6 @@
     },
     {
      "at": "2026-11-23T03:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 96,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-23T01:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15526,8 +15520,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-25T11:00:54+00:00",
-   "last_success": "2026-11-25T11:00:54+00:00",
+   "last_check": "2026-11-25T13:00:52+00:00",
+   "last_success": "2026-11-25T13:00:52+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15535,6 +15529,16 @@
    "fingerprint": "36d72ae31caae189",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-25T13:00:52+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 9,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-25T11:00:54+00:00",
      "status": "ok",
@@ -15841,22 +15845,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-23T01:00:47+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성물산 패션부문 경력사원 채용(브랜드마케팅, 퍼포먼스마케팅, 패션디자이너, Buying MD, 홀서비스)",
-       "url": "https://www.samsungcareers.com/hr/?no=23543",
-       "date": "2026.11.23 ~ 2026.12.03"
-      }
-     ]
     }
    ],
    "last_note": "",
