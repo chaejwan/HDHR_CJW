@@ -2,14 +2,15 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-26 14:11** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-26 16:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 237 · 한화 174 · 현대자동차 63 · 삼성 22 · 한화오션 4
+SK 238 · 한화 173 · 현대자동차 63 · 삼성 22 · 한화오션 4
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| SK | [비용 정산 및 사무지원 담당자](https://www.skcareers.com/Recruit/Detail/R262598) | — | 2026-11-26 16:00 |
 | SK | [RQA 계약직 채용](https://www.skcareers.com/Recruit/Detail/R262595) | — | 2026-11-26 14:00 |
 | 한화 | [\[한화투자증권\] 상품운용팀 재산신탁 경력 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20254) | 2026-12-02 15:00 | 2026-11-26 10:00 |
 | 한화오션 | [\[경영지원\] 외국인 근로자 정착 지원\(계약직\) 채용](https://recruit-hanwhaocean.com/ko/o/246248) | — | 2026-11-25 18:00 |
@@ -507,6 +508,5 @@ SK 237 · 한화 174 · 현대자동차 63 · 삼성 22 · 한화오션 4
 | 한화 | [구매/물류 PI 담당자 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013) | 2026-11-01 23:59 | 2026-10-21 18:00 |
 | SK | [SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용\(정직/촉탁직\)](https://www.skcareers.com/Recruit/Detail/R262309) | — | 2026-10-21 18:00 |
 | SK | [2026년 상반기 L HOUSE 원액생산실 신입/경력 계약직 사원 5차 채용 공고](https://www.skcareers.com/Recruit/Detail/R262305) | — | 2026-10-21 16:00 |
-| 한화 | [한화시스템 위성영상 분석/판독 솔루션 개발 엔지니어 경력 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20011) | 2026-11-08 23:59 | 2026-10-21 12:00 |
 | SK | [\[10월\] 월간 hy-way\(경력\)](https://www.skcareers.com/Recruit/Detail/R262302) | — | 2026-10-21 12:00 |
 | SK | [내비게이션 경로 테스트 및 분석 담당자 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262304) | — | 2026-10-21 12:00 |
