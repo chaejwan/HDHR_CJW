@@ -1,20 +1,20 @@
 {
- "at": "2026-11-26T07:00:52+00:00",
+ "at": "2026-11-26T09:01:00+00:00",
  "checked": 5,
- "new_total": 1,
+ "new_total": 3,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 3건 · 점검 0건). 11-27 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 6건 · 점검 0건). 11-27 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 3,
+  "items": 6,
   "alerts": 0,
   "since": "2026-11-26T01:00:49+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45772150481",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45788022268",
  "results": [
   {
    "site_id": "hanwhain",
@@ -45,30 +45,40 @@
    "site_name": "SK",
    "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
    "site_link": "https://www.skcareers.com/Recruit",
-   "status": "new",
+   "status": "ok",
    "item_count": 156,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": [
-    {
-     "title": "비용 정산 및 사무지원 담당자",
-     "url": "https://www.skcareers.com/Recruit/Detail/R262598",
-     "date": ""
-    }
-   ]
+   "new_items": []
   },
   {
    "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
    "site_name": "현대자동차",
    "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
    "site_link": "https://talent.hyundai.com/apply/applyList.hc",
-   "status": "ok",
-   "item_count": 100,
+   "status": "new",
+   "item_count": 103,
    "method": "json",
    "note": "",
    "error": "",
-   "new_items": []
+   "new_items": [
+    {
+     "title": "[계약직] 강릉하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=285",
+     "date": "20261210"
+    },
+    {
+     "title": "[계약직] 강릉하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=286",
+     "date": "20261210"
+    },
+    {
+     "title": "[계약직] 광주하이테크센터 파츠딜리버리",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=287",
+     "date": "20261213"
+    }
+   ]
   },
   {
    "site_id": "samsungcareers-com-hr",
@@ -76,7 +86,7 @@
    "site_url": "https://www.samsungcareers.com/hr/list.data",
    "site_link": "https://www.samsungcareers.com/hr/",
    "status": "ok",
-   "item_count": 9,
+   "item_count": 8,
    "method": "pattern",
    "note": "",
    "error": "",
