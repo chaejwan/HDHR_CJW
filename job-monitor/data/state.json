@@ -2770,8 +2770,8 @@
      "first_seen": "2026-11-26T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-26T19:00:41+00:00",
-   "last_success": "2026-11-26T19:00:41+00:00",
+   "last_check": "2026-11-26T21:00:40+00:00",
+   "last_success": "2026-11-26T21:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2779,6 +2779,16 @@
    "fingerprint": "136ddb4e550c4993",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T21:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T19:00:41+00:00",
      "status": "ok",
@@ -3084,16 +3094,6 @@
     },
     {
      "at": "2026-11-24T11:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T09:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7316,8 +7316,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-26T19:00:42+00:00",
-   "last_success": "2026-11-26T19:00:42+00:00",
+   "last_check": "2026-11-26T21:00:41+00:00",
+   "last_success": "2026-11-26T21:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7325,6 +7325,16 @@
    "fingerprint": "6bb3c9cb5fa03a42",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T21:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T19:00:42+00:00",
      "status": "ok",
@@ -7613,16 +7623,6 @@
     },
     {
      "at": "2026-11-24T11:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T09:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11629,8 +11629,8 @@
      "first_seen": "2026-11-26T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-26T19:00:46+00:00",
-   "last_success": "2026-11-26T19:00:46+00:00",
+   "last_check": "2026-11-26T21:00:43+00:00",
+   "last_success": "2026-11-26T21:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11638,6 +11638,16 @@
    "fingerprint": "3e66e0deede24b77",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T21:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 152,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T19:00:46+00:00",
      "status": "ok",
@@ -12042,37 +12052,6 @@
       {
        "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262569",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-24T09:00:49+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 4,
-     "item_count": 142,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "호텔 분야 ITO Application 운영 PL 영입 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262544",
-       "date": ""
-      },
-      {
-       "title": "광고 영업 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262567",
-       "date": ""
-      },
-      {
-       "title": "제조 생산계획, 스케줄링, 생산 시뮬레이션 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262563",
-       "date": ""
-      },
-      {
-       "title": "반도체 제조 기준정보 (MDM) 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262564",
        "date": ""
       }
      ]
@@ -14353,15 +14332,25 @@
      "first_seen": "2026-11-26T09:00:54+00:00"
     }
    },
-   "last_check": "2026-11-26T19:00:47+00:00",
-   "last_success": "2026-11-26T19:00:47+00:00",
+   "last_check": "2026-11-26T21:00:44+00:00",
+   "last_success": "2026-11-26T21:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 103,
-   "fingerprint": "bf3fae03ca959d3a",
+   "fingerprint": "03484ff499089e26",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T21:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 103,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T19:00:47+00:00",
      "status": "ok",
@@ -14676,16 +14665,6 @@
     },
     {
      "at": "2026-11-24T11:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 101,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T09:00:50+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15458,8 +15437,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-26T19:00:51+00:00",
-   "last_success": "2026-11-26T19:00:51+00:00",
+   "last_check": "2026-11-26T21:00:47+00:00",
+   "last_success": "2026-11-26T21:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15467,6 +15446,16 @@
    "fingerprint": "9990b45784ac36a3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T21:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T19:00:51+00:00",
      "status": "ok",
@@ -15755,16 +15744,6 @@
     },
     {
      "at": "2026-11-24T11:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 8,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T09:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
