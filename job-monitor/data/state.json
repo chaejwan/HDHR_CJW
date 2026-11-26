@@ -2770,8 +2770,8 @@
      "first_seen": "2026-11-26T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-26T11:00:49+00:00",
-   "last_success": "2026-11-26T11:00:49+00:00",
+   "last_check": "2026-11-26T13:00:46+00:00",
+   "last_success": "2026-11-26T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2779,6 +2779,16 @@
    "fingerprint": "d6f0a3d49c54b9bd",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T11:00:49+00:00",
      "status": "ok",
@@ -3101,16 +3111,6 @@
     },
     {
      "at": "2026-11-24T03:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7333,8 +7333,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-26T11:00:49+00:00",
-   "last_success": "2026-11-26T11:00:49+00:00",
+   "last_check": "2026-11-26T13:00:47+00:00",
+   "last_success": "2026-11-26T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7342,6 +7342,16 @@
    "fingerprint": "f58e7aa99fc49296",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T11:00:49+00:00",
      "status": "ok",
@@ -7630,16 +7640,6 @@
     },
     {
      "at": "2026-11-24T03:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11646,8 +11646,8 @@
      "first_seen": "2026-11-26T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-26T11:00:51+00:00",
-   "last_success": "2026-11-26T11:00:51+00:00",
+   "last_check": "2026-11-26T13:00:50+00:00",
+   "last_success": "2026-11-26T13:00:50+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11655,6 +11655,16 @@
    "fingerprint": "2ccdb02ff70ff903",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T13:00:50+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T11:00:51+00:00",
      "status": "ok",
@@ -12111,16 +12121,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-24T01:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 134,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14398,15 +14398,25 @@
      "first_seen": "2026-11-26T09:00:54+00:00"
     }
    },
-   "last_check": "2026-11-26T11:00:52+00:00",
-   "last_success": "2026-11-26T11:00:52+00:00",
+   "last_check": "2026-11-26T13:00:51+00:00",
+   "last_success": "2026-11-26T13:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 103,
-   "fingerprint": "dbf273edf7d1bd67",
+   "fingerprint": "e686ce075d163b78",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T13:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 103,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T11:00:52+00:00",
      "status": "ok",
@@ -14728,22 +14738,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-24T01:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 101,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[통합보안] Mobility Security Engineer - 차량보안",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=430",
-       "date": "20261130"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -15509,8 +15503,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-26T11:00:55+00:00",
-   "last_success": "2026-11-26T11:00:55+00:00",
+   "last_check": "2026-11-26T13:00:54+00:00",
+   "last_success": "2026-11-26T13:00:54+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15518,6 +15512,16 @@
    "fingerprint": "3b9858082af87a50",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-26T13:00:54+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-26T11:00:55+00:00",
      "status": "ok",
@@ -15813,27 +15817,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-24T01:00:46+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 11,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성중공업 경력사원 채용(보건관리, 외국인 안전관리)",
-       "url": "https://www.samsungcareers.com/hr/?no=23563",
-       "date": "2026.11.24 ~ 2026.12.07"
-      },
-      {
-       "title": "삼성문화재단 경력사원 채용(개인정보보호, AI·IT보안)",
-       "url": "https://www.samsungcareers.com/hr/?no=23545",
-       "date": "2026.11.24 ~ 2026.12.07"
-      }
-     ]
     }
    ],
    "last_note": "",
