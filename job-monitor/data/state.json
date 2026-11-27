@@ -2788,8 +2788,8 @@
      "first_seen": "2026-11-27T09:00:43+00:00"
     }
    },
-   "last_check": "2026-11-27T11:00:45+00:00",
-   "last_success": "2026-11-27T11:00:45+00:00",
+   "last_check": "2026-11-27T13:00:45+00:00",
+   "last_success": "2026-11-27T13:00:45+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2797,6 +2797,16 @@
    "fingerprint": "dc2022ae65af656f",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T13:00:45+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 87,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T11:00:45+00:00",
      "status": "ok",
@@ -3120,22 +3130,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T01:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 92,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[판교R&D센터] 우주용 태양전지 CIC/SCA 공정 및 구조 개발",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20250",
-       "date": "2026.12.09 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7351,8 +7345,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-27T11:00:45+00:00",
-   "last_success": "2026-11-27T11:00:45+00:00",
+   "last_check": "2026-11-27T13:00:46+00:00",
+   "last_success": "2026-11-27T13:00:46+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7360,6 +7354,16 @@
    "fingerprint": "6bb3c9cb5fa03a42",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T13:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T11:00:45+00:00",
      "status": "ok",
@@ -7648,16 +7652,6 @@
     },
     {
      "at": "2026-11-25T03:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T01:00:38+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11682,8 +11676,8 @@
      "first_seen": "2026-11-27T07:00:44+00:00"
     }
    },
-   "last_check": "2026-11-27T11:00:49+00:00",
-   "last_success": "2026-11-27T11:00:49+00:00",
+   "last_check": "2026-11-27T13:00:47+00:00",
+   "last_success": "2026-11-27T13:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11691,6 +11685,16 @@
    "fingerprint": "f55793f0fb7143ce",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T13:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 156,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T11:00:49+00:00",
      "status": "ok",
@@ -12085,32 +12089,6 @@
       {
        "title": "제조 P&T AI, MES 전문가 영입 (계약직)",
        "url": "https://www.skcareers.com/Recruit/Detail/R262571",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-25T01:00:44+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 145,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "SK플라즈마 구매팀장 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262577",
-       "date": ""
-      },
-      {
-       "title": "[SK케미칼(GC)] 고분자 중합 담당 계약직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262574",
-       "date": ""
-      },
-      {
-       "title": "[SK케미칼(GC)] 보훈대상 고분자 중합 담당 계약직 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262576",
        "date": ""
       }
      ]
@@ -14415,15 +14393,25 @@
      "first_seen": "2026-11-27T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-27T11:00:50+00:00",
-   "last_success": "2026-11-27T11:00:50+00:00",
+   "last_check": "2026-11-27T13:00:48+00:00",
+   "last_success": "2026-11-27T13:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 106,
-   "fingerprint": "818112deb26333d6",
+   "fingerprint": "b035961ce68459da",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T13:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 106,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T11:00:50+00:00",
      "status": "ok",
@@ -14760,16 +14748,6 @@
     },
     {
      "at": "2026-11-25T03:00:46+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 101,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T01:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15542,8 +15520,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-27T11:00:53+00:00",
-   "last_success": "2026-11-27T11:00:53+00:00",
+   "last_check": "2026-11-27T13:00:51+00:00",
+   "last_success": "2026-11-27T13:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15551,6 +15529,16 @@
    "fingerprint": "9990b45784ac36a3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T13:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T11:00:53+00:00",
      "status": "ok",
@@ -15840,22 +15828,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T01:00:48+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "삼성생명 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
-       "url": "https://www.samsungcareers.com/hr/?no=23547",
-       "date": "2026.11.25 ~ 2026.12.07"
-      }
-     ]
     }
    ],
    "last_note": "",
