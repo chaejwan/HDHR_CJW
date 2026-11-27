@@ -2770,8 +2770,8 @@
      "first_seen": "2026-11-26T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-27T01:00:37+00:00",
-   "last_success": "2026-11-27T01:00:37+00:00",
+   "last_check": "2026-11-27T03:00:42+00:00",
+   "last_success": "2026-11-27T03:00:42+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2779,6 +2779,16 @@
    "fingerprint": "136ddb4e550c4993",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T03:00:42+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T01:00:37+00:00",
      "status": "ok",
@@ -3084,16 +3094,6 @@
     },
     {
      "at": "2026-11-24T17:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 91,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T15:00:44+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7316,8 +7316,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-27T01:00:38+00:00",
-   "last_success": "2026-11-27T01:00:38+00:00",
+   "last_check": "2026-11-27T03:00:43+00:00",
+   "last_success": "2026-11-27T03:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7325,6 +7325,16 @@
    "fingerprint": "6bb3c9cb5fa03a42",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T03:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T01:00:38+00:00",
      "status": "ok",
@@ -7613,16 +7623,6 @@
     },
     {
      "at": "2026-11-24T17:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T15:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11627,17 +11627,39 @@
      "url": "https://www.skcareers.com/Recruit/Detail/R262598",
      "date": "",
      "first_seen": "2026-11-26T07:00:46+00:00"
+    },
+    "c863b135ed3afa89": {
+     "title": "[SK디앤디] 건축설계 담당 경력직 채용",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262601",
+     "date": "",
+     "first_seen": "2026-11-27T03:00:45+00:00"
     }
    },
-   "last_check": "2026-11-27T01:00:41+00:00",
-   "last_success": "2026-11-27T01:00:41+00:00",
-   "last_status": "ok",
+   "last_check": "2026-11-27T03:00:45+00:00",
+   "last_success": "2026-11-27T03:00:45+00:00",
+   "last_status": "new",
    "last_error": "",
    "last_method": "json",
-   "item_count": 152,
-   "fingerprint": "3e66e0deede24b77",
+   "item_count": 154,
+   "fingerprint": "547c7c9193fdb9f9",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T03:00:45+00:00",
+     "status": "new",
+     "reset": false,
+     "new_count": 1,
+     "item_count": 154,
+     "error": "",
+     "note": "",
+     "new": [
+      {
+       "title": "[SK디앤디] 건축설계 담당 경력직 채용",
+       "url": "https://www.skcareers.com/Recruit/Detail/R262601",
+       "date": ""
+      }
+     ]
+    },
     {
      "at": "2026-11-27T01:00:41+00:00",
      "status": "ok",
@@ -12034,16 +12056,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-24T15:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 142,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -12060,7 +12072,7 @@
     "detail": "",
     "since": ""
    },
-   "last_new_at": "2026-11-26T07:00:46+00:00"
+   "last_new_at": "2026-11-27T03:00:45+00:00"
   },
   "talent-hyundai-com-apply-applylist-hc-nf": {
    "seen": {
@@ -14327,15 +14339,25 @@
      "first_seen": "2026-11-27T01:00:42+00:00"
     }
    },
-   "last_check": "2026-11-27T01:00:42+00:00",
-   "last_success": "2026-11-27T01:00:42+00:00",
-   "last_status": "new",
+   "last_check": "2026-11-27T03:00:46+00:00",
+   "last_success": "2026-11-27T03:00:46+00:00",
+   "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 103,
-   "fingerprint": "0e6d6f7f051f8b53",
+   "fingerprint": "8412b3a375c3a728",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T03:00:46+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 103,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T01:00:42+00:00",
      "status": "new",
@@ -14656,16 +14678,6 @@
     },
     {
      "at": "2026-11-24T17:00:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 101,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-24T15:00:52+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15438,8 +15450,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-27T01:00:46+00:00",
-   "last_success": "2026-11-27T01:00:46+00:00",
+   "last_check": "2026-11-27T03:00:49+00:00",
+   "last_success": "2026-11-27T03:00:49+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15447,6 +15459,16 @@
    "fingerprint": "9990b45784ac36a3",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T03:00:49+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T01:00:46+00:00",
      "status": "ok",
@@ -15742,16 +15764,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-24T15:00:56+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 8,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15781,6 +15793,15 @@
     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=415",
     "date": "20261214",
     "found_at": "2026-11-27T01:00:47+00:00"
+   },
+   {
+    "site_id": "sk-sk-careers",
+    "site_name": "SK",
+    "site_link": "https://www.skcareers.com/Recruit",
+    "title": "[SK디앤디] 건축설계 담당 경력직 채용",
+    "url": "https://www.skcareers.com/Recruit/Detail/R262601",
+    "date": "",
+    "found_at": "2026-11-27T03:00:50+00:00"
    }
   ],
   "alerts": [],
@@ -15788,15 +15809,6 @@
   "last_sent": "2026-11-26T23:00:55+00:00"
  },
  "archive": [
-  {
-   "site_id": "sk-sk-careers",
-   "site_name": "SK",
-   "site_link": "https://www.skcareers.com/Recruit",
-   "title": "SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용(정직/촉탁직)",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262309",
-   "date": "",
-   "found_at": "2026-10-21T09:00:50+00:00"
-  },
   {
    "site_id": "sk-sk-careers",
    "site_name": "SK",
@@ -20287,6 +20299,15 @@
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=415",
    "date": "20261214",
    "found_at": "2026-11-27T01:00:47+00:00"
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "title": "[SK디앤디] 건축설계 담당 경력직 채용",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262601",
+   "date": "",
+   "found_at": "2026-11-27T03:00:50+00:00"
   }
  ]
 }
