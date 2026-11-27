@@ -2788,8 +2788,8 @@
      "first_seen": "2026-11-27T09:00:43+00:00"
     }
    },
-   "last_check": "2026-11-27T17:00:46+00:00",
-   "last_success": "2026-11-27T17:00:46+00:00",
+   "last_check": "2026-11-27T19:00:40+00:00",
+   "last_success": "2026-11-27T19:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2797,6 +2797,16 @@
    "fingerprint": "aae32de410d04ee6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T19:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T17:00:46+00:00",
      "status": "ok",
@@ -3109,27 +3119,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T07:00:37+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "경력직 채용_RSP운용팀 (LDI 주식 운용)",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20253",
-       "date": "2026.12.09 17:00"
-      },
-      {
-       "title": "[판교R&D센터] 우주용 태양광 어레이(PVA) 공정 및 구조 개발",
-       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20251",
-       "date": "2026.12.09 23:59"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -7345,8 +7334,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-27T17:00:47+00:00",
-   "last_success": "2026-11-27T17:00:47+00:00",
+   "last_check": "2026-11-27T19:00:41+00:00",
+   "last_success": "2026-11-27T19:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7354,6 +7343,16 @@
    "fingerprint": "aea820fcfdcd5d3a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T19:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T17:00:47+00:00",
      "status": "ok",
@@ -7649,16 +7648,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-25T07:00:38+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 17,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -11676,8 +11665,8 @@
      "first_seen": "2026-11-27T07:00:44+00:00"
     }
    },
-   "last_check": "2026-11-27T17:00:48+00:00",
-   "last_success": "2026-11-27T17:00:48+00:00",
+   "last_check": "2026-11-27T19:00:43+00:00",
+   "last_success": "2026-11-27T19:00:43+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11685,6 +11674,16 @@
    "fingerprint": "83e10182e9bd7c2d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T19:00:43+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T17:00:48+00:00",
      "status": "ok",
@@ -12011,52 +12010,6 @@
       {
        "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
        "url": "https://www.skcareers.com/Recruit/Detail/R262547",
-       "date": ""
-      }
-     ]
-    },
-    {
-     "at": "2026-11-25T07:00:41+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 7,
-     "item_count": 158,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "차량관리실 사무지원 담당자",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262581",
-       "date": ""
-      },
-      {
-       "title": "IT·보안 담당 채용 (계약직)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262587",
-       "date": ""
-      },
-      {
-       "title": "울산 AI DC B동 신축공사 보건관리자 영입 (계약직, 울산 근무)",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262580",
-       "date": ""
-      },
-      {
-       "title": "제조 IT 운영 품질관리(ITSM/ITIL) 전문가 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262582",
-       "date": ""
-      },
-      {
-       "title": "제조 시스템 모니터링 AI 전환 과제 PM/PL 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262584",
-       "date": ""
-      },
-      {
-       "title": "해외 FAB 구축 System Operation PM/PL 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262585",
-       "date": ""
-      },
-      {
-       "title": "제조 시스템 운영(MES/장비/품질/자동화) 담당자 영입",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262586",
        "date": ""
       }
      ]
@@ -14361,8 +14314,8 @@
      "first_seen": "2026-11-27T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-27T17:00:49+00:00",
-   "last_success": "2026-11-27T17:00:49+00:00",
+   "last_check": "2026-11-27T19:00:44+00:00",
+   "last_success": "2026-11-27T19:00:44+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -14370,6 +14323,16 @@
    "fingerprint": "13bb3ce7ca31264a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T19:00:44+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 105,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T17:00:49+00:00",
      "status": "ok",
@@ -14697,32 +14660,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T07:00:42+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 3,
-     "item_count": 104,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[계약직] 창원하이테크센터 고객응대 및 수납",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=282",
-       "date": "20261206"
-      },
-      {
-       "title": "[계약직] 울산하이테크센터 고객응대 및 수납",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=281",
-       "date": "20261206"
-      },
-      {
-       "title": "[계약직] 수원하이테크센터 고객응대 및 수납",
-       "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=280",
-       "date": "20261206"
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -15488,8 +15425,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-27T17:00:52+00:00",
-   "last_success": "2026-11-27T17:00:52+00:00",
+   "last_check": "2026-11-27T19:00:48+00:00",
+   "last_success": "2026-11-27T19:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15497,6 +15434,16 @@
    "fingerprint": "9926019d9c7844ff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T19:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T17:00:52+00:00",
      "status": "ok",
@@ -15779,16 +15726,6 @@
     },
     {
      "at": "2026-11-25T09:00:51+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T07:00:45+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
