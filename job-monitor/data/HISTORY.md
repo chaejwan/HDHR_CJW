@@ -2,14 +2,21 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-27 14:09** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-27 16:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 235 · 한화 172 · 현대자동차 67 · 삼성 22 · 한화오션 4
+SK 232 · 한화 172 · 현대자동차 70 · 삼성 22 · 한화오션 4
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 한화 | [\[한화토탈에너지스\] 2026년 NCC, PP공장 생산운전 전문직 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20256) | 2026-12-07 23:59 | 2026-11-27 16:00 |
+| 한화 | [\[한화생명\] Media\&Marketing실 '디지털 채널 및 콘텐츠 담당' 경력채용\(대리\~과장급\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20255) | 2026-12-11 15:00 | 2026-11-27 16:00 |
+| SK | [2027 Junior Talent 채용 \(반도체 PJT 촉탁\)](https://www.skcareers.com/Recruit/Detail/R262600) | — | 2026-11-27 16:00 |
+| SK | [보안 위협분석 및 침해사고 대응\(CERT\) 분야 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262593) | — | 2026-11-27 16:00 |
+| 현대자동차 | [\[계약직\] 전주하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=288) | 2026-12-09 | 2026-11-27 16:00 |
+| 현대자동차 | [\[계약직\] 북부하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=289) | 2026-12-09 | 2026-11-27 16:00 |
+| 현대자동차 | [\[계약직\] 군산하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=290) | 2026-12-13 | 2026-11-27 16:00 |
 | SK | [\[SK디앤디\] 건축설계 담당 경력직 채용](https://www.skcareers.com/Recruit/Detail/R262601) | — | 2026-11-27 12:00 |
 | 현대자동차 | [\[ICT\] Backend Developer - 아키텍트](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=415) | 2026-12-14 | 2026-11-27 10:00 |
 | 현대자동차 | [\[계약직\] 강릉하이테크센터 파츠딜리버리](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=285) | 2026-12-10 | 2026-11-26 18:01 |
@@ -499,14 +506,7 @@ SK 235 · 한화 172 · 현대자동차 67 · 삼성 22 · 한화오션 4
 | SK | [SK플라즈마 Global PJT 담당 생산 DS 부문 경력사원 채용](https://www.skcareers.com/Recruit/Detail/R262327) | — | 2026-10-22 16:00 |
 | 현대자동차 | [\[아르바이트\] 채용지원\(남양, 판교\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=92) | 2026-11-02 | 2026-10-22 16:00 |
 | SK | [SK온 대전 총무운영원 채용](https://www.skcareers.com/Recruit/Detail/R262312) | — | 2026-10-22 14:00 |
-| 한화 | [\[한화에어로스페이스\] 항공사업부 채용 코디네이터 \(계약직\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20016) | 2026-11-01 23:59 | 2026-10-22 12:00 |
-| 한화 | [\[한화에어로스페이스\] 사업∙행정관리 \(전표관리\) 담당자 \(계약직\)](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20017) | 2026-11-08 23:59 | 2026-10-22 12:00 |
 | SK | [디앤디프라퍼티솔루션 가구사업 안전관리자 모집](https://www.skcareers.com/Recruit/Detail/R262319) | — | 2026-10-22 12:00 |
 | SK | [디앤디프라퍼티솔루션 부동산 임대행정 인턴모집](https://www.skcareers.com/Recruit/Detail/R262314) | — | 2026-10-22 12:00 |
 | SK | [디앤디프라퍼티솔루션 로컬스티치 크리에이터 타운 서교 프론트 매니저 모집의 건](https://www.skcareers.com/Recruit/Detail/R262317) | — | 2026-10-22 12:00 |
 | 현대자동차 | [\[계약직\] 제네시스 사업 운영 지원 \(장애인 제한경쟁\)](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=246) | 2026-10-26 | 2026-10-22 12:00 |
-| SK | [Backend Engineer – 모빌리티 서비스](https://www.skcareers.com/Recruit/Detail/R262310) | — | 2026-10-22 10:00 |
-| SK | [Application 구축/운영 전문가 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262274) | — | 2026-10-21 20:00 |
-| SK | [AX/AI 프로젝트 PM/PL 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262275) | — | 2026-10-21 20:00 |
-| SK | [Application 구축/운영 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262281) | — | 2026-10-21 20:00 |
-| SK | [AX/AI 프로젝트 PM/PL 영입](https://www.skcareers.com/Recruit/Detail/R262283) | — | 2026-10-21 20:00 |

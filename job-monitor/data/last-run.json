@@ -1,19 +1,118 @@
 {
- "at": "2026-11-27T05:09:13+00:00",
- "checked": 0,
- "new_total": 0,
+ "at": "2026-11-27T07:00:51+00:00",
+ "checked": 5,
+ "new_total": 7,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 2건 · 점검 0건). 11-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 9건 · 점검 0건). 11-30 08:00 에 보냅니다."
  },
  "alerts": [],
  "pending": {
-  "items": 2,
+  "items": 9,
   "alerts": 0,
   "since": "2026-11-27T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45944047186",
- "results": []
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/45955522994",
+ "results": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "status": "new",
+   "item_count": 86,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[한화토탈에너지스] 2026년 NCC, PP공장 생산운전 전문직 경력사원 채용",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20256",
+     "date": "2026.12.07 23:59"
+    },
+    {
+     "title": "[한화생명] Media&Marketing실 '디지털 채널 및 콘텐츠 담당' 경력채용(대리~과장급)",
+     "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20255",
+     "date": "2026.12.11 15:00"
+    }
+   ]
+  },
+  {
+   "site_id": "recruit-hanwhaocean-com-ko-intro-5089e10",
+   "site_name": "한화오션",
+   "site_url": "https://recruit-hanwhaocean.com/ko/intro",
+   "site_link": "https://recruit-hanwhaocean.com/ko/intro#5089e105-e7df-45e0-9802-5509c0db0b0c",
+   "status": "ok",
+   "item_count": 18,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  },
+  {
+   "site_id": "sk-sk-careers",
+   "site_name": "SK",
+   "site_url": "https://www.skcareers.com/Recruit/GetRecruitList",
+   "site_link": "https://www.skcareers.com/Recruit",
+   "status": "new",
+   "item_count": 156,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "2027 Junior Talent 채용 (반도체 PJT 촉탁)",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262600",
+     "date": ""
+    },
+    {
+     "title": "보안 위협분석 및 침해사고 대응(CERT) 분야 전문가 영입",
+     "url": "https://www.skcareers.com/Recruit/Detail/R262593",
+     "date": ""
+    }
+   ]
+  },
+  {
+   "site_id": "talent-hyundai-com-apply-applylist-hc-nf",
+   "site_name": "현대자동차",
+   "site_url": "https://talent.hyundai.com/api/rec/AP-HM-FO-02700?hgrCd=1&lang=ko&page={page}&pageblock=100&searchFieldList=&searchOccupList=&searchPlaceList=&searchSectorList=&searchText=&jdSec=&srcOrd=",
+   "site_link": "https://talent.hyundai.com/apply/applyList.hc",
+   "status": "new",
+   "item_count": 106,
+   "method": "json",
+   "note": "",
+   "error": "",
+   "new_items": [
+    {
+     "title": "[계약직] 전주하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=288",
+     "date": "20261209"
+    },
+    {
+     "title": "[계약직] 북부하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=289",
+     "date": "20261209"
+    },
+    {
+     "title": "[계약직] 군산하이테크센터 고객응대 및 수납",
+     "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=290",
+     "date": "20261213"
+    }
+   ]
+  },
+  {
+   "site_id": "samsungcareers-com-hr",
+   "site_name": "삼성",
+   "site_url": "https://www.samsungcareers.com/hr/list.data",
+   "site_link": "https://www.samsungcareers.com/hr/",
+   "status": "ok",
+   "item_count": 8,
+   "method": "pattern",
+   "note": "",
+   "error": "",
+   "new_items": []
+  }
+ ]
 }
