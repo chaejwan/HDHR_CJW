@@ -2788,8 +2788,8 @@
      "first_seen": "2026-11-27T09:00:43+00:00"
     }
    },
-   "last_check": "2026-11-27T19:00:40+00:00",
-   "last_success": "2026-11-27T19:00:40+00:00",
+   "last_check": "2026-11-27T21:00:40+00:00",
+   "last_success": "2026-11-27T21:00:40+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -2797,6 +2797,16 @@
    "fingerprint": "aae32de410d04ee6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T21:00:40+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 86,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T19:00:40+00:00",
      "status": "ok",
@@ -3102,16 +3112,6 @@
     },
     {
      "at": "2026-11-25T11:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 89,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T09:00:39+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -7334,8 +7334,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-27T19:00:41+00:00",
-   "last_success": "2026-11-27T19:00:41+00:00",
+   "last_check": "2026-11-27T21:00:41+00:00",
+   "last_success": "2026-11-27T21:00:41+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7343,6 +7343,16 @@
    "fingerprint": "aea820fcfdcd5d3a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T21:00:41+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T19:00:41+00:00",
      "status": "ok",
@@ -7632,22 +7642,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T09:00:40+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 1,
-     "item_count": 18,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "[경영지원] 외국인 근로자 정착 지원(계약직) 채용",
-       "url": "https://recruit-hanwhaocean.com/ko/o/246248",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -11665,8 +11659,8 @@
      "first_seen": "2026-11-27T07:00:44+00:00"
     }
    },
-   "last_check": "2026-11-27T19:00:43+00:00",
-   "last_success": "2026-11-27T19:00:43+00:00",
+   "last_check": "2026-11-27T21:00:47+00:00",
+   "last_success": "2026-11-27T21:00:47+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11674,6 +11668,16 @@
    "fingerprint": "83e10182e9bd7c2d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T21:00:47+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T19:00:43+00:00",
      "status": "ok",
@@ -11992,27 +11996,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T09:00:45+00:00",
-     "status": "new",
-     "reset": false,
-     "new_count": 2,
-     "item_count": 160,
-     "error": "",
-     "note": "",
-     "new": [
-      {
-       "title": "2026년 전자해석 신입/경력 채용",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262590",
-       "date": ""
-      },
-      {
-       "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
-       "url": "https://www.skcareers.com/Recruit/Detail/R262547",
-       "date": ""
-      }
-     ]
     }
    ],
    "last_note": "",
@@ -14314,15 +14297,25 @@
      "first_seen": "2026-11-27T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-27T19:00:44+00:00",
-   "last_success": "2026-11-27T19:00:44+00:00",
+   "last_check": "2026-11-27T21:00:48+00:00",
+   "last_success": "2026-11-27T21:00:48+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 105,
-   "fingerprint": "13bb3ce7ca31264a",
+   "fingerprint": "8586d3da3d87507a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T21:00:48+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 105,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T19:00:44+00:00",
      "status": "ok",
@@ -14643,16 +14636,6 @@
     },
     {
      "at": "2026-11-25T11:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 101,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T09:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15425,8 +15408,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-27T19:00:48+00:00",
-   "last_success": "2026-11-27T19:00:48+00:00",
+   "last_check": "2026-11-27T21:00:51+00:00",
+   "last_success": "2026-11-27T21:00:51+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15434,6 +15417,16 @@
    "fingerprint": "9926019d9c7844ff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-27T21:00:51+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-27T19:00:48+00:00",
      "status": "ok",
@@ -15716,16 +15709,6 @@
     },
     {
      "at": "2026-11-25T11:00:54+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T09:00:51+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
