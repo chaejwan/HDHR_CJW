@@ -2,14 +2,15 @@
 
 # 채용 공고 이력
 
-마지막 갱신 **2026-11-27 08:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
+마지막 갱신 **2026-11-27 10:00** · 최근 발견한 공고 **500건** (최신 순, 최대 500건)
 
-SK 235 · 한화 173 · 현대자동차 66 · 삼성 22 · 한화오션 4
+SK 235 · 한화 172 · 현대자동차 67 · 삼성 22 · 한화오션 4
 
 > 회사 밖에서는 [채용공고 모니터](https://chaejwan.github.io/HDHR_CJW/monitor/) 에서 회사별 보기와 검색을 쓸 수 있습니다.
 
 | 회사 | 제목 | 마감 | 발견 |
 |:---:|:---|:---:|:---:|
+| 현대자동차 | [\[ICT\] Backend Developer - 아키텍트](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=415) | 2026-12-14 | 2026-11-27 10:00 |
 | 현대자동차 | [\[계약직\] 강릉하이테크센터 파츠딜리버리](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=285) | 2026-12-10 | 2026-11-26 18:01 |
 | 현대자동차 | [\[계약직\] 강릉하이테크센터 고객응대 및 수납](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=286) | 2026-12-10 | 2026-11-26 18:01 |
 | 현대자동차 | [\[계약직\] 광주하이테크센터 파츠딜리버리](https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=287) | 2026-12-13 | 2026-11-26 18:01 |
@@ -508,5 +509,4 @@ SK 235 · 한화 173 · 현대자동차 66 · 삼성 22 · 한화오션 4
 | SK | [AX/AI 프로젝트 PM/PL 영입 \(계약직\)](https://www.skcareers.com/Recruit/Detail/R262275) | — | 2026-10-21 20:00 |
 | SK | [Application 구축/운영 전문가 영입](https://www.skcareers.com/Recruit/Detail/R262281) | — | 2026-10-21 20:00 |
 | SK | [AX/AI 프로젝트 PM/PL 영입](https://www.skcareers.com/Recruit/Detail/R262283) | — | 2026-10-21 20:00 |
-| 한화 | [구매/물류 PI 담당자 경력사원 채용](https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20013) | 2026-11-01 23:59 | 2026-10-21 18:00 |
 | SK | [SK에코엔지니어링 SMR사업개발 및 품질관리 경력 채용\(정직/촉탁직\)](https://www.skcareers.com/Recruit/Detail/R262309) | — | 2026-10-21 18:00 |
