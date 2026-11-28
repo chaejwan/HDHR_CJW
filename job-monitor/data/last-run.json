@@ -1,20 +1,31 @@
 {
- "at": "2026-11-28T09:02:34+00:00",
+ "at": "2026-11-28T11:02:36+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
   "sent": false,
   "error": "",
-  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 0건). 11-30 08:00 에 보냅니다."
+  "skipped": "모아 두는 중입니다 (새 공고 10건 · 점검 1건). 11-30 08:00 에 보냅니다."
  },
- "alerts": [],
+ "alerts": [
+  {
+   "site_id": "hanwhain",
+   "site_name": "한화",
+   "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+   "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+   "kind": "errors",
+   "label": "여러 번 연속으로 접속에 실패했습니다",
+   "detail": "3번 연속 실패 · 마지막 오류: HTTP 500  (3회 시도)",
+   "recovered": false
+  }
+ ],
  "pending": {
   "items": 10,
-  "alerts": 0,
+  "alerts": 1,
   "since": "2026-11-27T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/46128417791",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/46137807337",
  "results": [
   {
    "site_id": "hanwhain",

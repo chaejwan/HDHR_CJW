@@ -2788,7 +2788,7 @@
      "first_seen": "2026-11-27T09:00:43+00:00"
     }
    },
-   "last_check": "2026-11-28T09:00:37+00:00",
+   "last_check": "2026-11-28T11:00:42+00:00",
    "last_success": "2026-11-28T05:00:39+00:00",
    "last_status": "error",
    "last_error": "HTTP 500  (3회 시도)",
@@ -2797,6 +2797,16 @@
    "fingerprint": "aae32de410d04ee6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T11:00:42+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "HTTP 500  (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T09:00:37+00:00",
      "status": "error",
@@ -3109,20 +3119,10 @@
        "date": "2026.12.02 15:00"
       }
      ]
-    },
-    {
-     "at": "2026-11-25T23:00:40+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 87,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 2,
+   "consecutive_errors": 3,
    "sample_titles": [
     "RX(Robot Transformation) 경력사원 채용",
     "제조 대외영업 경력사원 채용",
@@ -3131,9 +3131,9 @@
     "제조서비스 인프라 운영 경력사원 채용"
    ],
    "health": {
-    "issue": "",
-    "detail": "",
-    "since": ""
+    "issue": "errors",
+    "detail": "3번 연속 실패 · 마지막 오류: HTTP 500  (3회 시도)",
+    "since": "2026-11-28T11:00:42+00:00"
    },
    "last_new_at": "2026-11-27T09:00:43+00:00"
   },
@@ -7334,8 +7334,8 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-28T09:02:21+00:00",
-   "last_success": "2026-11-28T09:02:21+00:00",
+   "last_check": "2026-11-28T11:02:25+00:00",
+   "last_success": "2026-11-28T11:02:25+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -7343,6 +7343,16 @@
    "fingerprint": "aea820fcfdcd5d3a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T11:02:25+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T09:02:21+00:00",
      "status": "ok",
@@ -7625,16 +7635,6 @@
     },
     {
      "at": "2026-11-26T01:00:42+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 18,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T23:00:41+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11659,8 +11659,8 @@
      "first_seen": "2026-11-27T07:00:44+00:00"
     }
    },
-   "last_check": "2026-11-28T09:02:28+00:00",
-   "last_success": "2026-11-28T09:02:28+00:00",
+   "last_check": "2026-11-28T11:02:29+00:00",
+   "last_success": "2026-11-28T11:02:29+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
@@ -11668,6 +11668,16 @@
    "fingerprint": "83e10182e9bd7c2d",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T11:02:29+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T09:02:28+00:00",
      "status": "ok",
@@ -11979,16 +11989,6 @@
     },
     {
      "at": "2026-11-26T01:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 156,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T23:00:47+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -14297,15 +14297,25 @@
      "first_seen": "2026-11-27T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-28T09:02:29+00:00",
-   "last_success": "2026-11-28T09:02:29+00:00",
+   "last_check": "2026-11-28T11:02:31+00:00",
+   "last_success": "2026-11-28T11:02:31+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 105,
-   "fingerprint": "226b6c22ec197f43",
+   "fingerprint": "b841444c4473fcae",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T11:02:31+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 105,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T09:02:29+00:00",
      "status": "ok",
@@ -14626,16 +14636,6 @@
     },
     {
      "at": "2026-11-26T01:00:44+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-25T23:00:48+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15408,8 +15408,8 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-28T09:02:33+00:00",
-   "last_success": "2026-11-28T09:02:33+00:00",
+   "last_check": "2026-11-28T11:02:34+00:00",
+   "last_success": "2026-11-28T11:02:34+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
@@ -15417,6 +15417,16 @@
    "fingerprint": "9926019d9c7844ff",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T11:02:34+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T09:02:33+00:00",
      "status": "ok",
@@ -15706,16 +15716,6 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-25T23:00:52+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -15828,7 +15828,18 @@
     "found_at": "2026-11-27T09:00:55+00:00"
    }
   ],
-  "alerts": [],
+  "alerts": [
+   {
+    "site_id": "hanwhain",
+    "site_name": "한화",
+    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
+    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
+    "kind": "errors",
+    "label": "여러 번 연속으로 접속에 실패했습니다",
+    "detail": "3번 연속 실패 · 마지막 오류: HTTP 500  (3회 시도)",
+    "recovered": false
+   }
+  ],
   "since": "2026-11-27T01:00:47+00:00",
   "last_sent": "2026-11-26T23:00:55+00:00"
  },
