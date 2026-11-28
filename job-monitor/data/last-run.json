@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28T13:02:36+00:00",
+ "at": "2026-11-28T15:03:22+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -14,7 +14,7 @@
   "since": "2026-11-27T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/46147439308",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/46157562547",
  "results": [
   {
    "site_id": "hanwhain",
@@ -25,7 +25,7 @@
    "item_count": 0,
    "method": "",
    "note": "",
-   "error": "HTTP 500  (3회 시도)",
+   "error": "응답 시간 초과 (45초) (3회 시도)",
    "new_items": []
   },
   {

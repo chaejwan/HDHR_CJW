@@ -2788,15 +2788,25 @@
      "first_seen": "2026-11-27T09:00:43+00:00"
     }
    },
-   "last_check": "2026-11-28T13:00:39+00:00",
+   "last_check": "2026-11-28T15:00:40+00:00",
    "last_success": "2026-11-28T05:00:39+00:00",
    "last_status": "error",
-   "last_error": "HTTP 500  (3회 시도)",
+   "last_error": "응답 시간 초과 (45초) (3회 시도)",
    "last_method": "json",
    "item_count": 86,
    "fingerprint": "aae32de410d04ee6",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T15:00:40+00:00",
+     "status": "error",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 0,
+     "error": "응답 시간 초과 (45초) (3회 시도)",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T13:00:39+00:00",
      "status": "error",
@@ -3103,20 +3113,10 @@
      "error": "",
      "note": "",
      "new": []
-    },
-    {
-     "at": "2026-11-26T03:00:41+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 88,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
-   "consecutive_errors": 4,
+   "consecutive_errors": 5,
    "sample_titles": [
     "RX(Robot Transformation) 경력사원 채용",
     "제조 대외영업 경력사원 채용",
@@ -3126,7 +3126,7 @@
    ],
    "health": {
     "issue": "errors",
-    "detail": "4번 연속 실패 · 마지막 오류: HTTP 500  (3회 시도)",
+    "detail": "5번 연속 실패 · 마지막 오류: 응답 시간 초과 (45초) (3회 시도)",
     "since": "2026-11-28T11:00:42+00:00"
    },
    "last_new_at": "2026-11-27T09:00:43+00:00"
@@ -7328,15 +7328,25 @@
      "first_seen": "2026-11-25T09:00:40+00:00"
     }
    },
-   "last_check": "2026-11-28T13:02:24+00:00",
-   "last_success": "2026-11-28T13:02:24+00:00",
+   "last_check": "2026-11-28T15:03:08+00:00",
+   "last_success": "2026-11-28T15:03:08+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 18,
-   "fingerprint": "aea820fcfdcd5d3a",
+   "fingerprint": "e3808c1feeb334b1",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T15:03:08+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 18,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T13:02:24+00:00",
      "status": "ok",
@@ -7619,16 +7629,6 @@
     },
     {
      "at": "2026-11-26T05:00:43+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 18,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-26T03:00:42+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -11653,15 +11653,25 @@
      "first_seen": "2026-11-27T07:00:44+00:00"
     }
    },
-   "last_check": "2026-11-28T13:02:29+00:00",
-   "last_success": "2026-11-28T13:02:29+00:00",
+   "last_check": "2026-11-28T15:03:15+00:00",
+   "last_success": "2026-11-28T15:03:15+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 148,
-   "fingerprint": "83e10182e9bd7c2d",
+   "fingerprint": "ddfb56c1d9e01346",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T15:03:15+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 148,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T13:02:29+00:00",
      "status": "ok",
@@ -11980,16 +11990,6 @@
        "date": ""
       }
      ]
-    },
-    {
-     "at": "2026-11-26T03:00:45+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 154,
-     "error": "",
-     "note": "",
-     "new": []
     }
    ],
    "last_note": "",
@@ -14291,15 +14291,25 @@
      "first_seen": "2026-11-27T07:00:46+00:00"
     }
    },
-   "last_check": "2026-11-28T13:02:30+00:00",
-   "last_success": "2026-11-28T13:02:30+00:00",
+   "last_check": "2026-11-28T15:03:16+00:00",
+   "last_success": "2026-11-28T15:03:16+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "json",
    "item_count": 105,
-   "fingerprint": "37cba778d43aa72b",
+   "fingerprint": "be00ecafc899e07a",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T15:03:16+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 105,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T13:02:30+00:00",
      "status": "ok",
@@ -14620,16 +14630,6 @@
     },
     {
      "at": "2026-11-26T05:00:50+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 100,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-26T03:00:46+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
@@ -15402,15 +15402,25 @@
      "first_seen": "2026-11-25T01:00:48+00:00"
     }
    },
-   "last_check": "2026-11-28T13:02:34+00:00",
-   "last_success": "2026-11-28T13:02:34+00:00",
+   "last_check": "2026-11-28T15:03:20+00:00",
+   "last_success": "2026-11-28T15:03:20+00:00",
    "last_status": "ok",
    "last_error": "",
    "last_method": "pattern",
    "item_count": 8,
-   "fingerprint": "9926019d9c7844ff",
+   "fingerprint": "f148f850d56056db",
    "baseline_done": true,
    "history": [
+    {
+     "at": "2026-11-28T15:03:20+00:00",
+     "status": "ok",
+     "reset": false,
+     "new_count": 0,
+     "item_count": 8,
+     "error": "",
+     "note": "",
+     "new": []
+    },
     {
      "at": "2026-11-28T13:02:34+00:00",
      "status": "ok",
@@ -15693,16 +15703,6 @@
     },
     {
      "at": "2026-11-26T05:00:53+00:00",
-     "status": "ok",
-     "reset": false,
-     "new_count": 0,
-     "item_count": 9,
-     "error": "",
-     "note": "",
-     "new": []
-    },
-    {
-     "at": "2026-11-26T03:00:49+00:00",
      "status": "ok",
      "reset": false,
      "new_count": 0,
