@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28T05:00:54+00:00",
+ "at": "2026-11-28T07:02:37+00:00",
  "checked": 5,
  "new_total": 0,
  "email": {
@@ -14,18 +14,18 @@
   "since": "2026-11-27T01:00:47+00:00",
   "schedule": "월화수목금 08:00 (Asia/Seoul)"
  },
- "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/46110109272",
+ "run_url": "https://github.com/chaejwan/HDHR_CJW/actions/runs/46119184627",
  "results": [
   {
    "site_id": "hanwhain",
    "site_name": "한화",
    "site_url": "https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt",
    "site_link": "https://www.hanwhain.com/portal/apply/recruit",
-   "status": "ok",
-   "item_count": 86,
-   "method": "json",
+   "status": "error",
+   "item_count": 0,
+   "method": "",
    "note": "",
-   "error": "",
+   "error": "HTTP 500  (3회 시도)",
    "new_items": []
   },
   {
